@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Solo Weather Forecast</title>
+  <style>
+    .forecast-section {
+      border: 1px solid #ccc;
+      padding: 15px;
+      margin: 20px auto;
+      max-width: 300px;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+    .forecast-section h3 {
+      margin: 0 0 10px;
+      color: #2c3e50;
+      font-size: 1.5em;
+    }
+    .forecast-section p {
+      margin: 5px 0;
+      color: #7f8c8d;
+    }
+    .forecast-section img {
+      max-width: 60px;
+      vertical-align: middle;
+      margin-left: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div id="weather-widget"></div>
+  <script>
+    fetch('https://bdvermontpublic.github.io/weather-widget-vp/detailed.json')
+      .then(response => response.json())
+      .then(data => {
+        const widget = document.getElementById('weather-widget');
+        if (data.length > 0) {
+          const firstForecast = data[0];
+          widget.innerHTML = `
+            <div class="forecast-section">
+              <h3>${firstForecast.heading}</h3>
+              <p>${firstForecast.text}</p>
+              <p><strong>${firstForecast.temperature}</strong></p>
+              <img src="${firstForecast.icon_url}" alt="${firstForecast.heading} icon">
+            </div>
+          `;
+        } else {
+          widget.innerHTML = '<p>No forecast data available.</p>';
+        }
+      })
+      .catch(error => {
+        console.error('Error fetching forecast:', error);
+        document.getElementById('weather-widget').innerHTML = '<p>Failed to load forecast. Check console for details.</p>';
+      });
+  </script>
+</body>
+</html>
