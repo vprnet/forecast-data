@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>At a glance weather</title>
+  <style>
+    .forecast-section {
+      border: 1px solid #ccc;
+      padding: 10px;
+      margin: 10px 0;
+      border-radius: 5px;
+    }
+    .forecast-section h3 {
+      margin: 0 0 5px;
+      color: #333;
+    }
+    .forecast-section p {
+      margin: 5px 0;
+      color: #666;
+    }
+    .forecast-section img {
+      max-width: 50px;
+      vertical-align: middle;
+    }
+  </style>
+</head>
+<body>
+  <div id="weather-widget"></div>
+  <script>
+    fetch('https://vprnet.github.io/forecast-data/forecast-test-data.json ')
+      .then(response => response.json())
+      .then(data => {
+        const widget = document.getElementById('weather-widget');
+        widget.innerHTML = data.map(item => `
+          <div class="forecast-section">
+            <h3>${item.heading}</h3>
+            <p>${item.text}</p>
+            <p><strong>${item.temperature}</strong></p>
+            <img src="${item.icon_url}" alt="${item.heading} icon">
+          </div>
+        `).join('');
+      })
+      .catch(error => {
+        console.error('Error fetching forecast:', error);
+        document.getElementById('weather-widget').innerHTML = '<p>Failed to load forecast. Check console for details.</p>';
+      });
+  </script>
+</body>
+</html>
