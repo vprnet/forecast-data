@@ -2,11 +2,14 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>At a Glance Weather</title>
   <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
   <style>
     body {
       font-family: 'Lato', sans-serif;
+      margin: 0;
+      padding: 0;
     }
     .forecast-section {
       border: 1px solid #ccc;
@@ -15,20 +18,46 @@
       border-radius: 5px;
       display: flex;
       align-items: center;
+      flex-wrap: wrap;
     }
     .forecast-section h3 {
       margin: 0 0 5px;
       color: #333;
       font-weight: 700;
+      font-size: 1.2em;
     }
     .forecast-section p {
       margin: 5px 0;
       color: #666;
       flex: 1;
+      font-size: 0.9em;
+      line-height: 1.4;
     }
     .forecast-section img {
       max-width: 50px;
       margin-right: 10px;
+      flex-shrink: 0;
+    }
+    /* Mobile Responsiveness */
+    @media (max-width: 600px) {
+      .forecast-section {
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 15px;
+      }
+      .forecast-section img {
+        margin-right: 0;
+        margin-bottom: 10px;
+      }
+      .forecast-section h3 {
+        font-size: 1.5em;
+      }
+      .forecast-section p {
+        font-size: 1.1em;
+        text-align: left;
+        word-wrap: break-word;
+        max-width: 100%;
+      }
     }
   </style>
 </head>
