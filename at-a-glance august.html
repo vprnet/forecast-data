@@ -1,0 +1,127 @@
+<script type="text/javascript">
+        var gk_isXlsx = false;
+        var gk_xlsxFileLookup = {};
+        var gk_fileData = {};
+        function filledCell(cell) {
+          return cell !== '' && cell != null;
+        }
+        function loadFileData(filename) {
+        if (gk_isXlsx && gk_xlsxFileLookup[filename]) {
+            try {
+                var workbook = XLSX.read(gk_fileData[filename], { type: 'base64' });
+                var firstSheetName = workbook.SheetNames[0];
+                var worksheet = workbook.Sheets[firstSheetName];
+
+                // Convert sheet to JSON to filter blank rows
+                var jsonData = XLSX.utils.sheet_to_json(worksheet, { header: 1, blankrows: false, defval: '' });
+                // Filter out blank rows (rows where all cells are empty, null, or undefined)
+                var filteredData = jsonData.filter(row => row.some(filledCell));
+
+                // Heuristic to find the header row by ignoring rows with fewer filled cells than the next row
+                var headerRowIndex = filteredData.findIndex((row, index) =>
+                  row.filter(filledCell).length >= filteredData[index + 1]?.filter(filledCell).length
+                );
+                // Fallback
+                if (headerRowIndex === -1 || headerRowIndex > 25) {
+                  headerRowIndex = 0;
+                }
+
+                // Convert filtered JSON back to CSV
+                var csv = XLSX.utils.aoa_to_sheet(filteredData.slice(headerRowIndex)); // Create a new sheet from filtered array of arrays
+                csv = XLSX.utils.sheet_to_csv(csv, { header: 1 });
+                return csv;
+            } catch (e) {
+                console.error(e);
+                return "";
+            }
+        }
+        return gk_fileData[filename] || "";
+        }
+        </script><!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>At a Glance Weather</title>
+  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Lato', sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    .forecast-section {
+      border: 1px solid #ccc;
+      padding: 10px;
+      margin: 10px 0;
+      border-radius: 5px;
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+    .forecast-section h3 {
+      margin: 0 0 5px;
+      color: #333;
+      font-weight: 700;
+      font-size: 1.2em;
+    }
+    .forecast-section p {
+      margin: 5px 0;
+      color: #666;
+      flex: 1;
+      font-size: 0.9em;
+      line-height: 1.4;
+    }
+    .forecast-section img {
+      max-width: 50px;
+      margin-right: 10px;
+      flex-shrink: 0;
+    }
+    /* Mobile Responsiveness */
+    @media (max-width: 600px) {
+      .forecast-section {
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 15px;
+      }
+      .forecast-section img {
+        margin-right: 0;
+        margin-bottom: 10px;
+      }
+      .forecast-section h3 {
+        font-size: 1.5em;
+      }
+      .forecast-section p {
+        font-size: 1.1em;
+        text-align: left;
+        word-wrap: break-word;
+        max-width: 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div id="weather-widget"></div>
+  <script>
+    fetch('https://vprnet.github.io/forecast-data/forecast-test-data.json')
+      .then(response => response.json())
+      .then(data => {
+        const widget = document.getElementById('weather-widget');
+        widget.innerHTML = data.map(item => `
+          <div class="forecast-section">
+            <img src="${item.icon_url}" alt="${item.heading} icon">
+            <div>
+              <h3>${item.heading}</h3>
+              <p>${item.text}</p>
+              <p><strong>${item.temperature}</strong></p>
+            </div>
+          </div>
+        `).join('');
+      })
+      .catch(error => {
+        console.error('Error fetching forecast:', error);
+        document.getElementById('weather-widget').innerHTML = '<p>Failed to load forecast. Check console for details.</p>';
+      });
+  </script>
+</body>
+</html>
