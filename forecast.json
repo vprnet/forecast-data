@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "heading": "Thursday",
+    "text": "Afternoon showers and storms, mainly southwest.",
+    "temperature": "Upper 70s to mid 80s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Iso_Tstorm_day.png"
+  },
+  {
+    "heading": "Wednesday Night",
+    "text": "Evening showers and storms, mainly south.",
+    "temperature": "Mid 50s to mid 60s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Iso_Tstorm_night.png"
+  },
+  {
+    "heading": "Friday",
+    "text": "An isolated shower or tstorm in the mountains, mainly north.",
+    "temperature": "80s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Iso_Tstorm_day.png"
+  },
+  {
+    "heading": "Saturday",
+    "text": "Mostly sunny and warm.",
+    "temperature": "Mainly mid to upper 80s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
+  }
+]
