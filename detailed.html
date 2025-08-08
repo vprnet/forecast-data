@@ -70,11 +70,9 @@
         const widget = document.getElementById('weather-widget');
         widget.innerHTML = data.map(item => `
           <div class="forecast-section">
-            <img src="${item.icon_url}" alt="${item.heading} icon">
             <div>
               <h3>${item.heading}</h3>
               <p>${item.text}</p>
-              <p><strong>${item.temperature}</strong></p>
             </div>
           </div>
         `).join('');
