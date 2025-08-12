@@ -1,26 +1,26 @@
 [
   {
-    "heading": "Friday",
-    "text": "Chance of a stray shower mainlynorthern mountains.",
-    "temperature": "80s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
+    "heading": "This Afternoon",
+    "text": "Mostly sunny and hot.",
+    "temperature": "Low to mid 90s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   },
   {
-    "heading": "Friday Night",
-    "text": "Mostly clear",
-    "temperature": "60s",
+    "heading": "Tonight",
+    "text": "Clear to partly cloudy.",
+    "temperature": "Low to mid 60s east, mid 60s to lower 70s west",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/09/Mostly_clear_night.png"
   },
   {
-    "heading": "Saturday",
-    "text": "Sunny.",
-    "temperature": "mid 80s to lower 90s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
+    "heading": "Wednesday",
+    "text": "Scattered showers and storms, mainly after noon.",
+    "temperature": "Upper 80s to lower 90s, some mid 90s southern valleys",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Iso_Tstorm_day.png"
   },
   {
-    "heading": "Sunday",
-    "text": "Partly to mostly sunny and hot.",
-    "temperature": "Upper 80s to mid 90s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
+    "heading": "Thursday",
+    "text": "Chance of showers, mainly south and east.",
+    "temperature": "Upper 70s to mid 80",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
   }
 ]
