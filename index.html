@@ -23,7 +23,7 @@
     }
     .embed-container {
       width: 100%;
-      min-height: 200px;
+      min-height: 400px; /* Increased to accommodate multiple forecasts */
     }
     /* Mobile Responsiveness */
     @media (max-width: 600px) {
@@ -31,7 +31,7 @@
         font-size: 1.5em;
       }
       .embed-container {
-        min-height: 150px;
+        min-height: 300px; /* Adjusted for mobile */
       }
     }
   </style>
@@ -51,9 +51,9 @@
   </div>
   <script src="https://pym.nprapps.org/pym.v1.min.js"></script>
   <script>
-    const pymParentToday = new pym.Parent('weather-widget-today', '/today.html', {});
-    const pymParentAtAGlance = new pym.Parent('weather-widget-at-a-glance', '/at-a-glance.html', {});
-    const pymParentDetailed = new pym.Parent('weather-widget-detailed', '/detailed.html', {});
+    const pymParentToday = new pym.Parent('weather-widget-today', 'https://vprnet.github.io/forecast-data/today.html', {});
+    const pymParentAtAGlance = new pym.Parent('weather-widget-at-a-glance', 'https://vprnet.github.io/forecast-data/at-a-glance.html', {});
+    const pymParentDetailed = new pym.Parent('weather-widget-detailed', 'https://vprnet.github.io/forecast-data/detailed.html', {});
   </script>
 </body>
 </html>
