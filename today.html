@@ -4,6 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Solo Weather Forecast</title>
+    <!--PYM.js-->
+		<script type="text/javascript" src="https://pym.nprapps.org/pym.v1.min.js"></script>
+  <!-- Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
   <style>
     body {
@@ -63,6 +66,7 @@
 </head>
 <body>
   <div id="weather-widget"></div>
+  <p>&nbsp;</p>
   <script>
     fetch('https://vprnet.github.io/forecast-data/forecast.json')
       .then(response => response.json())
@@ -89,5 +93,9 @@
         document.getElementById('weather-widget').innerHTML = '<p>Failed to load forecast. Check console for details.</p>';
       });
   </script>
+  <script>
+	      var pymChild = new pym.Child();
+		  pym.Child({ polling: 500 });
+		</script>
 </body>
 </html>
