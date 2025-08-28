@@ -1,42 +1,14 @@
 [
   {
-    "heading": "heading placeholder",
-    "text": "Detailed Forecast"
+    "heading": "Today:",
+    "text": "Some patchy fog early. Sun, mixing with some clouds. More clouds in the St. Lawrence Valley and northern NY, with a rising chance of afternoon showers. Highs in the low to mid 70s, upper 60s over the higher terrain north. Winds light, becoming south and increasing to 10 mph east of the Green Mountains, and 10 to 15 mph, gusting to 25 mph from the Green Mountains west."
   },
   {
-    "heading": "heading placeholder",
-    "text": "Today:Patches of valley fog burning off.  Some morning clouds far south, giving way to sunshine, and mostly sunny north, mixed with a few afternoon clouds.  Warmer.  Highs in the 70s.  Winds light, becoming north up to 10 mph."
+    "heading": "Tonight:",
+    "text": "Showers becoming likely through NY and the St. Lawrence Valley, spreading east into VT after midnight. Mainly dry east of the Green Mountains into NH. Lows in the upper 40s to low 50s. Winds south near 10 mph, diminishing to light in sheltered valleys."
   },
   {
-    "heading": "heading placeholder",
-    "text": "Today:"
-  },
-  {
-    "heading": "heading placeholder",
-    "text": "Patches of valley fog burning off.  Some morning clouds far south, giving way to sunshine, and mostly sunny north, mixed with a few afternoon clouds.  Warmer.  Highs in the 70s.  Winds light, becoming north up to 10 mph."
-  },
-  {
-    "heading": "heading placeholder",
-    "text": "Tonight:Mostly clear and cool.  Areas of river valley fog.  Lows in the mid 40s to low 50s.  Winds north up to 10 mph this evening, becoming light and variable."
-  },
-  {
-    "heading": "heading placeholder",
-    "text": "Tonight:"
-  },
-  {
-    "heading": "heading placeholder",
-    "text": "Mostly clear and cool.  Areas of river valley fog.  Lows in the mid 40s to low 50s.  Winds north up to 10 mph this evening, becoming light and variable."
-  },
-  {
-    "heading": "heading placeholder",
-    "text": "Friday:Patchy valley fog lifting to sunshine.  Highs in the 70s to low 80s.  Winds light and variable."
-  },
-  {
-    "heading": "heading placeholder",
-    "text": "Friday:"
-  },
-  {
-    "heading": "heading placeholder",
-    "text": "Patchy valley fog lifting to sunshine.  Highs in the 70s to low 80s.  Winds light and variable."
+    "heading": "Friday:",
+    "text": "Showers, becoming scattered through NY, more numerous from VT east. Some breaks of sun west late. Cooler. Highs in the 60s to near 70, some upper 50s in the Adirondacks. Winds south to southwest near 10 mph."
   }
 ]
