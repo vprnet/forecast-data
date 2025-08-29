@@ -1,26 +1,26 @@
 [
   {
     "heading": "Today",
-    "text": "Some early clouds far south, then mostly sunny and warmer.",
-    "temperature": "70s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
+    "text": "Showers spreading east this morning, becoming localized in NY, this afternoon in VT and NH.",
+    "temperature": "60s to low 70s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain.png"
   },
   {
-    "heading": "Thursday Night",
-    "text": "Mostly clear, with patchy valley fog late.\u00a0 Cool.",
+    "heading": "Friday Night",
+    "text": "Scattered showers giving way to partial clearing.",
     "temperature": "40s to low 50s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/clear_night_fog.png"
-  },
-  {
-    "heading": "Friday",
-    "text": "Mostly sunny after any early fog.",
-    "temperature": "Upper 70s to mid 80s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_night.png"
   },
   {
     "heading": "Saturday",
-    "text": "Patchy morning fog lifting to sunshine.",
-    "temperature": "Low to mid 80s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
+    "text": "Scattered showers from Route 2 northward, mainly over high terrain.",
+    "temperature": "Upper 50s to lower 70s, north to south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
+  },
+  {
+    "heading": "Sunday",
+    "text": "Increasing sunshine.",
+    "temperature": "Mid 60s to mid 70s, north to south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   }
 ]
