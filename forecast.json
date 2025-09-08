@@ -1,26 +1,26 @@
 [
   {
     "heading": "Today",
-    "text": "Early showers ending.\u00a0 Increasing sun west to east. Breezy and warm.",
-    "temperature": "70s to low 80s",
+    "text": "Any valley fog burning off to sunshine.\u00a0 Cool.",
+    "temperature": "60s north, to around 70 south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   },
   {
-    "heading": "Friday Night",
-    "text": "Partly cloudy, then more clouds with a few localized showers.",
-    "temperature": "50s to low 60s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_showers_night.png"
+    "heading": "Monday Night",
+    "text": "Clear and chilly. Frost in northern cold spots.Mid 30s to mid 40s",
+    "temperature": "",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/clear_night_fog.png"
   },
   {
-    "heading": "Saturday",
-    "text": "Showers becoming likely late morning and afternoon. Strong afternoon thunderstorms possible south.",
-    "temperature": "Mid 60s to lower 80s, northwest to southeast",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/thunderstorms.png"
+    "heading": "Tuesday",
+    "text": "Valley fog burning off to sunshine. Not as cool.70s, near 70 over higher terrain",
+    "temperature": "",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/sunny.png"
   },
   {
-    "heading": "Sunday",
-    "text": "Partly sunny in NY, northern VT, and Quebec. A chance of showers east and south.",
-    "temperature": "Lower 60s to lower 70s, north to south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
+    "heading": "Wednesday",
+    "text": "Valley fog burning off to sunshine.70s",
+    "temperature": "",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   }
 ]
