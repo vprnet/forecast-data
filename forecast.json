@@ -1,26 +1,26 @@
 [
   {
-    "heading": "Today",
-    "text": "Valley fog burning off to sunshine.",
-    "temperature": "Low 70s to upper 70s north to south",
+    "heading": "This Afternoon",
+    "text": "Mostly sunny.",
+    "temperature": "Mid to upper 70s, some lower 70s north",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   },
   {
-    "heading": "Monday Night",
-    "text": "Mostly clear, seasonably cool. River valley fog.",
-    "temperature": "40s to low 50s",
+    "heading": "Tonight",
+    "text": "Mostly clear. Areas of valley fog.",
+    "temperature": "Mainly mid 40s to around 50",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/clear_night_fog.png"
   },
   {
     "heading": "Tuesday",
-    "text": "Valley fog burns off to sunny skies.",
-    "temperature": "70s, low 80s south",
+    "text": "Valley fog burns to sunshine.",
+    "temperature": "Mid 70s to around 80",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/sunny.png"
   },
   {
     "heading": "Wednesday",
-    "text": "Sun through high clouds north. Mostly cloudy south. Warmer than average",
-    "temperature": "mid 70s south to near 80 north",
+    "text": "Sun filtering through high clouds, more heavily south.",
+    "temperature": "Mid 70s to around 80, some lower 70s south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   }
 ]
