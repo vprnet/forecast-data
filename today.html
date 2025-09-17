@@ -1,47 +1,53 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Solo Weather Forecast</title>
-    <!--PYM.js-->
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Today Weather Forecast</title>
+		<!--PYM.js-->
 		<script type="text/javascript" src="https://pym.nprapps.org/pym.v1.min.js"></script>
-  <!-- Fonts -->
-  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
-  <style>
-	a { text-decoration: none;}
-    body {
-      font-family: 'Lato', sans-serif;
-      margin: 0;
-      padding: 0;
-    }
-    .forecast-section {
-      border: 1px solid #ccc;
-      padding: 10px;
-      margin: 10px 0;
-      border-radius: 5px;
-      display: flex;
-      align-items: center;
-      flex-wrap: wrap;
-    }
-    .forecast-section h3 {
-      margin: 0 0 5px;
-      color: #333;
-      font-weight: 700;
-      font-size: 1.2em;
-    }
-    .forecast-section p {
-      margin: 5px 0;
-      color: #666;
-      flex: 1;
-      font-size: 0.9em;
-      line-height: 1.4;
-    }
-    .forecast-section img {
-      max-width: 50px;
-      margin-right: 10px;
-      flex-shrink: 0;
-    }
+		<!-- Fonts -->
+		<link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet' type='text/css'>
+		<link href='https://fonts.googleapis.com/css?family=Merriweather' rel='stylesheet' type='text/css'>
+		<style>
+			a { text-decoration: none;}
+			
+			body {
+				margin: 0;
+				padding: 0;
+			}
+			
+			.forecast-section {
+      			border: 1px solid #ccc;
+     			padding: 10px;
+				margin: 10px 0;
+      			border-radius: 5px;
+      			display: flex;
+      			align-items: center;
+      			flex-wrap: wrap;
+    		}
+			
+			.forecast-section h3 {
+				font-family:"Poppins","Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
+				margin: 0 0 5px;
+      			color: #333;
+      			font-weight: 700;
+      			font-size: 1.2em;
+			}
+			
+    		.forecast-section p {
+				font-family:"Merriweather","Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
+      			margin: 5px 0;
+      			color: #666;
+      			flex: 1;
+      			font-size: 0.9em;
+      			line-height: 1.4;
+    		}
+			.forecast-section img {
+				max-width: 50px;
+      			margin-right: 10px;
+      			flex-shrink: 0;
+    		}
     /* Mobile Responsiveness */
     @media (max-width: 600px) {
       .forecast-section {
@@ -54,9 +60,11 @@
         margin-bottom: 10px;
       }
       .forecast-section h3 {
+		font-family:"Poppins","Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
         font-size: 1.5em;
       }
       .forecast-section p {
+		font-family:"Merriweather","Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
         font-size: 1.1em;
         text-align: left;
         word-wrap: break-word;
