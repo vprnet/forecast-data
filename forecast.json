@@ -1,13 +1,7 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Sun filtering through high clouds, more so in the south.",
-    "temperature": "Mid 70s to around 80, low to mid 70s far south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
-  },
-  {
-    "heading": "Tonight",
-    "text": "Periods of high clouds, thicker south; maybe a sprinkle far south.",
+    "heading": "Wednesday Night",
+    "text": "Periods of high clouds; maybe a sprinkle far south.",
     "temperature": "Mainly low to mid 50s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/mostly_cloudy_night.png"
   },
@@ -22,5 +16,11 @@
     "text": "Decreasing clouds.",
     "temperature": "Valleys mid to upper 60s north, upper 60s to mid 70s south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
+  },
+  {
+    "heading": "Saturday",
+    "text": "Mostly sunny.",
+    "temperature": "Low to mid 60s north, 65 to 70 Champlain Valley and south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   }
 ]
