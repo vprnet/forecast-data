@@ -1,26 +1,26 @@
 [
   {
-    "heading": "Wednesday Night",
-    "text": "Periods of high clouds; maybe a sprinkle far south.",
-    "temperature": "Mainly low to mid 50s",
+    "heading": "Today",
+    "text": "Morning clouds giving way to sun. Warm. Some clouds in NY and Quebec late.",
+    "temperature": "Upper 70s to mid 80s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
+  },
+  {
+    "heading": "Thursday Night",
+    "text": "Some clouds, a few spotty showers north. Partly cloudy south.",
+    "temperature": "Upper 40s to mid 50s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/mostly_cloudy_night.png"
   },
   {
-    "heading": "Thursday",
-    "text": "Partly to mostly sunny.",
-    "temperature": "Upper 70s to mid 80s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
-  },
-  {
     "heading": "Friday",
-    "text": "Decreasing clouds.",
-    "temperature": "Valleys mid to upper 60s north, upper 60s to mid 70s south",
+    "text": "Clouds giving way to increasing sun.",
+    "temperature": "Low to mid 60s north, upper 60s to mid 70s south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   },
   {
     "heading": "Saturday",
-    "text": "Mostly sunny.",
-    "temperature": "Low to mid 60s north, 65 to 70 Champlain Valley and south",
+    "text": "Patchy morning frost. Mostly sunny.",
+    "temperature": "Upper 50s to mid 60s north, 65 to 70 Champlain Valley and south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   }
 ]
