@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Sun filtering through periods of high clouds. High temperatures from the mid 70s to around 80, except low to mid 70s far south. Winds variable to southeast at around 5 mph."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Variable clouds, thicker across the south. Very slight chance of a shower near the Massachusetts border. Lows in the low to mid 50s, except mid 40s to around 50 northeast and in the Adirondacks. Winds becoming light, variable to south, except south 5 to 10 mph in the Champlain Valley."
+    "heading": "Wednesday Night",
+    "text": "Variable clouds. Very slight chance of a shower near the Massachusetts border. Patchy valley fog. Lows in the low to mid 50s, except mid 40s to around 50 northeast and in the Adirondacks. Winds becoming light, variable to south, except south 5 to 10 mph in the Champlain Valley."
   },
   {
     "heading": "Thursday",
-    "text": "Partly to mostly sunny. Highs from the upper 70s to mid 80s. South to southwest winds 5 to 10 mph, gusting to 15 mph."
+    "text": "Patchy valley fog early, then mostly sunny. Highs from the upper 70s to mid 80s. South to southwest winds 5 to 10 mph, gusting to 15 mph."
+  },
+  {
+    "heading": "Thursday Night",
+    "text": "Partly cloudy south. Periods of clouds north. Slight chance of a shower from the Adirondacks and Route 2 northward, mainly over high terrain. Lows from the upper 40s to mid 50s, except mid to upper 40s in the Adirondacks and St. Lawrence Valley. Winds becoming north to northwest at 5 to 10 mph."
   }
 ]
