@@ -1,15 +1,15 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Becoming clear. Patchy fog and frost.",
-    "temperature": "30s to near 40, upper 20s in the cold spots",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/clear_night_fog.png"
-  },
-  {
-    "heading": "Saturday",
+    "heading": "Today",
     "text": "Mostly sunny.",
     "temperature": "Upper 50s to mid 60s north, mid 60s to around 70 south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
+  },
+  {
+    "heading": "Tonight",
+    "text": "Becoming clear. Patchy fog and frost.",
+    "temperature": "30s, upper 20s in the cold spots",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/clear_night_fog.png"
   },
   {
     "heading": "Sunday",
