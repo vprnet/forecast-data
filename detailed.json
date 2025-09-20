@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Clear and chilly. Chance of patchy valley fog after midnight, and patches of frost. Lows from the mid 30s to near 40, upper 20s to low 30s in the cold spots. North to northwest wind at 5 to 10 mph diminishing to light."
-  },
-  {
-    "heading": "Saturday",
+    "heading": "Today",
     "text": "Mostly sunny and cool. Highs in the upper 50s to mid 60s north, increasing to the 70s in the south. Light wind, mainly northwest near 5 mph."
   },
   {
-    "heading": "Saturday Night",
+    "heading": "Tonight",
     "text": "Mostly clear and cold. Chance of valley fog, and localized patches of frost. Lows in the 30s, falling to the 20s in the cold hollows. Light and variable wind."
+  },
+  {
+    "heading": "Sunday",
+    "text": "Patchy fog early. Mostly sunny and not as cool. Highs in the upper 60s to low 70s, a few mid 70s in the warmer valleys. Light wind, becoming south near 10 mph in the afternoon."
   }
 ]
