@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Mostly clear and cold. Chance of valley fog, and localized patches of frost. Lows in the 30s, falling to the 20s in the cold hollows. Light and variable wind."
-  },
-  {
     "heading": "Sunday",
     "text": "Patchy fog early. Mostly sunny and not as cool. Highs in the upper 60s to low 70s, a few mid 70s in the warmer valleys. Light wind, becoming south near 10 mph in the afternoon."
   },
   {
     "heading": "Sunday Night",
     "text": "Mostly clear, with a few periods of clouds. Chance of patchy valley fog. Lows from the 40s to low 50s in the Champlain Valley. Light and variable wind."
+  },
+  {
+    "heading": "Monday",
+    "text": "Morning fog burning off to partly sunny skies, increasing clouds from the west throughout the day. Chance of a few showers in the north and west. Highs mainly in the mid-to-upper 70s."
   }
 ]
