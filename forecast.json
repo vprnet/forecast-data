@@ -6,6 +6,12 @@
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   },
   {
+    "heading": "Tonight",
+    "text": "Low 50s west, near 40 east",
+    "temperature": "Mostly clear, winds strengthen.",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/clear_night_fog.png"
+  },
+  {
     "heading": "Monday",
     "text": "Partly sunny, with increasing clouds.",
     "temperature": "Mid to upper 70s",
