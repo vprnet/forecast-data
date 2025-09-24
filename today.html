@@ -27,6 +27,7 @@
       			display: flex;
       			align-items: center;
       			flex-wrap: wrap;
+				position: relative;
     		}
 			
 			.forecast-section h3 {
@@ -51,14 +52,17 @@
       			flex-shrink: 0;
     		}
 			
-    		#widget-label {
+    		.widget-label {
 				font-family:"Poppins","Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
-      			margin: 5px 0;
       			color: #000;
-      			flex: 1;
       			font-size: 0.9em;
       			line-height: 1.4;
 				background-color: #E0E7FF;
+				position: absolute;
+				top: 0;
+				right: 0;
+				padding: 2px;
+				max-width: 265px;
     		}
 			
 			/* Mobile Responsiveness */
@@ -85,7 +89,7 @@
 		</style>
 </head>
 <body>
-  <a href="https://www.vermontpublic.org/weather" target="_blank"><div id="widget-label"><span>Vermont's statewide forecast from the Fairbanks Museum & Planetarium</span></div><div id="weather-widget"></div></a>
+  <a href="https://www.vermontpublic.org/weather" target="_blank"><div id="weather-widget"></div></a>
   <p>&nbsp;</p>
   <script>
     fetch('https://vprnet.github.io/forecast-data/forecast.json')
@@ -97,6 +101,7 @@
           widget.innerHTML = `
             <div class="forecast-section">
               <img src="${firstForecast.icon_url}" alt="${firstForecast.heading} icon">
+		      <div class="widget-label"><span>Vermont's statewide forecast from the Fairbanks Museum & Planetarium</span></div>
               <div>
                 <h3>${firstForecast.heading}</h3>
                 <p>${firstForecast.text}</p>
