@@ -10,7 +10,9 @@
 		<link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet' type='text/css'>
 		<link href='https://fonts.googleapis.com/css?family=Merriweather' rel='stylesheet' type='text/css'>
 		<style>
-			a { text-decoration: none;}
+			a {
+				text-decoration: none;
+			}
 			
 			body {
 				margin: 0;
@@ -49,6 +51,16 @@
       			flex-shrink: 0;
     		}
 			
+    		#widget-label {
+				font-family:"Poppins","Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
+      			margin: 5px 0;
+      			color: #000;
+      			flex: 1;
+      			font-size: 0.9em;
+      			line-height: 1.4;
+				background-color: #E0E7FF;
+    		}
+			
 			/* Mobile Responsiveness */
 			@media (max-width: 600px) {
 				.forecast-section {
@@ -73,7 +85,7 @@
 		</style>
 </head>
 <body>
-  <a href="https://www.vermontpublic.org/weather" target="_blank"><div id="weather-widget"></div></a>
+  <a href="https://www.vermontpublic.org/weather" target="_blank"><div id="widget-label"><span>Vermont's statewide forecast from the Fairbanks Museum & Planetarium</span></div><div id="weather-widget"></div></a>
   <p>&nbsp;</p>
   <script>
     fetch('https://vprnet.github.io/forecast-data/forecast.json')
