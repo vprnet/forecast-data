@@ -1,19 +1,19 @@
 [
   {
-    "heading": "Today",
-    "text": "Morning showers diminishing, then additional rain, showers, maybe a thunderstorms this afternoon.",
-    "temperature": "60s to around 70",
+    "heading": "This Afternoon",
+    "text": "Showers likely; thunderstorms and heavy rain possible.",
+    "temperature": "Mainly mid 60s to around 70",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain.png"
   },
   {
-    "heading": "Thursday Night",
-    "text": "Evening showers tapering off. Some breaks in the clouds and patches of fog.",
-    "temperature": "50s to around 60",
+    "heading": "Tonight",
+    "text": "Evening showers, possibly heavy, then tapering off.",
+    "temperature": "Mid 50s to lower 60s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/04/showers_night.png"
   },
   {
     "heading": "Friday",
-    "text": "Morning clouds breaking for some sun, and a localized shower or two.",
+    "text": "Mostly to partly cloudy; chance of a shower.",
     "temperature": "Mainly mid to upper 70s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
   },
