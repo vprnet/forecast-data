@@ -1,26 +1,26 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Slight chance of showers north of Route 4; chance to the south, a rising chance southwest.",
-    "temperature": "Upper 60s to mid 70s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
-  },
-  {
-    "heading": "Tonight",
-    "text": "Showers likely south and in the Adirondacks; a rising chance elsewhere north.",
+    "heading": "Wednesday Night",
+    "text": "Showers likely south, a rising chance north.",
     "temperature": "Mid 50s to around 60",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_rain_night.png"
   },
   {
     "heading": "Thursday",
-    "text": "Showers likely",
-    "temperature": "Mid 60s to around 70",
+    "text": "Showers likely. Heavy rain possible, mainly south.",
+    "temperature": "60s to around 70",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain.png"
   },
   {
     "heading": "Friday",
-    "text": "Clouds breaking for some sun. A few showers possible.",
+    "text": "Mostly to partly cloudy. Chance of a shower.",
     "temperature": "Mainly mid to upper 70s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
+  },
+  {
+    "heading": "Saturday",
+    "text": "Partly to mostly sunny.",
+    "temperature": "Upper 60s to upper 70s, north to south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   }
 ]
