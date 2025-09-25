@@ -1,14 +1,18 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly cloudy, except partly to mostly cloudy far north. Slight chance of showers north of Route 4, a rising chance to the south, mainly from the southern Greens westward. Highs from the upper 60s to mid 70s. North to northeast winds 5 to 10 mph."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Showers likely in the south and in the Adirondacks; a rising chance elsewhere north. Patchy fog. Lows from the mid 50s to around 60, with some lower 50s east of the Greens, and low to mid 60s in the broad valleys west. East to southeast winds 5 to 10 mph."
+    "heading": "Wednesday Night",
+    "text": "Showers likely in the south and in the Adirondacks, a rising chance north. Patchy fog. Lows from the mid 50s to around 60, with some lower 50s east of the Greens, and low to mid 60s in the broad valleys west. East to southeast winds 5 to 10 mph."
   },
   {
     "heading": "Thursday",
-    "text": "Mostly cloudy with patches of morning fog. Showers likely; thunderstorms and periods of heavy rain possible, mainly from the Route 4 and the White Mountains southward. Highs from the mid 60s to around 70. Southeast winds 5 to 10 mph, becoming south."
+    "text": "Mostly cloudy with patches of morning fog. Showers likely; thunderstorms and periods of heavy rain possible, mainly from the Route 4 and the White Mountains southward. Highs from the mid 60s to around 70, some lower 60s northeast. Southeast winds 5 to 10 mph, gusting to 20 mph in the Champlain Valley."
+  },
+  {
+    "heading": "Thursday Night",
+    "text": " becoming light east of the Greens Mountains; 5 to 10 mph west of the Greens, and gusting to 15 mph in the Champlain Valley."
+  },
+  {
+    "heading": "Cloudy. Showers likely early in the south, and in New Hampshire, otherwise scattered and diminishing overnight. Lows in the mid to upper 50s northeast and in the Adirondacks, upper 50 to lower 60s elsewhere west of the Greens. Winds from the south",
+    "text": " becoming light east of the Greens Mountains; 5 to 10 mph west of the Greens, and gusting to 15 mph in the Champlain Valley."
   }
 ]
