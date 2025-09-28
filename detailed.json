@@ -1,14 +1,14 @@
 [
   {
+    "heading": "Today",
+    "text": "Partly cloudy in the morning, then increasing sunshine from the west. Highs in the 70s, some 80s possible in the warmest valleys. Light wind."
+  },
+  {
     "heading": "Tonight",
-    "text": "Beginning as mostly cloudy, then clearing from the west to the east overnight. Patchy valley fog. Lows mainly in the 50s, a few upper 40s in the cold spots. Wind becoming light and variable."
+    "text": "Mostly clear. Areas of river valley fog. Lows from the mid to upper 40s in the north east, increasing to the low 50s in the south and west. Light and variable wind."
   },
   {
-    "heading": "Sunday",
-    "text": "Partly cloudy in the morning, then increasing sunshine from the west as the day goes on. Highs in the 70s, some 80s possible in the warmest valleys. Light wind."
-  },
-  {
-    "heading": "Sunday Night",
-    "text": "Mostly clear. Areas of river valley fog. Lows From the mid to upper 40s in the north east, increasing to the low 50s in the south and west."
+    "heading": "Monday",
+    "text": "Valley fog burning off to mostly sunny skies. Highs from the 70s to nearing 80 in the warmest valleys."
   }
 ]
