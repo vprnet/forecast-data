@@ -42,7 +42,7 @@
       			margin: 5px 0;
       			color: #333;
       			flex: 1;
-      			font-size: 0.9em;
+      			font-size: 1.6rem;
       			line-height: 1.375;
 				font-weight: 400;
     		}
@@ -58,35 +58,17 @@
 
 			    font-weight: 700;
       			line-height: 1.14;
+
+				font-size: 1.4rem;
 				
 				padding: 2px;
 			}
 			
-			/* Mobile Responsiveness */
-			@media (max-width: 600px) {
-				.forecast-section {
-					flex-direction: column;
-        			align-items: flex-start;
-        			padding: 15px;
-      			}
-      			.forecast-section img {
-        			margin-right: 0;
-        			margin-bottom: 10px;
-      			}
-      			.forecast-section h3 {
-        			font-size: 1.5em;
-      			}
-      			.forecast-section p {
-        			font-size: 1.1em;
-        			text-align: left;
-        			word-wrap: break-word;
-        			max-width: 100%;
-      			}
-			}
+			
 		</style>
 </head>
 <body>
-  <a href="https://www.vermontpublic.org/weather" target="_blank"><div class="widget-label"><span>Eye on the Sky: Vermont Weather</span></div><div id="weather-widget"></div></a>
+  <a href="https://www.vermontpublic.org/weather?utm_source=website&utm_medium=homepage&utm_campaign=today-weather" target="_blank"><div class="widget-label"><span>Eye on the Sky: Vermont Weather</span></div><div id="weather-widget"></div></a>
   <p>&nbsp;</p>
   <script>
     fetch('https://vprnet.github.io/forecast-data/forecast.json')
