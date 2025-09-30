@@ -22,7 +22,7 @@
 			.forecast-section {
       			border-bottom: 1px solid #e6e6e6;
      			padding: 10px;
-				margin: 10px 0;
+				margin: 1px 0;
       			display: flex;
       			align-items: center;
       			flex-wrap: no-wrap;
@@ -39,7 +39,7 @@
 				word-wrap: break-word;
     		}
 			.forecast-section img {
-				max-width: 86px;
+				max-width: 50px;
       			margin-right: 10px;
       			flex-shrink: 0;
     		}
@@ -60,7 +60,7 @@
 		</style>
 </head>
 <body>
-  <a href="https://www.vermontpublic.org/weather?utm_source=website&utm_medium=homepage&utm_campaign=today-weather" target="_blank"><div id="weather-widget"></div></a>
+  <a href="https://www.vermontpublic.org/weather?utm_source=website&utm_medium=homepage&utm_campaign=today-weather" target="_blank"><div class="widget-label"><span>Eye on the Sky: Vermont Weather</span></div><div id="weather-widget"></div></a>
   <p>&nbsp;</p>
   <script>
     fetch('https://vprnet.github.io/forecast-data/forecast.json')
@@ -73,7 +73,6 @@
             <div class="forecast-section">
               <img src="${firstForecast.icon_url}" alt="${firstForecast.heading} icon">
               <div>
-			  <div class="widget-label"><span>Eye on the Sky: Vermont Weather</span></div>
                 <p>${firstForecast.text}</p>
                 <p><strong>${firstForecast.temperature}</strong></p>
               </div>
