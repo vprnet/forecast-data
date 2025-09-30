@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Becoming mostly sunny, breezy, and cooler.",
-    "temperature": "60s to 70 north, low to mid 70s south",
+    "heading": "This Afternoon",
+    "text": "Mostly sunny and breezy.",
+    "temperature": "Mainly upper 60s to mid 70s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   },
   {
-    "heading": "Tuesday Night",
-    "text": "Mostly clear, patchy valley fog, isolated frost.",
-    "temperature": "30s to near 40, 32 in cold spots.",
+    "heading": "Tonight",
+    "text": "Clear skies; patchy valley fog; isolated frost.",
+    "temperature": "Mainly mid 30 to around 40, around 30 in northern cold hollows",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/clear_night.png"
   },
   {
