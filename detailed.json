@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Sunny north, mostly to partly in the south. Highs in the mid 70s to lower 80s. South to southwest 5 to 10 mph."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Some high clouds in the south. Mostly clear from the Adirondacks and Route 2 northward, with patchy valley fog. Lows mainly in the mid to upper 50s, around 50 in the cold spots north. Winds becoming north around 10 mph."
+    "heading": "Monday Night",
+    "text": "Patchy high clouds, except mainly clear in the far north. Patchy valley fog. Lows mainly in the mid to upper 50s, around 50 in the cold spots north. West to southwest winds 5 to 10 mph, becoming north late."
   },
   {
     "heading": "Tuesday",
     "text": "Patchy valley fog early, then partly to mostly. Valley highs in the mid to upper 70s southeast, low to mid 70s elsewhere south; mid 60s to lower 70s north. North winds 10 to 15 mph, occasionally gusting to 25 mph."
+  },
+  {
+    "heading": "Tuesday Night",
+    "text": "Clear skies. Some isolated frost in northern cold hollows, and patchy valley fog east of the Greens. Lows from the upper 30s to mid 40s south and in the Champlain Valley, mid to upper 30s elsewhere north, with some lower 30s possible in the cold hollows. North winds diminishing to 5 to 10 mph."
   }
 ]
