@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Patchy fog and frost, then sunny, breezy, and cool.",
-    "temperature": "50s to low 60s",
+    "heading": "This Afternoon",
+    "text": "Mosatly sunny and breezy.",
+    "temperature": "Upper 50s to mid 60s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/sunny.png"
   },
   {
-    "heading": "Wednesday Night",
-    "text": "Clear, cold. Widespread frost. Patchy valley fog.",
-    "temperature": "mid 20s to mid 30s",
+    "heading": "Tonight",
+    "text": "Clear, with widespread frost, and patchy valley fog.",
+    "temperature": "Mainly upper 20s to lower 30",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/clear_night_fog.png"
   },
   {
