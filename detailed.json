@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly sunny. Valley highs in the mid to upper 70s southeast, low to mid 70s elsewhere south; mid 60s to lower 70s north. North winds 5 to 15 mph, occasionally gusting to 20 mph."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Clear skies. Risk of frost mainly in northern cold hollows, and patchy valley fog east of the Greens. Lows from the upper 30s to mid 40s south and in the Champlain Valley, mid to upper 30s elsewhere north, except around 30 in the cold hollows. North winds diminishing to 5 to 10 mph."
+    "heading": "Tuesday Night",
+    "text": "Clear skies. Risk of frost mainly in northern cold hollows, and patchy valley fog east of the Greens. Lows from the upper 30s to mid 40s south and in the Champlain Valley, mid to upper 30s elsewhere north, except around 30 in the cold hollows. North winds diminishing to 5 to 10 mph, becoming light in sheltered valleys."
   },
   {
     "heading": "Wednesday",
     "text": "Mostly sunny after any early fog. Valley highs in the low to mid 60s southeast and in the Hudson Valley, upper 50s to lower 60s elsewhere south and in the broad northern valleys, and mid to upper 50s elsewhere north. North winds 5 to 10 mph, gusting to 20 mph."
+  },
+  {
+    "heading": "Wednesday Night",
+    "text": "Clear, with areas of valley fog late. Lows from the upper 20s to mid 30s, except low to mid 20s in northern cold hollows, and some upper 30s near Lake Champlain. Winds becoming light and variable, except remaining north 5 to 10 mph in the Champlain and Hudson valleys."
   }
 ]
