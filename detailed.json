@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly sunny. Valley highs in the low to mid 60s. Variable winds around 5 mph."
-  },
-  {
-    "heading": "Tonight",
+    "heading": "Thursday Night",
     "text": "Mainly clear. Patchy valley fog, mainly east of the Greens. Lows from the upper 20s to mid 30s east of the Greens, with mid to upper 20s in the cold hollows; mainly mid to upper 30s west of the Greens, but some lower 30s possible generally, except\u00a0 upper 20s in the cold hollows, and low to mid 40s near Lake Champlain. Winds becoming southerly, light in areas east of the Greens, and around 5 mph west of the Greens, except gusting to 15 mph late in the Champlain Valley."
   },
   {
     "heading": "Friday",
-    "text": "Patchy valley fog early, mainly east of the Greens, then mostly sunny. Highs in the low to mid 70s. South to southwest winds 5 to 10 mph, gusting to 20 mph in the Champlain and St. Lawrence valleys."
+    "text": "Patchy valley fog early, mainly east of the Greens, then mostly sunny. Highs in the low to mid 70s. South to southwest winds 5 to 10 mph, gusting to 15 mph in the Champlain and St. Lawrence valleys."
+  },
+  {
+    "heading": "Friday Night",
+    "text": "Mainly clear. Patchy valley fog. Lows in the 40s, a except mid to upper 30s in the cold spots north, and around 50 in the Champlain Valley. Winds becoming light, variable to south, except south 5 to 10 mph in the Champlain and St. Lawrence valleys."
   }
 ]
