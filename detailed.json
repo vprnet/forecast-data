@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Sunshine, mixed with a few high clouds. Not as cool. Highs in the upper 60s to low 70s, a few mid 70s in the warmer valleys. Winds becoming south up to 10 mph, gusting to 20 mph through the Champlain Valley."
-  },
-  {
     "heading": "Tonight",
-    "text": "Mostly clear, with some clouds near and north of the Quebec border late. Areas of river valley fog. Lows in the 40s, a few upper 30s in the cold spots north. South winds near 10 mph in the evening, diminishing to light and variable."
+    "text": "Mostly clear, with some clouds developing along the border. Patchy river valley fog. Lows in the 40s, to near 50 along Lake Champlain. South wind diminishing to light and variable."
   },
   {
     "heading": "Saturday",
-    "text": "Patchy valley fog, and any early clouds far north giving way to sunshine. Much warmer. Highs in the 70s to around 80. Winds light and variable."
+    "text": "Patchy valley fog burning off to partly sunny skies. More sunshine develops in the afternoon. Much warmer. Highs in the 70s to near 80 in the warmest valleys. Light and variable wind."
+  },
+  {
+    "heading": "Saturday Night",
+    "text": "Mostly clear. Chance of valley fog developing before dawn. Mild. Lows in the mid to upper 40s in the northeast increasing to the mid 50s. Light and variable wind."
   }
 ]
