@@ -1,15 +1,15 @@
 [
   {
-    "heading": "Thursday Night",
-    "text": "Mainly clear. Patchy valley fog, and scattered frost, mainly east.",
-    "temperature": "30s, with some 20s in the cold spots, and low to mid 40s near Lake Champlain",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/09/Mostly_clear_night.png"
+    "heading": "Today",
+    "text": "Patchy fog early. Sun, mixed with a few high clouds.",
+    "temperature": "Upper 60s to mid 70s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   },
   {
-    "heading": "Friday",
-    "text": "Patchy valley fog early, mainly east, then mostly sunny.",
-    "temperature": "Low to mid 70s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
+    "heading": "Friday Night",
+    "text": "Mostly clear, a few clouds far north. Patchy fog.",
+    "temperature": "40s, near 40 in cool spots",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/09/Mostly_clear_night.png"
   },
   {
     "heading": "Saturday",
@@ -20,7 +20,7 @@
   {
     "heading": "Sunday",
     "text": "Mostly sunny.",
-    "temperature": "Upper 70s to mid 80s",
+    "temperature": "Upper 70s to low 80s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   }
 ]
