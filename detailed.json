@@ -1,14 +1,22 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Mostly clear. Chance of valley fog developing, becoming locally dense before dawn. Mild. Lows in the mid to upper 40s in the northeast increasing to the mid 50s. Light and variable wind."
+    "heading": "Sunday",
+    "text": " Valley fog burning off to sunshine, mixing with clouds in the evening. Warmer. Highs in the low 80s."
   },
   {
-    "heading": "Sunday",
-    "text": "Valley fog burning off to mostly sunny skies. Much warmer. Highs from the upper 70s in the north increasing to the mid 80s in the southern valleys. Light southwesterly wind."
+    "heading": "",
+    "text": " Valley fog burning off to sunshine, mixing with clouds in the evening. Warmer. Highs in the low 80s."
   },
   {
     "heading": "Sunday Night",
-    "text": "Mostly clear and mild. Areas of river valley fog. Lows from the upper 40s to mid 50s, a few upper 50s along Lake Champlain. Calm wind."
+    "text": "Some evening clouds, then clearing and mild. Areas of river valley fog. Lows in the upper 40s to mid 50s."
+  },
+  {
+    "heading": "Monday",
+    "text": " Valley fog burning off to sunshine. Warm. Highs in the upper 70s to around 80."
+  },
+  {
+    "heading": "",
+    "text": " Valley fog burning off to sunshine. Warm. Highs in the upper 70s to around 80."
   }
 ]
