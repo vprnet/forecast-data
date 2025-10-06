@@ -1,8 +1,8 @@
 [
   {
     "heading": "Tonight",
-    "text": "Mostly clear. Chance of valley fog. Mild.",
-    "temperature": "50s to low 60s",
+    "text": "Mostly clear. Chance of valley fog. Mild.50s to low 60s",
+    "temperature": "",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/clear_night_fog.png"
   },
   {
@@ -13,14 +13,14 @@
   },
   {
     "heading": "Wednesday",
-    "text": "Showers diminishing from the west to the east.",
-    "temperature": "50s to mid 60s",
+    "text": "Showers diminishing from the west to the east.50s to mid 60s",
+    "temperature": "",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain.png"
   },
   {
     "heading": "Thursday",
-    "text": "Mostly sunny. Seasonably cool.",
-    "temperature": "50s",
+    "text": "Mostly sunny. Seasonably cool.50s",
+    "temperature": "",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   }
 ]
