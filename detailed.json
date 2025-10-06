@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Areas of valley fog burning off to mostly sunny skies.  Near-record warmth.  Highs in the low to mid 80s, near 80 over the higher terrain north.  Winds becoming southwest near 10 mph."
-  },
-  {
     "heading": "Tonight",
-    "text": "Mostly clear to start, mixing with some high clouds,  Patchy river valley fog east.  Lows in the 50s to low 60s, warmest in the Champlain and St. Lawrence valleys.  Southwest winds near 10 mph in the evening, diminishing to light and variable in sheltered valleys."
+    "text": "Mostly clear with periods of clouds. Patchy valley fog developing in the east. Mild. Lows in the 50s to low 60s. Southwest wind diminishing to light and variable overnight."
   },
   {
     "heading": "Tuesday",
-    "text": "Sun mixing with increasing clouds west to east.  Showers developing in the St. Lawrence and NY midday, spreading east in the afternoon through Quebec, western and northern VT, and northern NH by late.  Highs in the 70s to around 80.  Winds becoming southwest near 10 mph, gusting 15 to 25 mph, especially from the Green Mountains east."
+    "text": "Sun mixing with increasing clouds from the west, with showers developing through the St. Lawrence and NY, reaching northwest VT, and NH later in the day. Highs in the 70s to near 80. Wind becoming southwest near 10 mph, occasionally gusting to 15 mph, with the highest gusts west of the Green Mountains."
+  },
+  {
+    "heading": "Tuesday Night",
+    "text": "Widespread rain showers, chance of localized downpours. Lows near 50 in the northeast, increasing to the low to mid 50s in the west and south."
   }
 ]
