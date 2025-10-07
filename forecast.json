@@ -1,8 +1,8 @@
 [
   {
     "heading": "Today",
-    "text": "Sun, giving way to clouds west to east. Showers in NY this afternoon, mid to late afternoon in VT. Breezy, warm.70s to low 80s",
-    "temperature": "",
+    "text": "Sun, giving way to clouds west to east. Showers in NY this afternoon, mid to late afternoon in VT. Breezy, warm.",
+    "temperature": "70s to low 80s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
   },
   {
@@ -13,14 +13,14 @@
   },
   {
     "heading": "Wednesday",
-    "text": "Showers ending west to the east. Some afternoon clearing west to east.50s to mid 60s",
-    "temperature": "",
+    "text": "Showers ending west to the east. Some afternoon clearing west to east.",
+    "temperature": "50s to mid 60s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
   },
   {
     "heading": "Thursday",
-    "text": "Mostly sunny. Quite chilly.Upper 40s and 50s",
-    "temperature": "",
+    "text": "Mostly sunny. Quite chilly.",
+    "temperature": "Upper 40s and 50s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   }
 ]
