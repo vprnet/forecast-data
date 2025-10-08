@@ -1,15 +1,15 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Rain and showers.",
-    "temperature": "40s northwest, 50s southeast",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain_night.png"
-  },
-  {
-    "heading": "Wednesday",
-    "text": "Showers ending northwest to southeast, then some clearing. Much cooler.",
+    "heading": "Today",
+    "text": "Showers ending in VT this morning, in NH early afternoon, followed by breaks of sun.",
     "temperature": "50s north, 60s south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
+  },
+  {
+    "heading": "Wednesday Night",
+    "text": "Becoming partly cloudy. Patchy frost.",
+    "temperature": "30s, cold spots near 30",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_night.png"
   },
   {
     "heading": "Thursday",
