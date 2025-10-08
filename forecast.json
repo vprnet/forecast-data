@@ -1,25 +1,25 @@
 [
   {
-    "heading": "Today",
-    "text": "Showers ending in VT this morning, in NH early afternoon, followed by breaks of sun.",
-    "temperature": "50s north, 60s south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
-  },
-  {
-    "heading": "Wednesday Night",
-    "text": "Becoming partly cloudy. Patchy frost.",
-    "temperature": "30s, cold spots near 30",
+    "heading": "Tonight",
+    "text": "A spotty shower, then partly cludy. Patchy frost.",
+    "temperature": "30s, near 30 in cold spots",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_night.png"
   },
   {
     "heading": "Thursday",
-    "text": "Mostly sunny, quite chilly.",
+    "text": "Early clouds, then sunshine. Breezy, chilly.",
     "temperature": "Upper 40s to mid 50s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   },
   {
     "heading": "Friday",
-    "text": "Mostly sunny. Still cool.",
+    "text": "Mostly sunny, still cool.",
+    "temperature": "Upper 50s and 60s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
+  },
+  {
+    "heading": "Saturday",
+    "text": "Mostly sunny.",
     "temperature": "Upper 50s and 60s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   }
