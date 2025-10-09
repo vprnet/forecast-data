@@ -1,14 +1,14 @@
 [
   {
-    "heading": "***FREEZE WARNINGS TONIGHT***Today",
-    "text": "A few clouds early, giving way to sunshine. Quite cool. Highs in the upper 40s to mid 50s. Winds north to northwest 10 to 15 mph, decreasing through the afternoon."
-  },
-  {
     "heading": "Tonight",
     "text": "Mostly clear and cold. Widespread frost and freezing temperatures. Lows in the mid 20s to low 30s, near 20 in the cold spots. Winds northwest near 10 mph in the evening, diminishing to light and variable."
   },
   {
     "heading": "Friday",
     "text": "Mostly sunny and still cool. Highs in the upper 50s to low 60s. Winds light, becoming southwest near 10 mph, some gusts to 20 mph through the Champlain Valley and over the higher terrain."
+  },
+  {
+    "heading": "Friday Night",
+    "text": "Mostly clear and not as cold. Areas of frost. Lows in the 30s, in the upper 20s in the cold spots north. Winds diminishing to light and variable."
   }
 ]
