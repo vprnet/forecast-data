@@ -1,15 +1,15 @@
 [
   {
-    "heading": "Tonight",
-    "text": "A spotty shower, then partly cludy. Patchy frost.",
-    "temperature": "30s, near 30 in cold spots",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_night.png"
+    "heading": "Today",
+    "text": "A few morning clouds, then mostly sunny, breezy, quite cool.",
+    "temperature": "Upper 40s and 50s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   },
   {
-    "heading": "Thursday",
-    "text": "Early clouds, then sunshine. Breezy, chilly.",
-    "temperature": "Upper 40s to mid 50s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
+    "heading": "Thursday Night",
+    "text": "Freeze Warnings.Clear and cold. A hard frost and freeze.",
+    "temperature": "20s to 32, near 20 in the cold spots",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/clear_night.png"
   },
   {
     "heading": "Friday",
