@@ -1,14 +1,14 @@
 [
   {
+    "heading": "Today",
+    "text": "Mostly sunny and still cool.  Highs in the 50s to around 60.  Winds light, becoming southwest near 10 mph, some gusts to 20 mph through the Champlain Valley and over the higher terrain."
+  },
+  {
     "heading": "Tonight",
-    "text": "Mostly clear and cold. Widespread frost and freezing temperatures. Lows in the mid 20s to low 30s, near 20 in the cold spots. Winds northwest near 10 mph in the evening, diminishing to light and variable."
+    "text": "Mostly clear and not as cold.  Areas of frost.  Lows in the 30s, in the upper 20s in the cold spots north.  Winds diminishing to light and variable."
   },
   {
-    "heading": "Friday",
-    "text": "Mostly sunny and still cool. Highs in the upper 50s to low 60s. Winds light, becoming southwest near 10 mph, some gusts to 20 mph through the Champlain Valley and over the higher terrain."
-  },
-  {
-    "heading": "Friday Night",
-    "text": "Mostly clear and not as cold. Areas of frost. Lows in the 30s, in the upper 20s in the cold spots north. Winds diminishing to light and variable."
+    "heading": "Saturday",
+    "text": "Mostly sunny and a bit milder.  Highs in the low to mid 60s.  Winds light, mainly south less than 10 mph."
   }
 ]
