@@ -1,14 +1,8 @@
 [
   {
-    "heading": "Today",
-    "text": "Mostly sunny, still cool.",
-    "temperature": "50s to near 60",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/sunny.png"
-  },
-  {
-    "heading": "Friday Night",
-    "text": "Mostly clear, a few clouds. Not as cold, some frost.",
-    "temperature": "30s, upper 20s in the cold spots",
+    "heading": "Tonight",
+    "text": "Mostly clear. Isolated patches of frost.",
+    "temperature": "3os, 20s in the cold hollows",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/09/Mostly_clear_night.png"
   },
   {
@@ -19,8 +13,14 @@
   },
   {
     "heading": "Sunday",
-    "text": "Increasing clouds, Rain possible south late.",
-    "temperature": "Upper 50s and 60s",
+    "text": "Increasing clouds. Chance of showers in the south.",
+    "temperature": "Low to mid 60s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
+  },
+  {
+    "heading": "Monday",
+    "text": "Mostly cloudy. Chance of showers, highest chances south of Route 4.",
+    "temperature": "50s to near 60",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_rain.png"
   }
 ]
