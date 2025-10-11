@@ -1,15 +1,15 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Mostly clear. Isolated patches of frost.",
-    "temperature": "3os, 20s in the cold hollows",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/09/Mostly_clear_night.png"
-  },
-  {
-    "heading": "Saturday",
+    "heading": "Today",
     "text": "Mostly sunny.",
     "temperature": "Upper 50s and 60s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
+  },
+  {
+    "heading": "Tonight",
+    "text": "Increasing clouds. Chance of isolated showers south.",
+    "temperature": "3os, to low 40s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/04/showers_night.png"
   },
   {
     "heading": "Sunday",
