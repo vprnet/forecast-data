@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Mostly sunny, with a few clouds passing in the south. Highs in the low to mid 60s. Light southerly wind."
-  },
-  {
     "heading": "Tonight",
-    "text": "Mostly clear in the evening, then clouds increasing from the south to the north after midnight. Chance of isolated showers mainly south of Route 4. Lows in the 30s to low 40s. Light and variable wind."
+    "text": "Mostly clear in the evening, then clouds increasing from the south to the north after midnight. Patchy frost and valley fog. Increasing chance of isolated showers mainly south of Route 4. Lows in the 30s to low 40s. Light and variable wind."
   },
   {
     "heading": "Sunday",
     "text": "Partly cloudy in the north in the morning, then increasing clouds from the south throughout the day. Slight chance of scattered showers mainly south of Route 2. Highs in the low to mid 60s. Wind becoming east to southeast at 10 to 15 mph, gusting 20 to 25 mph in the south and over higher elevation."
+  },
+  {
+    "heading": "Sunday Night",
+    "text": "Mostly cloudy, with steady rain showers south of Rt. 4, and more scattered showers to the north. Lows in the 30s to low 40s. Wind shifting east to northeast at 5 to 10 mph, gusting 15 to 20 mph over the higher hills in the south."
   }
 ]
