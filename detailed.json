@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly cloudy with scattered showers, except slight chance near the international border. Highs in the low to mid 50s in the south, mid 50s to around 60 north. East to northeast winds 5 to 15 mph, gusting to 25 mph in the south."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Scattered showers, mainly along and east of the Greens, and from Lake George southward, diminishing overnight. Lows in the mid to upper 40s, with low to mid 40s northeast and in the Adirondacks. East to northeast 5 to 15 mph, gusting to 25 mph early."
+    "heading": "Monday Night",
+    "text": "Cloudy. Chance of showers, except a steadier rain possible northeast. Lows in the mid to upper 40s, with low to mid 40s northeast and in the Adirondacks. East to northeast 5 to 15 mph, gusting to 25 mph early."
   },
   {
     "heading": "Tuesday",
-    "text": "Mostly cloudy, except mostly to partly cloudy in the Adirondacks, St. Lawrence, and northern Champlain valleys. Chance of a shower northeast, as well as near and south of Route 4. Highs from the mid 50s to around 60, with some lower 50s northeast, and low to mid 60s in the St. Lawrence Valley. Winds variable to north at 5 to 10 mph."
+    "text": "Mostly cloudy, except mostly to partly cloudy in the Adirondacks, St. Lawrence, and northern Champlain valleys. Slight chance of a shower northeast, as well as near and south of Route 4. Highs from the mid 50s to around 60, with some lower 50s northeast, and low to mid 60s in the St. Lawrence Valley. Winds variable to north at 5 to 10 mph."
+  },
+  {
+    "heading": "Tuesday Night",
+    "text": "Partly cloudy in the Champlain and St. Lawrence valleys. Mostly cloudy elsewhere, with the chance of a sprinkle in the south, and in the northern mountains. Lows from the mid 40s to around 50, except upper 30s to mid 40s northeast and in the Adirondacks. West to northwest winds 5 to 10 mph."
   }
 ]
