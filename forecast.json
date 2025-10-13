@@ -1,26 +1,26 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Rain south of Rt. 4, scattered showers north",
-    "temperature": "30s, to low 40s",
+    "heading": "Today",
+    "text": "Periods of rain, diminishing to showers south of Rt. 2, scattered showers north. A little sun in Quebec.",
+    "temperature": "50 to 60, coolest south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_rain.png"
+  },
+  {
+    "heading": "Monday Night",
+    "text": "A chance of showers.",
+    "temperature": "40s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/04/showers_night.png"
   },
   {
-    "heading": "Monday",
-    "text": "Chance of showers, highest chances south of Route 4.",
-    "temperature": "50s to near 60",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_rain.png"
-  },
-  {
     "heading": "Tuesday",
-    "text": "Mostly cloudy. Chance of scattered AM showers.",
+    "text": "Partial clearing north. Mostly cloudy south. A few scattered showers.",
     "temperature": "Upper 50s and 60s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_rain.png"
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
   },
   {
     "heading": "Wednesday",
-    "text": "Mostly cloudy. Winds northwest 10-15 mph.",
-    "temperature": "Mid to upper 50s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/mostly_cloudy.png"
+    "text": "Partly sunny west, more clouds east. Breezy, chilly.",
+    "temperature": "Mid 40s to mid 50s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   }
 ]
