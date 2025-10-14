@@ -1,26 +1,20 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly cloudy, except decreasing clouds in the St. Lawrence Valley. Scattered sprinkles, mainly northeast, and in the southern Greens.",
-    "temperature": "Mainly mid to upper 50s",
+    "heading": "Wednesday",
+    "text": "Mostly to partly cloudy.",
+    "temperature": "Upper 40s to mid 50s; mid to upper 50s southeast, and broad valleys west",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
   },
   {
-    "heading": "Tuesday Night",
-    "text": "Partly cloudy in the Champlain and St. Lawrence valleys. Mostly cloudy elsewhere, with the slight chance of a sprinkle.",
-    "temperature": "40s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_night.png"
-  },
-  {
-    "heading": "Wednesday",
-    "text": "Periods of clouds, then increasing sun west and south. Chance of a sprinkle in the northern mountains.",
-    "temperature": "Upper 40s to mid 50s",
+    "heading": "Thursday",
+    "text": "Clearing, except mostly cloudy northeast.",
+    "temperature": "Mid 40s to around\u00a0 50s; low to mid 50s southeast, and broad valleys west",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   },
   {
-    "heading": "Thursday",
-    "text": "Clearing, except remaining mostly cloudy northeast.",
-    "temperature": "Upper 40s to mid 50s",
+    "heading": "Friday",
+    "text": "Mostly sunny.",
+    "temperature": "Upper 40s to mid 50s; mid to upper 50s southeast, and broad valleys west",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   }
 ]
