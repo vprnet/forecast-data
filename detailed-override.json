@@ -1,0 +1,14 @@
+[
+  {
+    "heading": "Today",
+    "text": "Detailed forecast text 1."
+  },
+  {
+    "heading": "Tonight",
+    "text": "Detailed forecast text 2."
+  },
+  {
+    "heading": "Tomorrow",
+    "text": "Detailed forecast text 3."
+  }
+]
