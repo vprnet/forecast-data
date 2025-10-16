@@ -1,20 +1,20 @@
 [
   {
-    "heading": "Today",
-    "text": "Periods of clouds north and east, mixed with sun. Mostly sunny west and south.\u00a0 Blustery.",
+    "heading": "This Afternoon",
+    "text": "Mostly sunny, except variable clouds northeast, and in the Champlain Valley.",
     "temperature": "Mid 40s to mid 50s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   },
   {
-    "heading": "Thursday Night",
-    "text": "A few evening clouds northeast, then mostly clear and chilly.",
-    "temperature": "20s to low 30s",
+    "heading": "Tonight",
+    "text": "Decreasing clouds northeast, otherwise mostly clear.",
+    "temperature": "Mainly mid 20s to lower 30s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/09/Mostly_clear_night.png"
   },
   {
     "heading": "Friday",
     "text": "Mostly sunny.",
-    "temperature": "50s",
+    "temperature": "Mainly upper 40s to mid 50s; mid to upper 50s in southeastern valleys, and in the broad valleys west.",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   },
   {
