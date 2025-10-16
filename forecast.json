@@ -1,15 +1,9 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly sunny, except variable clouds northeast, and in the Champlain Valley.",
-    "temperature": "Mid 40s to mid 50s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
-  },
-  {
-    "heading": "Tonight",
-    "text": "Decreasing clouds northeast, otherwise mostly clear.",
+    "heading": "Thursday Night",
+    "text": "Clear to partly cloudy, except clouds decreasing late in the northeast.",
     "temperature": "Mainly mid 20s to lower 30s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/09/Mostly_clear_night.png"
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_night.png"
   },
   {
     "heading": "Friday",
@@ -19,8 +13,14 @@
   },
   {
     "heading": "Saturday",
-    "text": "Mostly to partly sunny.",
+    "text": "Mostly sunny.",
     "temperature": "Upper 50s to lower 60s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
+  },
+  {
+    "heading": "Sunday",
+    "text": "Chance of a late-day shower in New York.",
+    "temperature": "Upper 60s to lower 70s west, mid to upper 60s east",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
   }
 ]
