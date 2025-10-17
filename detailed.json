@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Morning clouds northeast clearing.  Mostly sunny.  Not as breezy, but still cool.  Highs in the 50s.  Winds north near 10 mph."
-  },
-  {
     "heading": "Tonight",
-    "text": "Mostly clear from the Green Mountains east.  Some high clouds moving in from the west. Possibly a sprinkle in the St. Lawrence Valley.  Lows in the 30s west, upper 20s and low 30s east. Scattered to widespread frost.  Winds diminishing to light and variable."
+    "text": "A few clouds moving in from the west, staying mostly clear from the Green Mountains east. Lows in the 30s west, upper 20s and near 30 east. Patches of frost. Wind diminishing to light and variable."
   },
   {
     "heading": "Saturday",
-    "text": "Sunshine east, and morning clouds mixing with sunshine west.  Not as cold.  Highs in the upper 50s to low 60s.  Light winds, mainly south less than 10 mph."
+    "text": "Mostly sunny east, sunshine with mixed clouds west. Not as cold. Highs from the upper 50s to low 60s, rising into the mid 60s in the warmer valleys. Light wind, mainly south less than 10 mph."
+  },
+  {
+    "heading": "Saturday Night",
+    "text": "Partly clear, with periods of clouds. Lows from the upper 30s to mid 40s, nearing 50 along Lake Champlain. Light wind, becoming south to southeast at 5 to 10 mph, with gusts increasing to 20 to 25 mph through the Champlain Valley."
   }
 ]
