@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly cloudy. Showers likely, except a more steady rain lifting through New Hampshire and northern Vermont early. Chance of a thunderstorm, mainly southwest. Highs in the low to mid 60s. Southeast winds 5 to 15, gusting to 25 mph."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Mostly cloudy. Showers diminishing in the south, while remaining likely north. Lows in the mid to upper 40s. Winds becoming south to southwest 5 to 15 mph."
+    "heading": "Monday Night",
+    "text": "Mostly cloudy. Showers likely north; scattered early in the south, with thunder possible, then diminishing overnight Lows in the mid to upper 40s. Winds becoming south to southwest 5 to 15 mph."
   },
   {
     "heading": "Tuesday",
-    "text": "Clouds decreasing south in the morning. Chance of a morning shower north, then clouds decreasing after noon, decreasing slowly northeast. Highs in the low to mid 60s in the south, and upper 50s to lower 60s north. Southwest winds 5 to 10 mph."
+    "text": "Clouds decreasing south in the morning. Scattered morning showers north, then clouds decreasing after noon, decreasing slowly northeast. Highs in the low to mid 60s in the south, and upper 50s to lower 60s north. Southwest winds 5 to 10 mph."
+  },
+  {
+    "heading": "Tuesday Night",
+    "text": "Fair early, then remaining partly cloudy west, with clouds increasing east. A rising chance of late-night showers, mainly east. Lows in the mid to upper 40s, some lower 40s far north. South winds 5 to 10 mph."
   }
 ]
