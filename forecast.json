@@ -1,26 +1,26 @@
 [
   {
-    "heading": "Today",
-    "text": "Chance of showers south, more likely north.",
-    "temperature": "Low to upper 50s",
+    "heading": "This Afternoon",
+    "text": "A rising chance of showers, more so north of Route 4.",
+    "temperature": "Mainly low to mid 50s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
   },
   {
     "heading": "Tonight",
     "text": "Chance of rain showers, mixing with snow over the mountains.",
-    "temperature": "Mid 30s to 40s",
+    "temperature": "Mainly mid 30s to around 40",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/04/showers_night.png"
   },
   {
     "heading": "Friday",
-    "text": "Chance of rain or mountain snow showers, mainly north.",
-    "temperature": "Mid 40s to 50s",
+    "text": "A rising chance of rain or mountain snow showers, mainly north.",
+    "temperature": "Valleys upper 40s to mid 50s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
   },
   {
     "heading": "Saturday",
-    "text": "Mostly cloudy. Chance of a rain or mountain snow shower.",
-    "temperature": "40s to near 50",
+    "text": "Chance of sprinkles or mountain flurries.",
+    "temperature": "Valleys mid 40s to mid 50s, north to south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
   }
 ]
