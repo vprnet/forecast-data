@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly cloudy with occasional sunshine. Chance of light mountain showers or snow flurries. Highs in the 40s to near 50 north, low to mid 50s in the south. Light northwest wind."
-  },
-  {
     "heading": "Tonight",
     "text": "Chance of isolated rain showers north of Route 4, turning over to snow in the Green Mountains. Chance of valley fog. Lows in the low 30s, a few 20s in the cold spots in the northeast, increasing to the mid 30s in the Champlain Valley. Light and variable wind."
   },
   {
     "heading": "Sunday",
-    "text": "Mostly cloudy with periods of sunshine. Increasing chance of rain showers in the north, turning over to snow in the mountains. Highs from the mid-40s to near 50, rising to the low to mid-50s in the southern valleys. Light northwest wind."
+    "text": "Mostly cloudy with periods of sunshine. Increasing chance of rain showers in the north, turning over to snow in the mountains. Highs from the mid 40s to near 50, increasing to the low to mid-50s in the southern valleys. Light northwest wind."
+  },
+  {
+    "heading": "Sunday Night",
+    "text": "Increasing clearing overnight, clouds sticking around in the northeast. Chance of an isolated mountain rain or snow shower in the north. Patchy valley fog developing before dawn. Lows from the mid to upper 20s, near 30 along Lake Champlain."
   }
 ]
