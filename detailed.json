@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly cloudy, except partly cloudy far south and in the St. Lawrence Valley. Chance of a sprinkle or mountain flurry, mainly northeast. Highs from the mid 40s to around 50. North winds 5 to 10 mph."
-  },
-  {
-    "heading": "Tonight",
+    "heading": "Monday Night",
     "text": "Partly cloudy or becoming so. Chance of an evening sprinkle or mountain flurry, again mainly northeast. Areas of valley fog overnight. Lows from the upper 20s to mid 30s, with mid 20s in the cold hollows. Winds diminishing to light and variable."
   },
   {
     "heading": "Tuesday",
-    "text": "Areas of valley fog early; then partly cloudy, except mostly cloudy northeast. Highs in the low to mid 50s, except mid 40s to around 50 northeast and in the Adirondacks. Winds becoming north to northeast 5 to 10 mph."
+    "text": "Areas of valley fog early; then partly cloudy, except decrease northeast. Highs in the low to mid 50s, except mid 40s to around 50 northeast and in the Adirondacks. Winds becoming north to northeast 5 to 10 mph."
+  },
+  {
+    "heading": "Tuesday Night",
+    "text": "Mainly clear west and south, and clearing northeast. Areas of dense valley fog. Lows in the 20s to near 30, low 30s far south. Winds light and variable."
   }
 ]
