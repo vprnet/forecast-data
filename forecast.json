@@ -1,12 +1,12 @@
 [
   {
-    "heading": "Today",
-    "text": "Mostly sunny south of I-89, more clouds, an afternoon sprinkle northeast.",
-    "temperature": "40s northeast, 50 to 55 southwest",
+    "heading": "This Afternoon",
+    "text": "Mostly to partly cloudy; maybe a sprinkle northeast.",
+    "temperature": "Mid 40s to around 50",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   },
   {
-    "heading": "Monday Night",
+    "heading": "Tonight",
     "text": "Mostly clear southwest, clearing northeast. Patchy dense valley fog.",
     "temperature": "Mid 20s to mid 30s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/09/Mostly_clear_night.png"
