@@ -1,15 +1,15 @@
 [
   {
-    "heading": "Monday Night",
-    "text": "Clouds decreasing after any early sprinkles.",
-    "temperature": "Mainly upper 20s to mid 30s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_showers_night.png"
+    "heading": "Today",
+    "text": "Patchy fog and low clouds giving way to sunshine.",
+    "temperature": "Upper 40s and 50s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   },
   {
-    "heading": "Tuesday",
-    "text": "Sunshine mixed with clouds.",
-    "temperature": "Upper 40s to mid 50s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
+    "heading": "Tuesday Night",
+    "text": "Clear, then some high clouds. Patchy valley fog.",
+    "temperature": "Upper 20s to low 30s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/09/Mostly_clear_night.png"
   },
   {
     "heading": "Wednesday",
