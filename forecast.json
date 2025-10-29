@@ -1,26 +1,26 @@
 [
   {
-    "heading": "Tuesday Night",
-    "text": "Clear. Areas of fog or freezing fog.",
-    "temperature": "Mainly upper 20s to mid 30s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/clear_night_fog.png"
-  },
-  {
-    "heading": "Wednesday",
-    "text": "Morning valley fog, then sunshine. Some clouds south late.",
-    "temperature": "Low to mid 50s",
+    "heading": "Today",
+    "text": "Any patchy fog and high clouds giving way to sun. Some clouds far south.",
+    "temperature": "50 to 55.",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   },
   {
+    "heading": "Wednesday Night",
+    "text": "Increasing clouds, a chance of showers far south late.",
+    "temperature": "Upper 20s and 30s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_night.png"
+  },
+  {
     "heading": "Thursday",
-    "text": "A rising chance of showers, mainly west.",
+    "text": "Rain becoming likely from the Green Mountains west. Early sun east, a rising chance of showers.",
     "temperature": "Low to mid 50s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_rain.png"
   },
   {
     "heading": "Friday",
-    "text": "Breezy; scattered showers.",
-    "temperature": "Low to mid 50s, maybe falling after noon",
+    "text": "Rain north, tapering to showers. Scattered showers south.",
+    "temperature": "Low to mid 50s, steady or falling",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
   }
 ]
