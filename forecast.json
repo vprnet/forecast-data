@@ -1,19 +1,19 @@
 [
   {
-    "heading": "Today",
-    "text": "Any patchy fog and high clouds giving way to sun. Some clouds far south.",
-    "temperature": "50 to 55.",
+    "heading": "This Afternoon",
+    "text": "Sun mixing with increasing high clouds, except mostly cloudy far south.",
+    "temperature": "Low to mid 50s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   },
   {
-    "heading": "Wednesday Night",
-    "text": "Increasing clouds, a chance of showers far south late.",
-    "temperature": "Upper 20s and 30s",
+    "heading": "Tonight",
+    "text": "Variable clouds.",
+    "temperature": "Mainly upper 20s and to mid 30s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_night.png"
   },
   {
     "heading": "Thursday",
-    "text": "Rain becoming likely from the Green Mountains west. Early sun east, a rising chance of showers.",
+    "text": "Showers spreading in\u00a0 slowly from the southwest.",
     "temperature": "Low to mid 50s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_rain.png"
   },
