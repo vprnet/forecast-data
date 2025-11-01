@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Saturday",
-    "text": "Localized rain or snow showers north, tapering off in the afternoon. Morning clouds south giving way to increasing sunshine. Chilly. Highs only in the 40s, upper 30s over the higher terrain north. West winds, shifting to the northwest 10 to 20 mph, gusting to 35 mph."
-  },
-  {
     "heading": "Saturday Night",
     "text": "Remaining mostly cloudy north, with clouds returning south. Lows in the 20s to low 30s. Winds northwest 10 to 15 mph, gusting to 25 mph in the evening, diminishing overnight."
   },
   {
     "heading": "Sunday",
     "text": "Periods of clouds through the north and mountains, giving way to more afternoon sun. Morning sun mixing with clouds in the Champlain and southern valleys. Continued chilly. Highs ranging through the 40s. Winds northwest 5 to 15 mph."
+  },
+  {
+    "heading": "Sunday Night",
+    "text": "Mostly clear, fog developing in the valleys after midnight. Lows in the upper 20s northeast to mid 30s southwest."
   }
 ]
