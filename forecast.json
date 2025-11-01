@@ -1,15 +1,15 @@
 [
   {
-    "heading": "Friday Night",
-    "text": "Windy. Showers ending south, changing to snow over higher terrain north.",
-    "temperature": "30s, upper 20s in the Adirondacks",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers_winter_mix_night.png"
-  },
-  {
     "heading": "Saturday",
     "text": "Scattered valley rain and mountain snow showers, mainly north.",
     "temperature": "Upper 30s to upper 40s north to south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_rain_showers.png"
+  },
+  {
+    "heading": "Tonight",
+    "text": "Mostly cloudy north, some clearing south. Breezy.",
+    "temperature": "30s, upper 20s in the cold hollows",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/mostly_cloudy_night.png"
   },
   {
     "heading": "Sunday",
