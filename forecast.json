@@ -10,5 +10,17 @@
     "text": "Showers developing, mainly north.",
     "temperature": "Mid 40s to around 50 north, upper 40s to mid 50s south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
+  },
+  {
+    "heading": "Thursday",
+    "text": "Windy. Rain or snow showers decreasing.",
+    "temperature": "Upper 30s to mid 40s north, mid to upper 40s south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_rain_showers.png"
+  },
+  {
+    "heading": "Friday",
+    "text": "Chance of showers, mainly north.",
+    "temperature": "40s north to around 50 south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
   }
 ]
