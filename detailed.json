@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Periods of sun south.  Any morning sun north giving way to more clouds.  A spotty flurry or sprinkle north this morning, then a rising chance of rain showers in NY into Montreal late.  Highs in the 40s north to around 50 south.  Light winds, becoming southwest near 10 mph east of the Green Mountains, and 10 to 20 mph, gusting to 35 mph from the Green Mountains west."
-  },
-  {
     "heading": "Tonight",
-    "text": "Showers spreading east this evening, becoming scattered overnight.  Lows in the 30s north, low to mid 40s in the Champlain Valley and south.  South winds becoming southwest 10 to 15 mph, gusting 20 to 30 mph."
+    "text": "Showers spreading east, then becoming scattered overnight. Lows in the 30s north, low to mid 40s in the Champlain Valley and south. South wind becoming southwest 10 to 15 mph, gusting 20 to 25 mph."
   },
   {
     "heading": "Saturday",
-    "text": "A few localized morning rain showers, then periods of sun.  A stray afternoon shower south.  Milder. Highs in the upper 40s to low 50s north, 50s south, steady or falling in the afternoon.  Southwest winds becoming west near 10 mph."
+    "text": "Chance of localized morning rain showers, then periods of sun and a slight chance for a stray afternoon shower south. Milder. Highs in the upper 40s to low 50s north, 50s south. Southwest wind turning west to northwest near 10 mph."
+  },
+  {
+    "heading": "Saturday Night",
+    "text": "Increasing clouds overnight. Slight chance of scattered rain and snow showers before dawn. Lows from the 20s to low 30s. Light and variable wind."
   }
 ]
