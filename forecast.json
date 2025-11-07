@@ -1,26 +1,26 @@
 [
   {
-    "heading": "Thursday Night",
-    "text": "Slow clearing, then more clouds west late.",
-    "temperature": "Mainly low to mid 20s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_night.png"
-  },
-  {
-    "heading": "Friday",
-    "text": "Rising chance of showers mid to late afternoon, mainly north.",
-    "temperature": "Lower 40s to lower 50s, north to south",
+    "heading": "Today",
+    "text": "Breaks of sun south. Becoming cloudy north, showers in NY late.",
+    "temperature": "40s north, near 50 south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
   },
   {
+    "heading": "Friday Night",
+    "text": "Evening showers, then tapering off.",
+    "temperature": "30s north, 40s Champlain Valley and south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_rain_night.png"
+  },
+  {
     "heading": "Saturday",
-    "text": "Scattered rain showers tapering off.",
-    "temperature": "Mainly upper 40s to mid 50s",
+    "text": "A few stray showers. Periods of sun developing, milder.",
+    "temperature": "Upper 40s and 50s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
   },
   {
     "heading": "Sunday",
-    "text": "Rising chance of rain or mountain snow in the afternoon.",
+    "text": "Rising chance of rain southwest to northeast.",
     "temperature": "40 to 50, north to south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_rain_showers.png"
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_rain.png"
   }
 ]
