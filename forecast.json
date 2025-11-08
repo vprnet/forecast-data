@@ -1,15 +1,15 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Evening scattered showers, tapering off overnight.",
-    "temperature": "3os north, 40s elsewhere",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_wintery_mix_night.png"
-  },
-  {
-    "heading": "Saturday",
+    "heading": "Today",
     "text": "Spotty showers. Some afternoon sunshine.",
     "temperature": "Upper 40s to 50s.",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
+  },
+  {
+    "heading": "Tonight",
+    "text": "Chance of scattered rain/snow showers.",
+    "temperature": "20s to low 30s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_wintery_mix_night.png"
   },
   {
     "heading": "Sunday",
