@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Showers spreading east, then becoming scattered overnight. Lows in the 30s north, low to mid 40s in the Champlain Valley and south. South wind becoming southwest 10 to 15 mph, gusting 20 to 25 mph."
-  },
-  {
-    "heading": "Saturday",
+    "heading": "Today",
     "text": "Chance of localized morning rain showers, then periods of sun and a slight chance for a stray afternoon shower south. Milder. Highs in the upper 40s to low 50s north, 50s south. Southwest wind turning west to northwest near 10 mph."
   },
   {
-    "heading": "Saturday Night",
+    "heading": "Tonight",
     "text": "Increasing clouds overnight. Slight chance of scattered rain and snow showers before dawn. Lows from the 20s to low 30s. Light and variable wind."
+  },
+  {
+    "heading": "Sunday",
+    "text": "Mostly cloudy. Increasing chance of rain or mountain snow showers, becoming more widespread in the afternoon. Highs in the 40s north, increasing to the 50s south. Light wind, becoming east to southeast near 10 mph."
   }
 ]
