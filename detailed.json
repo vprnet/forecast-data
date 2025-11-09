@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Increasing clouds overnight. Increasing chance of scattered light wintry mix and snow showers after midnight. Lows from the 20s to low 30s. Light and variable wind."
-  },
-  {
     "heading": "Sunday",
     "text": "Mostly cloudy. Wintry precipitation developing in the morning, turning over to rain as the day warms up, with a chance for freezing rain to stick around in the Champlain Valley and northern hills. Highs near 40 in the north, increasing to near 50 in the south. Light wind, becoming east to southeast near 10 mph."
   },
   {
     "heading": "Sunday Night",
     "text": "Cloudy. Rain, mixing or changing to snow over the higher hills and the mountains. Lows in the 30s, nearing 40 in the southern valleys. Light and variable wind."
+  },
+  {
+    "heading": "Monday",
+    "text": "Rain showers, mixing with snow or wintry mix in the northern mountains, then becoming more scattered later in the day. Highs in the 30s increasing to the 40s and 50s in the southern valleys."
   }
 ]
