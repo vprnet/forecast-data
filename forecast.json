@@ -1,13 +1,7 @@
 [
   {
-    "heading": "Sunday",
-    "text": "Wintry precipitation turning over to rain in the afternoon.",
-    "temperature": "40s north, 50s south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_winter_mix.png"
-  },
-  {
     "heading": "Tonight",
-    "text": "Chance of scattered wintry precipitation.",
+    "text": "Chance of widespread to scattered wintry precipitation.",
     "temperature": "20s to low 30s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_wintery_mix_night.png"
   },
@@ -20,7 +14,13 @@
   {
     "heading": "Tuesday",
     "text": "Chance of scattered rain/snow showers.",
-    "temperature": "40s",
+    "temperature": "30s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_rain_showers.png"
+  },
+  {
+    "heading": "Wednesday",
+    "text": "Light snow, becomes scattered in the afternoon",
+    "temperature": "lower 30s north, upper 30s south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_snow.png"
   }
 ]
