@@ -1,25 +1,25 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Chance of widespread to scattered wintry precipitation.",
-    "temperature": "20s to low 30s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_wintery_mix_night.png"
-  },
-  {
-    "heading": "Monday",
-    "text": "Rain showers, mixing with mountain snow showers.",
-    "temperature": "Upper 30s north, 50s south",
+    "heading": "Today",
+    "text": "Morning rain tapers off. Afternoon rain spreads north, changing to snow in NY.",
+    "temperature": "30s west to near 50 east",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_winter_mix.png"
   },
   {
+    "heading": "Monday Night",
+    "text": "Rain changes to snow showers north, south through the mountains, tapering off. Some clearing south.",
+    "temperature": "20s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_wintery_mix_night.png"
+  },
+  {
     "heading": "Tuesday",
-    "text": "Chance of scattered rain/snow showers.",
-    "temperature": "30s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_rain_showers.png"
+    "text": "Snow showers north, south through mountains. Clouds southern valleys.",
+    "temperature": "Upper 20s and 30s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
   },
   {
     "heading": "Wednesday",
-    "text": "Light snow, becomes scattered in the afternoon",
+    "text": "Snow showers north, south through mountains. Clouds southern valleys.",
     "temperature": "lower 30s north, upper 30s south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_snow.png"
   }
