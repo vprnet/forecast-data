@@ -1,11 +1,5 @@
 [
   {
-    "heading": "Today",
-    "text": "Morning rain tapers off. Afternoon rain spreads north, changing to snow in NY.",
-    "temperature": "30s west to near 50 east",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_winter_mix.png"
-  },
-  {
     "heading": "Monday Night",
     "text": "Rain changes to snow showers north, south through the mountains, tapering off. Some clearing south.",
     "temperature": "20s",
@@ -22,5 +16,11 @@
     "text": "Snow showers north, south through mountains. Clouds southern valleys.",
     "temperature": "lower 30s north, upper 30s south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_snow.png"
+  },
+  {
+    "heading": "Thursday",
+    "text": "Scattered snow showers in the mountains, mixing with rain in the valleys.",
+    "temperature": "30s north to near 40 south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_winter_mix.png"
   }
 ]
