@@ -1,15 +1,9 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Scattered snow showers, mixing with rain in the broad valleys",
-    "temperature": "Mid 30s to lower 40s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_rain_showers.png"
-  },
-  {
-    "heading": "Tonight",
+    "heading": "Wednesday Night",
     "text": "Scattered snow showers, numerous in the northern mountains",
     "temperature": "Mainly upper 20s to lower 30s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy_night.png"
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers_night.png"
   },
   {
     "heading": "Thursday",
@@ -22,5 +16,11 @@
     "text": "Scattered snow showers, mainly north.",
     "temperature": "Lower 30s to lower 40s, north to south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
+  },
+  {
+    "heading": "Saturday",
+    "text": "Partly cloudy; chance of late-day rain or mix in the St. Lawrence Valley.",
+    "temperature": "Lower 30s to lower 40s, north to south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   }
 ]
