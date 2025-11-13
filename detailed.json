@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly cloudy. Scattered to numerous snow showers in the mountains, with a trace to 2 inches; scattered snow or rain showers in the valleys, with little or no accumulation. Valley temperatures in the low to mid 40s in the south, and mid 30s to around 40s north. West to northwest winds 5 to 10 mph."
-  },
-  {
-    "heading": "Tonight",
+    "heading": "Thursday Night",
     "text": "Mostly cloudy, with scattered snow showers north; less than an inch in the valleys, and 1 to 3 inches over high terrain. Lows from the mid 20s to around 30, except lower 20s in the Adirondacks. Northwest winds 5 to 10 mph."
   },
   {
     "heading": "Friday",
-    "text": "Partly cloudy in southern valleys; mostly cloudy elsewhere, with scattered snow showers north and in the southern Greens; some rain possibly mixing across the broad valleys; a trace to an inch of snow over high terrain. Highs from the mid 30s to around 40, with lower 40s in far southern valleys, and some lower 30s northeast and in the Adirondacks. Northwest winds 5 to 10 mph."
+    "text": "Partly cloudy in southern valleys; mostly cloudy elsewhere, with scattered snow showers in the northern mountains, isolated in northern valleys. Valley highs from the mid 30s to around 40, with lower 40s in far southern valleys, and some lower 30s northeast and in the Adirondacks. Northwest winds 5 to 10 mph."
+  },
+  {
+    "heading": "Friday Night",
+    "text": "Partly cloudy south; periods of clouds north, with a chance of mountain snow showers northeast, mainly before midnight. Lows from the upper teens to mid 20s. Northwest winds 5 to 10 mph and diminishing."
   }
 ]
