@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Mostly cloudy north, with localized, passing snow showers, and some breaks of sun. Periods of sunshine south, sunniest in southern valleys, with a stray afternoon snow shower. Highs in the low to mid 30s north, near 40 south. Northwest winds 5 to 15 mph."
-  },
-  {
     "heading": "Tonight",
-    "text": "Any snow showers ending. Clearing south, and becoming partly cloudy in northern valleys, clouds lingering near the mountains. Lows in the upper teens to mid 20s. Winds diminishing to light and variable."
+    "text": "Snow showers ending overnight. Some clearing developing in the south, clouds sticking around in the north. Patchy fog developing after midnight. Lows from the teens to mid 20s. Wind diminishing to light and variable."
   },
   {
     "heading": "Saturday",
-    "text": "Early clouds north give way to sun, and morning sunshine south. Increasing afternoon clouds west to east. Highs from the low 30s to low 40s north to south. Light winds, becoming south up to 10 mph in the afternoon."
+    "text": "Sunshine with mixed clouds in the morning, increasing cloud cover midday. Chance of rain/wintery mix showers arriving from the west to the east in the afternoon. Highs from the low to mid 30s in the north, near 40 in the Champlain Valley, increasing to the 40s south. Light and variable wind."
+  },
+  {
+    "heading": "Saturday Night",
+    "text": "Wintry mix, freezing rain, and snow showers in the north, changing over to rain from the southwest to the northeast. Lows from 20s in the northeast, in the low to mid 30s elsewhere. Light wind, becoming south near 10 mph."
   }
 ]
