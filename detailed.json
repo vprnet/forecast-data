@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Wintry mix, freezing rain, and snow showers in the north, changing over to rain from the southwest to the northeast. Lows from 20s in the northeast, in the low to mid 30s elsewhere. Light wind, becoming south near 10 mph."
-  },
-  {
-    "heading": "Sunday",
+    "heading": "Today",
     "text": "Mostly cloudy. A wintry mix or rain in the morning, then turning over to snow in the afternoon, with some wintry mix lingering in the Champlain and Southern valleys. Highs in the mid to upper 30s. West wind at 10 to 15 mph, gusting 20 to 25 mph, higher gusts expected in the Champlain Valley."
   },
   {
-    "heading": "Sunday Night",
+    "heading": "Tonight",
     "text": "Mostly cloudy, some clearing developing in the southern valleys. Scattered to numerous snow showers through the north and mountains, more isolated in the south. Lows in the 20s, nearing 30 along Lake Champlain. Northwest wind 10 to 15 mph, gusting to 20 mph, higher gusts in the Champlain Valley."
+  },
+  {
+    "heading": "Monday",
+    "text": "Mostly cloudy, some clearing developing in the southern valleys. Snow showers retreating north, highest chances over the northern Greens. Highs in the low 30s in the north increasing to near 40 in the south. Northwest wind at 5 to 15 mph, gusting 20 to 25 mph."
   }
 ]
