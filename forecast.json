@@ -1,19 +1,13 @@
 [
   {
-    "heading": "Today",
-    "text": "Morning clouds giving way to increasing sun Champlain Valley and south. A few flurries, mostly cloudy northeast.",
-    "temperature": "30 to 40 north to south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
-  },
-  {
     "heading": "Tuesday Night",
-    "text": "Becoming mostly clear, except clouds northeast.",
-    "temperature": "Upper teens to low 20s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_night.png"
+    "text": "Clearing, except some clouds far north and in the Berkshires.",
+    "temperature": "Mainly teens to lower 20s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/09/Mostly_clear_night.png"
   },
   {
     "heading": "Wednesday",
-    "text": "Morning clouds northeast, then partly to mostly sunny.",
+    "text": "Partly to mostly sunny.",
     "temperature": "Mid 30s to mid 40s, north to south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   },
@@ -22,5 +16,11 @@
     "text": "Clouds mixed with some sun.",
     "temperature": "Mid 30s to mid 40s, north to south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
+  },
+  {
+    "heading": "Friday",
+    "text": "Chance of rain showers; maybe some spotty and brief wintry mix.",
+    "temperature": "Upper 30s to mid 40s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_rain_showers.png"
   }
 ]
