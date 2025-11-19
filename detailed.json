@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Mostly sunny skies with periods of passing clouds. Highs in the mid to upper 30s, low to mid 30s in the northeast, increasing to the mid 40s in the south. Light and variable northwest wind."
-  },
-  {
     "heading": "Tonight",
-    "text": "Mostly clear, then increasing clouds from the west before dawn. Temperatures will range from the low to mid-20s, dropping into the teens in the northeast, with single digits in the coldest hollows. Wind diminishing to calm."
+    "text": "Mostly clear, then increasing clouds from the west before dawn. Cold. Temperatures will range from the low 20s in the southwest, dropping into the teens in the northeast, with single digits in the coldest hollows. Wind diminishing to calm."
   },
   {
     "heading": "Thursday",
-    "text": "Periods of morning clouds, then more sunshine developing from the west to east. Highs in the mid-30s to lows in the 40s north, increasing to low to mid-40s south. Light and variable wind."
+    "text": "Periods of morning clouds, then more sunshine developing from the west to east. By noon, mostly clear north, mostly cloudy south of Route 4.Highs in the mid-30s to low 40s north, increasing to low to mid-40s south. Light and variable wind."
+  },
+  {
+    "heading": "Thursday Night",
+    "text": "Partly cloudy, then clouds increasing from the west after midnight. Lows from the upper 20s west of the Greens, dropping into the mid 20s east of the Greens, with some teens in the cold hollows in the Northeast Kingdom. Light wind."
   }
 ]
