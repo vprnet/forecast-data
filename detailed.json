@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Mostly cloudy. Scattered showers of morning rain or light wintry mix near and north or Route 2; then scattered afternoon rain or mountain snow showers. Highs from the upper 30s to mid 40s. South to southwest 5 to 15 mph, gusting to 25 mph west of the Greens."
-  },
-  {
     "heading": "Tonight",
-    "text": "Mostly cloudy. Scattered showers north, diminishing early, and then a chance of snow showers late. Lows from the mid 20s to lower 30s. South to southwest winds gusting to 20 mph early, then becoming west to northwest 5 to 10 mph overnight."
+    "text": "Mostly cloudy. Chance of a few lingering showers mainly north of Route 2, turning over to snow as temperatures drop. Lows from the upper 20s to low 30s. Chance of patchy valley fog developing before dawn. Light and variable wind."
   },
   {
     "heading": "Saturday",
-    "text": "Decreasing clouds, except mostly cloudy in the northern mountains, with a chance of a flurry. Highs in the low to mid 30s north, upper 30s to mid 40s south. North to northwest winds 5 to 15 mph."
+    "text": "Mostly cloudy north, with variable clouds south. Highs from the low to upper 30s in the northeast, upper 30s to near 40 in the Champlain Valley, increasing to the upper 40s in the southern valleys. Northwest wind at 5 to 10 mph."
+  },
+  {
+    "heading": "Saturday Night",
+    "text": "Partly cloudy south, more clouds in the northeast. Lows from the teens to lows 20s in the northeast, low to mid 20s elsewhere. Light southwest wind."
   }
 ]
