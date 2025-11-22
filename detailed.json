@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Mostly cloudy. Chance of a few lingering showers mainly north of Route 2, turning over to snow as temperatures drop. Lows from the upper 20s to low 30s. Chance of patchy valley fog developing before dawn. Light and variable wind."
-  },
-  {
-    "heading": "Saturday",
+    "heading": "Today",
     "text": "Mostly cloudy north, with variable clouds south. Highs from the low to upper 30s in the northeast, upper 30s to near 40 in the Champlain Valley, increasing to the upper 40s in the southern valleys. Northwest wind at 5 to 10 mph."
   },
   {
-    "heading": "Saturday Night",
+    "heading": "Tonight",
     "text": "Partly cloudy south, more clouds in the northeast. Lows from the teens to lows 20s in the northeast, low to mid 20s elsewhere. Light southwest wind."
+  },
+  {
+    "heading": "Sunday",
+    "text": "Mostly cloudy north, partly sunny south. Increasing clouds as showers spread to the east in the afternoon. Highs from the mid to upper 30s north, increasing to the low 40s in the south. Light southwest wind."
   }
 ]
