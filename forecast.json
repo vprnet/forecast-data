@@ -1,11 +1,5 @@
 [
   {
-    "heading": "Today",
-    "text": "Mostly cloudy north, partly cloudy south.",
-    "temperature": "30s north, 40s in the CV & South",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/mostly_cloudy.png"
-  },
-  {
     "heading": "Tonight",
     "text": "Some clearing with mixed clouds.",
     "temperature": "Teens to 20s.",
@@ -22,5 +16,11 @@
     "text": "Showers north, diminishing in the afternoon.",
     "temperature": "Mid 30s north, mid 40s south.",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_rain_showers.png"
+  },
+  {
+    "heading": "Tuesday",
+    "text": "Increasing chance of rain/snow showers.",
+    "temperature": "40s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_winter_mix.png"
   }
 ]
