@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Partly cloudy south, more clouds in the northeast. Lows from the teens to lows 20s in the northeast, low to mid 20s elsewhere. Light southwest wind."
-  },
-  {
     "heading": "Sunday",
     "text": "Increasing clouds as showers spread to the east in the afternoon. Highs from the mid to upper 30s north, increasing to the low 40s in the south. Light southwest wind."
   },
   {
     "heading": "Sunday Night",
     "text": "Mostly cloudy. Scattered snow showers mainly north of Route 11, wintery mix and rain possible in the Champlain Valley. Lows from the mid 20s to near 30. Light and variable wind."
+  },
+  {
+    "heading": "Monday",
+    "text": "A few lingering snow showers north of Route 2 in the morning, dissipating in the afternoon. Highs in the low mid 40s, mid 30s to near 40 in the north. Northwest wind at 5 to 10 mph."
   }
 ]
