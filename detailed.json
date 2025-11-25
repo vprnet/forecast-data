@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Mostly to partly cloudy. Chance of late-day rain showers in areas south and west of Interstate 89. Highs in the mid to upper 40s, with some lower 40s northeast, and around 50 in the valleys west of the Greens. South winds 5 to 15 mph, gusting to 25 mph in the Champlain Valley."
-  },
-  {
     "heading": "Tonight",
-    "text": "Cloudy. Rain likely, with some isolated and brief wintry mix possible northeast. Lows from the mid 30s to lower 40s, some lower 30s northeast. Light winds, variable to south, except south around 10 mph in the Champlain Valley."
+    "text": "Rain showers, with spotty wintry mix possible northeast. Lows from the mid 30s to low 40s, some low 30s possible in the northeast. South wind becoming light and variable before midnight."
   },
   {
     "heading": "Wednesday",
-    "text": "Mostly cloudy. Scattered rain showers. Highs in the mid to upper 50s in the south, and upper 40s to mid 50s north. Winds light from the south, except 5 to 10 mph in the Champlain Valley."
+    "text": "Mostly cloudy. Scattered rain showers. Highs from the mid 40s to low 50s in the north increasing into the mid to upper 50s in the south. Light south wind, more breezy in the Champlain Valley."
+  },
+  {
+    "heading": "Wednesday Night",
+    "text": "Mostly cloudy. Rain showers, possibly mixing with snow after midnight. Lows in the low to mid 30s, some 20s possible over the higher hills and Greens. Wind turning southwest at 5 to 15 mph."
   }
 ]
