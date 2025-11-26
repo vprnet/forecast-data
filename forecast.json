@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Scattered rain showers. Breezy.",
-    "temperature": "Mid-40s North, Upper-50s South.",
+    "heading": "This Afternoon",
+    "text": "Widely scattered showers.",
+    "temperature": "Mid to upper 50s south, upper 40s to mid 50s north",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_rain.png"
   },
   {
     "heading": "Tonight",
-    "text": "Showers. Snow and wintry mix possible in the north.",
-    "temperature": "30s",
+    "text": "Showers likley early, maybe mixing with snow late in the far north.",
+    "temperature": "Low to mid 30s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_wintery_mix_night.png"
   },
   {
