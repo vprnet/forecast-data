@@ -1,14 +1,18 @@
 [
   {
-    "heading": "***WINTER WEATHER ADVISORY FOR THE BERKSHIRES THROUGH THIS EVENING***This Afternoon",
-    "text": "Scattered snow showers, more numerous over the higher terrain north, and far southern VT and the Berkshires. A dusting to 2 inches, greater over the northern mountains. Still blustery. Temperatures steady or falling in the upper 20s and 30s. West winds 10 to 20 mph, gusting to 35 mph."
-  },
-  {
-    "heading": "Tonight",
+    "heading": "***WINTER WEATHER ADVISORY FOR THE BERKSHIRES THROUGH THIS EVENING***Tonight",
     "text": "Mostly cloudy. Snow showers diminishing, lingering through the northern and far southern mountains. Lows mainly in the low to mid 20s. West winds 10 to 15 mph, gusting to 25 mph."
   },
   {
     "heading": "Saturday",
     "text": "Becoming mostly sunny south. Periods of clouds, and any snow showers in the northeastern mountains, giving way to increasing periods of afternoon sun. Highs in the 20s to near 30 north, low to mid 30s south. West to northwest winds 10 to 15 mph, gusting to 25 mph."
+  },
+  {
+    "heading": "Saturday Night",
+    "text": "Clear early, then increasing clouds. Chance of late-night snow through NY. Lows in the low to mid 20s south and in the Champlain Valley, teens elsewhere north. Winds becoming light and variable, turning to the south near 10 mph west of the Green Mountains."
+  },
+  {
+    "heading": "Sunday",
+    "text": "Occasional periods of snow, some light accumulations possible, mixing with rain in the valleys in the afternoon. Highs in the 30s to low 40s north to south. Winds becoming south to southeast 10 to 15 mph, gusting 20 to 30 mph."
   }
 ]
