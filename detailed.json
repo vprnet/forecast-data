@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Sunshine with mixed clouds. Highs in the 20s to near 30 north, low to mid 30s south. West to northwest wind 10 to 15 mph, gusting to 20 mph."
-  },
-  {
     "heading": "Tonight",
-    "text": "Clear skies early, then increasing clouds. Chance of scattered snow showers west of the Greens after midnight. Lows in the low to mid 20s south and in the Champlain Valley, teens to near 20 north. Wind becoming light and variable."
+    "text": "Clear skies early, then increasing clouds. Chance of scattered snow showers west of the Greens after midnight. Lows in the low to mid 20s south and in the Champlain Valley, upper-teens to near 20 north. Wind becoming light and variable."
   },
   {
     "heading": "Sunday",
-    "text": "Widespread snow showers, mixing with rain in the valleys in the afternoon. Highs from the mid 30s to low 40s, a few spots staying near freezing in the northeast. Wind becoming south to southeast 10 to 15 mph, gusting 20 to 30 mph."
+    "text": "Scattered snow showers moving west to east, mixing with rain in the valleys in the afternoon. Highs from the mid to upper 30s, low 40s in the southern valleys. Wind becoming south to southeast 10 to 15 mph, gusting 20 to 30 mph."
+  },
+  {
+    "heading": "Sunday Night",
+    "text": "Mostly cloudy. Rain showers in the south, dissipating before midnight, scattered snow showers continuing in the north. Lows from the low 20s north, increasing to near 30 south. Southwest wind at 5 to 15 mph."
   }
 ]
