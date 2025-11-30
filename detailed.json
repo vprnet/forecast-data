@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Sunday",
-    "text": "Scattered snow showers moving west to east, mixing with rain in the valleys in the afternoon. Highs from the mid to upper 30s, low 40s in the southern valleys. Wind becoming south to southeast 10 to 15 mph, gusting 20 to 30 mph."
-  },
-  {
     "heading": "Sunday Night",
     "text": "Mostly cloudy. Rain showers in the south, dissipating before midnight, scattered snow showers continuing in the north. Lows from the low 20s north, increasing to near 30 south. Southwest wind at 5 to 15 mph."
   },
   {
     "heading": "Monday",
     "text": "Variable clouds in the morning, with a few snow showers in the north, then more sunshine developing in the afternoon. Colder. Highs from the mid 20s north, increasing to the mid 30s south."
+  },
+  {
+    "heading": "Monday Night",
+    "text": "Mostly clear, then increasing clouds from the southwest. Much colder. Lows in the teens, single digits possible in the northeast."
   }
 ]
