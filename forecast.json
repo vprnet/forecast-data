@@ -1,26 +1,26 @@
 [
   {
-    "heading": "Today",
-    "text": "Any snow showers north ending. Becoming sunny south, increasing afternoon sun north. Blustery, colder.",
-    "temperature": "20s north, 30s south, falling.",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
-  },
-  {
     "heading": "Monday Night",
-    "text": "Fair early, then clouds. Some snow in NY late.",
-    "temperature": "Teens, 5 to 10 northeast",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_snow_showers_night.png"
+    "text": "Partly to mostly cloudy.",
+    "temperature": "Teens",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/mostly_cloudy_night.png"
   },
   {
     "heading": "Tuesday",
-    "text": "Snow spreading east, moderate to heavy east and south.",
-    "temperature": "20s north, 32 south",
+    "text": "Snow, moderate to heavy east and south.",
+    "temperature": "Mid 20s to around 30",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/heavy_snow.png"
   },
   {
+    "heading": "Tuesday Night",
+    "text": "Early snow, mainly east and south, tapering off by midnight.",
+    "temperature": "Mid teens to mid 20s, north to south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_moderate_night.png"
+  },
+  {
     "heading": "Wednesday",
-    "text": "Early clouds north. Sun, mixing with afternoon clouds.",
-    "temperature": "20s to low 30s",
+    "text": "Variable clouds.",
+    "temperature": "Mid 20s to lower 30s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   }
 ]
