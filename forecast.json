@@ -1,11 +1,5 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Snow, heavier east and south.",
-    "temperature": "Mid 20s to around 30",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/heavy_snow.png"
-  },
-  {
     "heading": "Tonight",
     "text": "Snow tapering off by midnight, could be heavy early east and south.",
     "temperature": "Teens to around 20",
@@ -13,8 +7,8 @@
   },
   {
     "heading": "Wednesday",
-    "text": "Early clouds north. Sun, mixing with clouds.",
-    "temperature": "Upper 20s to low 30s",
+    "text": "Variable clouds.",
+    "temperature": "Mid 20s to lower 30s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   },
   {
@@ -22,5 +16,11 @@
     "text": "Snow showers or squalls, mostly north.",
     "temperature": "Mid 20s to mid 30s, north to south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_sun.png"
+  },
+  {
+    "heading": "Friday",
+    "text": "Partly to mostly sunny.",
+    "temperature": "Upper teens to mid 20s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   }
 ]
