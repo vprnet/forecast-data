@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly to partly cloudy, with clearing in the St. Lawrence Valley. Scattered snow showers and periods of blowing snow; a squall possible, mainly the south. Valley temperatures falling into the teens north, and into the 20s in the south. West to northwest winds 10 to 20 mph and gusting to 35 mph."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Partly cloudy in the evening, then clearing and much colder. Lows 5 above to 5 below zero, cold hollows around 10 below. Northwest winds 10 to 20 mph, gusting to 30 mph, decreasing after midnight."
+    "heading": "Thursday Night",
+    "text": "Chance of early flurries near and south of Route 2, otherwise clearing. Lows from zero to 10 below, with cold hollows around 15 below. Northwest winds 10 to 20 mph, gusting to 30 mph, decreasing after midnight."
   },
   {
     "heading": "Friday",
     "text": "Mostly to partly sunny. Valley highs mainly in the upper teens to lower 20s. Northwest winds 5 to 10 mph early, becoming light and variable, then becoming south 5 to 10 mph west of the Greens."
+  },
+  {
+    "heading": "Friday Night",
+    "text": "Gradually increasing clouds. Lows from the mid teens to around 20, except single digits to lower teens northeast. Winds becoming light, variable to south, except from the south at 5 to 15 mph in the Champlain Valley."
   }
 ]
