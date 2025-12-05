@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Sunshine, mixing with periods of clouds.  Cold.  Highs in the teens to near 20 north, low to mid 20s south.  Winds light, becoming south near 10 mph west of the Green Mountains."
-  },
-  {
     "heading": "Tonight",
-    "text": "Periods of clouds developing south, spreading north overnight.  Lows zero to 10 above northeast, and teens southwest.  Winds light east, and south near 10 mph from the Green Mountains west."
+    "text": "Increasing clouds first in the south, then spreading north overnight. Lows from the single digits to near 10, increasing to the teens in the southwest. Light and variable wind."
   },
   {
     "heading": "Saturday",
-    "text": "Becoming mostly cloudy.  A chance of snow showers north in the afternoon.  Not as cold.  Highs in the upper 20s to mid 30s.  Winds light east, and south near 10 mph from the Green Mountains west."
+    "text": "Becoming mostly cloudy. A chance of snow showers north in the afternoon. Not as cold. Highs from the upper 20s to mid 30s. Light wind becoming south near 10 mph west of the Greens."
+  },
+  {
+    "heading": "Saturday Night",
+    "text": "A few scattered snow showers in the north and over the Green Mountains. Lows in the teens to near 20, some single digits in the cold hollows in the northeast. Light wind turning northwest."
   }
 ]
