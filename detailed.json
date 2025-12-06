@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Becoming mostly cloudy. Periods of light scattered snow showers. Highs from the mid 20s to low 30s, a few locations sticking around 20 in the northeast. Light wind becoming south near 10 mph west of the Greens."
-  },
-  {
     "heading": "Tonight",
-    "text": "A few scattered snow showers in the north and over the Green Mountains. Lows in the teens to near 20, some single digits in the cold hollows in the northeast. Light wind turning northwest."
+    "text": "Chance of isolated light snow showers, with the highest chances in the north. Lows in the teens, a few single digits in the cold hollows in the northeast. Light wind turning northwest."
   },
   {
     "heading": "Sunday",
-    "text": "Pockets of sunshine in the morning, then mostly cloudy. An increasing chance of snow showers west of the Greens late. Highs from the teens to near 20 in the north, increasing to the mid to upper 20s in the south."
+    "text": "Pockets of sunshine in the morning, then mostly cloudy. An increasing chance of snow showers west of the Greens around midday, heading east through the afternoon. Highs from the low to mid 20s north, increasing into the upper 20s and mid 30s heading south. Light and variable wind."
+  },
+  {
+    "heading": "Sunday Night",
+    "text": "Snow showers becoming widespread overnight. A coating to a few inches possible. Lows in the single digits to near 10, increasing to the teens in the far south. Wind turning northwest after midnight."
   }
 ]
