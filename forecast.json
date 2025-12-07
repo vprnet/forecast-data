@@ -1,15 +1,15 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Chance of light scattered snow showers.",
-    "temperature": "Teens, single digits in the cold hollows.",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_light_night.png"
-  },
-  {
     "heading": "Sunday",
     "text": "Partly becoming mostly cloudy. Snow showers arriving west to east.",
     "temperature": "20s to 30s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
+  },
+  {
+    "heading": "Tonight",
+    "text": "Chance of light scattered snow showers.",
+    "temperature": "Teens, single digits in the cold hollows.",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_light_night.png"
   },
   {
     "heading": "Monday",
