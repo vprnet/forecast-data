@@ -1,11 +1,5 @@
 [
   {
-    "heading": "Sunday",
-    "text": "Partly becoming mostly cloudy. Snow showers arriving west to east.",
-    "temperature": "20s to 30s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
-  },
-  {
     "heading": "Tonight",
     "text": "Chance of light scattered snow showers.",
     "temperature": "Teens, single digits in the cold hollows.",
@@ -22,5 +16,11 @@
     "text": "Increasing clouds, and snow showers arriving midday.",
     "temperature": "20s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_snow.png"
+  },
+  {
+    "heading": "Wednesday",
+    "text": "Widespread showers likely arriving west to east.",
+    "temperature": "20s to 30s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_winter_mix.png"
   }
 ]
