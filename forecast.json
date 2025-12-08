@@ -1,15 +1,9 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly sunny.",
-    "temperature": "8 to 15 north, 15 to 20 south.",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
-  },
-  {
-    "heading": "Tonight",
+    "heading": "Monday Night",
     "text": "Mostly clear and cold.",
     "temperature": "0 to 10 below, teens below in cold spots",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/clear_night.png"
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/09/Mostly_clear_night.png"
   },
   {
     "heading": "Tuesday",
@@ -22,5 +16,11 @@
     "text": "Snow likley.",
     "temperature": "Mainly upper 20s to lower 30s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_snow.png"
+  },
+  {
+    "heading": "Thursday",
+    "text": "Chance of morning snow showers.",
+    "temperature": "20 to 30, north to south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
   }
 ]
