@@ -1,25 +1,25 @@
 [
   {
-    "heading": "Monday Night",
-    "text": "Mostly clear and cold.",
-    "temperature": "0 to 10 below, teens below in cold spots",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/09/Mostly_clear_night.png"
-  },
-  {
-    "heading": "Tuesday",
-    "text": "Sun giving way to increasing clouds.",
-    "temperature": "Mainly upper teens to lower 20s",
+    "heading": "Today",
+    "text": "Morning sun giving way to increasing clouds.",
+    "temperature": "Upper teens to low 20s north, 20s south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   },
   {
+    "heading": "Tuesday Night",
+    "text": "Cloudy. Some light snow north, a few snow showers south.",
+    "temperature": "Teens, 5 to 10 northeast, low 20s west",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers_night.png"
+  },
+  {
     "heading": "Wednesday",
-    "text": "Snow likley.",
-    "temperature": "Mainly upper 20s to lower 30s",
+    "text": "Snow likley, some valley rain south and Champlain Valley",
+    "temperature": "Upper 20s and 30s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_snow.png"
   },
   {
     "heading": "Thursday",
-    "text": "Chance of morning snow showers.",
+    "text": "Scattered snow showers north and mountains, a little sun in southern valleys.",
     "temperature": "20 to 30, north to south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
   }
