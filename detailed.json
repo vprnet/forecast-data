@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Cloudy. Periods of snow. Some rain or wintry mix possible, mainly in southeastern valleys. Daytime snow totals of 2 to 5 inches, except 4 to 8 inches in the southern Adirondacks, southern Greens, and White Mountains, and 1 to 3 inches in southeastern valleys and in the Champlain Valley. Highs mainly in the upper 20s to lower 30s, with some mid 30s in southern valleys, and in the Champlain Valley, and some mid 20s northeast. South to southeast 5 to 15 mph, gusting to 30 mph in the Champlain Valley."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Snow diminishing from south to north; another trace to 2 inches, then scattered snow showers late in the north. Lows from the upper teens to mid 20s, some mid teens in far northern New York. South winds 5 to 10 mph, and gusting to 25 mph in the Champlain Valley, becoming west late."
+    "heading": "Wednesday Night",
+    "text": "Mostly cloudy. Snow diminishing from south to north; another trace to 2 inches, then scattered snow showers late in the north. Lows from the upper teens to mid 20s, some mid teens in far northern New York. South winds 5 to 10 mph, and gusting to 25 mph in the Champlain Valley, becoming west late."
   },
   {
     "heading": "Thursday",
     "text": "Mostly to partly cloudy in far southern valleys; otherwise mostly cloudy, with scattered snow showers north and in the southern Greens, with a trace to an inch in the valleys, and 1 to 3 inches in the hills. Periods of blowing snow, with temperatures steady or falling, from the mid to upper 20s in the south, and low to mid 20s north, except teens in far northern New York. West winds 10 to 20 mph, gusting to 35 mph."
+  },
+  {
+    "heading": "Thursday Night",
+    "text": "Periods of clouds. Scattered snow showers north, with another a trace to an inch in the valleys, and 1 to 3 inches in the hills. Lows in the single digits to around 10 above in the north, low to mid teens in the south. West winds 10 to 15 mph, gusting to 30 mph."
   }
 ]
