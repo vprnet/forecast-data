@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Partly cloudy in southern valleys; otherwise mostly cloudy, with scattered snow showers north and in the southern Greens, with a trace to an inch in the valleys, and 1 to 3 inches in the hills. Periods of blowing snow, with temperatures steady or falling, from the mid to upper 20s in the south, and low to mid 20s north, except teens in far northern New York. West winds 10 to 20 mph, gusting to 35 mph."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Periods of clouds. Scattered snow showers north, with another a trace to an inch in the valleys, and 1 to 3 inches in the hills. Lows in the single digits to around 10 above in the north, low to mid teens in the south. West winds 10 to 15 mph, gusting to 30 mph."
+    "heading": "Thursday Night",
+    "text": "Partly cloudy in southeastern valleys, otherwise mostly cloudy. Scattered to numerous snow showers north, with a trace to 2 inches, except 3 to 6 inches in the advisory areas. Lows in the single digits to around 10 above in the north, low to mid teens in the south. West winds 10 to 15 mph, gusting to 30 mph."
   },
   {
     "heading": "Friday",
-    "text": "Mostly sunny, except clouds gradually decreasing northeast, with some mountain snow showers there, mainly in the morning. Highs from the upper teens to mid 20s, except far southern valleys in the mid to upper 20s. West winds 10 to 15 mph, gusting to 30 mph."
+    "text": "Mostly sunny, except clouds gradually decreasing northeast, with some mountain snow showers there, mainly in the morning. Highs from the upper teens to mid 20s, except far southern valleys in the mid to upper 20s. West winds 5 to 15 mph, gusting to 30 mph in the morning."
+  },
+  {
+    "heading": "Friday Night",
+    "text": "Periods of clouds. Lows from the single digits to mid teens. Winds becoming light, variable to south."
   }
 ]
