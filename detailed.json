@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Mostly to partly cloudy, except mostly sunny in southeastern valleys. Scattered morning snow showers north, numerous over high terrain, with another 1 to 3 inches over the summits, all tapering off this afternoon. Highs in the mid to upper 20s in southern valleys and in the Champlain Valley, upper teens to mid 20s elsewhere north. West winds 10 to 15 mph, gusting to 30 mph."
-  },
-  {
     "heading": "Tonight",
-    "text": "Variable clouds, except remaining mostly cloudy far north. Lows from the single digits to mid teens. Winds becoming light, variable to south."
+    "text": "Variable clouds. Lows from the single digits to mid teens. Wind becoming light and variable."
   },
   {
     "heading": "Saturday",
-    "text": "Mostly cloudy north, partly cloudy south. Chance of afternoon snow showers, mainly west of the Greens. Highs from the mid 20s to around 30, some lower 20s northeast. South to southeast winds 5 to 10 mph."
+    "text": "Mostly cloudy. Chance of snow showers arriving west of Greens in the afternoon, spreading east into the evening. Highs from the upper 20s to low 30s. Light south to southwest wind."
+  },
+  {
+    "heading": "Saturday Night",
+    "text": "Mostly cloudy. Scattered snow showers. Lows in the teens. Light west wind."
   }
 ]
