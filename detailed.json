@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Mostly cloudy. Chance of snow showers arriving west of Greens in the afternoon, spreading east into the evening. Highs from the upper 20s to low 30s. Light south to southwest wind."
-  },
-  {
     "heading": "Tonight",
-    "text": "Mostly cloudy. Scattered snow showers. Lows in the teens. Light west wind."
+    "text": "Mostly cloudy. Periods of light snow showers. Lows in the teens. Light west wind."
   },
   {
     "heading": "Sunday",
-    "text": "Mostly cloudy. Scattered snow showers, diminishing in the afternoon. Highs from the low 20s in the north increasing to near 30 in the warmest southern valleys. Northwest wind at 5 to 10 mph."
+    "text": "Mostly cloudy. Scattered snow showers, diminishing through the afternoon. Highs from the low 20s in the north increasing to the upper 20s in the southern valleys. Northwest wind at 5 to 10 mph."
+  },
+  {
+    "heading": "Sunday Night",
+    "text": "Mostly cloudy, with some occasional clearing. Chance of upslope snow showers over the northern greens. Lows from the single digits to near 10. Northwest wind at 5 to 10 mph."
   }
 ]
