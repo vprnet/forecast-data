@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Mostly cloudy. Periods of light snow showers. Lows in the teens. Light west wind."
-  },
-  {
     "heading": "Sunday",
-    "text": "Mostly cloudy. Scattered snow showers, diminishing through the afternoon. Highs from the low 20s in the north increasing to the upper 20s in the southern valleys. Northwest wind at 5 to 10 mph."
+    "text": "Mostly cloudy. Scattered snow showers south of I-89, diminishing before noon. Highs from the low 20s in the north, increasing to the upper 20s in the southern valleys. Northwest wind at 5 to 10 mph."
   },
   {
     "heading": "Sunday Night",
-    "text": "Mostly cloudy, with some occasional clearing. Chance of upslope snow showers over the northern greens. Lows from the single digits to near 10. Northwest wind at 5 to 10 mph."
+    "text": "Partly to mostly cloudy. Chance of upslope snow showers over the northern greens. Lows in the single digits, below zero in the Adirondacks and lower Greens, low teens along the Champlain Valley. Blustery northwest winds of 10-15 mph gusting up to 20 mph support wind chills in the single digits to teens below zero."
+  },
+  {
+    "heading": "Monday",
+    "text": "Occasional sunshine in the south and through the valleys during the morning, then increasing clouds, becoming mostly cloudy during the afternoon. Highs in the mid to upper teens in southern valleys and in the Champlain Valley, low to mid teens elsewhere.\u00a0Lake effect likely in the Tug Hills and Western NY. Highs in the low to mid teens. Westerly winds less than 10 mph gusting to 15."
   }
 ]
