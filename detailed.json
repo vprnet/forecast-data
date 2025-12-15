@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Partly to mostly cloudy. Chance of flurries north. Highs from the mid teens to around 20, except low to mid 20s in the broad valleys west. West winds 5 to 10 mph, gusting to 20 mph."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Mostly cloudy. Scattered snow showers in the northern Adirondacks and northern Greens, chance in the White Mountains and southern Greens; a trace to an inch. Lows from 5 to 15 above, with northeastern cold hollows around zero. Winds becoming light, variable to southwest, except south to southwest 5 to 10 mph in the Champlain and St. Lawrence valleys."
+    "heading": "Monday Night",
+    "text": "Mostly cloudy. Scattered snow showers, mainly in the northern Adirondacks and northern Greens, chance in the White Mountains and southern Greens; a trace to an inch. Lows from 5 to 15 above. Winds becoming light, variable to southwest, except south to southwest 5 to 10 mph in the Champlain and St. Lawrence valleys."
   },
   {
     "heading": "Tuesday",
     "text": "Partly to mostly sunny, except partly cloudy in the Adirondacks and St. Lawrence Valley. Highs in the upper 20s to lower 30s in southern valleys, and in the broad valleys west, low to mid 20s elsewhere. Light winds east of the Green Mountains, from the south to southwest 5 to 10 mph in areas west of the Greens, and gusting to 20 mph in the Champlain Valley."
+  },
+  {
+    "heading": "Tuesday Night",
+    "text": "Mostly cloudy. Lows in the teens to around 20, rising into the 20s in the Champlain and St. Lawrence valleys. Winds becoming south 5 to 10 mph, gusting to 25 mph in the Champlain and St. Lawrence valleys."
   }
 ]
