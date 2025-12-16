@@ -1,19 +1,13 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly to partly sunny.",
-    "temperature": "Mainly upper 20s to lower 30s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
-  },
-  {
-    "heading": "Tonight",
-    "text": "Chance of wintry mix late in the St. Lwrence Valley.",
+    "heading": "Tuesday Night",
+    "text": "Chance of wintry mix late in the St. Lawrence Valley.",
     "temperature": "teens to around 20 east, 20s west",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy_night.png"
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_snow_showers_night.png"
   },
   {
     "heading": "Wednesday",
-    "text": "Chance of rain or wintry mix north.",
+    "text": "Periods of light wintry mix north.",
     "temperature": "30s to around 40",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_rain_showers.png"
   },
@@ -22,5 +16,11 @@
     "text": "Mostly to partly sunny.",
     "temperature": "Upper 30s to mid 40s, some mid 30s northeast",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
+  },
+  {
+    "heading": "Friday",
+    "text": "Rain likely, then mixing with or changing to snow after noon.",
+    "temperature": "Falling through the 30s west, and into the 30s east",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_rain_showers.png"
   }
 ]
