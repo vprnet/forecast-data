@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly cloudy. Periods of rain, snow, or wintry mix, mainly from the Adirondacks and Route 2 northward, sinking in the southern Greens Late. Highs from the mid 30s to lower 40s. South to southwest winds 5 to 15 mph, gusting to 30 mph in the Champlain and St. Lawrence valleys."
-  },
-  {
-    "heading": "Tonight",
+    "heading": "Wednesday Night",
     "text": "Mostly to partly cloudy. Scattered snow or early rain showers north, and in the southern Greens. Lows in the teens to around 20. Winds from the west early, near and north of Route 2; otherwise from the south 5 to 10 mph, and gusting to 20 mph late in the Champlain Valley."
   },
   {
     "heading": "Thursday",
     "text": "Mostly to partly sunny. Highs from the upper 30s to mid 40s, with some mid 30s northeast. South winds 5 to 15 mph, and gusting to 30 mph west of the Greens, except possibly gusting to 55 mph in the advisory areas."
+  },
+  {
+    "heading": "Thursday Night",
+    "text": "Cloudy. Some wintry mix possible northeast, otherwise rain developing. Temperature rising through the 30s east, and near-steady in the 40s west. South winds 10 to 20 mph, gusting to 35 mph, except possibly gusting to 55 mph in the advisory areas."
   }
 ]
