@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Saturday",
-    "text": "Mostly sunny south. Variable clouds and sun north, giving way to afternoon clouds, and a rising chance of snow in NY late. Highs from the mid 20s north, to the mid 30s south. Northwest winds 10 to 15 mph, gusting to 35 mph, up to 45 mph east of the Greens, turning to the south less than 10 mph, gusting to 25 mph from the Champlain Valley west."
-  },
-  {
     "heading": "Saturday Night",
-    "text": "Becoming cloudy. A chance of snow showers, mostly from the Adirondacks and Rt. 2 north. Lows in the 20s, a few upper teens northeast. Winds south 10 to 15 mph, gusting 20 to 30 mph."
+    "text": "Becoming cloudy. A chance of snow showers, mostly from the Adirondacks and Rt. 2 north. Lows in the 20s, a few upper teens northeast. Winds south 10 to 15 mph, gusting 20 mph."
   },
   {
     "heading": "Sunday",
     "text": "Partly sunny south. Early snow showers north, giving way to some sun, then more afternoon clouds and scattered snow showers. Highs in the upper 20s north, to near 30 south, falling during the afternoon. Wind southwest, becoming west 10 to 15 mph, gusting to 25 mph."
+  },
+  {
+    "heading": "Sunday Night",
+    "text": "Scattered snow showers north tapering off. Gradual clearing south. Colder. Lows 5 to 15 north to south."
   }
 ]
