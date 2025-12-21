@@ -1,15 +1,15 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Mostly cloudy. Snow showers tapering off late.",
-    "temperature": "Mid teens to near 10",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/mostly_cloudy_night.png"
-  },
-  {
     "heading": "Sunday",
     "text": "Scattered snow showers north, partly sunny south.",
     "temperature": "30s to near 40, falling",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_sun.png"
+  },
+  {
+    "heading": "Tonight",
+    "text": "Mostly cloudy. Snow showers tapering off late.",
+    "temperature": "Mid teens to near 10",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/mostly_cloudy_night.png"
   },
   {
     "heading": "Monday",
