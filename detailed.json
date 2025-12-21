@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Saturday Night",
-    "text": "Becoming cloudy. A chance of snow showers, mostly from the Adirondacks and Rt. 2 north. Lows in the 20s, a few upper teens northeast. Winds south 10 to 15 mph, gusting 20 mph."
-  },
-  {
     "heading": "Sunday",
     "text": "Partly sunny south. Early snow showers north, giving way to some sun, then more afternoon clouds and scattered snow showers. Highs in the upper 20s north, to near 30 south, falling during the afternoon. Wind southwest, becoming west 10 to 15 mph, gusting to 25 mph."
   },
   {
     "heading": "Sunday Night",
     "text": "Scattered snow showers north tapering off. Gradual clearing south. Colder. Lows 5 to 15 north to south."
+  },
+  {
+    "heading": "Monday",
+    "text": "Early clouds and flurries north, giving way to partly sunny skies. Becoming mostly sunny south. Much colder. Highs in the low to mid teens north, 20 to 25 south."
   }
 ]
