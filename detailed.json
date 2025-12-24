@@ -1,14 +1,22 @@
 [
   {
-    "heading": "Tuesday Night",
-    "text": "Cloudy. Snow likely, except tapering off near and south of Route 4 after midnight; some wintry mix possible in the southern Greens and Berkshires; 1 to 4 inches of snow, and locally higher amounts in the northern mountains. Lows from the mid 20s to around 30 south, and upper teens to mid 20s north, with some lower 20s far north. Southeast 5 to 10 mph, becoming northwest late."
+    "heading": "Today",
+    "text": "Morning snow northeast tapering off.  Clouds breaking for periods of sun, mostly west and south.  Highs in the 20s north, 30s south, steady or falling during the afternoon.  Northwest winds 10 to 15 mph, gusting to 25 mph, decreasing through the afternoon."
   },
   {
-    "heading": "Wednesday",
-    "text": "Decreasing clouds west and south. Mostly cloudy from the northern Greens eastward, with scattered snow showers, mainly in the morning; another trace to 2 inches, mainly over high terrain. Highs from the upper 20s to mid 30s in the south, and mid 20s to around 30 north. Northwest winds 10 to 15 mph, gusting to 25 mph in the morning, except gusting to 40 mph far south."
+    "heading": "Tonight",
+    "text": "  Briefly clearing south this evening, then mostly cloudy.  Snow showers late evening in the St. Lawrence and Adirondacks, spreading southeast after midnight through the Green Mountains and NH.   Lows in the teens north to the low 20s south.  Winds light and variable."
   },
   {
-    "heading": "Wednesday Night",
-    "text": "Partly to mostly cloudy. Lows mainly in the upper teens to lower 20s, with low to mid teens northeast, and mid 20s in the broad valleys west. Winds light and variable."
+    "heading": "Christmas Eve",
+    "text": "  Briefly clearing south this evening, then mostly cloudy.  Snow showers late evening in the St. Lawrence and Adirondacks, spreading southeast after midnight through the Green Mountains and NH.   Lows in the teens north to the low 20s south.  Winds light and variable."
+  },
+  {
+    "heading": "Thursday",
+    "text": "  Morning clouds and snow showers, a dusting to 3 inches, highest northeast, becoming scattered in the northern mountains, and limited breaks of sun south.  Blustery and colder.  Highs in the 20s to near 30 north, in the 30s south, falling through the day.  Light winds, becoming northwest 10 to 20 mph, gusting 25 to 25 mph."
+  },
+  {
+    "heading": "Christmas Day",
+    "text": "  Morning clouds and snow showers, a dusting to 3 inches, highest northeast, becoming scattered in the northern mountains, and limited breaks of sun south.  Blustery and colder.  Highs in the 20s to near 30 north, in the 30s south, falling through the day.  Light winds, becoming northwest 10 to 20 mph, gusting 25 to 25 mph."
   }
 ]
