@@ -1,15 +1,15 @@
 [
   {
-    "heading": "Wednesday Night",
-    "text": "A rising chance of late-night snow showers north",
-    "temperature": "Teens north to lower 20s south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers_night.png"
-  },
-  {
-    "heading": "Thursday, Christmas Day",
+    "heading": "Today, Christmas Day",
     "text": "Scattered snow showers, likey north.",
     "temperature": "Mid 20s to mid 30s, north to south, falling after noon",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_sun.png"
+  },
+  {
+    "heading": "Tonight",
+    "text": "Chance of snow showers northeast.",
+    "temperature": "-15 to 5",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers_night.png"
   },
   {
     "heading": "Friday",
