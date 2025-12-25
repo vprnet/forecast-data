@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Wednesday Night",
-    "text": "Partly to mostly cloudy. Late-night snow showers likely in the Adirondacks and near the international border, a rising chance elsewhere north. Lows mainly in the upper teens to lower 20s, with low to mid teens northeast, and mid 20s in the broad valleys west. Winds light and variable."
-  },
-  {
-    "heading": "Thursday, Christmas Day",
+    "heading": "Today, Christmas Day",
     "text": "Mostly cloudy. Snow showers likely in the northern mountains, and in the valleys near the Vermont/Qu\u00e9bec border, with 1 to 3 inches, scattered elsewhere from the Adirondacks and Route 4 northward, with a trace to 2 inches. Periods of blowing snow. Morning highs from the mid 20s to around 30 north, and upper 20s to mid 30s in the south. Winds becoming northwest 10 to 15 mph, gusting to 30 mph."
   },
   {
-    "heading": "Thursday Night",
+    "heading": "Tonight",
     "text": "Mostly cloudy. Chance of an evening snow shower northeast. Much colder, with lows from 5 below to 5 above in the south and in the Champlain Valley, 5 below to 15 below elsewhere north. Northwest winds 10 to 15 mph, gusting to 30 mph early."
+  },
+  {
+    "heading": "Friday",
+    "text": "Mostly to partly sunny, but cold, with highs in the single digits to lower teens north, mid teens to lower 20s in the south. North winds 5 to 15 mph, diminishing in the afternoon."
   }
 ]
