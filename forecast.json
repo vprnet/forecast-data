@@ -1,20 +1,20 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Chance of snow showers northeast.",
-    "temperature": "-15 to 5",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers_night.png"
+    "heading": "Today",
+    "text": "Increasing clouds. Cold.",
+    "temperature": "Single digits to teens",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/mostly_cloudy.png"
   },
   {
-    "heading": "Friday",
-    "text": "Mostly to partly sunny.",
-    "temperature": "Single digits to lower teens north, mid teens to lower 20s south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_sun.png"
+    "heading": "Tonight",
+    "text": "Snow showers spreading north and east.",
+    "temperature": "Single digits to teens",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_moderate_night.png"
   },
   {
     "heading": "Saturday",
-    "text": "Chance of light snow south and west of I-89.",
-    "temperature": "Mid teens to lower 20s north, mid to upper 20s south",
+    "text": "Snow showers diminishing north to south.",
+    "temperature": "Teens to 20s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
   },
   {
