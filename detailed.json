@@ -1,14 +1,14 @@
 [
   {
+    "heading": "Today",
+    "text": "Partly then mostly cloudy, and cold, with highs in the single digits to near 10 in the north, mid teens to lower 20s in the south. North wind 5 to 15 mph, diminishing in the afternoon."
+  },
+  {
     "heading": "Tonight",
-    "text": "Mixed clouds. Chance of an evening snow shower northeast. Much colder. Lows from -5 to 5, with lower temperatures in the north. Northwest wind 10 to 15 mph, gusting 20 to 25 mph, diminishing overnight."
+    "text": "Partly to mostly cloudy, with a chance of snow showers developing south and west of I-89, spreading north and east after midnight. Lows in the single digits north, increasing into the teens south. Light wind."
   },
   {
-    "heading": "Friday",
-    "text": "Mostly to partly sunny, and cold, with highs in the single digits to near 10 in the north, mid teens to lower 20s in the south. North wind 5 to 15 mph, diminishing in the afternoon."
-  },
-  {
-    "heading": "Friday Night",
-    "text": "Partly to mostly cloudy, with a chance of snow showers developing south and west of I-89. Lows in the single digits north, increasing into the teens south. Light wind."
+    "heading": "Saturday",
+    "text": "Cloudy. Chance of light scattered snow showers, diminishing from north to south. Highs from the teens to low 20s north, mid to upper 20s in the south. Light wind."
   }
 ]
