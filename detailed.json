@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Cloudy. Chance of light scattered snow showers, diminishing from north to south. Highs from the teens to low 20s north, mid to upper 20s in the south. Light wind."
-  },
-  {
     "heading": "Tonight",
-    "text": "Mostly clear with periods of clouds developing after midnight. Lows from just below zero into the single digits. Calm wind."
+    "text": "Mostly clear with a few passing clouds overnight. Lows from just below zero into the single digits. Calm wind."
   },
   {
     "heading": "Sunday",
-    "text": "An increasing chance of snow or wintry mix arriving west of the Greens later in the day. Highs from the mid to upper 20s north, in the 30s south."
+    "text": "Mostly sunny skies in the morning, then increasing clouds from the west spreading east through the afternoon. Highs through the 20s, with 30s south of Route 4. Light and variable wind."
+  },
+  {
+    "heading": "Sunday Night",
+    "text": "Mostly cloudy. A combination of ice, wintry mix, and snow spreading east overnight, first reaching southwestern Vermont in the early evening hours, then the New Hampshire border before midnight. Lows from the teens to low 20s."
   }
 ]
