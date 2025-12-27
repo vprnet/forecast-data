@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Partly to mostly cloudy, with a chance of snow showers developing south and west of I-89, spreading north and east after midnight. Light accumulations expected, with heavier totals possible in the southwest. Lows in the single digits north, increasing into the teens south. Light wind."
-  },
-  {
-    "heading": "Saturday",
+    "heading": "Today",
     "text": "Cloudy. Chance of light scattered snow showers, diminishing from north to south. Highs from the teens to low 20s north, mid to upper 20s in the south. Light wind."
   },
   {
-    "heading": "Saturday Night",
+    "heading": "Tonight",
     "text": "Mostly clear with periods of clouds developing after midnight. Lows from just below zero into the single digits. Calm wind."
+  },
+  {
+    "heading": "Sunday",
+    "text": "An increasing chance of snow or wintry mix arriving west of the Greens later in the day. Highs from the mid to upper 20s north, in the 30s south."
   }
 ]
