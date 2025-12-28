@@ -1,11 +1,5 @@
 [
   {
-    "heading": "Sunday",
-    "text": "Increasing clouds. Winter storm arriving in the evening.",
-    "temperature": "20s, 30s in the South",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
-  },
-  {
     "heading": "Tonight",
     "text": "Ice and wintry mix moving west to east. Heaviest after midnight.",
     "temperature": "Though the 20s, teens northeast",
@@ -22,5 +16,11 @@
     "text": "Scattered snow showers.",
     "temperature": "Teens North, 20s South",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
+  },
+  {
+    "heading": "Wednesday",
+    "text": "Increasing clouds.",
+    "temperature": "teens, 20s in the South",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   }
 ]
