@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Sunday",
-    "text": "High clouds early, then increasing clouds from the southwest spreading north through the afternoon. Highs through the 20s, with 30s south of Route 4. Light and variable wind."
-  },
-  {
     "heading": "Sunday Night",
-    "text": "Mostly cloudy. A combination of ice, wintry mix, and snow spreading east overnight, first reaching southwestern Vermont in the early evening hours, then the New Hampshire border before midnight. Lows from the teens to low 20s."
+    "text": "Mostly cloudy. A combination of ice, wintry mix, and snow spreading east overnight, first reaching southwestern Vermont in the early evening hours, then the New Hampshire border before midnight. Heaviest during the late night hours. Lows from the teens to low 20s."
   },
   {
     "heading": "Monday",
-    "text": "A combination of ice and a wintry mix in the morning, then transitioning to rain showers around noon. Warmer. Highs through the mid-30s."
+    "text": "A combination of ice and a wintry mix in the morning, then transitioning to rain during the mid morning. Anywhere from .1\u2033 to .4\u2033 on ice accumulation possible on untreated surfaces. Widespread showers become more scattered around noon. Warmer. Highs through the mid-30s."
+  },
+  {
+    "heading": "Monday Night",
+    "text": "Mostly cloudy. Wintry mix and rain turning over to snow showers after sunset. Brief dry periods before sunrise. Lows from the low to upper teens."
   }
 ]
