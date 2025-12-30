@@ -1,20 +1,20 @@
 [
   {
-    "heading": "Monday Night",
-    "text": "Windy with snow showers.",
-    "temperature": "Mainly single digits to mid teens",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_light_night.png"
+    "heading": "Today",
+    "text": "Snow showers north diminishing. Lots of clouds, blustery, colder.",
+    "temperature": "7 to 13 north, 14 to 21 south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_sun.png"
   },
   {
-    "heading": "Tuesday",
-    "text": "Windy. Scattered snow showers.",
-    "temperature": "Single digits to upper teens, north to south.",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
+    "heading": "Tuesday Night",
+    "text": "Snow showers north ending, developing far south late. Some clearing late.",
+    "temperature": "0 to 10 north, 10 to 15 south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_snow_showers_night.png"
   },
   {
     "heading": "Wednesday",
-    "text": "Rising chance of snow showers after noon, mainly west.",
-    "temperature": "20 to 30, north to south",
+    "text": "Morning sun, then afternoon snow showers in NY, spreading east late.",
+    "temperature": "Upper teens and 20s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_sun.png"
   },
   {
