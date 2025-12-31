@@ -1,14 +1,22 @@
 [
   {
-    "heading": "Tuesday Night",
-    "text": "Mostly cloudy. Scattered snow showers in the northern mountains, southern Greens, and Berkshires; another trace to 2 inches. Lows in the single digits to lower teens, some mid teens far south. West winds 5 to 15 mph, gusting to 30 mph, except gusting to 40 mph in the southern Greens and Berkshires."
+    "heading": "Today",
+    "text": "Early snow showers, mostly south and northeast, giving way to sun. Clouds south spreading north this afternoon, with snow increasing in NY, spreading into VT late. Highs in the upper teens to low 20s north, 20s in the Champlain Valley and south.  Light winds becoming southwest 10 to 15 mph, some gusts to 25 mph this afternoon."
   },
   {
-    "heading": "Wednesday",
-    "text": "Partly to mostly cloudy. Chance of late-day snow showers west of the Greens. Highs from the upper teens to mid 20s north, mid 20s to around 30 in the south. Light winds, becoming southwest 5 to 15 mph."
+    "heading": "Tonight",
+    "text": "  Occasional snow, 1 to 3 inches, less in a few southern valleys, over 4 inches over higher elevations.  Lows in the single numbers north, and teens south.  Winds south near 10 mph, becoming light after midnight."
   },
   {
-    "heading": "Wednesday Night, New Year\u2019s Eve",
-    "text": "Mostly cloudy. Chance of snow showers in the St. Lawrence Valley, otherwise periods snow, with 1 to 3 inches, upper to 5 inches in the northern mountains and southern Greens; snow could be briefly heavy. Lows from zero to 10 above north, and 5 to 15 in the south. Southwest winds 5 to 15 mph, becoming northwest late."
+    "heading": "New Years Eve",
+    "text": "  Occasional snow, 1 to 3 inches, less in a few southern valleys, over 4 inches over higher elevations.  Lows in the single numbers north, and teens south.  Winds south near 10 mph, becoming light after midnight."
+  },
+  {
+    "heading": "Thursday",
+    "text": "  Morning snow from western VT east, up to an inch, then increasing periods of sun, last northeast.  Blustery and quite cold.  Highs only single numbers to low teens north, upper teens and 20s south, steady or falling.  Winds becoming northwest 10 to 15 mph, gusting 20 to 30 mph."
+  },
+  {
+    "heading": "New Years Day",
+    "text": "  Morning snow from western VT east, up to an inch, then increasing periods of sun, last northeast.  Blustery and quite cold.  Highs only single numbers to low teens north, upper teens and 20s south, steady or falling.  Winds becoming northwest 10 to 15 mph, gusting 20 to 30 mph."
   }
 ]
