@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Some sun, then clouds spreading north. Snow this afternoon in NY, reaching VT late.",
-    "temperature": "Upper teens and 20s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_sun.png"
+    "heading": "This Afternoon",
+    "text": "Partly to mostly cloudy. Chance of snow showers west of the Green Mountains.",
+    "temperature": "Mainly mid to upper 20s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
   },
   {
-    "heading": "Wednesday Night",
-    "text": "Snow, 1 to 4 inches.",
-    "temperature": "5 to 15 north, teens south",
+    "heading": "Tonight",
+    "text": "Periods of snow.",
+    "temperature": "Mainly mid teens to lower 20s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_light_night.png"
   },
   {
