@@ -6,21 +6,21 @@
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_sun.png"
   },
   {
-    "heading": "Wednesday",
-    "text": "Chance of late-day snow showers west of the Greens.",
-    "temperature": "Upper teens to mid 20s north, mid 20s to around 30 south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
+    "heading": "Wednesday Night",
+    "text": "Snow, 1 to 4 inches.",
+    "temperature": "5 to 15 north, teens south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_light_night.png"
   },
   {
     "heading": "Thursday",
-    "text": "Chance of early snow showers east, then clouds decreasing.",
-    "temperature": "Single digits to mid teens north, mid teens to lower 20s south",
+    "text": "Early snow showers east, then increasing sun. Colder.",
+    "temperature": "5 to 15 north, 20s south, falling",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
   },
   {
     "heading": "Friday",
-    "text": "Mostly to partly sunny. Chance of late-day snow showers in far northern New York.",
-    "temperature": "Mid teens to lower 20s, some lower teens northeast",
+    "text": "Sun mixing with periods of afternoon clouds.",
+    "temperature": "Teens to lower 20s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   }
 ]
