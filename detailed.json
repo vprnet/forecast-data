@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "A few snow showers or flurries in the northern mountains, mainly early. Periods of blowing snow. \u00a0Temperatures falling, from the single digits to mid teens north, mid teens to around 20 in the south. West to northwest winds 5 to 15 mph, gusting to 25 mph. Winds chills at lower elevations falling to between 5 above and 5 below in the south and in the Champlain Valley, to between 5 below and 15 below elsewhere north."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Clear to partly cloudy, except mostly cloudy in the southern Greens and Berkshires, with a chance of snow showers there. Lows in the single digits above in the south, and in the Champlain Valley, zero to 10 below elsewhere north, except teens below in northeastern cold hollows. West winds 5 to 10 mph, becoming southwest in the Champlain and St. Lawrence valleys, all diminishing."
+    "heading": "Thursday Night",
+    "text": "Clear to partly cloudy, except mostly cloudy in the southern Greens and Berkshires, with a chance of late-night snow showers there. Lows from zero to 5 above in the south, and near Lake Champlain, zero to 10 below elsewhere north, except teens below in northeastern cold hollows. West winds 5 to 10 mph, becoming southwest in the Champlain and St. Lawrence valleys, all diminishing."
   },
   {
     "heading": "Friday",
-    "text": "Variable clouds. Chance of afternoon snow showers in the southern Greens and Berkshires, slight chance late in the central Greens and Whites. Highs from the mid teens to lower 20s, some lower teens northeast. West winds 5 to 10 mph."
+    "text": "Variable clouds. Chance of flurries in the Green Mountains and Berkshires, slight chance late in the Whites. Highs from the mid teens to lower 20s, some lower teens northeast. West winds 5 to 10 mph."
+  },
+  {
+    "heading": "Friday Night",
+    "text": "Periods of clouds. Chance of flurries in the southern Greens and Berkshires, then a rising chance of snow showers overnight in the northern mountains, and in the valleys near the international border. Lows from zero to 10 above north, northern cold hollows around 5 below. West winds 5 to 10 mph, diminishing."
   }
 ]
