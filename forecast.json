@@ -1,15 +1,15 @@
 [
   {
-    "heading": "Wednesday Night",
-    "text": "Periods of snow.",
-    "temperature": "Mainly mid teens to lower 20s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_moderate_night.png"
+    "heading": "Today, New Years Day",
+    "text": "Early snow from VT east ending. Increasing sun west to east. Colder.",
+    "temperature": "Teens to single numbers north, 20s to teen south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_sun.png"
   },
   {
-    "heading": "Thursday",
-    "text": "Morning snow showers, mainly east, diminishing.",
-    "temperature": "5 to 15 north, 20s south, falling",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
+    "heading": "Thursday Night",
+    "text": "Mostly clear, then some clouds west. Quite cold.",
+    "temperature": "Zero to 15 below north, 5 below to 5 above south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_night.png"
   },
   {
     "heading": "Friday",
