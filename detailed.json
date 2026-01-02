@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Clouds mixed with periods of sunshine. More clouds, a few snow showers in southwest VT.  Continued cold.  Highs from the low teens to low 20s north to south.  Winds west near 10 mph."
-  },
-  {
     "heading": "Tonight",
-    "text": "Periods of clouds.  Some snow showers in southwest VT.  Lows 5 below to 5 above zero north, near 10 above south.  Winds diminishing to less than 10 mph."
+    "text": "Periods of clouds. Chance of a few light snow showers, especially over the Greens. Lows from just below zero into the single digits, with a few low teens in the south. Wind diminishing to less than 10 mph."
   },
   {
     "heading": "Saturday",
-    "text": "Variable clouds and sunshine. Highs in the single numbers to low teens north, teens to low 20s south.  Winds becoming northwest near 10 mph, some gusts to 25 mph east of the Green Mountains."
+    "text": "Variable clouds. Any snow showers ending. Highs from the single digits in the north, increasing into the teens and 20s as you head south. Northwest wind at 5 to 10 mph."
+  },
+  {
+    "heading": "Saturday Night",
+    "text": "Partly cloudy early, then becoming mostly cloudy. An increasing chance of snow showers from the west overnight. Lows from the negatives to just above 0 in the north, to near 10 in the south. Northwest wind near 10 mph in the evening, diminishing to light and variable."
   }
 ]
