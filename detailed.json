@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Periods of clouds. Chance of a few light snow showers, especially over the Greens. Lows from just below zero into the single digits, with a few low teens in the south. Wind diminishing to less than 10 mph."
-  },
-  {
-    "heading": "Saturday",
+    "heading": "Today",
     "text": "Variable clouds. Any snow showers ending. Highs from the single digits in the north, increasing into the teens and 20s as you head south. Northwest wind at 5 to 10 mph."
   },
   {
-    "heading": "Saturday Night",
+    "heading": "Tonight",
     "text": "Partly cloudy early, then becoming mostly cloudy. An increasing chance of snow showers from the west overnight. Lows from the negatives to just above 0 in the north, to near 10 in the south. Northwest wind near 10 mph in the evening, diminishing to light and variable."
+  },
+  {
+    "heading": "Sunday",
+    "text": "Mostly cloudy with a few breaks of sun. A few lingering snow showers becoming more scattered as the day goes on. Highs from the teens in the north, increasing into the 20s in the south. Light wind."
   }
 ]
