@@ -1,11 +1,5 @@
 [
   {
-    "heading": "Today",
-    "text": "Variable clouds.",
-    "temperature": "Single digits to teens",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
-  },
-  {
     "heading": "Tonight",
     "text": "Mostly cloudy. Chance of a light snow shower.",
     "temperature": "Below zero, to near 10 degrees",
@@ -22,5 +16,11 @@
     "text": "Partly then mostly cloudy. Increasing chance of snow showers.",
     "temperature": "Single digits to teens",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
+  },
+  {
+    "heading": "Tuesday",
+    "text": "Mild. Snow showers mixing with rain.",
+    "temperature": "Upper 20s to mid 30s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_winter_mix.png"
   }
 ]
