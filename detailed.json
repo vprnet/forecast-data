@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Tonight",
-    "text": "An increasing chance of snow showers from the west after midnight. Lows from the negatives to just above 0 in the north, to near 10 in the south. Northwest wind near 10 mph in the evening, diminishing to light and variable."
-  },
-  {
     "heading": "Sunday",
     "text": "Sunshine with mixed clouds. A few lingering snow showers. Highs from the teens in the north, increasing into the 20s in the south. Light wind."
   },
   {
     "heading": "Sunday Night",
     "text": "Periods of clouds, giving way to more clearing overnight. Lows from ten below zero in the north, to near 0 in the south, negative teens possible in the cold hollows."
+  },
+  {
+    "heading": "Monday",
+    "text": "Some morning sun, mixing with more cloud cover in the afternoon. Increasing chance of snow showers arriving first in the west in the afternoon. Highs in the single digits to teens in the north, teens to low 20s in the south."
   }
 ]
