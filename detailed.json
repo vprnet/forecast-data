@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Sunday",
-    "text": "Sunshine with mixed clouds. A few lingering snow showers. Highs from the teens in the north, increasing into the 20s in the south. Light wind."
-  },
-  {
     "heading": "Sunday Night",
-    "text": "Periods of clouds, giving way to more clearing overnight. Lows from ten below zero in the north, to near 0 in the south, negative teens possible in the cold hollows."
+    "text": "Periods of clouds, giving way to more clearing overnight. Lows from ten below zero in the north, to near 0 in the south, negative teens possible in the cold hollows. Wind chills in the teens to 20 below zero. Northwest winds around 5 mph."
   },
   {
     "heading": "Monday",
-    "text": "Some morning sun, mixing with more cloud cover in the afternoon. Increasing chance of snow showers arriving first in the west in the afternoon. Highs in the single digits to teens in the north, teens to low 20s in the south."
+    "text": "Some morning sun, mixing with more cloud cover in the afternoon. Increasing chance of snow showers arriving first in the west in the morning, then spreading southeast during the afternoon, mostly in the Central and Lower Greens and Whites. Highs in the single digits to teens in the north, teens to low 20s in the south. Winds light and variable."
+  },
+  {
+    "heading": "Monday Night",
+    "text": "Mostly cloudy, with scattered snow showers tapering off overnight. Lows from near zero northeast, nearing 10 and into the teens in the southwest."
   }
 ]
