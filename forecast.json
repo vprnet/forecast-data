@@ -1,20 +1,20 @@
 [
   {
-    "heading": "Today",
-    "text": "Some early sun east. Becoming cloudy. Light snow spreading east this afternoon.",
-    "temperature": "Teens north to low 20s south",
+    "heading": "This Afternoon",
+    "text": "Light snow, mainly south and west.",
+    "temperature": "Mid teens to lower 20s, some mid 20s in the Hudson Valley",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_snow.png"
   },
   {
-    "heading": "Monday Night",
-    "text": "Evening snow ending. Some breaks late.",
+    "heading": "Tonight",
+    "text": "Snow likley early, then tapering off from west to east.",
     "temperature": "Teens, some single digits far north",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_light_night.png"
   },
   {
     "heading": "Tuesday",
-    "text": "Early sun, then clouds. Snow or freezing rain west late.",
-    "temperature": "Upper 20s to mid 30s",
+    "text": "Chance of late-day snow showers, mainly west.",
+    "temperature": "Mid 20s to lower 30s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/mostly_cloudy.png"
   },
   {
