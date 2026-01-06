@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Partly to mostly cloudy. Chance of late-day snow showers, mainly in New York and in the Berkshires. Highs from the upper 20s to mid 30s in the south, and mid 20s to around 30 north, with some lower 20s in the St. Lawrence Valley. Southeast winds 5 to 10 mph, except from the northeast in the St. Lawrence Valley."
-  },
-  {
-    "heading": "Tonight",
+    "heading": "Tuesday Night",
     "text": "Becoming cloudy. Snow likely; some freezing rain also possible near and south of Route 4, and in the St. Lawrence Valley; 1 to 4 inches of snow; a trace to two tenths of an inch of ice. Lows in the low to mid 20s east of the Greens, and in the St. Lawrence Valley, mid 20s to lower 30s elsewhere west of the Greens. Southeast winds 5 to 15 mph."
   },
   {
     "heading": "Wednesday",
-    "text": "Snow tapering to snow or rain showers from west to east, with another trace to an inch of snow; some freezing rain still possible, mainly over high terrain. Highs in the low to mid 30s north, and mid to upper 30s in the south. Winds becoming west 5 to 10 mph."
+    "text": "Snow tapering to snow or rain showers from west to east, with another trace to 2 inches of snow; some freezing rain or freezing drizzle possible, mainly over high terrain. Highs in the low to mid 30s north, and mid to upper 30s in the south. Winds becoming west 5 to 10 mph."
+  },
+  {
+    "heading": "Wednesday Night",
+    "text": "Mostly cloudy. Chance of early snow showers from the Green Mountains eastward. Lows in the mid to upper 20s, some lower 20s northeast. West to northwest winds 5 to 10 mph."
   }
 ]
