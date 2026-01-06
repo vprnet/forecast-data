@@ -1,15 +1,15 @@
 [
   {
-    "heading": "Monday Night",
-    "text": "Snow likley early, then tapering off from west to east.",
-    "temperature": "Teens, some single digits far north",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_light_night.png"
+    "heading": "Today",
+    "text": "Clouds, with limited sun. Not as cold.",
+    "temperature": "Upper 20s to mid 30s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/mostly_cloudy.png"
   },
   {
-    "heading": "Tuesday",
-    "text": "Increasing clouds.",
-    "temperature": "Mainly mid 20s to lower 30s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
+    "heading": "Tuesday Night",
+    "text": "Snow spreading east, some icy mix south late.",
+    "temperature": "20 to 30 north to south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_moderate_night.png"
   },
   {
     "heading": "Wednesday",
