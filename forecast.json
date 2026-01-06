@@ -1,19 +1,19 @@
 [
   {
-    "heading": "Today",
-    "text": "Clouds, with limited sun. Not as cold.",
-    "temperature": "Upper 20s to mid 30s",
+    "heading": "This Afternoon",
+    "text": "Increasing clouds. Chance of a late-day snow shower, mainly in New York.",
+    "temperature": "Upper 20s to mid 30s south, mainly mid 20s to around 30 north",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/mostly_cloudy.png"
   },
   {
     "heading": "Tuesday Night",
-    "text": "Snow spreading east, some icy mix south late.",
-    "temperature": "20 to 30 north to south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_moderate_night.png"
+    "text": "Snow or a wintry mix.",
+    "temperature": "20 to 30, from north to south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/rain_freezing_night.png"
   },
   {
     "heading": "Wednesday",
-    "text": "Snow or wintry mix early, then snow showers north tapering off.",
+    "text": "Snow or wintry mix slowly tapering off.",
     "temperature": "Low to mid 30s north, mid to upper 30s south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_rain_showers.png"
   },
