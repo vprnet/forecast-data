@@ -1,26 +1,26 @@
 [
   {
-    "heading": "Tuesday Night",
-    "text": "Snow and/or freezing rain.",
-    "temperature": "Mainly mid 20s to lower 30s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/rain_freezing_night.png"
-  },
-  {
-    "heading": "Wednesday",
-    "text": "Snow or wintry mix slowly tapering off.",
-    "temperature": "Low to mid 30s north, mid to upper 30s south",
+    "heading": "Today",
+    "text": "Morning snow, some freezing rain or sleet south, tapering to snow showers.",
+    "temperature": "30s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_winter_mix.png"
   },
   {
+    "heading": "Wednesday Night",
+    "text": "Snow showers north ending. Some clearing in southern valleys.",
+    "temperature": "20s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_snow_showers_night.png"
+  },
+  {
     "heading": "Thursday",
-    "text": "Decreasing clouds.",
-    "temperature": "Mainly mid 30s to lower 40s",
+    "text": "Morning clouds giving way to sun south, some afternoon clearing north.",
+    "temperature": "30s to lower 40s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   },
   {
     "heading": "Friday",
-    "text": "Rising chance of rain showers, with some patchy freezing rain possible early east of the Greens.",
-    "temperature": "Upper 30s to mid 40s",
+    "text": "Cloudy. Rain showers in NY, spreading east in the afternoon.",
+    "temperature": "Upper 30s and 40s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_rain.png"
   }
 ]
