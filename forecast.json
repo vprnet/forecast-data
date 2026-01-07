@@ -1,12 +1,6 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Chance of snow or rain showers; some freezing drizzle possible over high terrain.",
-    "temperature": "Valleys low to mid 30s north, mid to upper 30s south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_winter_mix.png"
-  },
-  {
-    "heading": "Tonight",
+    "heading": "Wednesday Night",
     "text": "Chance of snow showers or patchy freezing drizzle north and in the southern Greens.",
     "temperature": "Mainly mid to upper 20s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers_winter_mix_night.png"
@@ -19,8 +13,14 @@
   },
   {
     "heading": "Friday",
-    "text": "Rising chance of morning rain showers in New York, mainly after noon elsewhere.",
+    "text": "Rising chance of rain showers in New York, mainly after noon.",
     "temperature": "Upper 30s to mid 40s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_rain.png"
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
+  },
+  {
+    "heading": "Saturday",
+    "text": "Rain or wintry mix mid to late afternoon in the south.",
+    "temperature": "Mid 30s to around 40 north, upper 30s to mid 40s south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_rain_showers.png"
   }
 ]
