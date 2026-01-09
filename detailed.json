@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Dense river valley fog early.  Becoming cloudy. Rain showers developing in NY, spreading east in the afternoon.  Highs in the 40s, near 40 northeast.  South winds near 10 mph east of the Green Mountains, increasing to 10 to 15 mph, gusting 30 to 40 mph from the Green Mountains west, up to 50 mph in northern NY."
-  },
-  {
     "heading": "Tonight",
-    "text": "Rain showers tapering off.  Mostly cloudy, then some clearing after midnight.  Lows in the low to mid 30s, near 30 over the higher terrain north.  South winds 15 to 25 mph, gusting 30 to 40 mph, up to 50 mph in northern NY, shifting to the northwest and decreasing to near 10 mph."
+    "text": "Rain showers tapering off. Mostly cloudy, then some clearing developing after midnight. Lows from the upper 20s to near 30, increasing into the low to mid 30s in the south. Wind turning south at 15 to 20 mph, gusting 25 to 35 mph, with higher gusts in northern NY."
   },
   {
     "heading": "Saturday",
-    "text": "Some morning sun, then thickening clouds.  A chance of rain far south late.  Highs in the 30s to near 40 north, low to mid 40s south.  Northwest winds near 10 mph, becoming more north to northeast and diminishing through the afternoon."
+    "text": "A few pockets of sun in the morning, then clouds moving in quickly. Precipitation arriving from the south later in the day. Highs in the 30s to near 40 increasing into the low to mid 40s south. Light northwest wind."
+  },
+  {
+    "heading": "Saturday Night",
+    "text": "Snow north, with some mixed precipitation in the south. Lows in the upper 20s to low 30s north, low 30s south. Light southwest wind."
   }
 ]
