@@ -1,26 +1,26 @@
 [
   {
-    "heading": "Today",
-    "text": "Valley fog, a little sun, then thickening clouds. Showers in NY, spreading east. Windy.",
-    "temperature": "40s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_rain.png"
-  },
-  {
-    "heading": "Friday",
-    "text": "Showers ending, some clearing late.",
-    "temperature": "30s, some upper 20s north",
+    "heading": "Tonight",
+    "text": "Rain showers and wind gusts diminishing.",
+    "temperature": "Upper 20s to 30s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/04/showers_night.png"
   },
   {
     "heading": "Saturday",
-    "text": "Early sun, then clouds. Rain far south late.",
-    "temperature": "30s north, low 40s south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/clouds_sun_snow_rain.png"
+    "text": "Some morning sun, then rain starting in the south.",
+    "temperature": "30s to mid 40s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
   },
   {
     "heading": "Sunday",
-    "text": "Snow north, a wintry mix south, decreasing.",
-    "temperature": "Mid 30s to around 40, some lower 30s far north",
+    "text": "Winter weather, with showers becoming more scattered in the afternoon.",
+    "temperature": "Upper 30s to 40s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_winter_mix.png"
+  },
+  {
+    "heading": "Monday",
+    "text": "Sunshine with mixed clouds.",
+    "temperature": "20s to 30s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   }
 ]
