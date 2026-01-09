@@ -13,14 +13,14 @@
   },
   {
     "heading": "Saturday",
-    "text": "Chance of late-day wintry mix or rain in the south",
-    "temperature": "Low to mid 30s north, and mid 30s to lower 40s in the south",
+    "text": "Early sun, then clouds. Rain far south late.",
+    "temperature": "30s north, low 40s south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/clouds_sun_snow_rain.png"
   },
   {
     "heading": "Sunday",
-    "text": "Wintry mix, maybe some valley rain at times.",
+    "text": "Snow north, a wintry mix south, decreasing.",
     "temperature": "Mid 30s to around 40, some lower 30s far north",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_rain_showers.png"
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_winter_mix.png"
   }
 ]
