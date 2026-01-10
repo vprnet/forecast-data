@@ -1,11 +1,5 @@
 [
   {
-    "heading": "Today",
-    "text": "Some morning sun, then rain starting in the south.",
-    "temperature": "30s to mid 40s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
-  },
-  {
     "heading": "Tonight",
     "text": "Rain showers south, snow showers north.",
     "temperature": "Upper 20s north, 30s south",
@@ -22,5 +16,11 @@
     "text": "Sunshine with mixed clouds.",
     "temperature": "20s to 30s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
+  },
+  {
+    "heading": "Tuesday",
+    "text": "Mixed clouds. Chance of mountain snow showers.",
+    "temperature": "30s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
   }
 ]
