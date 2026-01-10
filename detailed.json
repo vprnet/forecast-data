@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Rain showers tapering off. Mostly cloudy, then some clearing developing after midnight. Lows from the upper 20s to near 30, increasing into the low to mid 30s in the south. Wind turning south at 15 to 20 mph, gusting 25 to 35 mph, with higher gusts in northern NY."
-  },
-  {
-    "heading": "Saturday",
+    "heading": "Today",
     "text": "A few pockets of sun in the morning, then clouds moving in quickly. Precipitation arriving from the south later in the day. Highs in the 30s to near 40 increasing into the low to mid 40s south. Light northwest wind."
   },
   {
-    "heading": "Saturday Night",
+    "heading": "Tonight",
     "text": "Snow north, with some mixed precipitation in the south. Lows in the upper 20s to low 30s north, low 30s south. Light southwest wind."
+  },
+  {
+    "heading": "Sunday",
+    "text": "Snow showers, mixing with wintry mix and rain in the southern valleys. Showers becoming more scattered through the afternoon. Highs from the mid to upper 30s, with some 40s in the warmer southern valleys. Light southwest wind, turning west at 5 to 15 mph in the afternoon."
   }
 ]
