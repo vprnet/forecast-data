@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Snow north, mixing with ice and wintry mix south. Lows in the upper 20s to low 30s north, low 30s south. Light southwest wind."
-  },
-  {
     "heading": "Sunday",
-    "text": "Snow north, a combination of wintry mix and rain showers in the valleys turning completely over to snow in the afternoon. Highs from the mid to upper 30s, with some 40s in the warmer southern valleys. Light southwest wind, turning west at 5 to 15 mph in the afternoon."
+    "text": "Snow north, a combination of wintry mix and rain showers in the valleys tapering off before noon. Periods of sun then increasing clouds. Highs from the mid to upper 30s, with some 40s in the warmer southern valleys. Light southwest wind, turning west at 5 to 15 mph in the afternoon."
   },
   {
     "heading": "Sunday Night",
     "text": "Snow showers becoming more scattered overnight. Much cooler. Lows in the teens to near 20. West to northwest wind at 10 to 15 mph, gusting 20 to 30 mph with the strongest gusts in the southern Greens."
+  },
+  {
+    "heading": "Monday",
+    "text": "Variable clouds and sun, with more sunshine in the valleys. Highs from the low to mid 30s, a few 20s sticking around in the northeast."
   }
 ]
