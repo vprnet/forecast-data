@@ -1,11 +1,5 @@
 [
   {
-    "heading": "Sunday",
-    "text": "Mostly cloudy, increasing chance of scattered snow this evening.",
-    "temperature": "Upper 30s to 40s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
-  },
-  {
     "heading": "Tonight",
     "text": "Snow showers north, mostly cloudy otherwise; Gusty.",
     "temperature": "Mid-teens to near 20",
@@ -22,5 +16,11 @@
     "text": "Mixed clouds. Chance of mountain snow showers.",
     "temperature": "30s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
+  },
+  {
+    "heading": "Wednesday",
+    "text": "Scattered snow with a wintry mix in the valleys until evening.",
+    "temperature": "Upper 30s to 40s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_winter_mix.png"
   }
 ]
