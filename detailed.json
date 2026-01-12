@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Early clouds northeast giving way to sunshine. Afternoon clouds increasing west to east, with snow showers in northern NY late morning, spreading east, mainly north of Rt. 2 this afternoon. Highs in the upper 20s to low 30s, near 40 southeast. West winds 10 to 15 mph, gusting 30 to 40 mph from the Green Mountains east, decreasing through the afternoon."
-  },
-  {
     "heading": "Tonight",
-    "text": "Mostly cloudy, with snow showers through northern NY, Quebec, and the northern mountains, a few in the valleys. Partly cloudy in southeast VT into southern NH. Lows in the 20s. Southwest winds 5 to 15 mph, diminishing to light after midnight."
+    "text": "Mostly cloudy, with snow showers through northern NY, Quebec, and the northern mountains, a few in the valleys, tapering off before sunrise. Partly cloudy in southeast VT into southern NH. Lows in the 20s. Southwest winds 5 to 10 mph, diminishing to light after midnight."
   },
   {
     "heading": "Tuesday",
     "text": "Partly sunny in southern valleys. Mostly cloudy through the north and mountains, with some afternoon clearing. Milder. Highs in the 30s, a few warmer valleys south near 40. Light winds, becoming south to southwest from the Green Mountains west near 10 mph, gusting to 25 mph through the Champlain Valley."
+  },
+  {
+    "heading": "Tuesday Night",
+    "text": "Cloudy, with a good chance of snow showers or some valley rain showers from the Adirondacks and Rt. 2 north, hit-or-miss south. Lows in the upper 20s to low 30s north, low to mid 30s south. Winds from the south 10 to 15 mph, gusting 20 to 30 mph."
   }
 ]
