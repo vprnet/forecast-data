@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly cloudy. Highs in the upper 30s to lower 40s, some mid 30s northeast. South to southwest winds 5 to 10 mph, gusting to 25 mph in the Champlain Valley."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Cloudy. Scattered snow showers, mixing with rain in the valleys early. Lows in the upper 20s to lower 30s north, low to mid 30s in the south. South winds gusting to 20 mph, except gusting to 30 mph in the Champlain and St. Lawrence valleys."
+    "heading": "Tuesday Night",
+    "text": "Cloudy. Scattered snow showers, mixing with rain in the valleys. Lows in the upper 20s to lower 30s north, low to mid 30s in the south. South winds gusting to 20 mph, except gusting to 30 mph in the Champlain and St. Lawrence valleys."
   },
   {
     "heading": "Wednesday",
-    "text": "Partly to mostly cloudy. Chance of a valley rain or mountain snow shower. Highs mainly in the low to mid 40s. South winds 5 to 15 mph, gusting to 30 mph in the Champlain and St. Lawrence valleys."
+    "text": "Partly to mostly cloudy. Chance of valley rain or mountain snow showers. Highs mainly in the low to mid 40s. South winds 5 to 15 mph, gusting to 30 mph in the Champlain and St. Lawrence valleys."
+  },
+  {
+    "heading": "Wednesday Night",
+    "text": "Cloudy. A mix of rain and snow, changing to snow first in the mountains, and in far northern New York, with a trace to 2 inches. Lows from the upper 20s to mid 30s east of the Greens, and upper teens to mid 20s west. Southwest winds around 10 mph, becoming northwest."
   }
 ]
