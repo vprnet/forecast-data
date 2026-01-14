@@ -1,21 +1,21 @@
 [
   {
-    "heading": "Today",
-    "text": "Any sun giving way to clouds. Afternoon rain showers developing.",
-    "temperature": "40s",
+    "heading": "This Afternoon",
+    "text": "Chance of a rain shower.",
+    "temperature": "Low to mid 40s, some upper 40s in western valleys",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
   },
   {
-    "heading": "Wednesday Night",
-    "text": "Rain changing to snow west, then east late.",
-    "temperature": "20s west, 30s east",
+    "heading": "Tonight",
+    "text": "Rain mixing with or changing to snow, from west to east.",
+    "temperature": "Low to mid 30s, except 20 in far northern NY",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_wintery_mix_night.png"
   },
   {
     "heading": "Thursday",
-    "text": "Snow or valley rain ending. Some breaks of sun south.",
-    "temperature": "Upper teens and 20s west, 30s east, falling",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
+    "text": "Snow over high terrain; any valley rain changing to snow showers.",
+    "temperature": "Upper teens and 20s west, 30s east.",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_winter_mix.png"
   },
   {
     "heading": "Friday",
