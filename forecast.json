@@ -12,15 +12,15 @@
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_wintery_mix_night.png"
   },
   {
-    "heading": "Wednesday Night",
-    "text": "Mix of rain and snow, changing to snow.",
-    "temperature": "Upper 20s to mid 30s east of the Greens, teens to mid 20s west",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_wintery_mix_night.png"
+    "heading": "Thursday",
+    "text": "Snow or valley rain ending. Some breaks of sun south.",
+    "temperature": "Upper teens and 20s west, 30s east, falling",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
   },
   {
-    "heading": "Thursday",
-    "text": "Morning snow tapering to snow showers.",
-    "temperature": "15 to 25 north, 25 to 35 south, steady or falling",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_snow.png"
+    "heading": "Friday",
+    "text": "Morning clouds giving way to sun. Colder.",
+    "temperature": "15 to 25 north, 20s south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   }
 ]
