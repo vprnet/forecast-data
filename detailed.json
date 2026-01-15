@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly cloudy. Areas of freezing fog. Snow in the mountains and in the St. Lawrence Valley, with another 1 to 3 inches; chance of snow or rain showers in the valleys from the Champlain and Hudson valleys eastward, with a trace to an inch. Temperatures falling into the 20s east of the Greens, falling through the 20s west, except teens in the Adirondacks and St. Lawrence Valley. Winds from the west to northwest at 5 to 15 mph, or becoming so."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Mostly cloudy. Chance of a snow shower in southern valleys; otherwise scattered snow showers, mainly from the northern Greens eastward, with another trace to 2 inches. Lows from zero to 10 above in the north, low to mid teens in the south. West winds 5 to 15 mph."
+    "heading": "Thursday Night",
+    "text": "Mostly cloudy. Snow showers likely early in the northern Greens and Champlain Valley, with another trace to 2 inches; otherwise scattered overnight, mainly in the northern mountains, with another trace to an inch. Lows from zero to 10 above in the north, low to mid teens in the south. West winds 5 to 15 mph."
   },
   {
     "heading": "Friday",
-    "text": "Mostly to partly cloudy. Scattered morning snow showers northeast. Valley highs from the upper teens to mid 20s south and in the Champlain Valley, mid teens to around 20 elsewhere north. West to southwest winds 5 to 15 mph, gusting to 25 mph."
+    "text": "Partly to mostly sunny. Scattered early snow showers northeast. Valley highs from the upper teens to mid 20s south and in the Champlain Valley, mid teens to around 20 elsewhere north. West winds 5 to 15 mph, gusting to 25 mph."
+  },
+  {
+    "heading": "Friday Night",
+    "text": "Mainly clear early, then periods of clouds developing. A few snow showers, mostly west of the Green Mountains. Lows in the teens north, a few single digits northeast, and around 20 in the south. Winds becoming light and variable east of the Green Mountains, becoming south 5 to 10 mph west of the Greens."
   }
 ]
