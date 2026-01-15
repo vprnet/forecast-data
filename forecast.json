@@ -1,13 +1,13 @@
 [
   {
-    "heading": "Today",
-    "text": "Snow through NY, a mix changing to snow showers east",
-    "temperature": "20s in NY, 30s from VT east",
+    "heading": "This Afternoon",
+    "text": "Areas of freezing fog; scattered snow showers.",
+    "temperature": "Falling into the 20s east, and mainly through the 20s west",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_winter_mix.png"
   },
   {
-    "heading": "Thursday Night",
-    "text": "Snow showers retreating to the mountains. Colder.",
+    "heading": "Tonight",
+    "text": "Snow showers mainly northeast and in the mountains.",
     "temperature": "0 to 10 north, 10 to 15 south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers_night.png"
   },
