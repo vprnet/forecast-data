@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Periods of clouds, and a few snow showers ending through the northern mountains, giving way to increasing sunshine, last in the northeast.  Much colder.  Highs in the teens to low 20s north, in the 20s south.  West winds 10 to 15 mph, gusting 25 to 35 mph, diminishing this afternoon."
-  },
-  {
     "heading": "Tonight",
-    "text": "Clear early, then periods of clouds developing.  Scattered snow showers developing after midnight through NY into southwest VT, spreading northeast late.  Lows in the teens west and south of I-89, single numbers northeast, rising later at night.  Winds light, becoming south near 10 mph west of the Green Mountains."
+    "text": "Scattered snow showers developing in NY, spreading east after midnight. Single digits in the northeast, teens west and south I-89. Wind diminishing to light and variable."
   },
   {
     "heading": "Saturday",
-    "text": "Any breaks of sun giving way to clouds.  Periods of light snow and snow showers increasing. Amounts a dusting to an inch north, 1 to 3 inches south.  Not as cold.  Highs in the upper 20s to low 30s, some mid 30s in southern valleys.  Winds south near 10 mph."
+    "text": "Mostly cloudy. Scattered snow showers becoming more widespread through the afternoon. A dusting north to 4 inches south expected. Highs from the low to mid 30s. Light south wind."
+  },
+  {
+    "heading": "Saturday Night",
+    "text": "Periods of clearing. Snow showers becoming more scattered overnight. Lows in the 20s, a few teens in the northeast. Light and variable wind."
   }
 ]
