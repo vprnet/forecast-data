@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Scattered snow showers developing in NY, spreading east after midnight. Single digits in the northeast, teens west and south I-89. Wind diminishing to light and variable."
-  },
-  {
-    "heading": "Saturday",
+    "heading": "Today",
     "text": "Mostly cloudy. Scattered snow showers becoming more widespread through the afternoon. A dusting north to 4 inches south expected. Highs from the low to mid 30s. Light south wind."
   },
   {
-    "heading": "Saturday Night",
+    "heading": "Tonight",
     "text": "Periods of clearing. Snow showers becoming more scattered overnight. Lows in the 20s, a few teens in the northeast. Light and variable wind."
+  },
+  {
+    "heading": "Sunday",
+    "text": "Periods of clouds, with a chance of a few scattered snow showers. Highs from the mid 20s in the north, increasing into the low 30s in the south. Southwest wind at 5 to 10 mph."
   }
 ]
