@@ -1,11 +1,5 @@
 [
   {
-    "heading": "Today",
-    "text": "Scattered snow showers. Light to moderate accumulations.",
-    "temperature": "Low to mid 30s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_snow.png"
-  },
-  {
     "heading": "Tonight",
     "text": "Scattered snow showers.",
     "temperature": "Teens to 20s",
@@ -22,5 +16,11 @@
     "text": "Sunshine with mixed clouds. Afternoon snowshowers.",
     "temperature": "20s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
+  },
+  {
+    "heading": "Tuesday",
+    "text": "Morning sun, then clouds. Chilly.",
+    "temperature": "Near 10 into the teens",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/mostly_cloudy.png"
   }
 ]
