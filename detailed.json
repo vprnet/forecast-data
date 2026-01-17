@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly cloudy. Widespread snow showers. Light to moderate accumulations expected. Highs from the low to mid 30s. Light south wind."
-  },
-  {
     "heading": "Tonight",
     "text": "Periods of clearing. Snow showers becoming more scattered overnight. Lows in the 20s, a few teens in the northeast. Light and variable wind."
   },
   {
     "heading": "Sunday",
     "text": "Periods of clouds, with a chance of a few scattered snow showers. Highs from the mid 20s in the north, increasing into the low 30s in the south. Southwest wind at 5 to 10 mph."
+  },
+  {
+    "heading": "Sunday Night",
+    "text": "Periods of clouds, with a chance of a stray snow shower. Much cooler. Lows near 10 north, in the teens south. Calm Wind."
   }
 ]
