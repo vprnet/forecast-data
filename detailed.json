@@ -1,18 +1,18 @@
 [
   {
-    "heading": "Sunday",
-    "text": "Periods of clouds, with a chance of a few scattered snow showers. Highs from the mid 20s in the north, increasing into the low 30s in the south. Southwest wind at 5 to 10 mph."
-  },
-  {
     "heading": "Sunday Night",
-    "text": "Scattered snow shower south of route 4, otherwise mostly cloudy. Lows in the mid to low teens and single digits in the ADK and cold hollows."
+    "text": "Scattered snow shower south of Route 4, otherwise mostly cloudy. Accumulations between 1-3 inches in the south, less than an inch in central Vermont. Lows in the mid to low teens and single digits in the ADK and cold hollows."
   },
   {
     "heading": "Monday (MLK Jr. Day)",
     "text": " Periods of clouds, an increasing chance of snow showers from the west through the afternoon. Highs from the low 20s north, increasing to near 30 as you head south. Light wind turning southwest, gusting up to 20 mph."
   },
   {
-    "heading": "Monday (MLK Jr. Day)",
+    "heading": "",
     "text": " Periods of clouds, an increasing chance of snow showers from the west through the afternoon. Highs from the low 20s north, increasing to near 30 as you head south. Light wind turning southwest, gusting up to 20 mph."
+  },
+  {
+    "heading": "Monday Night",
+    "text": "Partly cloudy and snow showers continuing with the highest chances in the north. Lows in the single digits, below zero in the cold hollows."
   }
 ]
