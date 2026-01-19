@@ -1,18 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "  Periods of clouds, with snow showers ending this morning, then re-developing this afternoon from the west, mainly north of Rt. 4, extending south through the mountains.  A dusting to an inch. Highs in the 20s, from 20 to 30 north to south.  Light winds becoming southwest near 10 mph."
-  },
-  {
-    "heading": "MLK Jr. Day",
-    "text": "  Periods of clouds, with snow showers ending this morning, then re-developing this afternoon from the west, mainly north of Rt. 4, extending south through the mountains.  A dusting to an inch. Highs in the 20s, from 20 to 30 north to south.  Light winds becoming southwest near 10 mph."
-  },
-  {
     "heading": "Tonight",
-    "text": "Scattered snow showers lingering through NY, east from Rt. 2 north.  Some partial clearing south.  Colder.  Lows in the single number to low teens, coldest north.  Winds southwest 10 to 15 mph, gusting to 25 mph from the Green Mountains west."
+    "text": "Scattered snow showers lingering through NY, east from Rt. 2 north. Some partial clearing south. Colder. Lows in the single number to low teens, coldest north. Winds southwest 10 to 15 mph, gusting to 25 mph from the Green Mountains west."
   },
   {
     "heading": "Tuesday",
-    "text": "Snow showers in the Adirondacks, with periods of clouds and passing snow showers elsewhere north.  Morning sun east and south of the mountains, then more afternoon clouds.  Highs running from 10 to 20 north to south.  Winds becoming west near 10 mph."
+    "text": "Snow showers in the Adirondacks, with periods of clouds and passing snow showers elsewhere north. Morning sun east and south of the mountains, then more afternoon clouds. Highs running from 10 to 20 north to south. Winds becoming west near 10 mph."
+  },
+  {
+    "heading": "Tuesday Night",
+    "text": "Any evening snow showers in NY ending. Gradual clearing, except clouds in NY lifting north to the Quebec border. Lows from 5 below to 5 above zero. Winds light, becoming southwest near 10 mph from the Green Mountains west."
   }
 ]
