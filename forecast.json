@@ -1,26 +1,26 @@
 [
   {
-    "heading": "Sunday",
+    "heading": "Today, MLK Jr Day",
     "text": "Mixed clouds. Chance of scattered snow showers.",
-    "temperature": "Mid 20s to low 30s",
+    "temperature": "20 to 30 north to south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
   },
   {
-    "heading": "Tonight",
-    "text": "Chance of snow showers to the south",
-    "temperature": "Teens to near 10",
+    "heading": "Monday Night",
+    "text": "Scattered snow showers north, numerous in NY. Partial clearing south.",
+    "temperature": "Single numbers to low teens",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy_night.png"
   },
   {
-    "heading": "Monday",
-    "text": "Sunshine with mixed clouds. Afternoon snowshowers.",
-    "temperature": "20s",
+    "heading": "Tuesday",
+    "text": "Snow showers in NY, a few in the afternoon from Rt. 2 north. Some sun east and south.",
+    "temperature": "10 to 20 north to south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
   },
   {
-    "heading": "Tuesday",
-    "text": "Morning sun, then clouds. Chilly.",
-    "temperature": "Near 10 into the teens",
+    "heading": "Wednesday",
+    "text": "Morning sun, then clouds. Some snow showers west and north late.",
+    "temperature": "20s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/mostly_cloudy.png"
   }
 ]
