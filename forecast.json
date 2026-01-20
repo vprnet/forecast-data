@@ -1,26 +1,26 @@
 [
   {
-    "heading": "Monday Night",
-    "text": "Scattered snow showers north, numerous in NY. Partial clearing south.",
-    "temperature": "Single digits to low teens",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy_night.png"
-  },
-  {
-    "heading": "Tuesday",
-    "text": "Snow showers in NY, a few in the afternoon from Rt. 2 north. Some sun east and south.",
-    "temperature": "10 to 20 north to south",
+    "heading": "Today",
+    "text": "Sunshine with mixed clouds. Spotty snow showers.",
+    "temperature": "Teens, near 20 South",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
   },
   {
+    "heading": "Tonight",
+    "text": "Snow showers ending.",
+    "temperature": "-5 to near 10",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_snow_showers_night.png"
+  },
+  {
     "heading": "Wednesday",
-    "text": "Morning sun, then clouds. Some snow showers west and north late.",
-    "temperature": "20s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/mostly_cloudy.png"
+    "text": "Chance of afternoon snow showers. Breezy",
+    "temperature": "20s near 30 south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
   },
   {
     "heading": "Thursday",
-    "text": "Mixed clouds. Chance of scattered snow showers.",
-    "temperature": "low 30s, upper 20s northeast",
+    "text": "Chance of scattered snow showers, and isolated squalls. Breezy.",
+    "temperature": "30s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
   }
 ]
