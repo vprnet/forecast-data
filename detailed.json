@@ -1,14 +1,14 @@
 [
   {
+    "heading": "Today",
+    "text": "Periods of sunshine and cloud cover. Chance of a few spotty snow showers. Chilly. Highs from the mid-teens in the north, increasing to near 20 as you head south. West wind 10 to 15 mph, occasional gusts up to 20 mph."
+  },
+  {
     "heading": "Tonight",
-    "text": "Scattered snow showers lingering through NY, east from Rt. 2 north. Some partial clearing south. Colder. Lows in the single number to low teens, coldest north. Winds southwest 10 to 15 mph, gusting to 25 mph from the Green Mountains west."
+    "text": "Any snow showers diminishing. Lows in the single digits, dropping below zero in some of the cooler hollows. Wind turning southwest becoming light and variable."
   },
   {
-    "heading": "Tuesday",
-    "text": "Snow showers in the Adirondacks, with periods of clouds and passing snow showers elsewhere north. Morning sun east and south of the mountains, then more afternoon clouds. Highs running from 10 to 20 north to south. Winds becoming west near 10 mph."
-  },
-  {
-    "heading": "Tuesday Night",
-    "text": "Any evening snow showers in NY ending. Gradual clearing, except clouds in NY lifting north to the Quebec border. Lows from 5 below to 5 above zero. Winds light, becoming southwest near 10 mph from the Green Mountains west."
+    "heading": "Wednesday",
+    "text": "Snow showers arrive in the afternoon, then spreading east. Occasional periods of low visibility. Highs from the mid 20s in the northeast, increasing into the upper 20s, and nearing 30 in the southern valleys. Wind gusts increasing 20 to 25 mph west of the Greens."
   }
 ]
