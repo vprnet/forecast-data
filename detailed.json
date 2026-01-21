@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Partly to mostly cloudy. A rising chance of snow showers from the Green Mountains westward; chance to the east, mainly late. Highs in the low to mid 20s. South winds 5 to 15 mph, gusting to 25 mph in the Champlain Valley."
-  },
-  {
-    "heading": "Tonight",
+    "heading": "Wednesday Night",
     "text": "Mostly cloudy. Scattered snow showers, with a trace to 2 inches. Lows from the upper teens to mid 20s, some mid teens northeast. South winds 5 to 10 mph, gusting to 25 mph in the Champlain and St. Lawrence valleys."
   },
   {
     "heading": "Thursday",
-    "text": "Mostly sunny southeast, otherwise partly to mostly cloudy. Scattered snow showers; an afternoon squall also possible, mainly north. Highs from the upper 20s to mid 30s, mid to upper 30s southeast. Southwest winds 5 to 15 mph, gusting to 25 mph in the Champlain and St. Lawrence valleys."
+    "text": "Mostly sunny southeast, otherwise partly to mostly cloudy. Scattered snow showers; an afternoon squall also possible, mainly north. Highs from the upper 20s to mid 30s, mid to upper 30s southeast. Southwest winds 5 to 15 mph, gusting to 30 mph."
+  },
+  {
+    "heading": "Thursday Night",
+    "text": "Mainly clear south. Variable clouds north, with the chance of a snow shower. Lows in the low to mid teens. Southwest winds gusting to 30 mph early, then diminishing and becoming west."
   }
 ]
