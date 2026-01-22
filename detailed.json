@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Partly to mostly cloudy. Snow showers likely, and maybe a squall, except slight chance southeast; a trace to 2 inches. Highs from the upper 20s to mid 30s, mid to upper 30s southeast. Southwest winds 5 to 15 mph, gusting to 30 mph."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Variable clouds. Scattered snow showers, mainly between Route 4 and the international border. Lows in the low to mid teens. Southwest winds gusting to 30 mph early, then diminishing and becoming west."
+    "heading": "Thursday Night",
+    "text": "Variable clouds. Slight chance of an early squall, then scattered snow showers, mainly between Route 4 and the international border. Lows in the low to mid teens. Lows in the low to mid teens. Southwest winds gusting to 30 mph early, then diminishing and becoming west."
   },
   {
     "heading": "Friday",
     "text": "Partly to mostly cloudy. Scattered snow showers and squalls north, isolated south; a trace to 2 inches. Highs from the upper teens to mid 20s in the south, and mid teens to around 20 north, except low to mid teens in the Adirondacks and near the international border; temperatures falling in northern areas by mid afternoon. Southwest winds 5 to 15 mph and gusting to 30 mph, becoming northwest."
+  },
+  {
+    "heading": "Friday Night",
+    "text": "Chance of an early snow shower or squall in the south, otherwise partly cloudy and becoming very cold. Lows from zero to 10 below in the south, and 10 to 20 below north. Valley wind chills dropping to between 20 below and 35 below north and between 10 below and 25 below in the south. Northwest winds 10 to 15 mph, gusting to 25 mph."
   }
 ]
