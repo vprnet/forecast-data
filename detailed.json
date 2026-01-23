@@ -1,14 +1,18 @@
 [
   {
-    "heading": "***EXTREME COLD WARNING, EXCEPT A COLD WEATHER ADVISORY IN SOUTHEAST VT INTO SOUTHERN NH FOR FRIDAY NIGHT AND SATURDAY******WINTER STORM WATCH EXCEPT NORTHERN NH SUNDAY AFTERNOON THROUGH MONDAY***Today",
-    "text": "Partly sunny, with localized snow showers or squalls. A dusting to 2 inches possible. Highs in the teens north, to low 20s south. Winds southwest, becoming northwest 10 to 15 mph, gusting to 25 mph."
-  },
-  {
     "heading": "Tonight",
     "text": "Gradual clearing and quite cold. Lows 10 to 20 below north, coldest in the Adirondacks, and zero to 10 below south. Northwest winds 10 to 15 mph, gusting to 25 mph."
   },
   {
     "heading": "Saturday",
     "text": "A few morning clouds north, then mostly sunny. Bitterly cold. Highs zero to 10 below north, zero to 10 above south. Northwest winds 10 to 15 mph, gusting to 25 mph."
+  },
+  {
+    "heading": "Saturday Night",
+    "text": "Mostly clear early, then increasing clouds south to north. Very cold. Lows zero to 5 below south, 5 to 15 below north, where cold spots will drop to 25 below zero. Winds northwest near 10 mph in the evening, diminishing to light."
+  },
+  {
+    "heading": "Sunday",
+    "text": "Any early sun north gives way to clouds. Snow developing south in the afternoon, spreading north. Remaining cold. Highs 5 to 15 above, north to south. Winds light, mainly north to northeast near 10 mph."
   }
 ]
