@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly sunny. Bitterly cold. Highs zero to 10 below north, zero to 10 above south. Northwest wind 10 to 15 mph, gusting to 20 mph."
-  },
-  {
     "heading": "Tonight",
     "text": "Mostly clear early, then increasing clouds south to north. Frigid. Lows zero to 5 below south, 5 to 15 below north, where cold spots will drop to 20 below zero. Northwest wind becoming light."
   },
   {
     "heading": "Sunday",
     "text": "Mostly cloudy. Snow developing south, spreading north in the afternoon becoming moderate to heavy at times. Remaining cold. Highs near 10 north, in the teens elsewhere. Calm wind."
+  },
+  {
+    "heading": "Sunday Night",
+    "text": "Steady snow showers continuing. Lows in the single digits to near 10 degrees, a few negatives in the north. Light northeast wind."
   }
 ]
