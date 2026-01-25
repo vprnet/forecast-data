@@ -1,19 +1,19 @@
 [
   {
-    "heading": "Tonight:",
-    "text": "Increasing clouds. Bitterly cold.",
-    "temperature": "Zero to 5 below south, 10 to 15 below north",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_night.png"
-  },
-  {
     "heading": "Sunday",
-    "text": "Early sun north. Midday snow south, spreading north in the afternoon.",
+    "text": "Widespread snow south, spreading north in the afternoon.",
     "temperature": "5 to 15 above, from north to south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_snow.png"
   },
   {
+    "heading": "Tonight",
+    "text": "Snow becoming light and scattered after midnight.",
+    "temperature": "5 below northwest to 5 above southeast",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_night.png"
+  },
+  {
     "heading": "Monday",
-    "text": "Snow, heavy south, moderate north.",
+    "text": "Snow, moderate south, light north.",
     "temperature": "10 to 20 north to south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/heavy_snow.png"
   },
