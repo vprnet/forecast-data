@@ -1,13 +1,7 @@
 [
   {
-    "heading": "Sunday",
-    "text": "Widespread snow south, spreading north in the afternoon.",
-    "temperature": "5 to 15 above, from north to south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_snow.png"
-  },
-  {
     "heading": "Tonight",
-    "text": "Snow becoming light and scattered after midnight.",
+    "text": "Conditions worsening this evening, increasing snowfall rates south. Decreasing late.",
     "temperature": "5 below northwest to 5 above southeast",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_night.png"
   },
@@ -22,5 +16,11 @@
     "text": "Snow showers ending, becoming partly sunny.",
     "temperature": "10 to 20 North to South",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/mostly_cloudy.png"
+  },
+  {
+    "heading": "Wednesday",
+    "text": "A mix of sun and clouds.",
+    "temperature": "5 to 15 above, from north to south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   }
 ]
