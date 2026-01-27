@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly cloudy. Snow showers likely north, chance in the south; a trace to an inch. Highs in the low to mid teens north, mid teens to around 20 south. West to southwest winds 5 to 10 mph."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Clouds decreasing south, decreasing gradually north. Scattered snow showers diminishing, except remaining in the northern Green Mountains; another trace to an inch, mainly over high terrain. Lows 5 above to 5 below zero, cold hollows around 10 below. Winds light and variable."
+    "heading": "Tuesday Night",
+    "text": "Mostly cloudy north, clouds gradually decreasing south. Scattered snow showers diminishing, except remaining in the northern Green Mountains; another trace to an inch, mainly over high terrain. Lows 5 above to 5 below zero, cold hollows around 10 below. Winds light and variable."
   },
   {
     "heading": "Wednesday",
     "text": "Partly cloudy, except mostly cloudy northeast and in the Adirondacks. Highs in the low to mid teens north, mid teens to around 20 south. West winds 5 to 10 mph."
+  },
+  {
+    "heading": "Wednesday Night",
+    "text": "Partly to mostly cloudy. Lows 5 above to 5 below zero, cold hollows around 10 below. Winds northwest near 10 mph, diminishing to light."
   }
 ]
