@@ -1,14 +1,8 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly cloudy. Snow showers likely north, chance south.",
-    "temperature": "Low to mid teens north, mid teens to around 20 south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_sun.png"
-  },
-  {
     "heading": "Tuesday Night",
-    "text": "A few evening snow showers, then partial clearing.",
-    "temperature": "5 below to 5 above",
+    "text": "Scattered snow showers early, then decreasing.",
+    "temperature": "Mainly 5 below to 5 above",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_snow_showers_night.png"
   },
   {
@@ -19,8 +13,14 @@
   },
   {
     "heading": "Thursday",
-    "text": "A mix of sun and clouds.",
+    "text": "Scattered snow showers.",
     "temperature": "10 to 20 north to south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
+  },
+  {
+    "heading": "Friday",
+    "text": "Chance of a snow shower or flurry, mainly north.",
+    "temperature": "Single digits to lower teens",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
   }
 ]
