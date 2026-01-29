@@ -1,10 +1,14 @@
 [
   {
-    "heading": "Today",
+    "heading": "Tonight",
     "text": "Partly to mostly cloudy. Chance of a snow shower, mainly in the northern mountains. Lows from zero to 10 below, colder hollows around 15 below. Valley wind chills from 10 to 20 below in the south and in the Champlain Valley, 15 to 30 below elsewhere north. West to northwest winds 5 to 10 mph, gusting to 20 mph."
   },
   {
     "heading": "Friday",
     "text": "Decreasing clouds in southern valleys; mostly cloudy elsewhere, with a chance of flurries. Valley highs in the single digits to around 10 above, some lower teens far south. Morning wind chills at lower elevations from 10 to 20 below in the south and in the Champlain Valley, 15 to 30 below elsewhere north. Northwest winds 5 to 10 mph, gusting to 20 mph."
+  },
+  {
+    "heading": "Friday Night",
+    "text": "Periods of clouds, more so in the northern mountains. Lows from zero to 10 below, colder hollows 15 to 20 below. Northwest winds 5 to 10 mph, and diminishing."
   }
 ]
