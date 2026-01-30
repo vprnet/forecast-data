@@ -1,15 +1,15 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Extremely cold and breezy.",
-    "temperature": "Lows from zero to 15 below",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_night.png"
+    "heading": "Today",
+    "text": "Quite cold and breezy. Lots of clouds, flurries in the north and mountains. More sun in southern valleys.",
+    "temperature": "Zero to 10 above north to south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_sun.png"
   },
   {
-    "heading": "Friday",
-    "text": "Very cold and breezy.",
-    "temperature": "Single digits to lower teens",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/mostly_cloudy.png"
+    "heading": "Tonight",
+    "text": "Becoming clear south, partial clearing north.",
+    "temperature": "5 to 15 below zero",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_night.png"
   },
   {
     "heading": "Satuday",
@@ -19,8 +19,8 @@
   },
   {
     "heading": "Sunday",
-    "text": "Mostly sunny, more clouds arriving far south.",
-    "temperature": "Mid teens to around 20",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
+    "text": "Mostly sunny. Some high clouds in NH.",
+    "temperature": "10 to 20 north to south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   }
 ]
