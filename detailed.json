@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Mostly cloudy, limited sun in the north and mountains, with a few snow showers. Partly to mostly sunny in southern valleys. Highs only zero to 5 above north, 5 to 10 south, coldest over the higher terrain. Winds northwest near 10 mph, gusting 20 to 30 mph, especially over the higher terrain, and in NH."
-  },
-  {
     "heading": "Tonight",
-    "text": "Periods of clouds north, south through the mountains. Mainly clear in southern valleys. Lows 5 to 15 below zero. Winds northwest near 10 mph, becoming light and variable."
+    "text": "Periods of clouds north, and through the mountains. Mostly clear in southern valleys. Lows from 5 to 15 below zero. Northwest wind diminishing to light and variable."
   },
   {
     "heading": "Saturday",
-    "text": "Partly sunny north, and mostly sunny south. Not as cold. Highs in the upper single numbers to low teens north, and teens to near 20 south. Winds light, becoming northwest up to 10 mph."
+    "text": "Sunshine with mixed clouds north, more sunshine south. Not as cold. Highs in the upper single digits to low teens north, into the upper teens south. Light northwest wind."
+  },
+  {
+    "heading": "Saturday Night",
+    "text": "Mostly clear with passing clouds. Lows from 5 to 10 below, topping out near 0 in the south. Light northeast wind."
   }
 ]
