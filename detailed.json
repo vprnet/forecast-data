@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Periods of clouds north, and through the mountains. Mostly clear in southern valleys. Lows from 5 to 15 below zero. Northwest wind diminishing to light and variable."
-  },
-  {
-    "heading": "Saturday",
+    "heading": "Today",
     "text": "Sunshine with mixed clouds north, more sunshine south. Not as cold. Highs in the upper single digits to low teens north, into the upper teens south. Light northwest wind."
   },
   {
-    "heading": "Saturday Night",
+    "heading": "Tonight",
     "text": "Mostly clear with passing clouds. Lows from 5 to 10 below, topping out near 0 in the south. Light northeast wind."
+  },
+  {
+    "heading": "Sunday",
+    "text": "Sunshine with mixed clouds. Highs in the teens north, to near 20 south. North wind near 10 mph, occasional gusts at 15 to 20 mph."
   }
 ]
