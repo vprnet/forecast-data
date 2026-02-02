@@ -1,13 +1,7 @@
 [
   {
-    "heading": "Today, Groundhog Day",
-    "text": "Mostly sunny. Not as cold by afternoon.",
-    "temperature": "Upper teens to mid 20s north to south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/sunny.png"
-  },
-  {
     "heading": "Monday Night",
-    "text": "Clear, moonlight, then increasing clouds in NY.",
+    "text": "Clear, moonlit, then increasing high clouds in NY.",
     "temperature": "Zero to 10 below, teens below in the cold spots",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/09/Mostly_clear_night.png"
   },
@@ -21,6 +15,12 @@
     "heading": "Wednesday",
     "text": "A few snow showers west and north, more sun south.",
     "temperature": "20s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
+  },
+  {
+    "heading": "Thursday",
+    "text": "Brief showers north, then clearing to mostly sunny.",
+    "temperature": "Upper teens to mid 20s north to south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
   }
 ]
