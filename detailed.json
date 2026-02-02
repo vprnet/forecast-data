@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Mostly sunny, and not as cold by afternoon.  Highs in the upper teens to mid 20s north to south.  Winds light, becoming northwest near 10 mph from the Green Mountains east."
-  },
-  {
     "heading": "Tonight",
-    "text": "Mostly clear, then some increasing clouds through NY, reaching western VT toward morning.  Lows zero to 10 below, teens below in the cold spots.  Winds light and variable."
+    "text": "Mostly clear, then some increasing clouds through NY, reaching western VT toward morning. Lows zero to 10 below, teens below in the cold spots. Winds light and variable."
   },
   {
     "heading": "Tuesday",
-    "text": "Sun, mixing with clouds east of the Green Mountains.  Partly sunny west, becoming mostly cloudy, with a few afternoon snow showers in NY.  Milder.  Highs in the 20s, close to 30 in the warmer valleys south.  Winds light, becoming southwest up to 10 mph from the Champlain Valley west."
+    "text": "Sun, mixing with clouds east of the Green Mountains. Partly sunny west, becoming mostly cloudy, with a few afternoon snow showers in NY. Milder. Highs in the 20s, close to 30 in the warmer valleys south. Winds light, becoming southwest up to 10 mph from the Champlain Valley west."
+  },
+  {
+    "heading": "Tuesday Night",
+    "text": "Mostly cloudy from the Adirondacks and Rt. 2 north, with scattered snow showers. Partly cloudy south. Lows zero to 10 above south, 5 to 15 north. Winds light, becoming west less than 10 mph."
   }
 ]
