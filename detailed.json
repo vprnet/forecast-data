@@ -1,14 +1,22 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly sunny east of the Greens; mostly cloudy west, with the chance of a flurry in New York. Highs from the mid 20s to around 30, some lower 20s northeast. Winds variable to south at around 5 mph, gusting to 10 mph in the Champlain and St. Lawrence valleys."
+    "heading": "Tuesday Night",
+    "text": "Mostly cloudy north, with scattered snow showers, mainly late. Partly cloudy south, with the chance of a snow shower from the southern Greens westward. Lows from 5 to 15 above, cold spots around zero. Light winds, variable to south."
   },
   {
-    "heading": "Tonight",
-    "text": "Mostly cloudy north, with scattered and light snow showers, mainly late. Partly cloudy south, with the chance of a snow shower from the southern Greens westward. Lows from 5 to 15 above, cold spots around zero. Light winds, variable to south."
+    "heading": "Tuesday Night",
+    "text": "Mostly cloudy north, with scattered snow showers, mainly late. Partly cloudy south, with the chance of a snow shower from the southern Greens westward. Lows from 5 to 15 above, cold spots around zero. Light winds, variable to south."
   },
   {
     "heading": "Wednesday",
-    "text": "Partly to mostly sunny in the south. Mostly cloudy north with scattered morning snow showers, then some clearing in the Champlain Valley. Highs in the low to mid 20s north, mid 20s to around 30 in the south. Winds becoming west to northwest 5 to 10 mph, gusting to 15 mph."
+    "text": "Partly to mostly sunny in the south. Morning snow showers likely in the north, then decreasing afternoon clouds. Highs in the low to mid 20s north, mid 20s to around 30 in the south. West to northwest winds 5 to 10 mph, gusting to 15 mph."
+  },
+  {
+    "heading": "Wednesday",
+    "text": "Partly to mostly sunny in the south. Morning snow showers likely in the north, then decreasing afternoon clouds. Highs in the low to mid 20s north, mid 20s to around 30 in the south. West to northwest winds 5 to 10 mph, gusting to 15 mph."
+  },
+  {
+    "heading": "Wednesday Night",
+    "text": "Partly cloudy south. Mostly cloudy north, with a the chance of a snow shower, mainly in the mountains. Lows zero to 10 above, cold spots around 5 below. Northwest 5 to 10 mph and diminishing."
   }
 ]
