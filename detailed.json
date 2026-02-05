@@ -1,11 +1,7 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly sunny, except partly cloudy near the international border, and in the Adirondacks. Highs in the low to mid 20s north, mid to upper 20s in the south. Northwest winds 5 to 10 mph, gusting to 15 mph."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Clear to partly cloudy. Lows from zero to 10 below, cold spots around 15 below. Winds becoming light and variable."
+    "heading": "Thursday Night",
+    "text": "Gradually increasing clouds. Lows from zero to 10 below, northeastern cold spots around 15 below. Winds becoming light and variable."
   },
   {
     "heading": "Friday",
@@ -14,5 +10,9 @@
   {
     "heading": "Sun filtering through high clouds; clouds thickening west of the Greens in the afternoon, with the chance of a late-day snow shower in the St. Lawrence Valley. Highs mainly in the mid to upper 20s. Winds becoming south",
     "text": " around 5 mph east of the Greens, 5 to 10 mph in the west, and gusting to 20 mph late in the Champlain Valley."
+  },
+  {
+    "heading": "Friday Night",
+    "text": "Mostly cloudy. Periods snow; with a trace to an\u00a0 inch east of the Greens, and a trace to 2 inches along and west of the Greens, and up to 3 inches in the St. Lawrence Valley. Lows in the mid to upper teens near and south of Route 4, and 5 to 15 above in areas north of Route 4, except 5 above to 5 below in far northern New York. Winds from the south to southeast at 5 to 10 mph, becoming northwest late in far northern New York."
   }
 ]
