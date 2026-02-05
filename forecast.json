@@ -1,26 +1,26 @@
 [
   {
-    "heading": "Wednesday Night",
-    "text": "Chnace of snow showers north, mainly late.",
-    "temperature": "Zero to 10 above, cold spots around 5 below",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_snow_showers_night.png"
-  },
-  {
-    "heading": "Thursday",
-    "text": "Chance of early snow showers north, otherwise clouds decreasing.",
-    "temperature": "Low to mid 20s north, mid to upper 20s south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
+    "heading": "Today",
+    "text": "Clouds giving way to increasing sun north, mostly sunny south.",
+    "temperature": "Mid teens to mid 20s north to south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   },
   {
     "heading": "Thursday Night",
-    "text": "Clear to partly cloudy.",
-    "temperature": "Zero to 10 below, cold spots around 15 below",
+    "text": "Mainly clear, some high clouds.\u00a0 Colder.",
+    "temperature": "5 above to 10 below, teens below in cold spots.",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_night.png"
   },
   {
     "heading": "Friday",
-    "text": "Mostly to partly sunny. Chance of a late-day snow shower in the St. Lawrence Valley.",
-    "temperature": "Mid 20s to around 30",
+    "text": "Periods of sun giving way to clouds.",
+    "temperature": "20s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
+  },
+  {
+    "heading": "Saturday",
+    "text": "Light snow tapering off. Turning much colder.",
+    "temperature": "0 to 10 north, teens to low 20s south, falling",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_snow.png"
   }
 ]
