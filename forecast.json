@@ -1,14 +1,8 @@
 [
   {
-    "heading": "Today",
-    "text": "Snow showers, becoming scattered in the afternoon. Breezy.",
-    "temperature": "Teens north, 20s south.",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_snow.png"
-  },
-  {
     "heading": "Tonight",
     "text": "Some clearing in the valleys, mostly cloudy elsewhere. Extreme cold.",
-    "temperature": "10 to 20 below.",
+    "temperature": "5 to 15 below.",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_night.png"
   },
   {
@@ -22,5 +16,11 @@
     "text": "Mostly sunny, a few passing clouds.",
     "temperature": "Near 10 into the teens.",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
+  },
+  {
+    "heading": "Tuesday",
+    "text": "Mostly sunny and warmer.",
+    "temperature": "Teens north, 20s south.",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   }
 ]
