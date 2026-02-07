@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Snow showers becoming more scattered. Temperatures dropping from near zero into the negatives from the west to the east. Northwest wind becoming 10 to 15 mph, gusting 20 to 30 mph."
-  },
-  {
     "heading": "Tonight",
     "text": "Mostly cloudy, with partial clearing in the Champlain and southern valleys. Lows 5 to 15 below zero. Northwest wind 10 to 15 mph, gusting 20 to 25 mph."
   },
   {
     "heading": "Sunday",
     "text": "More sunshine developing south to north. Frigid and gusty. Highs from just below zero into the single digits, with a few teens in the southern valleys. Northwest wind near 10 mph, gusting to near 20 mph."
+  },
+  {
+    "heading": "Sunday Night",
+    "text": "Partly cloudy, with more periods of clearing in the south. Lows from 5 to 15 below zero. Northwest wind becoming light and variable."
   }
 ]
