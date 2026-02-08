@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Mostly cloudy, with partial clearing in the Champlain and southern valleys. Lows 5 to 15 below zero. Northwest wind 10 to 15 mph, gusting 20 to 25 mph."
-  },
-  {
     "heading": "Sunday",
     "text": "More sunshine developing south to north. Frigid and gusty. Highs from just below zero into the single digits, with a few teens in the southern valleys. Northwest wind near 10 mph, gusting to near 20 mph."
   },
   {
     "heading": "Sunday Night",
     "text": "Partly cloudy, with more periods of clearing in the south. Lows from 5 to 15 below zero. Northwest wind becoming light and variable."
+  },
+  {
+    "heading": "Monday",
+    "text": "A few clouds in the northeast in the morning, then mostly sunny skies. Not as cold. Highs from the teens in the north, increasing into the 20s in the Connecticut and Champlain River Valleys. Light northwest wind."
   }
 ]
