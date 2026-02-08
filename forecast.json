@@ -1,15 +1,9 @@
 [
   {
-    "heading": "Sunday",
-    "text": "Sunshine developing south to north. Frigid, and gusty.",
-    "temperature": "Single digits, near 20 south.",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
-  },
-  {
     "heading": "Tonight",
     "text": "Some clearing in the valleys, mostly cloudy elsewhere. Extreme cold.",
     "temperature": "5 to 15 below.",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_night.png"
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/clear_night.png"
   },
   {
     "heading": "Monday",
@@ -19,8 +13,14 @@
   },
   {
     "heading": "Tuesday",
-    "text": "Mostly sunny and warmer.",
+    "text": "Mostly sunny and warmer. PM snow showers.",
     "temperature": "Teens north, 20s south.",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
+  },
+  {
+    "heading": "Wednesday",
+    "text": "Scattered snow showers early then tapering off.",
+    "temperature": "Mid to upper 20.",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   }
 ]
