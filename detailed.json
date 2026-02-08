@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Sunday",
-    "text": "More sunshine developing south to north. Frigid and gusty. Highs from just below zero into the single digits, with a few teens in the southern valleys. Northwest wind near 10 mph, gusting to near 20 mph."
-  },
-  {
     "heading": "Sunday Night",
     "text": "Clear south of route 2, partly cloudy north. Lows from 5 to 15 below zero. Northwest wind becoming light and variable."
   },
   {
     "heading": "Monday",
     "text": "A few clouds in the northeast in the morning, then mostly sunny skies. Not as cold. Highs from the teens in the north, increasing into the 20s in the Connecticut and Champlain River Valleys. Light northwest wind."
+  },
+  {
+    "heading": "Monday Night",
+    "text": "Mostly clear. Lows from near to 10 below, up to 15 below in the cold hollows."
   }
 ]
