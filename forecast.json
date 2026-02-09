@@ -1,14 +1,8 @@
 [
   {
-    "heading": "Wednesday",
-    "text": "Snow tapering off, lingering north of Route 2 until the evening.",
-    "temperature": "20s and mid 30s.",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
-  },
-  {
     "heading": "Monday Night",
     "text": "Clear early. Increasing clouds west to east.",
-    "temperature": "0 to 10 below, cold spots northeast 15 below zero.",
+    "temperature": "+5 to -5 south to north, cold spots 10 below.",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_night.png"
   },
   {
@@ -22,5 +16,11 @@
     "text": "Snow, moderate to heavy at times.",
     "temperature": "Teens to low 20s.",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_moderate_night.png"
+  },
+  {
+    "heading": "Wednesday",
+    "text": "Snow tapering off, lingering north of Route 2 until the evening.",
+    "temperature": "20s and mid 30s.",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   }
 ]
