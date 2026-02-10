@@ -1,25 +1,25 @@
 [
   {
-    "heading": "Monday Night",
-    "text": "Clear early. Increasing clouds west to east.",
-    "temperature": "+5 to -5 south to north, cold spots 10 below.",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_night.png"
-  },
-  {
-    "heading": "Tuesday",
+    "heading": "Today",
     "text": "Early sun, then clouds. Snow developing in NY midday, spreading east.",
-    "temperature": "20s to low 30s.",
+    "temperature": "20s to low 30s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
   },
   {
     "heading": "Tuesday Night",
-    "text": "Snow, moderate to heavy at times.",
-    "temperature": "Teens to low 20s.",
+    "text": "Snow, moderate to heavy, then tapering to snow showers.",
+    "temperature": "Teens to near 20.",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_moderate_night.png"
   },
   {
     "heading": "Wednesday",
-    "text": "Snow tapering off, lingering north of Route 2 until the evening.",
+    "text": "Snow showers retreating to the mountains. Some breaks of valley sun.",
+    "temperature": "Mid 20s to mid 30s.",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
+  },
+  {
+    "heading": "Thursday",
+    "text": "Early clouds giving way to sun.",
     "temperature": "20s and mid 30s.",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   }
