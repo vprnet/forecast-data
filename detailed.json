@@ -1,14 +1,22 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Partly to mostly cloudy. Snow likely in New York, and possibly heavy, with 1 to 2 inches, except up to 3 inches in the St. Lawrence Valley; a rising chance of snow elsewhere along and west of the Greens, with a trace to an inch; chance late east of the Greens. Highs from the mid 20s to lower 30s. South and southeast winds 5 to 10 mph."
+    "heading": "Tuesday Night",
+    "text": "Brief periods of heavy snow possible early, then tapering to snow showers overnight. Totals by morning from 3 to 6 inches, locally higher in the mountains and in the St. Lawrence Valley, and locally lower in southern valleys. Lows from the upper teens to mid 20s, some mid teens far north. South to southeast winds 5 to 10 mph and diminishing."
   },
   {
-    "heading": "Tonight",
+    "heading": "Tuesday Night",
     "text": "Brief periods of heavy snow possible early, then tapering to snow showers overnight. Totals by morning from 3 to 6 inches, locally higher in the mountains and in the St. Lawrence Valley, and locally lower in southern valleys. Lows from the upper teens to mid 20s, some mid teens far north. South to southeast winds 5 to 10 mph and diminishing."
   },
   {
     "heading": "Wednesday",
-    "text": "Mostly to partly cloudy. Scattered snow showers, except likely in the mountains, mainly north, with another 1 to 3 inches. Highs from the mid 20s to around 30, except low to mid 30s in southern valleys. Winds becoming northwest 5 to 10 mph."
+    "text": "Mostly to partly cloudy. Scattered snow showers, except likely in the mountains, mainly north, with another 1 to 3 inches there. Highs from the mid 20s to around 30, except low to mid 30s in southern valleys. Winds becoming northwest 5 to 10 mph."
+  },
+  {
+    "heading": "Wednesday",
+    "text": "Mostly to partly cloudy. Scattered snow showers, except likely in the mountains, mainly north, with another 1 to 3 inches there. Highs from the mid 20s to around 30, except low to mid 30s in southern valleys. Winds becoming northwest 5 to 10 mph."
+  },
+  {
+    "heading": "Wednesday Night",
+    "text": "Mostly cloudy. A few lingering snow showers north, mainly over high terrain. Lows in the mid to upper teens, around 10 above in the far north. Northwest winds 5 to 10 mph, gusting to 20 mph."
   }
 ]
