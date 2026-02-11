@@ -1,20 +1,20 @@
 [
   {
-    "heading": "Tuesday Night",
-    "text": "Snow, possibly heavy early, then tapering to snow showers.",
-    "temperature": "Mainly upper teens to mid 20s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_moderate_night.png"
-  },
-  {
-    "heading": "Wednesday",
-    "text": "Snow showers retreating to the mountains.",
-    "temperature": "Mid 20s to mid 30s, north to south.",
+    "heading": "Today",
+    "text": "Mostly cloudy, some sun in southern valleys. Snow showers in the north and mountains.",
+    "temperature": "Mid 20s to mid 30s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
   },
   {
+    "heading": "Wednesday Night",
+    "text": "Snow showers in the north and mountains. Clouds in southern valleys.",
+    "temperature": "Teens.",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy_night.png"
+  },
+  {
     "heading": "Thursday",
-    "text": "Mostly to partly cloudy.",
-    "temperature": "Low to mid 20s north, upper 20s to mid 30s south",
+    "text": "Morning clouds, then increasing sun midday and afternoon.",
+    "temperature": "20 to 30 north to south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/mostly_cloudy.png"
   },
   {
