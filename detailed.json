@@ -1,18 +1,18 @@
 [
   {
-    "heading": "Today",
-    "text": "Sunshine, mixing with some afternoon clouds.  Highs from the low 20s to low 30s north to south.  Winds light, mainly northwest less than 10 mph."
-  },
-  {
     "heading": "Tonight",
-    "text": "Partly cloudy in the evening, then periods of clouds, with a scattered snow showers in the north, south through the mountains. Lows in the single numbers north, 10 to 15 in the Champlain Valley and south.  Winds light, turning to the southwest near 10 mph from the Green Mountains west."
+    "text": "Partly cloudy in the evening, then more clouds arriving after midnight, with a chance of scattered snow showers in the north, and through the mountains. Lows in the single digits north, nearing 10 for much of the state with a few teens in the valleys. Light wind."
   },
   {
     "heading": "Saturday",
-    "text": "  Morning clouds and passing snow showers in the north and mountains, then periods of afternoon sun.  Partly sunny in southern valleys, becoming mostly sunny.  Highs in the 20s to near 30 north, 30 to 35 south.  Winds light, shifting to the northwest near 10 mph, gusting to 25 mph."
+    "text": " Chance of snow showers in the north and mountains in the morning, then some sunshine developing in the afternoon. Highs in the 20s to near 30 north, 30 to 35 south. Wind turning northwest at 5 to 15 mph, occasional gusts up to 20 mph."
   },
   {
-    "heading": "Valentines Day",
-    "text": "  Morning clouds and passing snow showers in the north and mountains, then periods of afternoon sun.  Partly sunny in southern valleys, becoming mostly sunny.  Highs in the 20s to near 30 north, 30 to 35 south.  Winds light, shifting to the northwest near 10 mph, gusting to 25 mph."
+    "heading": "Valentine\u2019s Day",
+    "text": " Chance of snow showers in the north and mountains in the morning, then some sunshine developing in the afternoon. Highs in the 20s to near 30 north, 30 to 35 south. Wind turning northwest at 5 to 15 mph, occasional gusts up to 20 mph."
+  },
+  {
+    "heading": "Saturday Night",
+    "text": "A few evening clouds, then becoming mostly clear. Lows from 5 below into the single digits in the north, increasing to near 10 as you head south. Light northwest wind."
   }
 ]
