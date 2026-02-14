@@ -1,10 +1,6 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Partly cloudy in the evening, then more clouds arriving after midnight, with a chance of scattered snow showers in the north, and through the mountains. Lows in the single digits north, nearing 10 for much of the state with a few teens in the valleys. Light wind."
-  },
-  {
-    "heading": "Saturday",
+    "heading": "Today",
     "text": " Chance of snow showers in the north and mountains in the morning, then some sunshine developing in the afternoon. Highs in the 20s to near 30 north, 30 to 35 south. Wind turning northwest at 5 to 15 mph, occasional gusts up to 20 mph."
   },
   {
@@ -12,7 +8,11 @@
     "text": " Chance of snow showers in the north and mountains in the morning, then some sunshine developing in the afternoon. Highs in the 20s to near 30 north, 30 to 35 south. Wind turning northwest at 5 to 15 mph, occasional gusts up to 20 mph."
   },
   {
-    "heading": "Saturday Night",
+    "heading": "Tonight",
     "text": "A few evening clouds, then becoming mostly clear. Lows from 5 below into the single digits in the north, increasing to near 10 as you head south. Light northwest wind."
+  },
+  {
+    "heading": "Sunday",
+    "text": "Sunshine, mixing with afternoon clouds from the west. Highs in the 20s to near 30 north, in the mid 30s south. Light and variable wind."
   }
 ]
