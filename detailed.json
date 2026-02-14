@@ -1,18 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": " Chance of snow showers in the north and mountains in the morning, then some sunshine developing in the afternoon. Highs in the 20s to near 30 north, 30 to 35 south. Wind turning northwest at 5 to 15 mph, occasional gusts up to 20 mph."
-  },
-  {
-    "heading": "Valentine\u2019s Day",
-    "text": " Chance of snow showers in the north and mountains in the morning, then some sunshine developing in the afternoon. Highs in the 20s to near 30 north, 30 to 35 south. Wind turning northwest at 5 to 15 mph, occasional gusts up to 20 mph."
-  },
-  {
     "heading": "Tonight",
-    "text": "A few evening clouds, then becoming mostly clear. Lows from 5 below into the single digits in the north, increasing to near 10 as you head south. Light northwest wind."
+    "text": "A few evening clouds, then becoming mostly clear. Lows from 5 below into the single digits in the north, increasing into the low teens in the southern valleys. Light northwest wind."
   },
   {
     "heading": "Sunday",
     "text": "Sunshine, mixing with afternoon clouds from the west. Highs in the 20s to near 30 north, in the mid 30s south. Light and variable wind."
+  },
+  {
+    "heading": "Sunday Night",
+    "text": "Mostly cloudy. Slight chance of a stray snow shower moving in from the west. Lows from near 10 into the teens, nearing 20 along Lake Champlain and in the warmer valleys."
   }
 ]
