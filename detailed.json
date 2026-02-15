@@ -1,14 +1,18 @@
 [
   {
-    "heading": "Tonight",
-    "text": "A few evening clouds, then becoming mostly clear. Lows from 5 below into the single digits in the north, increasing into the low teens in the southern valleys. Light northwest wind."
-  },
-  {
     "heading": "Sunday",
     "text": "Sunshine, mixing with afternoon clouds from the west. Highs in the 20s to near 30 north, in the mid 30s south. Light and variable wind."
   },
   {
     "heading": "Sunday Night",
     "text": "Mostly cloudy. Slight chance of a stray snow shower moving in from the west. Lows from near 10 into the teens, nearing 20 along Lake Champlain and in the warmer valleys."
+  },
+  {
+    "heading": "Monday",
+    "text": " Mostly cloudy, with some sunshine developing in the valleys. Much more mild with highs in the 30s to near 40."
+  },
+  {
+    "heading": "Presidents\u2019 Day",
+    "text": " Mostly cloudy, with some sunshine developing in the valleys. Much more mild with highs in the 30s to near 40."
   }
 ]
