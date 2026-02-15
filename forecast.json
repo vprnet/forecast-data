@@ -1,15 +1,15 @@
 [
   {
-    "heading": "Tonight",
-    "text": "A few snow showers south of I-89",
-    "temperature": "Teens to near 20",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy_night.png"
-  },
-  {
     "heading": "Sunday",
     "text": "Sunshine mixing with clouds.",
     "temperature": "20s to 30s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
+  },
+  {
+    "heading": "Tonight",
+    "text": "A few snow showers south of I-89",
+    "temperature": "Teens to near 20",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy_night.png"
   },
   {
     "heading": "Monday",
