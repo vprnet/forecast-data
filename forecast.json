@@ -1,11 +1,5 @@
 [
   {
-    "heading": "Sunday",
-    "text": "Sunshine mixing with clouds.",
-    "temperature": "20s to 30s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
-  },
-  {
     "heading": "Tonight",
     "text": "A few snow showers south of I-89",
     "temperature": "Teens to near 20",
@@ -22,5 +16,11 @@
     "text": "Mostly cloudy, some valley sun.",
     "temperature": "Upper 30s to mid-40s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
+  },
+  {
+    "heading": "Wednesday",
+    "text": "Chance of afternoon wintry mix, continuous snow over Central VT.",
+    "temperature": "30s, a few 40s south.",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_snow.png"
   }
 ]
