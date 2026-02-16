@@ -1,18 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "  Mostly cloudy, with any stray flurries or isolated snow showers north ending.  Some sunny intervals midday and afternoon.  Milder.  Highs in the 30s to near 40.  Winds light, becoming south near 10 mph."
-  },
-  {
-    "heading": "Presidents Day",
-    "text": "  Mostly cloudy, with any stray flurries or isolated snow showers north ending.  Some sunny intervals midday and afternoon.  Milder.  Highs in the 30s to near 40.  Winds light, becoming south near 10 mph."
-  },
-  {
     "heading": "Tonight",
-    "text": "Becoming mostly cloudy.   A few snow showers developing through NY, spreading east, mainly north of Rt. 4.  Lows in the 20s to near 30.  Light south winds, diminishing overnight."
+    "text": "Becoming mostly cloudy. A few snow showers developing through NY, spreading east, mainly north of Rt. 4. Lows in the 20s to near 30. Light south winds, diminishing overnight."
   },
   {
     "heading": "Tuesday",
-    "text": "Mostly cloudy, with a chance of a morning snow showers.  Lots of clouds, and limited breaks of sun midday and afternoon.  Mild.  Highs in the upper 30s and low 40s.  Winds southwest 5 to 15 mph."
+    "text": "Mostly cloudy, with a chance of a morning snow showers transitioning into drizzle or freezing rain in the late morning, tapering off around noon. Lots of clouds, and limited breaks of sun midday and afternoon. Mild. Highs in the upper 30s and low 40s. Winds southwest 5 to 15 mph."
+  },
+  {
+    "heading": "Tuesday Night",
+    "text": "Some partial clearing, mostly south, then more clouds late. Lows in the 20s. Winds diminishing to light and variable."
   }
 ]
