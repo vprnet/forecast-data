@@ -1,26 +1,26 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Some snow late, from the Hudson Valley and Rt. 9 southward.",
-    "temperature": "Upper 20s to lower 40s, north to south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
-  },
-  {
-    "heading": "Tonight",
-    "text": "Snow likely far south. Partly cloudy north.",
-    "temperature": "Mainly 5 to 15 above, from north to south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy_night.png"
+    "heading": "Wednesday Night",
+    "text": "Mostly to partly cloudy. Chance of snow far south.",
+    "temperature": "Mainly 10 to 20, from north to south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_snow_showers_night.png"
   },
   {
     "heading": "Thursday",
-    "text": "Partly sunny south, mostly sunny north.",
-    "temperature": "Upper 20s to mid 30s",
+    "text": "Partly to mostly sunny.",
+    "temperature": "Mainly mid to upper 30s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   },
   {
     "heading": "Friday",
-    "text": "A rising chance of snow after noon.",
+    "text": "Snow or a mix in the south by midday, a rising chance north after noon.",
     "temperature": "Mainly low to mid 30s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_rain_showers.png"
+  },
+  {
+    "heading": "Saturday",
+    "text": "Snow tapering to snow showers.",
+    "temperature": "Upper 20s to mid 30s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
   }
 ]
