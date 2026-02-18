@@ -1,19 +1,19 @@
 [
   {
-    "heading": "Tuesday Night",
-    "text": "Clearing south, more clouds late. Clouds north, some clearing late.",
-    "temperature": "20s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_snow_showers_night.png"
-  },
-  {
-    "heading": "Wednesday",
-    "text": "A rising chance of snow after noon west and south of I-89.",
-    "temperature": "Mainly low to mid 30s",
+    "heading": "Today",
+    "text": "Partly sunny north. Cloudy south, some snow late from Lake George and Rt. 9 south.",
+    "temperature": "Upper 20s north, 30s south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
   },
   {
+    "heading": "Wednesday Night",
+    "text": "Snow far south, 1 to 4 inches. Partly cloudy north.",
+    "temperature": "8 to 15 north, 15 to 22 south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy_night.png"
+  },
+  {
     "heading": "Thursday",
-    "text": "Partly to mostly sunny.",
+    "text": "Partly sunny south, mostly sunny north.",
     "temperature": "Upper 20s to mid 30s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   },
