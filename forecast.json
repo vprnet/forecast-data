@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Partly sunny north. Cloudy south, some snow late from Lake George and Rt. 9 south.",
-    "temperature": "Upper 20s north, 30s south",
+    "heading": "This Afternoon",
+    "text": "Some snow late, from the Hudson Valley and Rt. 9 southward.",
+    "temperature": "Upper 20s to lower 40s, north to south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
   },
   {
-    "heading": "Wednesday Night",
-    "text": "Snow far south, 1 to 4 inches. Partly cloudy north.",
-    "temperature": "8 to 15 north, 15 to 22 south",
+    "heading": "Tonight",
+    "text": "Snow likely far south. Partly cloudy north.",
+    "temperature": "Mainly 5 to 15 above, from north to south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy_night.png"
   },
   {
