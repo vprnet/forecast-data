@@ -1,20 +1,20 @@
 [
   {
-    "heading": "Today",
-    "text": "Becoming mostly sunny, mixed with clouds southwest.",
-    "temperature": "30s",
+    "heading": "This Afternoon",
+    "text": "Mostly sunny.",
+    "temperature": "Mainly mid to upper 30s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   },
   {
     "heading": "Thursday Night",
     "text": "Increasing clouds.",
-    "temperature": "8 to 15 northeast, 15 to 23 southwest",
+    "temperature": "Mid teens to lower 20s, some lower teens far north",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_night.png"
   },
   {
     "heading": "Friday",
-    "text": "Early sun northeast, then clouds. Snow spreading west to east in the afternoon.",
-    "temperature": "Mainly low to mid 30s",
+    "text": "Snow or a mix spreading southwest to northeast in the afternoon.",
+    "temperature": "Mainly mid to upper 30s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_rain_showers.png"
   },
   {
