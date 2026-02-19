@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly sunny, except partly cloudy far south. Highs mainly in the mid upper 30s, around 40 in southeastern valleys, and some lower 30s in the Champlain Valley, and near the international border. Winds variable to north around 5 mph."
-  },
-  {
     "heading": "Tonight",
-    "text": "Partly to mostly cloudy. Lows from the upper teens to mid 20s in areas south of Route 4, 5 to 15 above in northern areas, with northeastern cold hollows from zero to 5 below. Winds becoming light and variable."
+    "text": "Partly to mostly cloudy. Lows in the teens to lower 20s, some single digits far north. Winds becoming light and variable."
   },
   {
     "heading": "Friday",
-    "text": "Increasing clouds north, Mostly cloudy south, with a rising chance of wintry mix in the afternoon, and a rising chance late in the north; 1 to 3 inches of snow in the south, mainly over high terrain, a trace to an inch north. Valley highs in the mid to upper 30s, with temperatures falling once precipitation begins. South to southeast winds 5 to 10 mph."
+    "text": "Increasing clouds north, Mostly cloudy south, with a rising chance of snow or wintry mix by midday, and a rising chance mid to late afternoon in the north; 1 to 3 inches of snow in the south, mainly over high terrain, a trace to an inch north. Valley highs in the mid to upper 30s, with temperatures falling once precipitation begins. South to southeast winds 5 to 10 mph."
+  },
+  {
+    "heading": "Friday Night",
+    "text": "Mostly cloudy. Snow likely, with 2 to 5 inches, locally 7 inches in the mountains. Lows in the teens to lower 20s. Winds variable to east around 5 mph."
   }
 ]
