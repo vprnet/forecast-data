@@ -1,14 +1,18 @@
 [
   {
-    "heading": "***WINTER STORM WARNINGS, EXCEPT WINTER WEATHER ADVISORIES NORTH OF RT. 302, AND THE VALLEYS WEST OF THE GREEN MOUNTAINS, THIS AFTERNOON INTO SATURDAY MORNING***Today",
-    "text": "Early sun northeast giving way to clouds. Snow or a winter mix starting in Hudson Valley and southwest VT by midday, reaching northeast by evening. Highs in the 30s. Winds light, becoming south to southeast 5 to 10 mph."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Any mix changing to snow. Accumulations 4 to 8 inches, except 2 to 5 inches in broader western valleys. Lows in the 20s, teens far northeast. Winds east to southeast 5 to 15 mph, becoming light in sheltered valleys."
+    "heading": "***WINTER STORM WARNINGS THROUGH SATURDAY MORNING, EXCEPT WINTER WEATHER ADVISORIES NORTH OF RT. 302, AND THE VALLEYS WEST OF THE GREEN MOUNTAINS***Tonight",
+    "text": "Any mix changing to moderate to heavy snow. Totals 5 to 9 inches, up to a foot on the mountains, a little less in western valleys. Lows in the 20s, teens far northeast. Winds east to southeast 5 to 15 mph, becoming light in sheltered valleys."
   },
   {
     "heading": "Saturday",
     "text": "Snow tapering to snow showers. Some breaks of afternoon sun from the Eastern Townships into parts of NH. Additional amounts of a dusting to 2 inches. Highs in the upper 20s to mid 30s. East winds 5 to 15 mph."
+  },
+  {
+    "heading": "Saturday Night",
+    "text": "Mostly cloudy, with a chance of snow showers west and south of I-89. Partly cloudy northeast. Lows in the teens, except 5 to 10 north and east of I-89. Winds light and variable."
+  },
+  {
+    "heading": "Sunday",
+    "text": "Variable clouds and sun north and east of I-89. More clouds and a few snow showers south and west. Highs in the upper 20s to low 30s. Winds light and variable."
   }
 ]
