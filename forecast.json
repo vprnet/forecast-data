@@ -1,26 +1,26 @@
 [
   {
-    "heading": "Today",
-    "text": "Thickening clouds. Snow or sleet southwest midday, spreading northeast late.",
-    "temperature": "30s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_snow.png"
-  },
-  {
-    "heading": "Friday Night",
-    "text": "Any mix becoming moderate to heavy snow.",
+    "heading": "Tonight",
+    "text": "Moderate to heavy snow, decreasing late.",
     "temperature": "Upper teens and 20s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_heavy_night.png"
   },
   {
     "heading": "Saturday",
-    "text": "Snow tapers off.",
-    "temperature": "Upper 20s to low 30s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_snow.png"
+    "text": "Morning snow tapers off. Mostly cloudy",
+    "temperature": "Upper 20s and 30s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
   },
   {
     "heading": "Sunday",
-    "text": "Sunny periods northeast. Clouds, a chance of snow west and south of I-89.",
-    "temperature": "Upper 20s to mid 30s",
+    "text": "Breaks of sun northeast. Clouds, a few snow showers southwest.",
+    "temperature": "Upper 20s to low 30s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
+  },
+  {
+    "heading": "Monday",
+    "text": "Light snow south and east.\u00a0 Clouds north and west.",
+    "temperature": "Mid 20s to low 30s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_snow.png"
   }
 ]
