@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Mostly cloudy, with a chance of snow showers west and south of I-89. Some clearing in the northeast. Lows in the single digits in the north, in the teens elsewhere. Light and variable wind."
-  },
-  {
     "heading": "Sunday",
     "text": "A mix of sun and clouds north and east of I-89, more clouds and a chance for snow showers south and west. Highs in the low to mid 30s. Light and variable wind."
   },
   {
     "heading": "Sunday Night",
-    "text": "Chance of snow showers, highest chances south of Route 4. Lows from near 10 into the teens in the northeast, lows in the teens to near 20 elsewhere. Light and variable wind."
+    "text": "Chance of snow showers after midnight, highest chances south of Route 4. Lows from near 10 into the teens in the northeast, lows in the teens to near 20 elsewhere. Light and variable wind."
+  },
+  {
+    "heading": "Monday",
+    "text": "Snow showers spreading north, with light accumulations. Higher totals possible south of Route 9 and over the Greens. Highs from the upper 20s to low 30s."
   }
 ]
