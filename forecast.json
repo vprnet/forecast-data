@@ -1,26 +1,26 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Mostly cloudy, a chance of snow showers in the lower Greens.",
-    "temperature": "",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy_night.png"
-  },
-  {
-    "heading": "Monday",
-    "text": "Wet snow south and east.\u00a0 Clouds north and west.",
-    "temperature": "Mid 20s to low 30s",
+    "heading": "Today",
+    "text": "Snow south, blowing and heavy near the MA border. Mainly cloudy north of Rt. 4.",
+    "temperature": "20s.",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_snow.png"
   },
   {
+    "heading": "Monday Night",
+    "text": "Any snow south ending. Windy, with a few snow showers over the higher terrain.",
+    "temperature": "5 to 15",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy_night.png"
+  },
+  {
     "heading": "Tuesday",
-    "text": "A mix of clouds and sun. Cooler.",
-    "temperature": "Teens to 20s.",
+    "text": "Clouds giving way to sun. Brisk and cold.",
+    "temperature": "Teens to 20 north, 20s south.",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   },
   {
     "heading": "Wednesday",
-    "text": "Chance of widespread snow north of Route 4.",
-    "temperature": "Upper 20s to 30s",
+    "text": "Light snow or snow showers.",
+    "temperature": "Upper 20s and 30s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_snow.png"
   }
 ]
