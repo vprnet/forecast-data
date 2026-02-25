@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly cloudy. Snow showers likely in the Adirondacks and St. Lawrence Valley, and possibly a late-day squall; chance south to Lake George and east to the Green Mountains, with a trace to an inch, mainly over high terrain; likely dry elsewhere. Highs from the mid 20s to around 30 north, low to mid 30s in the south. South to southeast 5 to 15 mph, gusting to 25 mph in the Champlain Valley."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Mostly to partly cloudy. Scattered snow showers or a squall, mainly before midnight; another trace to an inch, locally higher in the southern Greens. Lows from the mid teens to lower 20s, cold spots in the lower teens. Southwest winds 5 to 10 mph."
+    "heading": "Wednesday Night",
+    "text": "Mostly to partly cloudy. Scattered snow showers or a squall, mainly before midnight; a trace to an inch, locally up to 3 inches in the hills, mainly in the southern Greens. Lows from the upper teens to mid 20s, cold spots in the mid teens. Southwest winds 5 to 10 mph, gusting to 20 mph early in the Champlain Valley, all becoming west."
   },
   {
     "heading": "Thursday",
-    "text": "Partly cloudy, except mostly cloudy near the Vermont/Qu\u00e9bec border. Chance of flurries in the northern mountains. Highs from the upper 20s to mid 30s, some mid 20s far north. West winds 5 to 10 mph, gusting to 20 mph."
+    "text": "Partly cloudy, except mostly sunny southeast, and mostly cloudy near the Vermont/Qu\u00e9bec border. Chance of flurries in the northern mountains. Highs from the upper 20s to mid 30s, some mid 20s far north. West winds 5 to 15 mph."
+  },
+  {
+    "heading": "Thursday Night",
+    "text": "Partly cloudy north, becoming mostly clear south. Lows from zero to 10 above, cold hollows around 5 below. Winds becoming light and variable."
   }
 ]
