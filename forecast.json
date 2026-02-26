@@ -1,13 +1,7 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Partly to mostly sunny, except partly cloudy in far northern New York.",
-    "temperature": "Upper 20s to mid 30s, mid 20s far north",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
-  },
-  {
-    "heading": "Tonight",
-    "text": "Partly cloudy north, becoming mostly clear south.",
+    "heading": "Thursday Night",
+    "text": "Partly cloudy north, mostly clear south.",
     "temperature": "Zero to 10 above, cold spots around 5 below",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/09/Mostly_clear_night.png"
   },
@@ -20,7 +14,13 @@
   {
     "heading": "Saturday",
     "text": "Breezy. Chance of a flurry or sprinkle far north.",
-    "temperature": "Upper 30s to mid 40s north,\u00a0 mid to upper 40s south",
+    "temperature": "Upper 30s to mid 40s north, mid to upper 40s south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
+  },
+  {
+    "heading": "Sunday",
+    "text": "Periods of light snow, mainly south and east.",
+    "temperature": "Teens to around 20 north, 20s to around 30 south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_snow.png"
   }
 ]
