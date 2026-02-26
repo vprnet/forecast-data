@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Partly to mostly sunny, except partly cloudy in the Adirondacks and St. Lawrence Valley. Chance of a mountain flurry far north. Temperatures from the upper 20s to mid 30s, some mid 20s far north. West winds 5 to 10 mph, gusting to 20 mph."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Partly cloudy north, becoming mostly clear south. Lows from zero to 10 above, cold hollows around 5 below. Winds becoming light and variable."
+    "heading": "Thursday Night",
+    "text": "Partly cloudy north, mostly clear south. Lows from zero to 10 above, cold hollows around 5 below. Winds becoming light and variable."
   },
   {
     "heading": "Friday",
-    "text": "A mix of sun and clouds, except mostly cloudy in the St. Lawrence Valley, with the chance of a sprinkle or flurry there. Highs from the mid 30s to around 40, some lower 30s northeast and in the St. Lawrence Valley. Winds becoming south 5 to 15 mph."
+    "text": "Mostly sunny south, partly cloudy north, with the chance of a sprinkle or flurry in the St. Lawrence Valley. Highs from the mid 30s to around 40, some lower 30s northeast and in the St. Lawrence Valley. Winds becoming south 5 to 15 mph."
+  },
+  {
+    "heading": "Friday Night",
+    "text": "Fair early, then increasing clouds. Lows in the teens to around 20 east of the Greens, 20s to around 30 west. Light south winds in the valleys east of the Greens, 5 to 10 mph in the west, gusting to 35 mph in the Champlain and St. Lawrence valleys."
   }
 ]
