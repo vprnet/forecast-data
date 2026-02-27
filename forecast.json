@@ -1,15 +1,15 @@
 [
   {
-    "heading": "Thursday Night",
-    "text": "Partly cloudy north, mostly clear south.",
-    "temperature": "Zero to 10 above, cold spots around 5 below",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/09/Mostly_clear_night.png"
+    "heading": "Today",
+    "text": "Mostly sunny south. Periods of clouds Adirondacks and Rt. 4 north. Flurries far north.",
+    "temperature": "30s to near 40",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   },
   {
-    "heading": "Friday",
-    "text": "Mix of sun and clouds.",
-    "temperature": "Mainly mid 30s to around 40",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
+    "heading": "Friday Night",
+    "text": "Clearing, then more clouds late. Breezy.",
+    "temperature": "20s to low 30s west, upper teens and 20s east",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_night.png"
   },
   {
     "heading": "Saturday",
