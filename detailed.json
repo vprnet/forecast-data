@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Mostly clear skies developing overnight, with periods of passing clouds. Lows in the 20s to low 30s from the Green Mountains west. South wind near 10 mph, with gusts increasing to 35 mph, lighter in sheltered valleys east."
-  },
-  {
-    "heading": "Saturday",
+    "heading": "Today",
     "text": "Mostly cloudy north, partly cloudy south. A chance of spotty snow or rain showers, with the highest chances north of Route 2. Windy and much milder. Highs through the 40s. South wind 10 to 20 mph, gusting 20 to 35 mph, then weakening through the afternoon."
   },
   {
-    "heading": "Saturday Night",
+    "heading": "Tonight",
     "text": "Increasing cloud cover, with a chance of a few evening snow showers far north. Much cooler. Lows mainly in the teens, with a few 20s in the far south. Light wind turning north."
+  },
+  {
+    "heading": "Sunday",
+    "text": "Morning clouds, with a chance of light snow or rain showers. A few pockets of sunshine developing in the afternoon. Much colder. Highs in the teens to near 20 north, increasing into the 20s to and low 30s as you head south. Northwest wind at 5 to 10 mph."
   }
 ]
