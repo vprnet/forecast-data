@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Increasing cloud cover, with a chance of a few evening snow showers. Much cooler. Lows mainly in the teens, with a few 20s in the far south, staying near 10 in the north. Light wind turning north."
-  },
-  {
     "heading": "Sunday",
     "text": "Morning clouds, with a chance of snow showers. A few pockets of sunshine developing in the afternoon. Much colder. Highs in the teens to near 20 north, increasing into the 20s to the low 30s in the southern valleys. Northwest wind at 5 to 10 mph."
   },
   {
     "heading": "Sunday Night",
     "text": "Mostly clear skies and unseasonably cool. Lows 5 to 15 below in the north, just below zero into the single digits in the far south."
+  },
+  {
+    "heading": "Monday",
+    "text": "Partly cloudy in the morning, then mostly sunny skies take over in the afternoon. Highs from the low teens to near 20 in the north, from the upper teens to mid 20s elsewhere"
   }
 ]
