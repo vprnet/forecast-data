@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Sunday",
-    "text": "Morning clouds, with a chance of snow showers. Sunshine developing in the afternoon. Much colder. Highs in the teens to near 20 north, increasing into the 20s to the low 30s in the southern valleys. Northwest wind at 5 to 10 mph."
-  },
-  {
     "heading": "Sunday Night",
-    "text": "Mostly clear skies and unseasonably cool. Lows 5 to 15 below in the north, just below zero into the single digits in the far south."
+    "text": "Mostly clear skies and unseasonably cold. Lows 5 to 15 below in the north, just below zero into the single digits in the far south."
   },
   {
     "heading": "Monday",
     "text": "Partly cloudy in the morning, then mostly sunny skies take over in the afternoon. Highs from the low teens to near 20 in the north, from the upper teens to mid 20s elsewhere"
+  },
+  {
+    "heading": "Monday Night",
+    "text": "Mostly clear and cool. Lows near 0 in the north, with a few negatives in the colder hollows, in the single digits elsewhere. South winds increasing, up to 15mph in the Champlain Valley."
   }
 ]
