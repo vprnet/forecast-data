@@ -1,18 +1,18 @@
 [
   {
-    "heading": "Today",
-    "text": "Mostly sunny and cold.  Highs in the teens to near 20 north, 20 to 25 south.  Winds light, becoming west near 10 mph through the CT Valley and NH."
-  },
-  {
     "heading": "Tonight",
-    "text": "Mostly clear and cold.  A few clouds south and west late.  Lows in the single numbers, falling below zero northeast.  Winds light, becoming south 10 to 15 mph from the Green Mountains west."
+    "text": "Mostly clear and cold. A few clouds south and west late. Lows in the single numbers, falling below zero northeast. Winds light, becoming south 10 to 15 mph from the Green Mountains west."
   },
   {
     "heading": "Tuesday",
-    "text": "  Morning sun giving way to clouds south to north.  A rising chance of snow or rain south in the afternoon.  Milder.  Highs in the 30s, near 40 in warmer valleys west and south.  Winds light east, mainly south 10 to 15 mph from the Green Mountains west."
+    "text": " Morning sun giving way to clouds south to north. A rising chance of snow or rain south in the afternoon. Milder. Highs in the 30s, near 40 in warmer valleys west and south. Winds light east, southerly winds 10 to 15 mph from the Green Mountains west."
   },
   {
     "heading": "Town Meeting Day (VT)",
-    "text": "  Morning sun giving way to clouds south to north.  A rising chance of snow or rain south in the afternoon.  Milder.  Highs in the 30s, near 40 in warmer valleys west and south.  Winds light east, mainly south 10 to 15 mph from the Green Mountains west."
+    "text": " Morning sun giving way to clouds south to north. A rising chance of snow or rain south in the afternoon. Milder. Highs in the 30s, near 40 in warmer valleys west and south. Winds light east, southerly winds 10 to 15 mph from the Green Mountains west."
+  },
+  {
+    "heading": "Tuesday Night",
+    "text": "Snow south of the Adirondacks and Rt. 2, possibly mixed with sleet or rain far south. Light accumulations possible. A chance of snow north, slight through Quebec. Lows in the 20s. Winds south near 10 mph, diminishing to light."
   }
 ]
