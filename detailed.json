@@ -1,14 +1,18 @@
 [
   {
-    "heading": "Sunday Night",
-    "text": "Mostly clear skies and unseasonably cold. Lows 5 to 15 below in the north, just below zero into the single digits in the far south."
+    "heading": "Today",
+    "text": "Mostly sunny and cold.  Highs in the teens to near 20 north, 20 to 25 south.  Winds light, becoming west near 10 mph through the CT Valley and NH."
   },
   {
-    "heading": "Monday",
-    "text": "Partly cloudy in the morning, then mostly sunny skies take over in the afternoon. Highs from the low teens to near 20 in the north, from the upper teens to mid 20s elsewhere"
+    "heading": "Tonight",
+    "text": "Mostly clear and cold.  A few clouds south and west late.  Lows in the single numbers, falling below zero northeast.  Winds light, becoming south 10 to 15 mph from the Green Mountains west."
   },
   {
-    "heading": "Monday Night",
-    "text": "Mostly clear and cool. Lows near 0 in the north, with a few negatives in the colder hollows, in the single digits elsewhere. South winds increasing, up to 15mph in the Champlain Valley."
+    "heading": "Tuesday",
+    "text": "  Morning sun giving way to clouds south to north.  A rising chance of snow or rain south in the afternoon.  Milder.  Highs in the 30s, near 40 in warmer valleys west and south.  Winds light east, mainly south 10 to 15 mph from the Green Mountains west."
+  },
+  {
+    "heading": "Town Meeting Day (VT)",
+    "text": "  Morning sun giving way to clouds south to north.  A rising chance of snow or rain south in the afternoon.  Milder.  Highs in the 30s, near 40 in warmer valleys west and south.  Winds light east, mainly south 10 to 15 mph from the Green Mountains west."
   }
 ]
