@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Cloudy south; increasing clouds north. Snow developing near the Massachusetts border, with 1 to 2 inches; spreading north to Route 4 mid afternoon, with a trace to an inch; and a chance north to Route 2 late. Highs in the low to mid 30s in the south, and mid to upper 30s north. South winds 5 to 15 mph, gusting to 30 mph in the Champlain Valley."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Snow mainly from the Adirondacks and Route 2 southward, and possibly some wintry mix far south. Overall snow totals 1 to 3 inches, except a trace to 2 inches far north, and 3 to 7 inches from the central and southern Greens eastward, and in the Berkshires. Lows in the low to mid 20s east of the Greens, mid 20s to around 30 west. Winds from the south 5 to 10 mph, gusting to 20 mph early from the Green Mountains westward, then diminishing."
+    "heading": "Tuesday Night",
+    "text": "Snow mainly from the Adirondacks and Route 2 southward, and some wintry mix far south. Overall snow totals 1 to 3 inches, except a trace to 2 inches far north, and 3 to 7 inches from the central and southern Greens eastward, and in the Berkshires. Lows in the low to mid 20s east of the Greens, mid 20s to around 30 west. Winds from the south 5 to 10 mph, gusting to 20 mph early from the Green Mountains westward, then diminishing."
   },
   {
     "heading": "Wednesday",
     "text": "Clearing in the morning, and becoming mostly sunny by afternoon. Highs in the low to mid 40s, with some upper 30s far north, and mid 40s to around 50 in southeastern valleys. Winds variable to southwest at around 5 mph."
+  },
+  {
+    "heading": "Wednesday Night",
+    "text": "Mainly clear, with areas of valley fog or freezing fog. Lows in the 20s, some upper teens in the cold spots. Winds light and variable."
   }
 ]
