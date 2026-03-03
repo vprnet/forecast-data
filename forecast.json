@@ -1,15 +1,15 @@
 [
   {
-    "heading": "Monday Night",
-    "text": "Clear, a few clouds late. Not as cold.",
-    "temperature": "0 to 10 above, except 0 to 10 below cold spots",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/09/Mostly_clear_night.png"
-  },
-  {
-    "heading": "Tuesday, Town Meeting Day",
-    "text": "Sun giving way to clouds. A chance of snow and rain south in the afternoon.",
+    "heading": "Today, Town Meeting Day (VT)",
+    "text": "Sun to clouds. Snow or valley rain south this afternoon.",
     "temperature": "30s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/clouds_sun_snow_rain.png"
+  },
+  {
+    "heading": "Tuesday Night",
+    "text": "Snow, 1 to 4 inches, up to 6 in NH, less in Quebec.",
+    "temperature": "20s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_moderate_night.png"
   },
   {
     "heading": "Wednesday",
