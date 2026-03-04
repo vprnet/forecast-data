@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Partly to mostly sunny. Highs in the low to mid 40s, with some upper 30s far north, and mid 40s to around 50 in southeastern valleys. Winds variable to southwest at around 5 mph."
-  },
-  {
     "heading": "Tonight",
-    "text": "Clear to partly cloudy, with areas of valley fog or freezing fog. Lows in the 20s, some upper teens in the cold spots. Winds light and variable."
+    "text": "Clear to partly cloudy, with areas of valley fog or freezing fog. Lows from the upper teens to mid 20s. Winds light and variable."
   },
   {
     "heading": "Thursday",
-    "text": "Areas of morning valley fog, then clouds slowly advancing form the north and south in the afternoon, with a chance of rain west and south of I-89, and a chance of snow showers near the international border. Highs from the upper 30s to mid 40s, with low to mid 30s north of Route 2, and mid to upper 40s in southeastern valleys. Northeast winds 5 to 10 mph."
+    "text": "Areas of morning valley fog, then clouds advancing from the north and south in the afternoon, with a chance of rain west and south of I-89, and a chance of snow showers near the international border. Highs from the upper 30s to mid 40s, with low to mid 30s north of Route 2, and mid to upper 40s in southeastern valleys. North winds 5 to 10 mph."
+  },
+  {
+    "heading": "Thursday Night",
+    "text": "A wintry mix west and south of I-89, spreading north and east after midnight. Lows from the upper teens to mid 20s east, mid 20s to around 30 west. Winds becoming east 5 to 10 mph."
   }
 ]
