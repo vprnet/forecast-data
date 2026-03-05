@@ -1,21 +1,21 @@
 [
   {
-    "heading": "Wednesday Night",
-    "text": "Clear to partly cloudy, with areas of freezing fog in the valleys.",
-    "temperature": "Upper teens to mid 20s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/clear_night_fog.png"
-  },
-  {
-    "heading": "Thursday",
-    "text": "Chance of afternoon rain west and south of I-89; chance of flurries far north.",
-    "temperature": "Lower 30s to upper 40s, north to south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_rain_showers.png"
+    "heading": "Today",
+    "text": "Sun giving way to clouds.\u00a0 A chance of rain and sleet from Rt. 9 south late.",
+    "temperature": "Mid 30s to mid 40s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/clouds_sun_snow_rain.png"
   },
   {
     "heading": "Thursday Night",
-    "text": "Wintry mix west and south of I-89, spreading north and east after midnight.",
-    "temperature": "Mainly 20s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/rain_freezing_night.png"
+    "text": "Any mix changes to snow, steadiest I-89 south, 1 to 3 inches. A dusting north to Rt. 2, cloudy far north.",
+    "temperature": "20s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_light_night.png"
+  },
+  {
+    "heading": "Friday",
+    "text": "Early snow south ending. Mostly cloudy, a few sunny breaks west.",
+    "temperature": "30s to low 40s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/mostly_cloudy.png"
   },
   {
     "heading": "Friday",
