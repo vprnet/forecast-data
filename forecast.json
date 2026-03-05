@@ -1,26 +1,26 @@
 [
   {
-    "heading": "Today",
-    "text": "Sun giving way to clouds.\u00a0 A chance of rain and sleet from Rt. 9 south late.",
-    "temperature": "Mid 30s to mid 40s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/clouds_sun_snow_rain.png"
+    "heading": "This Afternoon",
+    "text": "Chance of rain far south.",
+    "temperature": "Upper 30s to mid 40s; low to mid 30s north of Route 2",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
   },
   {
     "heading": "Thursday Night",
-    "text": "Any mix changes to snow, steadiest I-89 south, 1 to 3 inches. A dusting north to Rt. 2, cloudy far north.",
+    "text": "Snow or a mix near and south of Route 4, chance north to Route 2 late.",
     "temperature": "20s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_light_night.png"
   },
   {
     "heading": "Friday",
-    "text": "Early snow south ending. Mostly cloudy, a few sunny breaks west.",
-    "temperature": "30s to low 40s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/mostly_cloudy.png"
+    "text": "Any morning snow south of Route 2 tapering off.",
+    "temperature": "Mainly mid 30s to around 40",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
   },
   {
     "heading": "Saturday",
-    "text": "Spotty freezing rain early north. Mostly cloudy, a break of sun. Showers north late.",
-    "temperature": "Upper 40s and 50s",
+    "text": "Spotty freezing rain early north, then chance of rain showers.",
+    "temperature": "Mainly mid 40s to lower 50s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
   }
 ]
