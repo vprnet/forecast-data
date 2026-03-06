@@ -1,20 +1,20 @@
 [
   {
-    "heading": "Thursday Night",
-    "text": "Snow or a mix near and south of Route 4, chance north to Route 2 late.",
-    "temperature": "20s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_wintery_mix_night.png"
-  },
-  {
-    "heading": "Friday",
-    "text": "Any morning snow south of Route 2 tapering off.",
-    "temperature": "Mainly mid 30s to around 40",
+    "heading": "Today",
+    "text": "Morning snow south of Rt. 2 tapering off. Clouds, a few breaks of sun far north.",
+    "temperature": "30s to low 40s.",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
   },
   {
+    "heading": "Friday Night",
+    "text": "Cloudy. Some rain or pockets of freezing rain north, a slight chance south.",
+    "temperature": "Upper 20s to mid 30s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/rain_freezing_night.png"
+  },
+  {
     "heading": "Saturday",
-    "text": "Spotty freezing rain early north, then chance of rain showers.",
-    "temperature": "Mainly mid 40s to lower 50s",
+    "text": "Morning rain showers north. A few breaks of afternoon sun. Breezy, mild.",
+    "temperature": "40s to lower 50s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
   },
   {
