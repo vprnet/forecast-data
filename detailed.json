@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Periods of showers with the chance for a few pockets of sunshine in between. Mild. Highs from the upper 40s to mid 50s. South wind near 10 mph, gusting 20 to 30 mph, with the strongest gusts along the Champlain Valley and over the Greens."
-  },
-  {
     "heading": "Tonight",
     "text": "Widespread rain showers. Lows from the upper 30s to low 40s. Winds turning to the southwest near 10 mph, gusting 20 to 30 mph then diminishing through the early morning."
   },
   {
     "heading": "Sunday",
     "text": "Morning showers ending, then skies becoming increasingly sunny. Highs from the mid 40s to mid 50s. West wind at 5 to 10 mph, with occasional gusts over the peaks."
+  },
+  {
+    "heading": "Sunday Night",
+    "text": "Clearing skies. Lows through the 30s, with a few 20s in the cold spots in the north. Light west wind with occasional gusts near 15 mph over the Greens."
   }
 ]
