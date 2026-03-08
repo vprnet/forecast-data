@@ -1,14 +1,18 @@
 [
   {
-    "heading": "Today",
-    "text": "Any early showers ending.  Low clouds and patches of fog giving way to increasing sunshine.  Continued mild.  Highs in the 40s to low 50s.  Winds becoming west to southwest 10 to 15 mph, gusting 20 to 30 mph."
-  },
-  {
     "heading": "Tonight",
-    "text": "Becoming mostly clear, then some clouds late from the Adirondacks and Rt. 2 north.  Lows in the upper 20s to mid 30s.  Winds southwest 10 to 15 mph, gusting to 25 mph this evening, decreasing overnight."
+    "text": "Mostly clear, then some clouds late from the Adirondacks and Rt. 2 north. Lows in the upper 20s to mid 30s. Winds southwest 10 to 15 mph, gusting to 25 mph this evening, decreasing overnight."
   },
   {
     "heading": "Monday",
-    "text": "Partly sunny from the Adirondacks and Rt. 4 north, and mostly sunny south.  Quite mild.  Highs in the 50s to near 60 north, 60 to 65 south.  Winds southwest 10 to 15 mph, gusting 20 to 30 mph."
+    "text": "Partly sunny from the Adirondacks and Rt. 4 north, and mostly sunny south. Quite mild. Highs in the 50s to near 60 north, 60 to 65 south. Winds southwest 10 to 15 mph, gusting 20 to 30 mph."
+  },
+  {
+    "heading": "Monday Night",
+    "text": "Mostly clear and mild. Lows in the 30s. Winds southwest 10 to 15 mph, gusting to 25 mph in the evening, diminishing to less than 10 mph late."
+  },
+  {
+    "heading": "Tuesday",
+    "text": "Sun, mixing with some clouds through northern NY and Quebec later in the day. Highs in the 50s to near 60 north, 60 to 65 south. Winds light, becoming southwest, increasing to 10 to 15 mph."
   }
 ]
