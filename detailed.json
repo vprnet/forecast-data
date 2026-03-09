@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Partly cloudy, except mostly cloudy in the Adirondacks and near the international border. Highs in the upper 50s to mid 60s, some mid 50s east of the Greens and in the Adirondacks. Southwest winds gusting to 25 mph, except to 35 mph in the Champlain Valley, and to 45 mph in the St. Lawrence Valley."
-  },
-  {
-    "heading": "Tonight",
+    "heading": "Monday Night",
     "text": "Clear to partly cloudy. Lows from the mid 30s to around 40, with some lower 40s in the broad valleys west, and around 30 northeast and the Adirondacks. Southwest winds 10 to 15 mph, gusting to 25 mph early, and diminishing overnight east of the Greens."
   },
   {
     "heading": "Tuesday",
-    "text": "Mostly to partly sunny, except becoming mostly cloudy after noon in New York. Highs in the low to mid 60s in the south, and upper 50s to lower 60s north, except low to mid 50s in the St. Lawrence Valley. Southwest winds 5 to 15 mph, except becoming north near the international border."
+    "text": "Mostly sunny, then increasing afternoon clouds west of theGreens. Highs in the mid to upper 60s in the south, and upper 50s to mid 60s north, except low to mid 50s in the St. Lawrence Valley. Southwest winds 5 to 15 mph, except becoming north near the international border."
+  },
+  {
+    "heading": "Tuesday Night",
+    "text": "Increasing clouds. Chance of rain showers; a rising chance late in the far north, with freezing rain likely in the St. Lawrence Valley, and possible northeast, and in the northern Champlain Valley. Lows in the low to mid 30s north, and mid 30s to around 40 south. Winds becoming light and variable, except becoming northeast 5 to 10 mph in the St. Lawrence Valley."
   }
 ]
