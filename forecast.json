@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Mostly sunny, near-record warmth. Afternoon clouds increasing north.",
-    "temperature": "60s",
+    "heading": "This Afternoon",
+    "text": "Mostly to partly sunny.",
+    "temperature": "Mainly upper 60s to lower 70s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   },
   {
-    "heading": "Tuesday Night",
-    "text": "Becoming cloudy. Rain showers north, some freezing rain far north.",
-    "temperature": "30s north, 40 to 45 south",
+    "heading": "Tonight",
+    "text": "Scattered showers, mainly north; areas of freezing rain far north.",
+    "temperature": "Low to mid 30s north, mid 30s to around 40 south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/rain_freezing_night.png"
   },
   {
