@@ -1,26 +1,26 @@
 [
   {
-    "heading": "Today",
-    "text": "Scattered rain showers. A hint of sun south. Steady rain late.",
-    "temperature": "50s to 60, except 30s and 40s in the St. Lawrence Valley and northeast",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
-  },
-  {
-    "heading": "Wednesday Night",
-    "text": "Rain, some snow in the St. Lawrence late.",
-    "temperature": "25 to 30 St. Lawrence to 40s in NH",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers_winter_mix_night.png"
+    "heading": "Tonight",
+    "text": "Rain continuing. Much cooler.",
+    "temperature": "Low to mid 30s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain_night.png"
   },
   {
     "heading": "Thursday",
-    "text": "Rain/snow showers changing to snow showers, mainly morning.",
-    "temperature": "Falling to the 20s north, 30s south",
+    "text": "Showers becoming scattered. Temperatures dropping.",
+    "temperature": "40s in the morning,30s in the afternoon",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_winter_mix.png"
   },
   {
     "heading": "Friday",
-    "text": "Chance of afternoon snow.",
-    "temperature": "Mid 30s to lower 40s",
+    "text": "Increasing chance of rain/snow showers.",
+    "temperature": "30s to near 40",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_winter_mix.png"
+  },
+  {
+    "heading": "Saturday",
+    "text": "Snow showers retreating north.",
+    "temperature": "30s, 40s in the southern valleys",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
   }
 ]
