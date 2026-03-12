@@ -1,15 +1,15 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Rain continuing. Much cooler.",
-    "temperature": "Low to mid 30s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain_night.png"
+    "heading": "Today",
+    "text": "Early showers east, a few snow showers. Blustery, turning colder.",
+    "temperature": "30s west to 50 east, falling to the 20s and 30s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_rain_showers.png"
   },
   {
-    "heading": "Thursday",
-    "text": "Showers becoming scattered. Temperatures dropping.",
-    "temperature": "40s in the morning,30s in the afternoon",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_winter_mix.png"
+    "heading": "Thursday Night",
+    "text": "Partial clearing.",
+    "temperature": "Teens to 20 north, low 20s south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_night.png"
   },
   {
     "heading": "Friday",
