@@ -1,26 +1,26 @@
 [
   {
     "heading": "Today",
-    "text": "Some sun, then more clouds. Snow developing in NY into southern VT late afternoon.",
-    "temperature": "30s to low 40s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_sun.png"
+    "text": "Scattered snow showers, mixing with rain in the valleys.",
+    "temperature": "Valley highs mid 30s to lower 40s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_rain_showers.png"
   },
   {
-    "heading": "Friday Night",
-    "text": "Occasional snow.",
-    "temperature": "20s to near 30",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_moderate_night.png"
-  },
-  {
-    "heading": "Saturday",
-    "text": "A little sun southern valleys. Snow diminishing north and mountains.",
-    "temperature": "30s to low 40s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
+    "heading": "Tonight",
+    "text": "Scattered evening snow showers north, mainly over high terrain.",
+    "temperature": "Lows in the teens north, low to mid 20s south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers_night.png"
   },
   {
     "heading": "Sunday",
-    "text": "Early sun, then clouds. Some snow in NY and western VT late.",
-    "temperature": "30s to low 40s",
+    "text": "Chance of afternoon snow in far northern NY and northern Greens.",
+    "temperature": "Mid 30s to around 40",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
+  },
+  {
+    "heading": "Monday",
+    "text": "Patchy freezing rain possible early in the east, otherwise scattered showers.",
+    "temperature": "50s to lower 60s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_rain.png"
   }
 ]
