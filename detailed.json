@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly cloudy. Chance of light wintry mix north, mainly in New York. Highs in the low to mid 30s north, and mid 30s to around 40 in the south. East to northeast winds 5 to 10 mph, becoming south 5 to 15 mph."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Chance of rain showers; some freezing rain possible along and east of the Greens, and in far northern New York. Lows from the mid 30s to around 40, some lower 30s east of the Greens and in far northern New York; temperatures rising late. Winds becoming south to southeast and gusting to 30 mph, except gusting to 50 mph in the advisory areas, and to 60 mph in the warning area."
+    "heading": "Sunday Night",
+    "text": "Chance of rain showers; some freezing rain possible along and east of the Greens, and in far northern New York. Lows in the low to mid 30s north, and mid to upper 30s in the south, with temperatures rising late. Winds becoming south to southeast and gusting to 30 mph east of the Greens, and to 40 mph in the west, except to 60 mph along the northern slopes of the Adirondacks."
   },
   {
     "heading": "Monday",
-    "text": "A few pockets of freezing rain possible early east of the Greens, otherwise scattered rain showers. Highs from the upper 50s to mid 60s west of the Greens, mid 50s to around 60 east. South to southeast winds gusting to 40 mph, except gusting to 50 mph in the advisory areas, and to 60 mph in the warning area."
+    "text": "A few pockets of freezing rain possible early east of the Greens, otherwise rain showers likely, and possibly a thunderstorm. Highs from the upper 50s to mid 60s west of the Greens, mid 50s to around 60 east. South to southeast winds gusting to 50 mph, except to 60 mph along the northern slopes of the Adirondacks."
+  },
+  {
+    "heading": "Monday Night",
+    "text": "Rain showers likely, with thunderstorms possible early, then rain changing to a wintry mix from west to east after midnight. Lows in the mid 20s to mid 30s, from west to east. South to southwest winds 10 to 20 mph, and gusting to 45 mph."
   }
 ]
