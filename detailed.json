@@ -1,11 +1,7 @@
 [
   {
-    "heading": "Today",
-    "text": "Cloudy, increasing winds, turning warmer. Spotty freezing rain early in NH. A period of showers this morning, then scattered showers, mainly east of the Greens this afternoon. Highs 50s to low 60s, except 40s northeast. Winds southeast 10 to 25 mph, gusting 35 to 50 mph, up to 60 mph in the Adirondacks."
-  },
-  {
     "heading": "Tonight",
-    "text": "Periods of rain, changing to snow showers west to east, up to an inch over the higher terrain, up to 3 inches in NY. Some clearing late. Lows mid teens to mid 20s west to east north of Rt. 4, 20s to low 30s west to east in the south. Winds southeast 10 to 25 mph, gusting 40 to 60 mph, becoming southwest up to 35 mph late."
+    "text": "Widespread rain, heavy at times, changing to snow showers west to east, up to an inch over the higher terrain, up to 3 inches in NY. Some clearing late. Lows mid teens to mid 20s west to east north of Rt. 4, 20s to low 30s west to east in the south. Winds southeast 10 to 25 mph, gusting 40 to 60 mph, becoming southwest up to 35 mph late."
   },
   {
     "heading": "Tuesday",
@@ -14,5 +10,9 @@
   {
     "heading": "St. Patrick\u2019s Day",
     "text": " Some breaks of morning sun, mainly sunny east and south. Mostly cloudy north and west, spreading east, with scattered snow showers in the north and mountains, up to an inch. Highs in the mid 20s to mid 30s west to east. Southwest winds, becoming west 10 to 25 mph, gusting 25 to 35 mph."
+  },
+  {
+    "heading": "Tuesday Night",
+    "text": "Any snow showers north ending, with gradual clearing. Becoming mostly clear south. Much colder. Lows in the upper single numbers to low teens north, in the teens south. Winds west to northwest 10 to 15 mph, gusting to 30 mph, diminishing to less than 10 mph."
   }
 ]
