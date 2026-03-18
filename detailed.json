@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly to partly sunny. Valley highs in the upper 20s to lower 30s, with some mid 20s far north, and some mid 30s in southeastern valleys and in the Hudson Valley. West to northwest winds 5 to 10 mph, becoming southwest."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Increasing clouds. Lows from the mid teens to lower 20s, some mid 20s in the broad valleys west. Winds becoming light and variable east of the Greens, and becoming south to southeast 5 to 15 mph from the Green Mountains westward."
+    "heading": "Wednesday Night",
+    "text": "Mostly cloudy north, increasing clouds south. Lows from the mid teens to lower 20s, some mid 20s in the broad valleys west. Winds becoming light and variable east of the Greens, and becoming south to southeast 5 to 15 mph from the Green Mountains westward."
   },
   {
     "heading": "Thursday",
     "text": "Partly to mostly cloudy. Chance of snow or rain showers in the St. Lawrence Valley, mainly in the afternoon. Highs from the mid 30s to lower 40s north, and low to mid 40s in the south. Winds becoming south to southeast 5 to 10 mph, gusting to 20 mph in the Champlain Valley."
+  },
+  {
+    "heading": "Thursday Night",
+    "text": "Partly cloudy south. Mostly cloudy north, with scattered and light rain or snow showers, mainly near the international border, and over high terrain. Lows from the mid 20s to around 30 south and in the Champlain Valley, low to mid 20s elsewhere north. South to southwest winds 5 to 10 mph, becoming light and variable east of the Greens."
   }
 ]
