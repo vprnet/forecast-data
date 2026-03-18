@@ -1,26 +1,26 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly to partly sunny.",
-    "temperature": "Mid 20s to mid 30s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
-  },
-  {
     "heading": "Wednesday Night",
-    "text": "Periods of clouds.",
-    "temperature": "Teens to low 20s",
+    "text": "Increasing clouds.",
+    "temperature": "Mainly mid teens to lower 20s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_night.png"
   },
   {
     "heading": "Thursday",
-    "text": "Partly to mostly cloudy.",
+    "text": "Chance of afternoon snow or rain showers in the St. Lawrencve Valley.",
     "temperature": "Mid 30s to lower 40s north, low to mid 40s south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/mostly_cloudy.png"
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/clouds_sun_snow_rain.png"
   },
   {
     "heading": "Friday",
-    "text": "Scattered snow or rain showers, mainly in the morning.",
+    "text": "Chance of afternoon snow or rain showers; rising chance in NY.",
     "temperature": "40 to 50, north to south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_rain_showers.png"
+  },
+  {
+    "heading": "Saturday",
+    "text": "Scattered snow or rain showers.",
+    "temperature": "30s north, upper 30s to lower 40s south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_rain_showers.png"
   }
 ]
