@@ -1,26 +1,26 @@
 [
   {
-    "heading": "Today",
-    "text": "Clouds, limited sun. A few afternoon rain or snow showers Adirondacks and Rt. 2 north.",
-    "temperature": "30s to low 40s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/clouds_sun_snow_rain.png"
-  },
-  {
     "heading": "Thursday Night",
-    "text": "Localized evening snow or rain showers north. Partial clearing.",
-    "temperature": "20s to low 30s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers_winter_mix_night.png"
+    "text": "Chance of sprinkles or flurries.",
+    "temperature": "Mainly 20s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/winter_mix_showers_night.png"
   },
   {
     "heading": "Friday",
-    "text": "Early sun.\u00a0 Afternoon snow or rain showers developing.",
-    "temperature": "upper 30s to low 40s north, 40s to 50 south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_rain_showers.png"
+    "text": "Mainly valley rain and mountain snow, except all snow far northern valleys.",
+    "temperature": "Mid to upper 40s south, 30s to lower 40s north",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_winter_mix.png"
+  },
+  {
+    "heading": "Friday Night",
+    "text": "Showers of snow or rain likely early.",
+    "temperature": "20s to arond 30",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_wintery_mix_night.png"
   },
   {
     "heading": "Saturday",
-    "text": "Early snow showers. Partial clearing.",
-    "temperature": "40 to 50 north to south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_sun.png"
+    "text": "Chance of a mountain snow shower.",
+    "temperature": "Mid 30s to upper 40s, north to south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
   }
 ]
