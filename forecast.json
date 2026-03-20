@@ -1,12 +1,6 @@
 [
   {
-    "heading": "Today",
-    "text": "Becoming cloudy. Wet snow from the Adirondacks and Rt. 2 north, mixing and changing to rain south.",
-    "temperature": "30s north, 40s south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_winter_mix.png"
-  },
-  {
-    "heading": "Friday Night",
+    "heading": "Tonight",
     "text": "Snow and rain ends. A few to several inches north. Some clearing.",
     "temperature": "20s to low 30s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers_winter_mix_night.png"
@@ -19,8 +13,14 @@
   },
   {
     "heading": "Sunday",
-    "text": "Snow north, snow or rain south",
+    "text": "Snow north, snow mixing with rain south, rain in the southern valleys.",
     "temperature": "30s to low 40s north to south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_winter_mix.png"
+  },
+  {
+    "heading": "Monday",
+    "text": "Chance of snow north, mixing with rain south.",
+    "temperature": "30s north, near 40 south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_winter_mix.png"
   }
 ]
