@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Some limited morning sun, then becoming cloudy.  Snow developing in northern NY midday, spreading east, 1 to 3 inches from the Adirondacks and Rt. 2 north, mixed with rain south to Rt. 4, up to an inch, and mainly rain farther south.  Highs in the 30s north, 40s south.  Winds light, becoming southwest near 10 mph, steadiest from the Green Mountains west."
-  },
-  {
     "heading": "Tonight",
-    "text": "Snow showers north, and rain or snow showers south this evening tapering off. Another inch or two for the higher terrain north.  Partial clearing late.  Lows in the 20s north, upper 20s to low 30s south.  Winds southeast, shifting to the north and northwest near 10 mph, diminishing to light."
+    "text": "Snow showers north, and rain mixing with snow showers south tapering off overnight. Lows in the 20s north, upper 20s to low 30s south. Wind shifting northwest after midnight."
   },
   {
     "heading": "Saturday",
-    "text": "Any morning clouds north giving way to sunshine.  Increasing clouds west later in the day.  Highs mid 30s to mid 40s north to south.  Winds northwest 10 to 15 mph."
+    "text": "Morning clouds giving way to sunshine, then increasing clouds from the west later in the day. Highs from the mid 30s north increasing into the mid 40s south. Northwest wind 10 to 15 mph."
+  },
+  {
+    "heading": "Saturday Night",
+    "text": "Becoming cloudy, with snow developing west to east after midnight. Lows in the 20s north to near 30 south. Winds light and variable."
   }
 ]
