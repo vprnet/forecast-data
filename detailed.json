@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Snow showers north, and rain mixing with snow showers south tapering off overnight. Lows in the 20s north, upper 20s to low 30s south. Wind shifting northwest after midnight."
-  },
-  {
-    "heading": "Saturday",
+    "heading": "Today",
     "text": "Morning clouds giving way to sunshine, then increasing clouds from the west later in the day. Highs from the mid 30s north increasing into the mid 40s south. Northwest wind 10 to 15 mph."
   },
   {
-    "heading": "Saturday Night",
+    "heading": "Tonight",
     "text": "Becoming cloudy, with snow developing west to east after midnight. Lows in the 20s north to near 30 south. Winds light and variable."
+  },
+  {
+    "heading": "Sunday",
+    "text": "Snow likely from Rt. 4 north, with light accumulations possible. Snow mixed with rain south, turning into rain in the southern valleys. Highs in the 30s north, upper 30s to mid 40s south. Light south wind turning east."
   }
 ]
