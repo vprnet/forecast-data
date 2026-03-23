@@ -1,11 +1,5 @@
 [
   {
-    "heading": "Today",
-    "text": "Patchy fog and freezing drizzle, then clouds west and south, snow showers northeast.",
-    "temperature": "30 to 40 north to south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_snow.png"
-  },
-  {
     "heading": "Monday Night",
     "text": "Snow showers northeast ending.\u00a0 Some clearing.",
     "temperature": "Mid teens to mid 20s",
@@ -22,5 +16,11 @@
     "text": "Some sun, then clouds.\u00a0 A few snow showers far north. Milder.",
     "temperature": "30s to 40 north, 40s to 50 south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
+  },
+  {
+    "heading": "Thursday",
+    "text": "Rain showers likely especially north. Warmer.",
+    "temperature": "40s to low 50s.",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain.png"
   }
 ]
