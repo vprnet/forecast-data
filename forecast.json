@@ -1,26 +1,26 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Variable clouds.",
-    "temperature": "Mid 40s to around 50 south, mainly upper 30s to lower 40s north",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
-  },
-  {
     "heading": "Wednesday Night",
-    "text": "Cloudy. Rain or snow changing to snow north after midnight.",
-    "temperature": "Mid 20s to low 30s",
+    "text": "Rising chance of rain or snow showers, brief freezing rain possible far north.",
+    "temperature": "Upper 20s to lower 30s north, mid to upper 30s south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers_winter_mix_night.png"
   },
   {
     "heading": "Thursday",
     "text": "Scattered rain showers.",
-    "temperature": "40s north, 50s south",
+    "temperature": "Mainly upper 40s to mid 50s north, mid 50s to around 60 south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain.png"
   },
   {
     "heading": "Friday",
-    "text": "Early clouds, a snow shower, then clearing, blustery, colder.",
+    "text": "Chance of an early snow shower. Blustery.",
     "temperature": "20s to low 30s north, 30s south, falling.",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
+  },
+  {
+    "heading": "Saturday",
+    "text": "Partly cloudy.",
+    "temperature": "Mid 20s to lower 30s north, low to mid 30s south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   }
 ]
