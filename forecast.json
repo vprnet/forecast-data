@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "A little snow far north early, then scattered rain showers, mainly this morning. A little sun south.",
-    "temperature": "Upper 40s and 50s north, 60 to 65 south",
+    "heading": "This Afternoon",
+    "text": "Chance of showers, a rising chance far north and in New York.",
+    "temperature": "Mainly mid 50s to lower 60s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
   },
   {
-    "heading": "Thursday Night",
-    "text": "Evening rain showers, changing to snow showers north to south late.",
-    "temperature": "20 north to 30s south",
+    "heading": "Tonight",
+    "text": "Rain likely, changing to snow showers late.",
+    "temperature": "Mainly 20s to lower 30s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_wintery_mix_night.png"
   },
   {
@@ -20,7 +20,7 @@
   {
     "heading": "Saturday",
     "text": "Partly sunny.",
-    "temperature": "Low 20s to low 30s north to south",
+    "temperature": "Mid 20s to mid 30s, north to south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   }
 ]
