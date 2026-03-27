@@ -1,14 +1,18 @@
 [
   {
-    "heading": "Today",
-    "text": "Becoming sunny, blustery, and colder. Temperatures in the 20s to low 30s north, in the 30s south, steady or falling. Northwest winds 10 to 15 mph, gusting to 25 mph."
-  },
-  {
     "heading": "Tonight",
     "text": "Clearing and cold. Lows 5 to 15 north, near zero in the cold spots, and in the teens to near 20 south. Winds north near 10 mph, becoming light in wind-sheltered valleys."
   },
   {
     "heading": "Saturday",
     "text": "Periods of morning sunshine, mixing with more clouds through the afternoon. A passing snow shower in the Adirondacks. Highs from the low 20s to low 30s north to south. Light winds, becoming northwest 5 to 15 mph."
+  },
+  {
+    "heading": "Saturday Night",
+    "text": "Periods of clouds and not as cold. A few snow showers possible over the northern mountains. Lows in the teens east and north of I-89, near 10 in the cold spots, and 20 to 25 west and south. Winds diminishing to light and variable."
+  },
+  {
+    "heading": "Sunday",
+    "text": "Variable clouds and sun. A bit milder. Highs in the 30s to near 40 northeast, in the 40s southwest. Winds light, becoming southwest 10 to 15 mph, gusting to 25 mph from the Green Mountains west."
   }
 ]
