@@ -1,26 +1,26 @@
 [
   {
-    "heading": "Today",
-    "text": "Increasing sunshine, blustery, much colder.",
-    "temperature": "20s to low 30s north, 30s to 40 south, falling",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
-  },
-  {
-    "heading": "Friday Night",
+    "heading": "Tonight",
     "text": "Mostly clear, some clouds north late.",
-    "temperature": "5 to 15 north, teens to 20 south.",
+    "temperature": "5 to 15 north, teens to 20 south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/09/Mostly_clear_night.png"
   },
   {
     "heading": "Saturday",
-    "text": "Partly sunny.\u00a0 Maybe a snow shower in the Adirondacks.",
-    "temperature": "Mid 20s to lower 30s north, low to mid 30s south",
+    "text": "Periods of clouds. Maybe a few afternoon snow showers. Cold.",
+    "temperature": "Low 20s to low 30s north to south.",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
   },
   {
     "heading": "Sunday",
-    "text": "Some sun. A stray snow shower far north.",
-    "temperature": "upper 30s to low 40s northeast, 40s to 50 southwest",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/clouds_sun_snow_rain.png"
+    "text": "Lots of clouds.",
+    "temperature": "Upper 30s to low 40s northeast, 40s west and south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/mostly_cloudy.png"
+  },
+  {
+    "heading": "Monday",
+    "text": "Lots of clouds, some sun. A stray shower far north.",
+    "temperature": "40s northeast, 50s southwest",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
   }
 ]
