@@ -1,15 +1,15 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Mostly clear, some clouds north late.",
-    "temperature": "5 to 15 north, teens to 20 south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/09/Mostly_clear_night.png"
-  },
-  {
-    "heading": "Saturday",
+    "heading": "Today",
     "text": "Periods of clouds. Maybe a few afternoon snow showers. Cold.",
     "temperature": "Low 20s to low 30s north to south.",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
+  },
+  {
+    "heading": "Tonight",
+    "text": "Periods of clouds. Chance of mountain snow showers.",
+    "temperature": "10 to 15 north, 20 to 25 south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/09/Mostly_clear_night.png"
   },
   {
     "heading": "Sunday",
