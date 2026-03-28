@@ -1,26 +1,26 @@
 [
   {
-    "heading": "Today",
-    "text": "Periods of clouds. Maybe a few afternoon snow showers. Cold.",
-    "temperature": "Low 20s to low 30s north to south.",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
-  },
-  {
     "heading": "Tonight",
     "text": "Periods of clouds. Chance of mountain snow showers.",
-    "temperature": "10 to 15 north, 20 to 25 south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/09/Mostly_clear_night.png"
+    "temperature": "Teens, near 20 in CV",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_snow_showers_night.png"
   },
   {
     "heading": "Sunday",
-    "text": "Lots of clouds.",
-    "temperature": "Upper 30s to low 40s northeast, 40s west and south",
+    "text": "Sun mixing with clouds. Milder.",
+    "temperature": "30s to near 40 north, 40s elsewhere",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/mostly_cloudy.png"
   },
   {
     "heading": "Monday",
-    "text": "Lots of clouds, some sun. A stray shower far north.",
-    "temperature": "40s northeast, 50s southwest",
+    "text": "Mix of sun and clouds. A stray shower far north.",
+    "temperature": "40s north, near 60 south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
+  },
+  {
+    "heading": "Tuesday",
+    "text": "Chance of showers increases as the day goes on.",
+    "temperature": "40s to mid 50s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_winter_mix.png"
   }
 ]
