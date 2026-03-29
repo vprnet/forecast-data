@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Periods of clouds. Chance of a few snow showers over the northern hills. Lows in the teens to near 20, a few 10s in the northeast. Winds diminishing to light and variable."
-  },
-  {
     "heading": "Sunday",
     "text": "Morning sun, mixing with more clouds in the afternoon. A bit milder. Highs in the 30s to near 40 northeast, in the 40s elsewhere. Winds light, becoming southwest 10 to 15 mph, gusting to 20 mph from the Green Mountains west."
   },
   {
     "heading": "Sunday Night",
     "text": "Increasing cloud cover overnight. A few snow showers possible north of Route 2. Lows from the low to mid 30s, a few 20s in the cold spots of the northeast. Light south wind."
+  },
+  {
+    "heading": "Monday",
+    "text": "A mix of sun and clouds. Slight chance of an afternoon rain shower. Milder. Highs in the 40s to low 50s northeast, 50s to near 60 in the southern valleys. Southwest wind near 10 mph."
   }
 ]
