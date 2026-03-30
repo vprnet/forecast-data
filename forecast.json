@@ -1,26 +1,26 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Periods of clouds. Chance of mountain snow showers north.",
-    "temperature": "30s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_snow_showers_night.png"
+    "heading": "Today",
+    "text": "Becoming partly sunny, quite mild. A spotty afternoon shower north.",
+    "temperature": "mid 50s to mid 60s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   },
   {
-    "heading": "Monday",
-    "text": "Mix of sun and clouds. A stray shower far north.",
-    "temperature": "40s north, near 60 south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
+    "heading": "Monday Night",
+    "text": "A rising chance of showers, some freezing rain far north.",
+    "temperature": "30s north, 40s south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/rain_freezing_night.png"
   },
   {
     "heading": "Tuesday",
-    "text": "Chance of showers increases as the day goes on.",
-    "temperature": "40s to mid 50s",
+    "text": "Showers, isolated freezing rain far north, becoming a cold rain north, mild rain south.",
+    "temperature": "30s to low 40s north, 50s south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain.png"
   },
   {
     "heading": "Wednesday",
-    "text": "Morning rain, then decreasing before noon.",
-    "temperature": "50s to mid 60s south.",
+    "text": "Morning rain, isolated freezing rain far north, then decreasing before noon.",
+    "temperature": "30s to low 40s north of Rt. 2, 50s to mid 60s south.",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_rain.png"
   }
 ]
