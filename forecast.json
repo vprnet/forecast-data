@@ -1,26 +1,26 @@
 [
   {
-    "heading": "Monday Night",
-    "text": "A rising chance of showers far north.",
-    "temperature": "30s north, 40s south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/rain_freezing_night.png"
-  },
-  {
-    "heading": "Tuesday",
-    "text": "Showers, isolated freezing rain far north, becoming a cold rain north, mild rain south.",
-    "temperature": "30s to low 40s north, 50s south",
+    "heading": "Today",
+    "text": "Rain, maybe a thunderstorm west, tapering to showers.",
+    "temperature": "Upper 30s and 40s north, 50s to low 60s south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain.png"
   },
   {
     "heading": "Tuesday Night",
-    "text": "Rain increasing overnight, heaviest over the central VT.",
-    "temperature": "low to mid 40s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/heavy_rain_night.png"
+    "text": "Rain, with pockets of freezing rain in the St. Lawrence Valley.",
+    "temperature": "30s to low 40s north, 40s and 50s south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/rain_freezing_night.png"
   },
   {
     "heading": "Wednesday",
-    "text": "Morning rain, isolated freezing rain far north, then decreasing before noon.",
-    "temperature": "40s north of Rt. 2, 50s to mid 60s south.",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_rain.png"
+    "text": "Morning rain, isolated freezing rain in Quebec, tapering to spotty showers.40s north, 50s and 60s south",
+    "temperature": "Upper 30s to",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain.png"
+  },
+  {
+    "heading": "Thursday",
+    "text": "Rain south, a wintry mix north.",
+    "temperature": "30s to low 40s north, 40s south.",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/freezing_rain.png"
   }
 ]
