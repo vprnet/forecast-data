@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Rain, maybe a thunderstorm west, tapering to showers.",
-    "temperature": "Upper 30s and 40s north, 50s to low 60s south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain.png"
+    "heading": "This Afternoon",
+    "text": "Scattered showers, mainly near and south of Route 4.",
+    "temperature": "Mainly 40s north, 50s to lower 60s south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_rain.png"
   },
   {
-    "heading": "Tuesday Night",
+    "heading": "Tonight",
     "text": "Rain, with pockets of freezing rain in the St. Lawrence Valley.",
-    "temperature": "30s to low 40s north, 40s and 50s south",
+    "temperature": "30s to lower 40s north, 40s and 50s south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/rain_freezing_night.png"
   },
   {
