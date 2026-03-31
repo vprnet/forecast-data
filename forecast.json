@@ -1,26 +1,26 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Scattered showers, mainly near and south of Route 4.",
-    "temperature": "Mainly 40s north, 50s to lower 60s south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_rain.png"
-  },
-  {
-    "heading": "Tonight",
-    "text": "Rain, with pockets of freezing rain in the St. Lawrence Valley.",
-    "temperature": "30s to lower 40s north, 40s and 50s south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/rain_freezing_night.png"
+    "heading": "Tuesday Night",
+    "text": "Showers, with pockets of freezing rain possible far north.",
+    "temperature": "Mid 40s to mid 50s south, mainly mid 30s to mid 40s north",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/thunderstorm_partly_cloudy_night.png"
   },
   {
     "heading": "Wednesday",
-    "text": "Morning rain, isolated freezing rain in Quebec, tapering to spotty showers.40s north, 50s and 60s south",
-    "temperature": "Upper 30s to",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain.png"
+    "text": "Chance of early showers, or patchy freezing rain far north; then chance of sprinkles or drizzle.",
+    "temperature": "40s to around 50 north, 50s to around 60 south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_rain.png"
   },
   {
     "heading": "Thursday",
-    "text": "Rain south, a wintry mix north.",
-    "temperature": "30s to low 40s north, 40s south.",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/freezing_rain.png"
+    "text": "Periods of rain or wintry mix.",
+    "temperature": "Valleys upper 30s to mid 40s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_winter_mix.png"
+  },
+  {
+    "heading": "Friday",
+    "text": "Scattered showers.",
+    "temperature": "60s, some 50s northeast",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
   }
 ]
