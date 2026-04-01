@@ -1,26 +1,26 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Chance of sprinkles or drizzle, mainly over high terrain.",
-    "temperature": "Upper 30s to mid 40s, except 50s to around 60 southeast",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/mostly_cloudy.png"
-  },
-  {
-    "heading": "Tonight",
-    "text": "Chance of rain far south, or a wintry mix in the southern Greens.",
-    "temperature": "Mainly upper 20s to lower 30s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers_winter_mix_night.png"
+    "heading": "Wednesday Night",
+    "text": "Rising chance of rain south, or a wintry mix in the southern Greens.",
+    "temperature": "Mid 20s to lower 30s, some mid 30s far south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/rain_freezing_night.png"
   },
   {
     "heading": "Thursday",
-    "text": "Periods of rain or mix in the south, spreading north to around Route 2.",
+    "text": "Periods of rain or a mix south, a rising chance north.",
     "temperature": "Valleys upper 30s to mid 40s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_winter_mix.png"
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_rain.png"
   },
   {
     "heading": "Friday",
     "text": "Chance of showers, maybe some early mix east of the Greens.",
     "temperature": "60s, some 50s northeast",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
+  },
+  {
+    "heading": "Saturday",
+    "text": "Scattered showers, mainly after noon.",
+    "temperature": "Upper 40s to mid 50s north, upper 50s to mid 60s south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
   }
 ]
