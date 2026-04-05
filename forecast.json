@@ -1,15 +1,15 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Gusty with shower spreading, mixing with freezing rain over higher peaks.",
-    "temperature": "30s to 40s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/rain_freezing_night.png"
-  },
-  {
     "heading": "Sunday",
     "text": "Steady rain, becoming scattered west to east.",
     "temperature": "50s to near 60.",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain.png"
+  },
+  {
+    "heading": "Tonight",
+    "text": "Cooler. Scattered showers turning over to snow north and east.",
+    "temperature": "30s to 40s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers_night.png"
   },
   {
     "heading": "Monday",
