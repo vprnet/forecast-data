@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Sunday, Easter",
-    "text": "Steady rain, becoming more scattered west to east in the afternoon. Highs from near 50 in the north, increasing into the upper 50s in the southern valleys. South wind near 10 mph, turning west, occasionally gusting to 20 mph over the higher hills, and in the west."
-  },
-  {
     "heading": "Sunday Night",
     "text": "Showers becoming more scattered, turning over to snow. Colder. Lows in the low to mid 30s, a few 20s possible in the northeast. West wind at 5 to 10 mph, gusting to 15 mph."
   },
   {
     "heading": "Monday",
     "text": "A chance of a few snow showers over the northern hills in the morning with mostly cloudy skies. Highs from the low to mid 40s, a few 30s sticking around in the northeast. West wind at 5 to 10 mph."
+  },
+  {
+    "heading": "Monday Night",
+    "text": "A chance of isolated snow showers over the central greens early. Lows through the 20s."
   }
 ]
