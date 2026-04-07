@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly cloudy. Snow showers likely near and north of Route 2, scattered to the south; a squall possible. A trace to 2 inches of snow, mainly in the hills. Valley highs in the mid to upper 30s, with lower 30s far north, and around 40 far south. North to northwest winds 5 to 15 mph, gusting to 25 mph."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Chance of an early snow shower north, otherwise clearing. Lows in the mid to upper teens, colder hollows in the lower teens. Northwest winds gusting to 25 mph early, then diminishing overnight."
+    "heading": "Tuesday Night",
+    "text": "Scattered early snow showers, mainly along and east of the Greens, otherwise clearing. Lows in the mid to upper teens, colder hollows in the lower teens. Northwest winds gusting to 25 mph early, then diminishing overnight."
   },
   {
     "heading": "Wednesday",
     "text": "Mostly sunny. Highs from the upper 30s to mid 40s north, and mid to upper 40s in the south, except around 50 in southeastern valleys. West to southwest winds 5 to 10 mph, gusting to 15 mph in the Champlain Valley."
+  },
+  {
+    "heading": "Wednesday Night",
+    "text": "Clear to partly cloudy. Lows from the mid 20s to around 30, with some lower 20s east of the Greens, and low to mid 30s in the broad valleys west. Winds light, variable to south, except from the south at 5 to 15 mph in the broad western valleys."
   }
 ]
