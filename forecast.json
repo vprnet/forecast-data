@@ -1,15 +1,15 @@
 [
   {
-    "heading": "Monday Night",
-    "text": "Partial clearing. A chance of snow showers late.",
-    "temperature": "20s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_snow_showers_night.png"
+    "heading": "Today",
+    "text": "Periods of snow showers, a dusting to 2 inches.",
+    "temperature": "30 to 40 north to south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_snow.png"
   },
   {
-    "heading": "Tuesday",
-    "text": "Chance of scattered snow showers.",
-    "temperature": "28 to 35 north, 30s to low 40s south.",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_snow.png"
+    "heading": "Tuesday Night",
+    "text": "Clearing and quite cold.",
+    "temperature": "Teens to low 20s, near 10 in the cold spots.",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/09/Mostly_clear_night.png"
   },
   {
     "heading": "Wednesday",
