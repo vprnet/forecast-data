@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly sunny. Highs from the upper 30s to mid 40s north, and mid to upper 40s in the south, except around 50 in southeastern valleys. West to southwest winds 5 to 10 mph."
-  },
-  {
-    "heading": "Tonight",
+    "heading": "Wednesday Night",
     "text": "Clear skies; possibly some high clouds late near the international border. Lows from the upper teens to mid 20s, except mid to upper 20s in the broad northwestern valleys, and low to mid teens northeast. Winds light, variable to south, except from the south at 5 to 15 mph in the broad western valleys."
   },
   {
     "heading": "Thursday",
-    "text": "Mostly sunny. Blustery, with highs in the mid to upper 50s east of the Greens, and upper 50s to lower 60s west, with some mid 60s in the St. Lawrence Valley. South winds gusting to 30 mph, except gusting to 40 mph in the Champlain Valley."
+    "text": "Mostly sunny. Blustery, with highs from the mid 50s to around 60 east of the Greens, and upper 50s to mid 60s west. South winds gusting to 30 mph, except gusting to 40 mph in the Champlain Valley."
+  },
+  {
+    "heading": "Thursday Night",
+    "text": "Periods of clouds. Chance of showers in the St. Lawrence Valley. Lows in the 30s, around 30 in the cold spots east of the Greens, and lower 40s in the broad valleys west. South winds 5 to 15 mph, gusting to 30 mph early."
   }
 ]
