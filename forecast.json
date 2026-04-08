@@ -1,25 +1,25 @@
 [
   {
-    "heading": "Tuesday Night",
-    "text": "Chance of an early snow shower, then clearing.",
-    "temperature": "Mainly mid to upper teens",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_snow_showers_night.png"
+    "heading": "Today",
+    "text": "Sunshine. A chilly start, then not as cold this afternoon.",
+    "temperature": "40 to 50 north to south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/sunny.png"
   },
   {
-    "heading": "Wednesday",
-    "text": "Mostly sunny.",
-    "temperature": "40 to 50 north to south.",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
+    "heading": "Wednesday Night",
+    "text": "Mostly clear. Chilly, but not as cold.",
+    "temperature": "Upper teens and 20s, near 30 in the warmer valleys west and south.",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/09/Mostly_clear_night.png"
   },
   {
     "heading": "Thursday",
-    "text": "Mostly to partly sunny. Windy. Chance of showers in the St. Lawrence Valley.",
-    "temperature": "Mid to upper 50s east, upper 50s to mid 60s west",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
+    "text": "Mostly to partly sunny. Breezy.",
+    "temperature": "50s east, upper 50s to low 60s west",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   },
   {
     "heading": "Friday",
-    "text": "Rising chance of showers north.",
+    "text": "Sun to clouds south. Showers likely north midday and afternoon.",
     "temperature": "Mid 40s to mid 60s, northwest to southeast",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
   }
