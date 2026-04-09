@@ -13,14 +13,14 @@
   },
   {
     "heading": "Friday",
-    "text": "Rising chance of showers, mainly after noon, except chance late southeast.",
-    "temperature": "Mid 40s to mid 60s, northwest to southeast",
+    "text": "Partly sunny south. Becoming cloudy north, afternoon showers spreading east.",
+    "temperature": "Upper 40s and 50s north, 60s south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
   },
   {
     "heading": "Saturday",
-    "text": "Chance of snow showers northern mountains.",
-    "temperature": "Valleys 40s north, upper 40s to mid 50s south",
+    "text": "An early snow shower in northern mountains. Increasing sunshine, cooler.",
+    "temperature": "40s north, upper 40s to mid 50s south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_cloudy.png"
   }
 ]
