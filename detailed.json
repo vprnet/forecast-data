@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Morning sun south and east giving way to clouds.  Showers developing late morning in the St. Lawrence Valley, spreading east through Quebec in the afternoon, south to the Adirondacks and Rt. 2 late afternoon.  Highs in the 50s north of Rt. 4, upper 40s in northern NY, 60s south.  Light winds, becoming southwest near 10 mph, gusting to 25 mph."
-  },
-  {
     "heading": "Tonight",
-    "text": "Showers spreading south, tapering off north, with a few snow showers in the mountains.  Lows in the 30s north to near 40 south.  Winds becoming northwest near 10 mph, light in sheltered valleys."
+    "text": "Showers mixing with snow in the north, diminishing from the west to east overnight. Lows in the 30s, nearing 40 south. Light northwest wind."
   },
   {
     "heading": "Saturday",
-    "text": "Any local snow or rain showers northeast ending.  Periods of morning clouds giving way to increasing afternoon sunshine, last in the northern mountains.  Turning cooler.  Highs in the 40s north, upper 40s to low 50s south.  Winds northwest 10 to 15 mph, gusting 20 to 30 mph."
+    "text": "Periods of clouds giving way to increasing sunshine, with clouds sticking around a bit longer in the northeast. Highs in the 40s north, upper 40s to mid 50s south. Northwest wind at 10 to 15 mph, gusting to near 20 mph."
+  },
+  {
+    "heading": "Saturday Night",
+    "text": "A few clouds in the northeast clearing out after midnight. Lows from the mid 20s to low 30s. Light northwest wind."
   }
 ]
