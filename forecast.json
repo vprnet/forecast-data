@@ -1,13 +1,7 @@
 [
   {
-    "heading": "Today",
-    "text": "Partly sunny south. Increasing clouds north, afternoon showers increasing north of Rt. 2.",
-    "temperature": "50s north, 60s south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
-  },
-  {
-    "heading": "Friday Night",
-    "text": "Showers spreading north, then tapering off.",
+    "heading": "Tonight",
+    "text": "Showers spreading, then tapering off west to east.",
     "temperature": "30s north, near 40 south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_rain_night.png"
   },
@@ -22,5 +16,11 @@
     "text": "Sun giving way to increasing afternoon clouds. Milder.",
     "temperature": "50s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/mostly_cloudy.png"
+  },
+  {
+    "heading": "Monday",
+    "text": "Showers north, more scattered south. Warmer.",
+    "temperature": "60s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain.png"
   }
 ]
