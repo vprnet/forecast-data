@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Showers mixing with snow in the north, diminishing from the west to east overnight. Lows in the 30s, nearing 40 south. Light northwest wind."
-  },
-  {
-    "heading": "Saturday",
+    "heading": "Today",
     "text": "Periods of clouds giving way to increasing sunshine, with clouds sticking around a bit longer in the northeast. Highs in the 40s north, upper 40s to mid 50s south. Northwest wind at 10 to 15 mph, gusting to near 20 mph."
   },
   {
-    "heading": "Saturday Night",
+    "heading": "Tonight",
     "text": "A few clouds in the northeast clearing out after midnight. Lows from the mid 20s to low 30s. Light northwest wind."
+  },
+  {
+    "heading": "Sunday",
+    "text": "Morning sunshine, then increasing clouds from the west and a chance of showers arriving in the afternoon. Milder. Highs from the low 50s north, increasing to the mid to upper 50s as you head south. Light and variable wind, becoming south near 10 mph in the afternoon."
   }
 ]
