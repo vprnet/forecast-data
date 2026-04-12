@@ -1,11 +1,5 @@
 [
   {
-    "heading": "Tuesday Night",
-    "text": "Sun giving way to increasing clouds followed by scattered showers.",
-    "temperature": "50s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
-  },
-  {
     "heading": "Tonight",
     "text": "Showers increasing tonight, especially south of I-89.",
     "temperature": "20s to low 30s",
@@ -22,5 +16,11 @@
     "text": "Increasing chance of rain showers. Warm.",
     "temperature": "60s near 70 north, 70s near 80 south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
+  },
+  {
+    "heading": "Tuesday Night",
+    "text": "Scattered thunderstorms before midnight then decreasing overnight.",
+    "temperature": "50s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/thunderstorm_partly_cloudy_night.png"
   }
 ]
