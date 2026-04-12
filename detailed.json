@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Any remaining clouds dissipating overnight. Chance of a stray shower in the northeast and over the Greens. Cooler. Lows from the mid 20s to low 30s. Wind diminishing to calm."
-  },
-  {
     "heading": "Sunday",
     "text": "Morning sunshine, then increasing clouds, and scattered showers spreading east in the afternoon. Milder. Highs from the low 50s north, in the mid to upper 50s as you head south. Light and variable wind, becoming south near 10 mph in the afternoon."
   },
   {
     "heading": "Sunday Night",
     "text": "Rain showers. Lows from the upper 30s to near 40 in the northeast, in the low to mid 40s elsewhere. South wind at 10 to 15 mph, gusting to 25 mph, stronger gusts in the Champlain Valley."
+  },
+  {
+    "heading": "Monday",
+    "text": "Mostly cloudy. Showers likely north, increasing chance of showers south. Warmer. Highs from the low 60s north, into the upper 60s south."
   }
 ]
