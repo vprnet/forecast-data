@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Sunday",
-    "text": "Morning sunshine, then increasing clouds, and scattered showers spreading east in the afternoon. Milder. Highs from the low 50s north, in the mid to upper 50s as you head south. Light and variable wind, becoming south near 10 mph in the afternoon."
-  },
-  {
     "heading": "Sunday Night",
     "text": "Rain showers, heaviest north before morning. Lows from the upper 30s to near 40 in the northeast, in the low to mid 40s elsewhere. South wind at 10 to 15 mph, gusting to 25 mph, stronger gusts in the Champlain Valley."
   },
   {
     "heading": "Monday",
     "text": "Mostly cloudy. A good chance for showers north with partial clearing in the south. Another round of scattered showers arriving in the afternoon. Warmer. Highs from the low 60s north, into the upper 60s south."
+  },
+  {
+    "heading": "Monday Night",
+    "text": "Mostly cloudy. Chance of rain showers mainly north of Route 4, tapering off before midnight but lingering later over the northeast. Lows through the 50s, upper 40s along the northern border."
   }
 ]
