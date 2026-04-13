@@ -1,11 +1,5 @@
 [
   {
-    "heading": "Today",
-    "text": "Early showers northeast ending. A few breaks if sun south.\u00a0 Afternoon showers increasing west to east.",
-    "temperature": "Upper 50s and 60s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
-  },
-  {
     "heading": "Monday Night",
     "text": "Evening showers becoming spotty. Mild.",
     "temperature": "50s",
@@ -16,6 +10,12 @@
     "text": "Some early sun east and south.\u00a0 Showers spreading east midday and afternoon. Warmer.",
     "temperature": "60s north, 70s south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
+  },
+  {
+    "heading": "Tuesday Night",
+    "text": "Heavy showers early, possible rumble of thunder, then tapering off.",
+    "temperature": "50s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain_night.png"
   },
   {
     "heading": "Wednesday",
