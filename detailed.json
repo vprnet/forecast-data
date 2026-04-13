@@ -1,14 +1,14 @@
 [
   {
-    "heading": "***WIND ADVISORY FOR THE ADIRONDACKS AND ST. LAWRENCE VALLEY THROUGH 2 PM***Today",
-    "text": "A stray morning shower south, then a few breaks of sun. Mostly cloudy north. Showers re-developing in NY, spreading east this afternoon, and tapering off late. Breezy to windy, and milder. Highs in the upper 50s to low 60s north, in the 60s south. Winds increasing from the south to southwest 10 to 20 mph, gusting 30 to 40 mph, up to 50 mph in northern NY."
-  },
-  {
     "heading": "Tonight",
     "text": "Localized showers tapering off. Some breaks in the clouds, especially southern valleys late. Lows in the 40s to near 50 north, in the 50s south. Winds becoming west 10 to 15 mph, gusting to 25 mph, diminishing to less than 10 mph by morning."
   },
   {
     "heading": "Tuesday",
     "text": "Some morning sun, mainly in NH, and south of Rt. 2 in VT, becoming mostly cloudy. Showers developing in NY late morning, spreading east in the afternoon, possibly a thunderstorm. Warmer. Highs in the 60s north, 70s south. Light winds, turning to the south near 10 mph from the Green Mountains west in the afternoon."
+  },
+  {
+    "heading": "Tuesday Night",
+    "text": "Evening showers, possibly a thunderstorm, tapering off. Partial clearing in southern valleys. Continued mild. Lows in the 50s. Winds varying from southwest to northwest, diminishing to less than 10 mph."
   }
 ]
