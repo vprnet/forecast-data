@@ -1,13 +1,13 @@
 [
   {
-    "heading": "Today",
-    "text": "Any morning sun giving way to clouds. Showers, possibly a thunderstorm developing in NY, spreading east.",
+    "heading": "This Afternoon",
+    "text": "Showers and thunderstorms likely; a severe storm possible.",
     "temperature": "60s north, 70s south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/thunderstorm_sun.png"
   },
   {
-    "heading": "Tuesday Night",
-    "text": "Evening showers or a thunderstorm tapering off.",
+    "heading": "Tonight",
+    "text": "Early showers and storms likely, then tapering off.",
     "temperature": "Upper 40s and 50s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/thunderstorm_partly_cloudy_night.png"
   },
