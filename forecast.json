@@ -1,19 +1,19 @@
 [
   {
-    "heading": "Tuesday Night",
-    "text": "Early showers and storms likely, then tapering off.",
-    "temperature": "Mid 40s to mid 50s, north to south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Iso_Tstorm_night.png"
-  },
-  {
-    "heading": "Wednesday",
-    "text": "Showers increasing late morning and afternoon west to east.",
-    "temperature": "60s north, 70s south",
+    "heading": "Today",
+    "text": "Early sun south. Showers in NY by late morning, spreading east.5",
+    "temperature": "0s to low 60s north, upper 60s and 70s south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
   },
   {
+    "heading": "Wednesday Night",
+    "text": "Scattered showers, more numerous south of Rt. 2, diminishing north.",
+    "temperature": "50s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/04/showers_night.png"
+  },
+  {
     "heading": "Thursday",
-    "text": "Scattered to numerous showers.",
+    "text": "Localized, passing showers, more numerous west late.",
     "temperature": "60s north, 70s south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
   },
