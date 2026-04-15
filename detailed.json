@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly to partly cloudy. Scattered showers north; widely scattered south, with a rumble of thunder possible. Highs from \u00a0upper 60s to mid 70s in the south, and upper 50s to mid 60s north, except low to mid 50s far north. South to southeast winds 5 to 10 mph, except east to northeast 5 to 10 mph in the St. Lawrence Valley."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Mostly cloudy. A rising chance of showers and thunderstorms in the south, mainly after 8 PM; chance of a shower north. Lows from the upper 40s to mid 50s, with some upper 40s north, and some upper 50s in the south. Winds becoming light and variable."
+    "heading": "Wednesday Night",
+    "text": "Mostly cloudy. Chance of a shower north; slight chance of evening showers and thunderstorms in the south, then likely after midnight. Lows from the upper 40s to mid 50s north, mid 50s to around 60 south. Winds becoming light and variable."
   },
   {
     "heading": "Thursday",
-    "text": "Variable clouds. Chance of a shower or thunderstorm, a rising chance mid to late afternoon in New York, and in northwestern Vermont. Highs in the mid to upper 70s in the south, and mid 60s to lower 70s north, except some lower 60s far north. Winds becoming south 5 to 10 mph, gusting to 20 mph in the Champlain Valley."
+    "text": "Variable clouds. Chance of a shower or thunderstorm, a rising chance mid to late afternoon in New York, and in northwestern Vermont; a severe storm possible, mainly south of Route 2. Highs in the mid to upper 70s in the south, and mid 60s to lower 70s north, except some lower 60s far north. Winds becoming south 5 to 10 mph, gusting to 20 mph in the Champlain Valley."
+  },
+  {
+    "heading": "Thursday Night",
+    "text": "Mostly cloudy. Showers and thunderstorms likely; a severe storm again possible, mainly south of Route 2. Lows from the upper 40s to mid 50s north, mid to upper 50s in the south. West to northwest winds 5 to 10 mph and diminishing."
   }
 ]
