@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Variable clouds. Scattered showers and thunderstorms, except likely near the international border; a severe storm possible, mainly south of Route 2. Highs from the upper 70s to mid 80s south, 70s to near 80 north. South to southwest winds 5 to 10 mph, gusting to 20 mph in the Champlain Valley."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Mostly cloudy. Showers and thunderstorms likely; a severe storm again possible, mainly south of Route 2. Lows from the upper 40s to mid 50s north, mid to upper 50s in the south. Southwest winds 5 to 10 mph, becoming west and diminishing."
+    "heading": "Thursday Night",
+    "text": "Mostly cloudy. Showers and thunderstorms likely; a severe storm again possible, mainly early and south of Route 2. Lows from the upper 40s to mid 50s north, mid to upper 50s in the south. Southwest winds 5 to 10 mph, becoming west and diminishing."
   },
   {
     "heading": "Friday",
-    "text": "Mostly to partly cloudy, with a chance of showers, mainly in the morning. Highs from the mid 60s to lower 70s, some lower 60s far north. Winds becoming north 5 to 10 mph."
+    "text": "Mostly to partly cloudy, with a chance of showers, mainly in the morning and east of the Greens. Highs from the mid 60s to lower 70s, some lower 60s far north. Winds becoming north 5 to 10 mph."
+  },
+  {
+    "heading": "Friday Night",
+    "text": "Partly cloudy. Lows from the mid 40s to lower 50s. Winds becoming light, variable to southeast."
   }
 ]
