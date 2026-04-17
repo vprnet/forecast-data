@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Mostly cloudy, with a stray morning shower, and patchy fog.  Increasing sun midday and afternoon, with a localized shower south.  Highs 60 to 65 north, in the 60s to near 70 south.  Winds light, becoming north less than 10 mph."
-  },
-  {
     "heading": "Tonight",
-    "text": "Becoming mostly clear and cooler.  Lows in the 40s, a few low 50s southwest, near 40 in the cool spots.  Wind light and variable, becoming southeast near 10 mph late."
+    "text": "Mostly clear overnight, with some fog developing in the valleys. Lows in the 40s, a few low 50s southwest. Calm wind."
   },
   {
     "heading": "Saturday",
-    "text": "Sunshine, mixing with clouds east of the Green Mountains, becoming mostly cloudy in NH south of the White Mountains.  Highs in the 60s, except upper 50s under the clouds.  Wind south to southeast, increasing to 10 to 15 mph, gusting 25 mph east, up to 35 mph from the Green Mountains west."
+    "text": "Sunshine, mixing with clouds east of the Greens, becoming mostly cloudy west. Highs in the 60s in the sun, in the 50s under cloudy skies. Southeast wind increasing to 10 to 15 mph, gusting 20 mph east, up to 35 mph from the Green Mountains west."
+  },
+  {
+    "heading": "Saturday Night",
+    "text": "Mostly cloudy, with showers spreading east. Lows in the 40s. South wind at 10 to 15 mph, gusting 20 mph northeast, up to 35 mph west of the Greens, decreasing overnight."
   }
 ]
