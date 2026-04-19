@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Saturday Night",
-    "text": "Mostly cloudy, with rain spreading east. Scattered showers moving across northern NY after dark, crossing the Green around midnight. Showers becoming more widespread late. Lows in the 40s. South wind at 10 to 15 mph, gusting 20 mph northeast, up to 35 mph west of the Greens, decreasing overnight."
-  },
-  {
     "heading": "Sunday",
-    "text": "Rain, becoming heavy before noon, and mixing with snow over the mountains, then diminishing west to east in the afternoon and early evening. Cooler, Highs in the 40s to low 50s in the morning, falling through the afternoon. Light wind becoming northwest 5 to 10 mph, gusting to 15 mph late in the day.\\"
+    "text": "Rain, becoming widespread before noon, and mixing with snow over the mountains, then diminishing west to east in the afternoon and early evening. Cooler, Highs in the 40s to low 50s in the morning, falling through the afternoon. Light wind becoming northwest 5 to 10 mph, gusting to 15 mph late in the day."
   },
   {
     "heading": "Sunday Night",
     "text": "Scattered rain or snow drying out early leading to partial clearing mainly south and east. Lows in the 20s to near 30 south. Northwest wind 5 to 10 mph."
+  },
+  {
+    "heading": "Monday",
+    "text": "Variable clouds and sun. A few early morning scattered snow showers over the western Greens. Highs in the 30s to near 40 north, in the low to mid 40s south. Northwest wind 5 to 10 mph, gusting to 20 mph."
   }
 ]
