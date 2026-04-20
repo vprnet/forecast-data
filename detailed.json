@@ -1,14 +1,18 @@
 [
   {
-    "heading": "Today",
-    "text": "Periods of clouds, more frequent in the north and mountains, giving way to more afternoon sun. More periods of sun in southern valleys. Highs only in the 30s to near 40 north, 40 to 45 south."
-  },
-  {
     "heading": "Tonight",
     "text": "Clearing this evening, then mostly clear and cold. Lows in the mid teens to low 20s, dipping to the low teens in the cold spots. Winds west near 10 mph, diminishing to light and variable."
   },
   {
     "heading": "Tuesday",
     "text": "Sunshine, mixing with mid and high-level clouds. Highs in the 40s north, near 50 south. Winds light, becoming south less than 10 mph."
+  },
+  {
+    "heading": "Tuesday Night",
+    "text": "Becoming mostly cloudy, with a few stray snow or rain showers, mainly over the higher terrain. Lows in the low to mid 30s, upper 20s in the far north. Winds becoming south 10 to 15 mph from the Green Mountains west, and over the higher terrain east, light in wind-sheltered valleys."
+  },
+  {
+    "heading": "Wednesday",
+    "text": "Mostly cloudy, with an isolated snow or rain shower, mainly over the higher terrain. Highs in the 40s to low 50s north, 50 to 55 south. Winds south near 10 mph, diminishing to light."
   }
 ]
