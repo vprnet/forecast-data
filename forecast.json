@@ -1,26 +1,26 @@
 [
   {
-    "heading": "Today",
-    "text": "Morning clouds and a few snow showers in the north and mountains. Morning sun southeast mixing with clouds.\u00a0 Cold.",
-    "temperature": "30s to 40 north, 40 to 45 south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_showers_sun.png"
-  },
-  {
-    "heading": "Monday Night",
+    "heading": "Tonight",
     "text": "Clearing and quite cold.",
-    "temperature": "Teens to low 20s",
+    "temperature": "Teens to low 20s.",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/09/Mostly_clear_night.png"
   },
   {
     "heading": "Tuesday",
-    "text": "Sunshine mixing with clouds. Not as cold.",
+    "text": "Sun mixing with clouds.",
     "temperature": "40s north to near 50 south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   },
   {
     "heading": "Wednesday",
-    "text": "Clouds, maybe a flurry or sprinkle, then breaks of sun.",
+    "text": "Clouds, limited sun. A spotty flurry or sprinkle.",
     "temperature": "Mid 40s to mid 50s north to south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/mostly_cloudy.png"
+  },
+  {
+    "heading": "Thursday",
+    "text": "More sun west, more clouds east. A stray flurry or sprinkle northeast.",
+    "temperature": "Mid 40s to mid 50s north to south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_rain_showers.png"
   }
 ]
