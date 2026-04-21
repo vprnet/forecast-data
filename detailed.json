@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Variable clouds. Valley highs from the mid 40s to around 50. South winds 5 to 10 mph."
-  },
-  {
-    "heading": "Tonight",
+    "heading": "Tuesday Night",
     "text": "Partly to mostly cloudy, with a chance of flurries or sprinkles, mainly over high terrain from the Adirondacks into the southern Greens. Lows from the upper 20s to mid 30s, some mid 20s northeast. Winds becoming south to southeast around 5 mph, except 5 to 10 mph in the Champlain Valley, and becoming light in sheltered valleys east of the Greens."
   },
   {
     "heading": "Wednesday",
-    "text": "Mostly cloudy. Chance of light snow or rain showers, mainly over high terrain in the central and southern Greens, and Berkshires. Some breaks of afternoon sun in the St. Lawrence Valley. Highs from the mid 40s to around 50, with some lower 40s east of the Greens, and some lower 50s in the St. Lawrence Valley. South to southeast winds around 5 mph, except gusting to 15 mph in the Champlain Valley."
+    "text": "Mostly cloudy. Chance of light snow or rain showers, mainly in far southern valleys, and in the central and southern Greens, and Berkshires. Some breaks of afternoon sun in the St. Lawrence Valley. Highs from the mid 40s to around 50, with some lower 40s east of the Greens, and some lower 50s in the St. Lawrence Valley. South to southeast winds around 5 mph, except gusting to 15 mph in the Champlain Valley."
+  },
+  {
+    "heading": "Wednesday Night",
+    "text": "Partly cloudy west of the Greens. Mostly cloudy from the Green Mountains eastward, with the chance of a late-night rain or snow shower. Lows in the low to mid 30s. South winds around 5 mph, becoming northwest late."
   }
 ]
