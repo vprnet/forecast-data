@@ -1,18 +1,14 @@
 [
   {
+    "heading": "Today",
+    "text": "Sunshine, mixing with mid and high-level clouds, then more afternoon sun.  Highs in the 40s north, near 50 south.  Winds light, becoming south less than 10 mph."
+  },
+  {
     "heading": "Tonight",
-    "text": "Clearing this evening, then mostly clear and cold. Lows in the mid teens to low 20s, dipping to the low teens in the cold spots. Winds west near 10 mph, diminishing to light and variable."
-  },
-  {
-    "heading": "Tuesday",
-    "text": "Sunshine, mixing with mid and high-level clouds. Highs in the 40s north, near 50 south. Winds light, becoming south less than 10 mph."
-  },
-  {
-    "heading": "Tuesday Night",
-    "text": "Becoming mostly cloudy, with a few stray snow or rain showers, mainly over the higher terrain. Lows in the low to mid 30s, upper 20s in the far north. Winds becoming south 10 to 15 mph from the Green Mountains west, and over the higher terrain east, light in wind-sheltered valleys."
+    "text": "Becoming mostly cloudy, with a few stray snow or rain showers, mainly over the higher terrain. Lows in the low to mid 30s from I-89 west and south, 20s to near 30 northeast.  Winds becoming south near 10 mph from the Green Mountains west, and over the higher terrain east, light in wind-sheltered valleys."
   },
   {
     "heading": "Wednesday",
-    "text": "Mostly cloudy, with an isolated snow or rain shower, mainly over the higher terrain. Highs in the 40s to low 50s north, 50 to 55 south. Winds south near 10 mph, diminishing to light."
+    "text": "Mostly cloudy, with an isolated snow or rain shower, mainly over the higher terrain. Some breaks of afternoon sun west of the Green Mountains.  Highs in the 40s to low 50s north, 50 to 55 south.  Winds south near 10 mph, diminishing to light."
   }
 ]
