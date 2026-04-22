@@ -1,13 +1,13 @@
 [
   {
-    "heading": "Today",
-    "text": "Mostly cloudy. A few localized rain or wet snow showers, more so south.",
-    "temperature": "40s to low 50s",
+    "heading": "This Afternoon",
+    "text": "A few localized rain or wet snow showers, more so south.",
+    "temperature": "Mainly upper 40s to mid 50s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_rain_showers.png"
   },
   {
-    "heading": "Wednesday Night",
-    "text": "Partly cloudy west. Mostly cloudyeast. A local snow or rain shower northeast late.",
+    "heading": "Tonight",
+    "text": "Chance of a rain or snow shower, then a rising chance late north of Route 2.",
     "temperature": "30s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers_winter_mix_night.png"
   },
