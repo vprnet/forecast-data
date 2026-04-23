@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "A stray morning shower northeast. Mostly sunny I-89 west and south, increasing sun northeast.",
-    "temperature": "Mid 40s to mid 50s",
+    "heading": "This Afternoon",
+    "text": "Partly to mostly sunny; gusty.",
+    "temperature": "Valleys mid 50s to around 60; upper 40s to mid 50s northeast",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   },
   {
-    "heading": "Thursday Night",
-    "text": "Mostly clear west and south of I-89. Partly cloudy northeast.",
-    "temperature": "Upper 20s and 30s",
+    "heading": "Tonight",
+    "text": "Clear to partly cloudy.",
+    "temperature": "Mainly upper 20s to mid 30s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/09/Mostly_clear_night.png"
   },
   {
@@ -19,8 +19,8 @@
   },
   {
     "heading": "Saturday",
-    "text": "Mostly to partly sunny.",
+    "text": "Increasing clouds.",
     "temperature": "Mid 50s to around 60, except low to mid 50s southwest",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   }
 ]
