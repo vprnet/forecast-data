@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Partly to mostly sunny. Gusty, with valley highs from the mid 50s to around 60; except upper 40s to mid 50s northeast. Northwest winds 10 to 15 mph, gusting to 30 mph."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Clear to partly cloudy. Lows from the mid 20s to around 30, except low to mid 30s in the Champlain and Hudson valleys. North to northwest winds gusting to 20 mph early, then 5 to 10 mph and diminishing."
+    "heading": "Thursday Night",
+    "text": "Clear to partly cloudy. Lows from the mid 20s to around 30, except low to mid 30s in the Champlain and Hudson valleys. North winds gusting to 20 mph early, then 5 to 10 mph and diminishing."
   },
   {
     "heading": "Friday",
     "text": "Partly to mostly sunny, except variable clouds northeast. Highs from the upper 40s to mid 50s, with some mid 40s northeast, and some upper 50s far south. North to northwest winds 5 to 15 mph."
+  },
+  {
+    "heading": "Friday Night",
+    "text": "Clear to partly cloudy. Lows from the mid 20s to around 30, except low to mid 30s in the Champlain and Hudson valleys. North winds 5 to 10 mph and diminishing."
   }
 ]
