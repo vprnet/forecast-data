@@ -1,14 +1,18 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Sun, mixing with increasing clouds northeast. High clouds from I-89 west and south increasing and lowering through the afternoon. Highs in the 50s to near 60. Winds east to southeast up to 10 mph."
-  },
-  {
     "heading": "Tonight",
     "text": "Becoming mostly cloudy, thicker toward the MA border, with a few showers in the Berkshires, up to Bennington. Partial clearing after midnight from the Adirondacks and Rt. 4 north. Lows in the low to mid 30s, upper 20s in the cold spots. Winds east to southeast less than 10 mph, near calm in sheltered valleys."
   },
   {
     "heading": "Sunday",
     "text": "Becoming partly to mostly sunny, except more periods of clouds through NH. Highs 60 to 65, a few upper 50s in NH. Winds light and variable."
+  },
+  {
+    "heading": "Sunday Night",
+    "text": "Becoming clear, except still a few clouds through NH. Lows in the 30s to near 40. Winds light and variable."
+  },
+  {
+    "heading": "Monday",
+    "text": "Sunshine, mixing with a few afternoon clouds east and north. Highs in the low to mid 60s. Winds light and variable."
   }
 ]
