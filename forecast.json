@@ -1,26 +1,26 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Clearing and cold.",
-    "temperature": "20s to low 30s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/09/Mostly_clear_night.png"
-  },
-  {
-    "heading": "Saturday",
-    "text": "Morning sun.\u00a0 Increasing afternoon clouds west and south.",
+    "heading": "Today",
+    "text": "Morning sun giving way to increasing clouds southwest to northeast.",
     "temperature": "50s to around 60",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   },
   {
+    "heading": "Saturday Night",
+    "text": "Mostly cloudy. A spotty shower in the Berkshires. Partial clearing north late.",
+    "temperature": "30s, some upper 20s north",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/mostly_cloudy_night.png"
+  },
+  {
     "heading": "Sunday",
     "text": "Morning clouds giving way to increasing sun.",
-    "temperature": "50s to low 60s",
+    "temperature": "upper 50s to low 60s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   },
   {
     "heading": "Monday",
-    "text": "Sun, mixing with clouds. A bit warmer.",
+    "text": "Sun, mixing with some afternoon clouds.\u00a0 Warmer.",
     "temperature": "Upper 50s to mid 60s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   }
 ]
