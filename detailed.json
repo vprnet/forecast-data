@@ -1,18 +1,14 @@
 [
   {
+    "heading": "Today",
+    "text": "Sun, mixing with some clouds northeast.  Clouds increasing by midday in the the Hudson Valley and Berkshires, spreading northeast this afternoon.  Highs in the 50s to near 60.  Winds light, becoming east less than 10 mph."
+  },
+  {
     "heading": "Tonight",
-    "text": "Some evening clouds northeast, then mostly clear and chilly. Lows in the 20s to low 30s, a few colder mountain valleys north near 20. Winds diminishing to light and variable."
-  },
-  {
-    "heading": "Saturday",
-    "text": "Sun, mixing with some clouds northeast. Clouds increasing in the afternoon from the Hudson Valley and Berkshires, north to I-89 by late. Highs in the 50s. Winds light, becoming east less than 10 mph."
-  },
-  {
-    "heading": "Saturday Night",
-    "text": "Becoming partly cloudy from the Adirondacks and Rt. 2 north. Periods of clouds south, thicker toward the MA border, with a chance a shower in northern MA. Lows in the low to mid 30s, upper 20s in the cold spots. Winds east to southeast less than 10 mph, near calm in sheltered valleys."
+    "text": "Becoming mostly cloudy, thicker toward the MA border, with a chance a shower in northern MA.  Partial clearing after midnight from the Adirondacks and Rt. 4 north.  Lows in the low to mid 30s, upper 20s in the cold spots.  Winds east to southeast less than 10 mph, near calm in sheltered valleys."
   },
   {
     "heading": "Sunday",
-    "text": "Some morning clouds south giving way to increasing sun. Variable sun and clouds north, more clouds through NH. Highs in the 50s. Winds light and variable."
+    "text": "Becoming partly to mostly sunny, except more periods of clouds through NH.  Highs 60 to 65, a few upper 50s in NH.  Winds light and variable."
   }
 ]
