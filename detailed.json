@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Cloudy. Scattered showers, except diminishing in New York. Highs from the upper 40s to mid 50s. South to southeast winds 5 to 10 mph, becoming northwest."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Mostly to partly cloudy. Chance of early showers along and west of the Greens; early showers likely east, mainly before midnight. Patchy fog. Lows from mid 30s to around 40, northern cold hollows around 30. Northwest winds 5 to 10 mph and diminishing."
+    "heading": "Thursday Night",
+    "text": "Mostly to partly cloudy. Chance of early showers, except showers likely northeast, mainly before midnight. Patchy fog. Lows from mid 30s to around 40, northern cold hollows around 30. Northwest winds 5 to 10 mph and diminishing."
   },
   {
     "heading": "Friday",
     "text": "A mix of sun and clouds. Slight chance of a shower, mainly in the mountains and during the afternoon. Highs from the upper 40s to mid 50s; some upper 50s in southeastern valleys, and in the Hudson Valley. West to northwest winds 5 to 10 mph, and gusting to 20 mph."
+  },
+  {
+    "heading": "Friday Night",
+    "text": "Partly to mostly cloudy. Slight chance of an early shower, then a rising chance after midnight, and possibly mixing with snow in the mountains. Lows from mid 30s to around 40, northern cold hollows around 30. Winds becoming light and variable."
   }
 ]
