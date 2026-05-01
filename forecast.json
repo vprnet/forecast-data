@@ -1,26 +1,26 @@
 [
   {
-    "heading": "Today",
-    "text": "Becoming partly sunny. Cool.",
-    "temperature": "50s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
-  },
-  {
-    "heading": "Friday Night",
-    "text": "Fair, then clouds, with a few rain or wet snow showers, especially over higher terrain.",
+    "heading": "Tonight",
+    "text": "Increasing clouds, with scattered rain or wet snow showers, especially over higher terrain.",
     "temperature": "30s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers_winter_mix_night.png"
   },
   {
     "heading": "Saturday",
     "text": "An early rain or snow shower, then periods of sun. A localized afternoon shower.",
-    "temperature": "Mainly upper 40s to mid 50s",
+    "temperature": "Upper 40s to mid 50s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
   },
   {
     "heading": "Sunday",
-    "text": "Partly sunny.\u00a0 A localized afternoon shower or two.",
+    "text": "Partly sunny.\u00a0 Chance of a localized afternoon shower.",
     "temperature": "Mainly upper 40s to mid 50s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
+  },
+  {
+    "heading": "Monday",
+    "text": "Morning sun, chance of afternoon showers.",
+    "temperature": "60s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
   }
 ]
