@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Morning clouds, with a few showers early. A few periods of sunshine, with a chance of localized, passing rain showers through the afternoon. Highs from the upper 40s to mid 50s. Light and variable wind."
-  },
-  {
     "heading": "Tonight",
-    "text": "Mostly cloudy with periods of clearing. Chance of a stray mountain shower. Cool. Lows through the 30s. Calm wind."
+    "text": "Mostly cloudy with periods of clearing. Scattered showers diminishing overnight. Cool. Lows through the 30s. Calm wind."
   },
   {
     "heading": "Sunday",
-    "text": "Mostly cloudy with a chance of morning scattered showers north of Route 2, diminishing through the afternoon with some sunshine. Highs from the low to mid 50s north, into the upper 50s south. Wind becoming northwest at 10 to 15 mph."
+    "text": "Sunshine mixing with clouds. Highs from the low to mid 50s north, into the upper 50s south. Wind becoming northwest at 10 to 15 mph."
+  },
+  {
+    "heading": "Sunday Night",
+    "text": "Mostly clear, increasing cloud cover overnight, with a chance of rain showers north of Route 2 after midnight. Lows in the 30s, near 40 along Lake Champlain. Light and variable wind."
   }
 ]
