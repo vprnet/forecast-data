@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Morning clouds, with a few passing showers from the Adirondacks, Rt. 4 and White Mountains north, giving way to a few intervals of sunshine.  Variable clouds and sun south.  Highs in the 60s, some upper 50s far north.  Winds becoming west to southwest 10 to 15 mph, gusting 20 to 30 mph."
-  },
-  {
     "heading": "Tonight",
-    "text": "Partial clearing this evening, then more periods of clouds spreading east after midnight.  A chance of a shower in NY late.  Lows in the 40s to low 50s, rising late.  Winds southwest 10 to 15 mph, gusting 20 to 30 mph."
+    "text": "Partial clearing this evening, then more periods of clouds spreading east after midnight. A chance of a shower in NY late. Lows in the 40s to low 50s, rising late. Winds southwest 10 to 15 mph, gusting 20 to 30 mph."
   },
   {
     "heading": "Tuesday",
-    "text": "Variable clouds and sun, breezy, and warmer.  More clouds through the Adirondacks into northwest VT and Quebec, where showers will develop, edge south toward Rt. 4 in the afternoon, with an isolated shower, late far south.  Highs in the 70s, some upper 60s near and north of the Quebec border.  Winds southwest 10 to 15 mph, gusting 20 to 30 mph."
+    "text": "Variable clouds and sun, breezy, and warmer. More clouds through the Adirondacks into northwest VT and Quebec, where showers will develop, edge south toward Rt. 4 in the afternoon, with an isolated thunderstorms, early in the north and west. Highs in the 70s, some upper 60s near and north of the Quebec border. Winds southwest 10 to 15 mph, gusting 20 to 30 mph."
+  },
+  {
+    "heading": "Tuesday Night",
+    "text": "Persistent rain and showers north, a chance south, perhaps a thunderstorm before sunset. Rain dwindling before morning. Lows in the 40s north, in the 50s south. Winds south 10 to 15 mph, gusting to 25 mph through midnight, then diminishing to less than 10 mph."
   }
 ]
