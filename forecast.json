@@ -1,11 +1,5 @@
 [
   {
-    "heading": "Today",
-    "text": "Morning clouds from Rt. 4 north, a few showers, then breaks of sun. Partly sunny south. Milder.",
-    "temperature": "Upper 50s and 60s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
-  },
-  {
     "heading": "Monday Night",
     "text": "Clearing, more clouds after midnight. A few showers in NY late.",
     "temperature": "40s to low 50s, rising",
@@ -16,6 +10,12 @@
     "text": "Windy, warmer.\u00a0 Partly sunny east of the Green Mountains and south. More clouds north and west. A rising chance of showers.",
     "temperature": "Upper 60s and 70s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
+  },
+  {
+    "heading": "Tuesday Night",
+    "text": "Showers become more widespread, mainly north of Rt. 4, fizzling late.",
+    "temperature": "Low 40 NW/50s SE",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain_night.png"
   },
   {
     "heading": "Wednesday",
