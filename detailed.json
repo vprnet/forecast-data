@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Partly to mostly cloudy. Scattered showers and thunderstorms; a severe storm possible. Highs from the upper 70s to mid 80s. except 60s to lower 70s in far northern New York. South to southwest winds 10 to 15 mph, gusting to 40 mph, except gusting to 50 mph in the Advisory area."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Scattered evening showers and thunderstorms, with a severe storm possible; then scattered showers overnight, mainly from the Adirondacks and Route 2 northward, with a rising chance late in far northern New York and northwestern Vermont. Lows in the low to mid 40s north, and upper 40s to mid 50s in the south. Winds from the south at 10 to 15 mph, gusting to 25 mph early, then diminishing to less than 10 mph."
+    "heading": "Tuesday Night",
+    "text": "Scattered evening showers and thunderstorms, with a severe storm possible; then scattered showers overnight, mainly from the Adirondacks and Route 2 northward, with a rising chance late in far northern New York and northwestern Vermont. Lows in the low to mid 40s north, and upper 40s to mid 50s in the south. Winds from the south at 10 to 15 mph, gusting to 30 mph early, then diminishing to less than 10 mph."
   },
   {
     "heading": "Wednesday",
-    "text": "Rain likely from the Adirondacks and Route 2 northward, spreading into the Hudson Valley, southern Vermont, and southern New Hampshire in the afternoon, while diminishing in the St. Lawrence Valley; slight chance of a thunderstorm southeast. Highs from the upper 40s to mid 50s from the Adirondacks and Route 2 northward, 50s to around 60 south to near Route 4, and 60s to around 70 from Route 4 southward, warmest in southeastern valleys. Winds becoming north 5 to 10 mph from the Adirondacks and Route 2 northward, elsewhere from the south at 5 to 10 mph, and gusting to 20 mph in far southern New Hampshire."
+    "text": "Rain likely from the Adirondacks and Route 2 northward, spreading into the Hudson Valley, southern Vermont, and southern New Hampshire in the afternoon, while diminishing in the St. Lawrence Valley; chance of a thunderstorm southeast. Highs from the upper 40s to mid 50s from the Adirondacks and Route 2 northward, 50s to around 60 south to near Route 4, and 60s to around 70 from Route 4 southward, warmest in southeastern valleys. Winds becoming north 5 to 10 mph from the Adirondacks and Route 2 northward, elsewhere from the south at 5 to 10 mph, and gusting to 20 mph in far southern New Hampshire."
+  },
+  {
+    "heading": "Wednesday Night",
+    "text": "Chance of a shower from the northern Greens westward, mainly early; otherwise showers diminishing from northwest to southeast, and lingering until after midnight in far southern New Hampshire. Lows in the 30s to low 40s north, in the 40s south. Northwest winds 5 to 10 mph."
   }
 ]
