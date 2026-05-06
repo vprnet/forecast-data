@@ -1,13 +1,7 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Rain, except diminishing to showers in the St. Lawrence Valley",
-    "temperature": "Mainly mid 40s to mid 50s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain.png"
-  },
-  {
-    "heading": "Tonight",
-    "text": "Showers tapering off from west to east.",
+    "heading": "Wednesday Night",
+    "text": "Early showers tapering off from west to east.",
     "temperature": "Mainly mid 30s to around 40",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_showers_night.png"
   },
@@ -15,12 +9,18 @@
     "heading": "Thursday",
     "text": "Slight chance of a shower far north.",
     "temperature": "50s north, near 60 south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   },
   {
     "heading": "Friday",
-    "text": "Sun and clouds. A few localized afternoon showers.",
+    "text": "A few localized showers, mainly north.",
     "temperature": "50s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
+  },
+  {
+    "heading": "Saturday",
+    "text": "Rising chance of showers.",
+    "temperature": "50s to low 60s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_rain.png"
   }
 ]
