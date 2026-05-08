@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Variable sun and clouds, more clouds midday and afternoon.  Localized, passing showers are possible.  Remaining cool.  Highs in the 50s, closer to 50 far north.  Winds west near 10 mph, a few gusts to 20 mph over the higher terrain, and through NH."
-  },
-  {
     "heading": "Tonight",
-    "text": "Evening clouds and any stray showers giving way to clearing, then mixing with clouds late to the south.  Lows in the 30s to near 40, near 30 in the cold spots, with scattered frost.  Winds becoming south near 10 mph from the Green Mountains west, diminishing to light and variable east."
+    "text": "Any showers ending, then clear skies briefly take over with some clouds moving in before dawn. Lows in the 30s to near 40, with scattered frost. Wind diminishing to light and variable."
   },
   {
     "heading": "Saturday",
-    "text": "Variable clouds and sun from the Adirondacks and Rt. 2 north.  Mostly cloudy, with a chance of showers from Rt. 2 south to Rt. 4 and Plymouth, NH.  Showers likely south.  Highs in the 50s to low 60s, warmest north.  Winds becoming south to southeast near 10 mph, increasing to 10 to 15 mph from the Green Mountains west, gusting 20 to 30 mph in the afternoon."
+    "text": "Variable clouds in the morning, becoming mostly cloudy, with a good chance of showers from Rt. 2 south. Potential for a few stray showers north. Highs in the 50s to low 60s. Wind turning south to southeast near 10 mph, increasing to 15 mph from the Green Mountains west, gusting to 20 mph in the afternoon."
+  },
+  {
+    "heading": "Saturday Night",
+    "text": "Evening showers south tapering off. Mostly cloudy, with additional, scattered showers arriving from the west after midnight. Lows in the 40s, a few upper 30s in the cold spots. South wind near 10 mph, gusting to near 20 along Lake Champlain."
   }
 ]
