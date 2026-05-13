@@ -1,15 +1,15 @@
 [
   {
-    "heading": "Tuesday Night",
-    "text": "Partly cloudy early, then increasing clouds.",
-    "temperature": "Mid 30s to around 40, lower 30s in cold spots northeast",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_night.png"
+    "heading": "Today",
+    "text": "Showers spreading east, becoming scattered south of I-89 and in NY this afternoon.",
+    "temperature": "low 50s to around 60 north to south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain.png"
   },
   {
-    "heading": "Wednesday",
-    "text": "Showers likley.",
-    "temperature": "Mainly mid to upper 50s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain.png"
+    "heading": "Wednesday Night",
+    "text": "Showers decreasing to scattered.",
+    "temperature": "Upper 30s and 40s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_rain_night.png"
   },
   {
     "heading": "Thursday",
@@ -19,7 +19,7 @@
   },
   {
     "heading": "Friday",
-    "text": "Chance of a shower, mainly in the morning.",
+    "text": "A better chance of showers east and south, some sun northwest.",
     "temperature": "Upper 50s to mid 60s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
   }
