@@ -1,14 +1,18 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly cloudy. Showers likely north, becoming scattered in the south; chance of a thunderstorm west of the Greens. Highs from the mid 50s to around 60, except low to mid 50s northeast, and low to mid 60s far south. South to southeast winds 5 to 10 mph, gusting to 20 mph west of the Greens."
-  },
-  {
     "heading": "Tonight",
-    "text": "Mostly cloudy, with scattered showers; a rumble of thunder possible, mainly south. Lows from the mid 40s to around 50, some lower 40s northeast. Southeast winds 5 to 10 mph, gusting to 20 mph early west of the Greens, then diminishing."
+    "text": "Mostly cloudy, with scattered, passing showers. Lows in the upper 30s to mid 40s. Winds southeast near 10 mph, gusting to 25 mph in the evening, decreasing overnight."
   },
   {
     "heading": "Thursday",
-    "text": "Mostly cloudy. Showers likely, with a thunderstorm possible. Highs from the mid 50s to around 60, some lower 50s in the Adirondacks. Southeast winds 5 to 10 mph, becoming east."
+    "text": "Mostly cloudy, with occasional rain and showers, locally heavy from VT east. Fewer, scattered showers through NY. A chance of a thunderstorm, mainly south. Highs in the 50s to low 60s. Southeast winds becoming east near 10 mph."
+  },
+  {
+    "heading": "Thursday Night",
+    "text": "Occasional rain and showers, a few downpours east, fewer and scattered through NY. Lows in the 40s. Winds light, mainly east less than 10 mph."
+  },
+  {
+    "heading": "Friday",
+    "text": "Numerous showers through NH in eastern VT, scattered west and through Quebec. Increasing periods of sun through the St. Lawrence Valley, reaching NY into northwest VT later in the afternoon. Highs in the low to mid 60s, except upper 50s in NH. Winds light, becoming northeast to north less than 10 mph."
   }
 ]
