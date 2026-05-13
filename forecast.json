@@ -1,26 +1,26 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Showers likely north, becoming scattered in the south.",
-    "temperature": "Mid 50s to lower 60s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain.png"
-  },
-  {
     "heading": "Tonight",
-    "text": "Showers decreasing to scattered.",
-    "temperature": "Mainly mid to upper 40s",
+    "text": "Showers diminishing.",
+    "temperature": "40s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_rain_night.png"
   },
   {
     "heading": "Thursday",
-    "text": "Showers likely.",
-    "temperature": "Mainly mid to upper 50s",
+    "text": "Showers, scattered in NY and Quebec, numerous, brief downpours from VT east.",
+    "temperature": "50s to low 60s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain.png"
   },
   {
     "heading": "Friday",
-    "text": "A better chance of showers east and south, some sun northwest.",
-    "temperature": "Upper 50s to mid 60s",
+    "text": "Showers east, tapering off west, a little afternoon sun.",
+    "temperature": "60s, some upper 50s east",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
+  },
+  {
+    "heading": "Saturday",
+    "text": "Early valley fog, then partly sunny, warmer.",
+    "temperature": "Upper 60s to mid 70s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   }
 ]
