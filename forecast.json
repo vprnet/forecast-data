@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Showers spreading east, becoming scattered south of I-89 and in NY this afternoon.",
-    "temperature": "low 50s to around 60 north to south",
+    "heading": "This Afternoon",
+    "text": "Showers likely north, becoming scattered in the south.",
+    "temperature": "Mid 50s to lower 60s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain.png"
   },
   {
-    "heading": "Wednesday Night",
+    "heading": "Tonight",
     "text": "Showers decreasing to scattered.",
-    "temperature": "Upper 30s and 40s",
+    "temperature": "Mainly mid to upper 40s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_rain_night.png"
   },
   {
