@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Sunday",
-    "text": "Partly cloudy in the morning, becoming mostly sunny. Highs from near 70 north, into the upper 70s as you head south, 80s in the warmest valleys. Winds becoming northwest near 10 mph, breeziest in northern Champlain Valley"
-  },
-  {
     "heading": "Sunday Night",
     "text": "Mostly clear, with some passing clouds. More clouds arriving after midnight. Lows through the 40s, nearing 50 in the Champlain Valley."
   },
   {
     "heading": "Monday",
     "text": "Sun, mixing with clouds. Warm. Chance of morning showers to the north. Highs from the mid 70s to near 80 in the northeast, from the upper 70s to mid 80s south and west."
+  },
+  {
+    "heading": "Monday Night",
+    "text": "Partly cloudy and mild. Chance of a stray shower in the Saint Lawrence Valley. Lows in the 50s to low 60s."
   }
 ]
