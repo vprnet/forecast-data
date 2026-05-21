@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Partly sunny south; partly cloudy north, except mostly sunny in the St. Lawrence Valley. Highs from the mid 50s to lower 60s, with some mid 60s in southern valleys. North to northwest winds 5 to 10 mph, gusting to 20 mph."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Mainly clear north; periods of clouds in the south. Lows in the low to mid 30s, with some upper 20s in northern cold hollows, and some upper 30s far south, and in the Champlain Valley. Winds becoming light and variable."
+    "heading": "Thursday Night",
+    "text": "Mainly clear north; periods of clouds in the south. Lows from the upper 20s to mid 30s, with mid 20s in northern cold hollows, and some upper 30s far south, and in the Champlain Valley. Winds becoming light and variable."
   },
   {
     "heading": "Friday",
     "text": "Mostly sunny. Highs from the mid 60s to around 70, some lower 60s northeast and in the Adirondacks. Northwest winds 5 to 10 mph."
+  },
+  {
+    "heading": "Friday Night",
+    "text": "Partly cloudy. Lows from the mid 30s to lower 40s, some lower 30s in northern cold hollows, and some mid 40s in the Champlain Valley. Winds becoming light and variable."
   }
 ]
