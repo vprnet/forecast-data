@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Mostly sunny north; mostly to partly sunny south. Highs from the mid 60s to around 70. Winds becoming northwest 5 to 10 mph."
-  },
-  {
     "heading": "Tonight",
-    "text": "Partly cloudy. Lows from the mid 30s to lower 40s, some lower 30s in northern cold hollows, and some mid 40s in the Champlain Valley. Winds becoming light and variable."
+    "text": "Becoming mostly cloudy south, staying partly cloudy north. Lows from the upper 30s to low 40s. Calm wind."
   },
   {
     "heading": "Saturday",
-    "text": "Partly to mostly cloudy. Chance of a late-day shower near the Massachusetts border. Highs in the low to mid 60s in the south, mid 60s to around 70 north. Light winds, variable to southeast."
+    "text": "Clouds spreading north. Highs from the mid 60s to near 70. Light wind turning southeast at 5 to 10 mph in the afternoon."
+  },
+  {
+    "heading": "Saturday Night",
+    "text": "Mostly cloudy. Increasing chance of rain showers from the southwest, spreading northeast overnight. Lows in the 40s. Light southeast wind, with gusty conditions developing over the southern hills."
   }
 ]
