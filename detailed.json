@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Thursday Night",
-    "text": "Mainly clear north; periods of clouds in the south. Lows from the upper 20s to mid 30s, with mid 20s in northern cold hollows, and some upper 30s far south, and in the Champlain Valley. Winds becoming light and variable."
+    "heading": "Today",
+    "text": "Mostly sunny north; mostly to partly sunny south. Highs from the mid 60s to around 70. Winds becoming northwest 5 to 10 mph."
   },
   {
-    "heading": "Friday",
-    "text": "Mostly sunny. Highs from the mid 60s to around 70, some lower 60s northeast and in the Adirondacks. Northwest winds 5 to 10 mph."
-  },
-  {
-    "heading": "Friday Night",
+    "heading": "Tonight",
     "text": "Partly cloudy. Lows from the mid 30s to lower 40s, some lower 30s in northern cold hollows, and some mid 40s in the Champlain Valley. Winds becoming light and variable."
+  },
+  {
+    "heading": "Saturday",
+    "text": "Partly to mostly cloudy. Chance of a late-day shower near the Massachusetts border. Highs in the low to mid 60s in the south, mid 60s to around 70 north. Light winds, variable to southeast."
   }
 ]
