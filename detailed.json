@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Becoming mostly cloudy south, staying partly cloudy north. Lows from the upper 30s to low 40s. Calm wind."
-  },
-  {
     "heading": "Saturday",
     "text": "Clouds spreading north. Highs from the mid 60s to near 70. Light wind turning southeast at 5 to 10 mph in the afternoon."
   },
   {
     "heading": "Saturday Night",
     "text": "Mostly cloudy. Increasing chance of rain showers from the southwest, spreading northeast overnight. Lows in the 40s. Light southeast wind, with gusty conditions developing over the southern hills."
+  },
+  {
+    "heading": "Sunday",
+    "text": "Widespread rain showers, with increasing chances in the northeast. Highs from the low to mid 50s. Southeast wind at 5 to 10 mph, gusting 15 to 20 mph over the higher elevations."
   }
 ]
