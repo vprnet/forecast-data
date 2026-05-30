@@ -1,15 +1,15 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Rain, showers, mountain snow showers above 3000 feet.",
-    "temperature": "Upper 30s to mid 40s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_wintery_mix_night.png"
-  },
-  {
     "heading": "Saturday",
     "text": "Morning showers diminishing. Gradual afternoon clearing.",
     "temperature": "Mid 50s to low 60s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
+  },
+  {
+    "heading": "Tonight",
+    "text": "Decreasing clouds. Chilly and calm.",
+    "temperature": "Upper 30s to mid 40s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_night.png"
   },
   {
     "heading": "Sunday",
