@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Saturday",
-    "text": "Rain in central Vermont heading south, then diminishing by the afternoon with some sunshine to follow. Cool and breezy. Highs from the mid 50s to low 60s. Wind becoming north at 10 to 15 mph, gusting to 30 mph."
-  },
-  {
     "heading": "Saturday Night",
     "text": "Clearing, with additional clouds north before dawn. Chilly with a chance for patchy frost. Lows in the upper 30s to mid 40s. North wind diminishing to light and variable."
   },
   {
     "heading": "Sunday",
     "text": "Clouds spreading south, becoming mostly cloudy by midday, with rain showers heading south after noon. Not as cool. Highs from the upper 60s to low 70s, with a few mid 60s in the northeast. Northwest wind at 5 to 10 mph."
+  },
+  {
+    "heading": "Sunday Night",
+    "text": "Mostly cloudy with scattered to numerous rain showers. Showers begin to diminish west to east before dawn. Lows in the low to mid 40s."
   }
 ]
