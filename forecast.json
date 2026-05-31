@@ -1,11 +1,5 @@
 [
   {
-    "heading": "Sunday",
-    "text": "Widely scattered PM showers, mainly east of the Greens.",
-    "temperature": "Upper 60s to low 70s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Iso_Tstorm_day.png"
-  },
-  {
     "heading": "Tonight",
     "text": "Rain tapering off before midnight. Mostly cloudy.",
     "temperature": "Low to mid 40s.",
@@ -22,5 +16,11 @@
     "text": "Mostly cloudy, a chance of spotty afternoon drizzle.",
     "temperature": "Mid 60s to low 70s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
+  },
+  {
+    "heading": "Wednesday",
+    "text": "Clouds decreasing in the afternoon.",
+    "temperature": "Mid 70s to low 80s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   }
 ]
