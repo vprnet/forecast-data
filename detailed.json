@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Sunday",
-    "text": "Clouds spreading south, becoming mostly cloudy by midday, with light scattered rain showers heading south after noon. Highs from the low to mid 60s, upper 60s to near 70 in the low lying areas far south. Northwest wind at 5 to 10 mph."
-  },
-  {
     "heading": "Sunday Night",
     "text": "Partial clearing south. Showers begin to diminish before midnight. Lows in the low to mid 40s. Light west winds, calm in the northeast."
   },
   {
     "heading": "Monday",
     "text": "A good chance of early morning drizzle east of the Greens, slight chance west, then becoming partly sunny. A chance for pop-up showers around the northern St. Lawrence Valley in the early evening, spreading into northern VT around dark. Cool.Highs in the upper 60s west, mid 60s east."
+  },
+  {
+    "heading": "Monday Night",
+    "text": "Evening showers tapering off. Some clearing with passing clouds. Patch valley fog east. Lows in the low to mid 40s, nearing 50 along Lake Champlain, some 30s in the ADK. Winds still."
   }
 ]
