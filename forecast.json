@@ -1,11 +1,5 @@
 [
   {
-    "heading": "Today",
-    "text": "Partly sunny. A few isolated showers.",
-    "temperature": "Low to mid 60s, upper 60s in warmer valleys.",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
-  },
-  {
     "heading": "Monday Night",
     "text": "A spotty evening shower, then clearing, cool.",
     "temperature": "40s, upper 30s in cold spots",
@@ -21,6 +15,12 @@
     "heading": "Wednesday",
     "text": "Mostly sunny.",
     "temperature": "70s, near 80 in warmer valleys",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/sunny.png"
+  },
+  {
+    "heading": "Thursday",
+    "text": "Increasing clouds from the west. Warm.",
+    "temperature": "low 80s, some 70s north and west",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   }
 ]
