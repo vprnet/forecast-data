@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "A mix of sun and and fair weather cumulus. A few isolated, brief showers mainly north this evening. Highs in the low to mid 60s, a few upper 60s in the warmer valleys west. Winds light, becoming north up to 10 mph this afternoon."
-  },
-  {
     "heading": "Tonight",
-    "text": "A stray evening shower, then becoming mostly clear. A few high clouds north late. Lows in the low to mid 40s, a few upper 30s in the cold mountain valleys, with isolated frost. Winds diminishing to light and variable."
+    "text": "A stray evening shower, then becoming mostly clear. A few high clouds north before morning. Lows in the low to mid 40s, a few upper 30s in the cold mountain valleys, with isolated frost. Winds diminishing to light and variable."
   },
   {
     "heading": "Tuesday",
-    "text": "Sun, mixed with some high clouds, mainly from the Green Mountains east. Not as cool. Highs in the 60s to low 70s. Light winds becoming northwest near 10 mph."
+    "text": "High clouds spread south then clearing, becoming mostly sunny, partly clouds from the green mountains east. Warmer, highs in the mid 60s to low 70s. North winds over 10mph in the Champlain valley"
+  },
+  {
+    "heading": "Tuesday Night",
+    "text": "Becoming mostly clear after midnight. Lows in the 40s, ranging from 40 in the cool spots to near 50 along Lake Champlain. Northwest winds diminishing to light and variable."
   }
 ]
