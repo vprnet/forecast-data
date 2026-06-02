@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly to partly sunny. Highs in the low to mid 70s, some upper 60s far north. Northwest winds 5 to 10 mph, gusting to 20 mph."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Mostly clear. Lows in the mid to upper 40s, with some lower 50s in the broad northwestern valleys, and upper 30s to mid 40s northeast and in the Adirondacks. Northwest winds 5 to 10 mph early then becoming light and variable."
+    "heading": "Tuesday Night",
+    "text": "Mostly clear west of the Greens; partly cloudy east. Lows in the mid to upper 40s, with some lower 50s in the broad northwestern valleys, and mid 30s to lower 40s northeast and in the Adirondacks. Northwest winds 5 to 10 mph early then becoming light and variable."
   },
   {
     "heading": "Wednesday",
     "text": "Mostly sunny. Highs from the mid 70s to around 80. Northwest winds 5 to 10 mph."
+  },
+  {
+    "heading": "Wednesday Night",
+    "text": "Mostly clear; some high clouds late near the international border. Lows from the mid 40s to lower 50, some mid 50s in the Champlain and St Lawrence valleys. Winds light and variable."
   }
 ]
