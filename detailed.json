@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Scattered showers, with a chance of a few evening thunderstorms, some may become severe. Lows in the 50s to low 60s. Wind turning west at 5 to 10 mph."
-  },
-  {
     "heading": "Sunday",
     "text": "A good chance of showers, becoming more scattered in the afternoon. Cooler. Highs in the 60s to near 70 north, in the 70s south. Northwest wind turning north at 10 to 15 mph, gusting to 25 mph."
   },
   {
     "heading": "Sunday Night",
     "text": "Skies becoming clear north to south. Chance of a stray evening shower in the south, diminishing overnight. Cooler. Lows from the upper 40s to low 50s. North wind diminishing to light and variable."
+  },
+  {
+    "heading": "Monday",
+    "text": "Mostly sunny. Highs from the mid to upper 70s, nearing 80 in the warmer valleys. Light north wind."
   }
 ]
