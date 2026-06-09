@@ -1,11 +1,5 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly sunny.",
-    "temperature": "Low to mid 80s, some upper 80s in southern valleys",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
-  },
-  {
     "heading": "Tuesday Night",
     "text": "Clear to partly cloudy.",
     "temperature": "Mainly upper 50s to mid 60s",
@@ -21,6 +15,12 @@
     "heading": "Thursday",
     "text": "Widely scattered showers and storms.",
     "temperature": "Mainly mid 80s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Iso_Tstorm_day.png"
+  },
+  {
+    "heading": "Friday",
+    "text": "Chance of showers and storms.",
+    "temperature": "Mainly mid 80s to around 90",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Iso_Tstorm_day.png"
   }
 ]
