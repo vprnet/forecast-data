@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly sunny. Highs in the low to mid 80s, except mid to upper 80s in southeastern valleys, and in the Hudson Valley. West to southwest winds 5 to 10 mph."
-  },
-  {
-    "heading": "Tonight",
+    "heading": "Tuesday Night",
     "text": "Clear to partly cloudy. Chance of a late-night shower in the Adirondacks and St. Lawrence Valley. Patchy valley fog east of the Greens. Lows from the upper 50s to mid 60s, some mid 50s northeast. Winds becoming light and variable, except south 5 to 10 mph in the Champlain and St. Lawrence valleys."
   },
   {
     "heading": "Wednesday",
-    "text": "Patchy valley fog early east of the Greens. Otherwise partly to mostly cloudy, with scattered showers and thunderstorms, mainly in the afternoon. Highs from the upper 70s to mid 80s. South winds 5 to 10 mph, gusting to 20 mph in the Champlain Valley."
+    "text": "Patchy valley fog early east of the Greens. Otherwise partly to mostly cloudy, with showers and thunderstorms likely in the Adirondacks and St. Lawrence Valley; a rising chance elsewhere, mainly after noon west of the Greens, and mainly late in the day east of the Greens. Highs from the upper 70s to mid 80s. South winds 5 to 10 mph, gusting to 20 mph in the Champlain Valley."
+  },
+  {
+    "heading": "Wednesday Night",
+    "text": "Scattered showers and thunderstorms early, decreasing overnight. Lows in the low to mid 60s, some upper 60s in the Champlain Valley. Winds becoming light and variable, except south 5 to 10 mph in the Champlain Valley."
   }
 ]
