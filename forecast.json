@@ -1,8 +1,8 @@
 [
   {
-    "heading": "Today",
-    "text": "Some morning sun. Scattered showers and storms this afternoon.",
-    "temperature": "Upper 70s to mid 80s",
+    "heading": "This Afternoon",
+    "text": "Scattered showers and storms.",
+    "temperature": "Mainly mid to upper 80s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/thunderstorm_sun.png"
   },
   {
@@ -13,14 +13,14 @@
   },
   {
     "heading": "Thursday",
-    "text": "Clouds and sun. Scattered showers and storms.",
-    "temperature": "Mainly mid 80s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/thunderstorm_sun.png"
+    "text": "Widely scattered showers and storms.",
+    "temperature": "Mainly mid to upper 80s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Iso_Tstorm_day.png"
   },
   {
     "heading": "Friday",
-    "text": "Periods of sun, hot. humid. A few showers and storms.",
-    "temperature": "80s to low 90s",
+    "text": "Hot and humid. Chance of a shower or storm.",
+    "temperature": "Mid 80s to around 90",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Iso_Tstorm_day.png"
   }
 ]
