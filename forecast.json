@@ -1,13 +1,7 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Chance of a shower or thunderstorm. Very humid.",
-    "temperature": "Mainly mid 80s to near 90",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Iso_Tstorm_day.png"
-  },
-  {
-    "heading": "Tonight",
-    "text": "Chance of a shower or thunderstorm. Very humid.",
+    "heading": "Thursday Night",
+    "text": "Slight chance of a shower or storm. Very humid.",
     "temperature": "Mainly mid 60s to around 70",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Iso_Tstorm_night.png"
   },
@@ -19,8 +13,14 @@
   },
   {
     "heading": "Saturday",
-    "text": "Partly to mostly sunny.",
+    "text": "Partly to mostly sunny. Less humid.",
     "temperature": "Upper 70s to upper 80s, north to south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
+  },
+  {
+    "heading": "Sunday",
+    "text": "Chance of afternoon showers or storms, mainly west.",
+    "temperature": "Mid 80s to around 90",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Iso_Tstorm_day.png"
   }
 ]
