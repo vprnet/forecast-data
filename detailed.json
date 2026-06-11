@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Variable clouds, except mostly cloudy northeast. Chance of a shower or thunderstorm; heavy rainfall possible. Highs from the mid 80s to around 90, some lower 80s far north. West to southwest winds 5 to 10 mph, gusting to 15 mph west of the Greens."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Partly cloudy. Chance of a shower or thunderstorm; heavy rainfall possible. Lows in the mid to upper 60s, some lower 60s northeast, and around 70 in the Champlain Valley. Southwest winds 5 to 10 mph in the Champlain and St. Lawrence valleys, becoming light and variable elsewhere."
+    "heading": "Thursday Night",
+    "text": "Partly cloudy. Slight chance of a shower or thunderstorm. Lows in the mid to upper 60s, some lower 60s northeast, and around 70 in the Champlain Valley. Southwest winds 5 to 10 mph in the Champlain and St. Lawrence valleys, becoming light and variable elsewhere."
   },
   {
     "heading": "Friday",
-    "text": "Partly cloudy. Chance of a shower or thunderstorm, a rising chance in New York late in the day; a severe storm possible. Highs in the upper 80s to lower 90s, some mid 80s northeast, and low to mid 90s in southeastern valleys. West to southwest winds 5 to 10 mph, gusting to 20 mph in the Champlain and St. Lawrence valleys."
+    "text": "Partly cloudy. Slight chance of a shower or thunderstorm east of the Greens, a rising chance late along and west of the Greens; a severe storm possible. Highs in the upper 80s to lower 90s, some mid 80s northeast, and low to mid 90s in southeastern valleys. West to southwest winds 5 to 10 mph, gusting to 15 mph in the Champlain and St. Lawrence valleys."
+  },
+  {
+    "heading": "Friday Night",
+    "text": "Mostly cloudy. Showers and thunderstorms likely, except chance southeast; a severe storm possible. Lows in the low to mid 60s, some upper 50s far north. Southwest wind 5 to 15 mph, becoming west and diminishing."
   }
 ]
