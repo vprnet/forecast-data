@@ -1,14 +1,18 @@
 [
   {
-    "heading": "***HEAT ADVISORY IN THE CHAMPLAIN AND HUDSON VALLEYS, THE CT VALLEY SOUTH OF WHITE RIVER, AND SOUTH OF THE WHITE MOUNTAINS IN NH, THIS AFTERNOON AND EVENING***Today",
-    "text": "Periods of steamy sunshine. Hot and humid. Scattered afternoon showers or locally strong thunderstorms developing, mostly in NY, reaching western VT late. Highs in the upper 80s to low 90s. Winds light, becoming south to southwest 5 to 15 mph."
-  },
-  {
-    "heading": "Tonight",
+    "heading": "***HEAT ADVISORY IN THE CHAMPLAIN AND HUDSON VALLEYS, THE CT VALLEY SOUTH OF WHITE RIVER, AND SOUTH OF THE WHITE MOUNTAINS IN NH UNTIL 8 PM***Tonight",
     "text": "A period of evening showers and locally strong thunderstorms, likely from the Adirondacks and Rt. 4 north, scattered south. Clearing after midnight, last over the northern mountains. Lows in the upper 50s to low 60s. Winds west near 10 mph, diminishing to light."
   },
   {
     "heading": "Saturday",
     "text": "Becoming mostly sunny. Not as warm, and less humid. Highs in the 70s to near 80 north, in the 80s south. Light winds becoming northwest 5 to 15 mph."
+  },
+  {
+    "heading": "Saturday Night",
+    "text": "Becoming mostly clear and not as humid. Lows in the 50s to near 60, near 50 in the cooler mountain valleys north. Winds light and variable, becoming south near 10 mph in the Champlain Valley."
+  },
+  {
+    "heading": "Sunday",
+    "text": "Sunshine, mixing with clouds. A rising chance of afternoon showers or a thunderstorm from the Green Mountains west, spreading east north of Rt. 2. Quite warm. Highs in the upper 70s and 80s.\u00a0 Winds becoming south to southwest 10 to 15 mph."
   }
 ]
