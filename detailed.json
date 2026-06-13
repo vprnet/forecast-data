@@ -1,14 +1,18 @@
 [
   {
-    "heading": "Today",
-    "text": "Becoming mostly sunny.  Not as warm, and less humid.  Highs in the upper 70s to low 80s north, in the 80s in the Champlain Valley and south.  Light winds becoming west to northwest 5 to 15 mph."
-  },
-  {
     "heading": "Tonight",
-    "text": "Mostly clear, with some clouds late.  A few showers possible near and north of the Quebec border.  Cooler, and not as muggy.  Lows in the 50s to low 60s.  Winds becoming southwest near 10 mph, becoming light in wind-sheltered valleys."
+    "text": "Mostly clear, with some clouds late. A few showers possible near and north of the Quebec border. Cooler, and not as muggy. Lows in the 50s to low 60s. Winds becoming southwest near 10 mph, becoming light in wind-sheltered valleys."
   },
   {
     "heading": "Sunday",
-    "text": "Clouds mixed with periods of sun.  A few showers near and north of the Quebec border, with a rising chance of afternoon showers or thunderstorms in NY, spreading east, north of Rt. 4, some with locally heavy rain.  Quite warm.  Highs in the 80s, except upper 70s far north.  Winds southwest, becoming south increasing to 10 to 15 mph, gusting to 25 mph."
+    "text": "Clouds mixed with periods of sun. A few showers near and north of the Quebec border, with a rising chance of afternoon showers or thunderstorms in NY, spreading east, north of Rt. 4, some with locally heavy rain. Quite warm. Highs in the 80s, except upper 70s far north. Winds southwest, becoming south increasing to 10 to 15 mph, gusting to 25 mph."
+  },
+  {
+    "heading": "Sunday Night",
+    "text": "Showers and thunderstorms, a few producing heavy rain and gusty winds, tapering off in NY late. Lows in the 50s, upper 40s in the Adirondacks. Winds south 5 to 15 mph, gusting to 25 mph, shifting to the northwest and decreasing to 10 mph."
+  },
+  {
+    "heading": "Monday",
+    "text": "Some early showers ending. Numerous clouds through the northern mountains, with a few passing showers. Becoming partly sunny in northern valleys and south. Much cooler, and less humid. Highs in the 60s to near 70, low 70s in the warmer valleys. Winds northwest 5 to 15 mph."
   }
 ]
