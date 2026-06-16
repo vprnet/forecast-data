@@ -1,15 +1,9 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly sunny.",
-    "temperature": "Mainly 70s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
-  },
-  {
-    "heading": "Tonight",
-    "text": "Clear to partly cloudy.",
-    "temperature": "50s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/09/Mostly_clear_night.png"
+    "heading": "Tuesday Night",
+    "text": "Chance of an early shower or storm along and west of the Greens.",
+    "temperature": "Mainly low to mid 50s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Iso_Tstorm_night.png"
   },
   {
     "heading": "Wednesday",
@@ -22,5 +16,11 @@
     "text": "Windy; showers likely, maybe a thunderstorm.",
     "temperature": "Mainly mid to upper 70s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/thunderstorm_sun.png"
+  },
+  {
+    "heading": "Friday",
+    "text": "Chance of showers north; slight chance south.",
+    "temperature": "70s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
   }
 ]
