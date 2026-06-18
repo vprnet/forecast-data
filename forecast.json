@@ -1,21 +1,21 @@
 [
   {
-    "heading": "Wednesday Night",
-    "text": "Chance of an early shower or storm, a rising chance late.",
+    "heading": "Today",
+    "text": "Rain, showers, then scattered showers and strong thunderstorm this afternoon. Windy.",
+    "temperature": "65 to 70 northeast, 70s west and south of I-89",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/thunderstorms.png"
+  },
+  {
+    "heading": "Thursday Night",
+    "text": "Showers and storms ending. Partial clearing.",
     "temperature": "50s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Iso_Tstorm_night.png"
   },
   {
-    "heading": "Thursday",
-    "text": "Very windy with showers and a chance of severe storms.",
-    "temperature": "70s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/thunderstorm_sun.png"
-  },
-  {
     "heading": "Friday",
-    "text": "Showers likely north, mostly after noon, a slight chance south.",
+    "text": "Partly sunny. More afternoon clouds, a rising chance of showers and storms north.",
     "temperature": "Upper 60s and 70s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/thunderstorm_sun.png"
   },
   {
     "heading": "Saturday",
