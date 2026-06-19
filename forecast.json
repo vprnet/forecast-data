@@ -1,13 +1,7 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Breaks of sun south. Scattered showers and storms in Quebec, edging south.",
-    "temperature": "Mid 60s to mid 70s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
-  },
-  {
-    "heading": "Friday Night",
-    "text": "Evening showers or storms north, isolated south, tapering off.",
+    "heading": "Tonight",
+    "text": "Evening showers or storms north, isolated south tapering off.",
     "temperature": "50s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/thunderstorm_partly_cloudy_night.png"
   },
@@ -18,8 +12,14 @@
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
   },
   {
-    "heading": "Sunday",
-    "text": "Sun and clouds. A few passing showers.",
+    "heading": "Sunday, Father's Day",
+    "text": "Sun and clouds. A few showers north, spotty south.",
+    "temperature": "60s to low 70s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
+  },
+  {
+    "heading": "Monday",
+    "text": "A little sun north, maybe a shower. A good chance of showers south.",
     "temperature": "Mid 60s to mid 70s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
   }
