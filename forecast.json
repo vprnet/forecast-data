@@ -1,26 +1,26 @@
 [
   {
-    "heading": "Tonight",
-    "text": "A few scattered showers or a thunderstorm, mainly north. Partial clearing.",
-    "temperature": "50s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Iso_Tstorm_night.png"
-  },
-  {
-    "heading": "Friday",
-    "text": "Partly sunny. More afternoon clouds north. A rising chance of showers far north.",
-    "temperature": "Upper 60s and 70s",
+    "heading": "This Afternoon",
+    "text": "Breaks of sun south. Scattered showers and storms in Quebec, edging south.",
+    "temperature": "Mid 60s to mid 70s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
   },
   {
     "heading": "Friday Night",
-    "text": "Showers and storms likely north, scattered south.",
-    "temperature": "Upper 40s and 50s",
+    "text": "Evening showers or storms north, isolated south, tapering off.",
+    "temperature": "50s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/thunderstorm_partly_cloudy_night.png"
   },
   {
     "heading": "Saturday",
-    "text": "Breezy; showers likely north; chance south.",
-    "temperature": "Mainly upper 60s to mid 70s",
+    "text": "Showers likely north, scattered south.",
+    "temperature": "60s to low 70s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
+  },
+  {
+    "heading": "Sunday",
+    "text": "Sun and clouds. A few passing showers.",
+    "temperature": "Mid 60s to mid 70s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
   }
 ]
