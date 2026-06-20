@@ -1,15 +1,15 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Evening showers or storms north, isolated south tapering off.",
-    "temperature": "50s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/thunderstorm_partly_cloudy_night.png"
-  },
-  {
-    "heading": "Saturday",
+    "heading": "Today",
     "text": "Showers likely north, scattered south.",
     "temperature": "60s to low 70s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
+  },
+  {
+    "heading": "Tonight",
+    "text": "Showers north, scattered south, then diminishing.",
+    "temperature": "Upper 40s and 50s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain_night.png"
   },
   {
     "heading": "Sunday, Father's Day",
