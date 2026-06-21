@@ -1,11 +1,5 @@
 [
   {
-    "heading": "Today, Father's Day",
-    "text": "A good chance of rain showers. T-storms possible.",
-    "temperature": "60s to 70s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
-  },
-  {
     "heading": "Tonight",
     "text": "Showers north, scattered south, then diminishing.",
     "temperature": "Upper 40s and 50s",
@@ -22,5 +16,11 @@
     "text": "Mix of sun and clouds. Chance of showers. Warmer.",
     "temperature": "70s to near 80",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
+  },
+  {
+    "heading": "Wednesday",
+    "text": "Partly to mostly sunny with a stray shower north.",
+    "temperature": "70s to mid 80s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
   }
 ]
