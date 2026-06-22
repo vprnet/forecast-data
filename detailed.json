@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Areas of fog lifting to some early sun. Becoming cloudy, with rain developing midday in NY south of the Adirondacks, a few showers north, spreading east this afternoon, mostly Rt. 2 and south.  Highs 70 to 75.  Winds light, becoming south near 10 mph."
-  },
-  {
     "heading": "Tonight",
-    "text": "Rain from the southern Adirondacks and Rt. 2 south, a chance of showers north, tapering off west to east after midnight.  Lows ranging through the 50s.  Winds becoming light and variable."
+    "text": "Rain from the southern Adirondacks and Rt. 2 south, a chance of showers north, tapering off west to east before midnight, likely to dry out over Vermont before morning. Lows ranging through the 50s. Winds becoming light and variable."
   },
   {
     "heading": "Tuesday",
-    "text": "Morning clouds, any showers east, mostly in NH ending.  Increasing periods of sunshine west to east.  A slight chance of an afternoon shower north.  Highs ranging through the 70s.  Winds light, becoming northwest near 10 mph."
+    "text": "Morning clouds, any showers east, mostly in NH ending. Increasing periods of sunshine northwest to southeast. A slight chance of an afternoon shower north. Highs in the upper 70s in the valleys, low 70s in the northern mountains. Breezy west northwest winds gusting up to 15."
+  },
+  {
+    "heading": "Tuesday Night",
+    "text": "Becoming mostly clear, except periods of clouds north, and a stray evening shower. Patchy valley fog. Lows in the 50s, near 60 around Burlington. Winds northwest near 10 mph, diminishing to light and variable."
   }
 ]
