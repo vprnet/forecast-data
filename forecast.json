@@ -1,15 +1,15 @@
 [
   {
-    "heading": "Monday Night",
-    "text": "Rain south, showers north.",
-    "temperature": "50s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain_night.png"
+    "heading": "Today",
+    "text": "A few showers east ending. Patchy fog giving way to some sun in NY, Quebec, western and northern VT. Cloudy east and south.",
+    "temperature": "70s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/mostly_cloudy.png"
   },
   {
-    "heading": "Tuesday",
-    "text": "Any early showers east ending. Increasing afternoon sun.",
-    "temperature": "70s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
+    "heading": "Tuesday Night",
+    "text": "A stray evening shower northeast. Clearing, areas of fog.",
+    "temperature": "50s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_night.png"
   },
   {
     "heading": "Wednesday",
@@ -19,8 +19,8 @@
   },
   {
     "heading": "Thursday",
-    "text": "Clouds increasing from the west, chance of afternoon showers.",
-    "temperature": "",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain.png"
+    "text": "Sun giving way to clouds west to east. A chance of afternoon showers west and north.",
+    "temperature": "70s to low 80s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
   }
 ]
