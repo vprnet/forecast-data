@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Variable clouds. Slight chance of a shower or thunderstorm northeast, mainly near the Vermont/Qu\u00e9bec border. Highs in the mid to upper 70s, around 80 in the Champlain, Connecticut, and Hudson valleys, and some lower 70s northeast. Northwest winds 5 to 10 mph, gusting to 20 mph."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Partly cloudy. Patchy valley fog late, mainly east of the Greens. Lows in the low to mid 50s, except mid 50s to around 60 in the Champlain and St. Lawrence valleys. Light and variable winds."
+    "heading": "Wednesday Night",
+    "text": "Variable clouds. \u00a0Patchy valley fog late, mainly east of the Greens. Lows in the low to mid 50s, except mid 50s to around 60 in the Champlain and St. Lawrence valleys. Light and variable winds."
   },
   {
     "heading": "Thursday",
     "text": "Patchy valley fog early, then sun filtering through increasing high clouds. A rising chance of afternoon showers in New York; chance eastward to the Green Mountains, mainly late in the day. Highs from the mid 70s to around 80. Winds becoming south 5 to 10 mph."
+  },
+  {
+    "heading": "Thursday Night",
+    "text": "Mostly cloudy. Showers likely, with a chance of thunderstorms. Lows in the 50s to around 60. South to southeast winds around 5 mph."
   }
 ]
