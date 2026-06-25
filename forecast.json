@@ -1,20 +1,20 @@
 [
   {
-    "heading": "Wednesday Night",
-    "text": "Partly cloudy.",
-    "temperature": "50s to around 60",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_night.png"
+    "heading": "Today",
+    "text": "Periods of sun. More afternoon clouds. Showers in NY late.",
+    "temperature": "70s to around 80",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
   },
   {
-    "heading": "Thursday",
-    "text": "Chance of afternoon showers, mainly in New York.",
-    "temperature": "Mid 70s to around 80",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
+    "heading": "Thursday Night",
+    "text": "Showers increasing, possibly a thunderstorm, west to east.",
+    "temperature": "50s to near 60",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/thunder_storem_night.png"
   },
   {
     "heading": "Friday",
     "text": "Scattered showers and storms.",
-    "temperature": "Mid 70s to around 80",
+    "temperature": "70s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/thunderstorm_sun.png"
   },
   {
