@@ -1,11 +1,5 @@
 [
   {
-    "heading": "Sunday",
-    "text": "Early fog. Partly sunny. Chance of a spotty shower.",
-    "temperature": "Upper 70s to mid 80s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
-  },
-  {
     "heading": "Tonight",
     "text": "Mostly clear, chance shower far north. Locally dense valley fog.",
     "temperature": "50s to near 60",
@@ -22,5 +16,11 @@
     "text": "Humid. Afternoon showers and t-storms.",
     "temperature": "80s to near 90",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Iso_Tstorm_day.png"
+  },
+  {
+    "heading": "Wednesday",
+    "text": "Steamy. Showers and thunderstoms possible.",
+    "temperature": "Upper 80s to mid 90s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/thunderstorm_sun.png"
   }
 ]
