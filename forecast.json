@@ -1,21 +1,21 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Any showers ending. Locally dense valley fog.",
-    "temperature": "50s to near 60",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_night.png"
-  },
-  {
     "heading": "Sunday",
     "text": "Early fog. Partly sunny. Chance of a spotty shower.",
     "temperature": "Upper 70s to mid 80s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
   },
   {
+    "heading": "Tonight",
+    "text": "Mostly clear, chance shower far north. Locally dense valley fog.",
+    "temperature": "50s to near 60",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/clear_night_fog.png"
+  },
+  {
     "heading": "Monday",
-    "text": "Morning fog, then sun mixing with clouds.",
+    "text": "Morning fog, then sun mixing with high clouds.",
     "temperature": "low to mid 80s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   },
   {
     "heading": "Tuesday",
