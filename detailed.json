@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Tonight",
-    "text": "A few localized evening showers ending overnight. Partly cloudy, with locally dense valley fog. Lows in the 50s to near 60. Light and variable wind."
-  },
-  {
     "heading": "Sunday",
-    "text": "Morning fog burning off to sunshine with mixed clouds and the chance of a stray shower. Highs in the 70s to low 80s north, in the low to mid 80s elsewhere. Light and variable wind."
+    "text": "Morning fog burning off to sunshine with mixed clouds and the chance of a stray shower. Highs in the low 80s to mid 80s, near 80 in the north. Light and variable wind."
   },
   {
     "heading": "Sunday Night",
     "text": "Partly cloudy, with the chance for valley fog, some areas becoming locally dense. Lows in the 50s to near 60. Calm wind."
+  },
+  {
+    "heading": "Monday",
+    "text": "Any morning valley fog burning off to sunshine. Mixing with clouds in the afternoon. Warmer. Highs in the low to mid 80s, nearing 90 in the warmer valleys. Light and variable wind."
   }
 ]
