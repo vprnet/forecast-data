@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Partly to mostly cloudy. Chance of showers and thunderstorms, except a rising chance in the Adirondacks and St Lawrence Valley; severe storms possible. Highs in the mid to upper 80s, some lower 80s in New York. South to southeast winds 5 to 10 mph."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Periods of clouds. Scattered showers and thunderstorms early, possibly severe, then diminishing overnight. Lows from the mid 60s to lower 70s. Southwest winds 5 to 10 mph and diminishing."
+    "heading": "Tuesday Night",
+    "text": "Periods of clouds. Scattered showers and thunderstorms. Lows from the mid 60s to lower 70s. Southwest winds 5 to 10 mph and diminishing."
   },
   {
     "heading": "Wednesday",
     "text": "Partly cloudy. Scattered showers and potentially severe thunderstorms, mainly after noon. Highs from the upper 80s to mid 90s. Southwest winds 5 to 10 mph."
+  },
+  {
+    "heading": "Wednesday Night",
+    "text": "Variable clouds. Chance of an evening thunderstorm, especially northeast; severe storms possible. Lows from the upper 60s to mid 70s. Winds diminishing to light and variable."
   }
 ]
