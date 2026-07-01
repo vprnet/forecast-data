@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly to partly sunny. Scattered showers and thunderstorms; severe storms possible. Valley highs in the low to mid 90s, mid to upper 90s in southeastern valleys. Southwest winds 5 to 10 mph."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Variable clouds. Scattered showers and thunderstorms, mainly early; severe storms possible. Lows from the upper 60s to mid 70s. Winds diminishing to light and variable."
+    "heading": "Wednesday Night",
+    "text": "Variable clouds. Chance of showers and thunderstorms, except likely in the Adirondacks, and near the international border; severe storms possible. Lows from the upper 60s to mid 70s. Winds diminishing to light and variable."
   },
   {
     "heading": "Thursday",
     "text": "Mostly to partly sunny. Scattered showers and thunderstorms, mainly north and in the afternoon; any storms could be severe. Highs in the mid to upper 90s in southern valleys and in the Champlain Valley, low to mid 90s in northern valleys elsewhere. West to southwest winds 5 to 10 mph."
+  },
+  {
+    "heading": "Thursday Night",
+    "text": "A few clouds. Chance of an evening thunderstorm, potentially severe. Lows from the upper 60s to mid 70s, some upper 70s possible in the Champlain Valley. West to southwest winds 5 to 10 mph early, then diminishing."
   }
 ]
