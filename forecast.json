@@ -1,26 +1,26 @@
 [
   {
-    "heading": "Today",
-    "text": "Scattered showers and storms, possibly severe.",
-    "temperature": "Low to mid 90s, mid to upper 90s in southeastern valleys",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Iso_Tstorm_day.png"
-  },
-  {
     "heading": "Wednesday Night",
-    "text": "Very warm, very muggy. A few eveningshowers and storms.",
-    "temperature": "Upper 60s and 70s",
+    "text": "Scattered showers and storms, some severe.",
+    "temperature": "Upper 60s to mid 70s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Iso_Tstorm_night.png"
   },
   {
     "heading": "Thursday",
-    "text": "Some sun and very humid.\u00a0 Localized showers and storms possible.",
-    "temperature": "Mainly low to mid 90s",
+    "text": "Scattered showers and storms, mainly north; storms could be severe.",
+    "temperature": "Low to mid 90s, upper 90s in warmest valleys",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Iso_Tstorm_day.png"
   },
   {
     "heading": "Friday",
-    "text": "Slight chance of a shower or storm.",
+    "text": "Chance of a shower or thunderstorm.",
     "temperature": "Upper 80s to mid 90s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Iso_Tstorm_day.png"
+  },
+  {
+    "heading": "Saturday",
+    "text": "Chance of a shower or thunderstorm.",
+    "temperature": "Mainly mid 80s to lower 90s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Iso_Tstorm_day.png"
   }
 ]
