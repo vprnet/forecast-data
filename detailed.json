@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly to partly sunny. Slight chance of a shower or thunderstorm, then a rising chance late near the international border; any storms could be severe. Highs in the mid to upper 90s in southern valleys and in the Champlain Valley, low to mid 90s elsewhere. West to southwest winds 5 to 10 mph."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Variable clouds. Chance of evening thunderstorms north of Route 2, slight chance elsewhere; any storms could again be severe. Lows from the upper 60s to mid 70s. West to southwest winds 5 to 10 mph early, then diminishing."
+    "heading": "Thursday Night",
+    "text": "Variable clouds. Scattered evening thunderstorms north of Route 2, isolated elsewhere; any storms could again be severe. Lows from the upper 60s to mid 70s. West to southwest winds 5 to 10 mph early, then diminishing."
   },
   {
     "heading": "Friday",
     "text": "Mostly to partly sunny. Slight chance of a shower or thunderstorm. Highs from the upper 80s to mid 90s. Southwest winds 5 to 10 mph, and gusting to 15 mph, becoming west in the afternoon."
+  },
+  {
+    "heading": "Friday Night",
+    "text": "Variable clouds. A rising chance of showers north, and from the southern Greens westward, chance late southeast; a thunderstorm possible. Lows from the mid 60s to lower 70s. West to northwest winds 5 to 10 mph, diminishing to light and variable."
   }
 ]
