@@ -1,10 +1,6 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Periods of clouds, with hit-or-miss showers and thunderstorms. Warm and humid. Lows in the 60s to near 70. West to northwest wind near 10 mph, diminishing to light and variable."
-  },
-  {
-    "heading": "Saturday",
+    "heading": "Today",
     "text": " Periods of clouds, with a few localized showers diminishing north to south. Chance of an isolated thunderstorm, mainly south of Rt. 4. Highs in the 80s. Light wind becoming west to northwest near 10 mph."
   },
   {
@@ -12,7 +8,11 @@
     "text": " Periods of clouds, with a few localized showers diminishing north to south. Chance of an isolated thunderstorm, mainly south of Rt. 4. Highs in the 80s. Light wind becoming west to northwest near 10 mph."
   },
   {
-    "heading": "Saturday Night",
+    "heading": "Tonight",
     "text": "Mostly clear and less humid. Chance of a stray evening shower south. Lows in the 50s to low 60s. Calm wind."
+  },
+  {
+    "heading": "Sunday",
+    "text": "Morning sun mixing with clouds in the afternoon. Seasonably warm, and less humid. Highs in the 80s, a few 70s far north. Light and variable wind."
   }
 ]
