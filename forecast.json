@@ -1,15 +1,15 @@
 [
   {
-    "heading": "Friday Night",
-    "text": "A few scattered showers or thunderstorms. Warm & humid.",
-    "temperature": "60s to near 70",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/thunderstorm_partly_cloudy_night.png"
-  },
-  {
-    "heading": "Saturday",
+    "heading": "Today",
     "text": "Chance of a shower/storm, increasing sun north to south as showers diminish.",
     "temperature": "Upper 70s and 80s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Iso_Tstorm_day.png"
+  },
+  {
+    "heading": "Tonight",
+    "text": "Chance of a spotty shower south, otherwise clear.",
+    "temperature": "50s to low 60s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/09/Mostly_clear_night.png"
   },
   {
     "heading": "Sunday",
