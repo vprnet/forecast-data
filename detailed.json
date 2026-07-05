@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Mostly clear and less humid. Chance of a stray evening shower south. Lows in the 50s to low 60s. Calm wind."
-  },
-  {
-    "heading": "Sunday",
+    "heading": "Today",
     "text": "Some morning sun north, mixing with clouds in the afternoon. Seasonably warm, and less humid. Highs in the 80s. Light and variable wind."
   },
   {
-    "heading": "Sunday Night",
+    "heading": "Tonight",
     "text": "Partly cloudy north, becoming mostly cloudy south. Good chance of rain showers south of Route 4. Lows from the upper 50s to low 60s. Calm wind."
+  },
+  {
+    "heading": "Monday",
+    "text": "Partly sunny north, mostly cloudy south. A chance of scattered showers and thunderstorms, mainly south of Rt. 4. Highs in the 80s north, a few 70s south. Calm wind turning southeast."
   }
 ]
