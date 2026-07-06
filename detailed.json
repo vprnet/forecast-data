@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Sun filtering through high clouds north. Mostly cloudy south, with the chance of a sprinkle far south. Highs from the upper 70s to mid 80s north, and mid 70s to around 80 south, except some lower 70s far south. Winds variable to east at 5 to 10 mph."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Mostly cloudy south; partly cloudy north. Showers likely near the Massachusetts border, mainly late, a rising chance north to Route 4. Lows in the upper 50s to lower 60s. Winds becoming light, variable to southeast, except southeast 5 to 10 mph in the Champlain Valley."
+    "heading": "Monday Night",
+    "text": "Partly to mostly cloudy. Showers likely near the Massachusetts border, mainly late, a rising chance north to Route 4. Lows in the upper 50s to lower 60s. Winds becoming light, variable to southeast, except southeast 5 to 10 mph in the Champlain Valley."
   },
   {
     "heading": "Tuesday",
-    "text": "Partly to mostly sunny northwest, otherwise clouds decreasing in the afternoon, except remain mostly cloudy southeast. Chance of showers from Route 4 southward, except likely in Windham County and in far southern New Hampshire. Highs in the low to mid 70s in the south, some upper 70s in the Hudson Valley, and upper 70s to mid 80s north. East to northeast winds 5 to 10 mph."
+    "text": "Partly to mostly sunny northwest, otherwise clouds decreasing in the afternoon, except remain mostly cloudy southeast. Showers likely near and south of Route 4, slight chance north to Route 2, all mainly in the morning. Highs in the low to mid 70s in the south, and upper 70s to mid 80s north. East to northeast winds 5 to 10 mph."
+  },
+  {
+    "heading": "Tuesday Night",
+    "text": "Moistly partly cloudy in far southern New Hampshire, with the slight chance of an early shower; otherwise mainly clear or becoming so. Areas of valley fog, mainly south. Lows from the mid 50s to lower 60s, some lower 50s northeast. Winds becoming light and variable."
   }
 ]
