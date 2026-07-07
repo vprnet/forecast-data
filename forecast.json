@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Rain from Rt. 9 south, showers north to Rt. 4 and Laconia. Clouds north, some sun in Quebec.",
-    "temperature": "70 south to 80 north",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
+    "heading": "This Afternoon",
+    "text": "Mostly sunny or becoming so in the north. Clouds and showers south, mainly far south.",
+    "temperature": "Lower 70s to mid 80s, south to north",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
   },
   {
-    "heading": "Tuesday Night",
+    "heading": "Tonight",
     "text": "Showers ending south, clearing north to south.",
-    "temperature": "50s to low 60s",
+    "temperature": "Mid 50s to lower 60s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_showers_night.png"
   },
   {
@@ -19,7 +19,7 @@
   },
   {
     "heading": "Thursday",
-    "text": "Partly sunny. Chance of showers or thunderstorms north, later in the day.",
+    "text": "Chance of an afternoon shower or storm north, mainly far north.",
     "temperature": "Mid 80s to lower 90s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Iso_Tstorm_day.png"
   }
