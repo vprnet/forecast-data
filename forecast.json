@@ -1,25 +1,25 @@
 [
   {
-    "heading": "Monday Night",
-    "text": "Showers likely far south, mainly late, a rising chance north to Route 4.",
-    "temperature": "Upper 50s to lower 60s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/04/showers_night.png"
-  },
-  {
-    "heading": "Tuesday",
-    "text": "Showers likely near and south of Route 4, slight chance north to Route 2.",
-    "temperature": "Lower 70s to mid 80s, south to north",
+    "heading": "Today",
+    "text": "Rain from Rt. 9 south, showers north to Rt. 4 and Laconia. Clouds north, some sun in Quebec.",
+    "temperature": "70 south to 80 north",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
   },
   {
+    "heading": "Tuesday Night",
+    "text": "Showers ending south, clearing north to south.",
+    "temperature": "50s to low 60s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_showers_night.png"
+  },
+  {
     "heading": "Wednesday",
-    "text": "Mostly to sunny.",
+    "text": "Mostly sunny.",
     "temperature": "Low to mid 80s, some upper 80s in the broad valleys west",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   },
   {
     "heading": "Thursday",
-    "text": "Chance of a shower or storm after noon, mainly west.",
+    "text": "Partly sunny. Chance of showers or thunderstorms north, later in the day.",
     "temperature": "Mid 80s to lower 90s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Iso_Tstorm_day.png"
   }
