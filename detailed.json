@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Clouds through Quebec, otherwise partly sunny.  Showers or thunderstorms developing in the St. Lawrence Valley midday, spreading east through Quebec, then south to the Adirondacks and Rt. 4 late in the day, some with gusty winds and heavy rain.  Very warm to hot, and increasingly humid.  Highs in the 80s, a few warmer valleys approaching 90.  Light winds, mainly southwest less than 10 mph."
-  },
-  {
     "heading": "Tonight",
-    "text": "A good chance of showers or thunderstorms north, scattered south, some with gusty winds and heavy rain.  Mild and muggy.  Lows in the 60s.  Winds southwest 10 to 15 mph."
+    "text": "A good chance of showers or thunderstorms north, more scattered in the south. Strong storms could produce gusty winds and heavy downpours. Warm and muggy. Lows in the 60s. Southwest wind 10 to 15 mph."
   },
   {
     "heading": "Friday",
-    "text": "Clouds breaking for periods of sun.  A few morning showers north.  Localized showers and thunderstorms south.  Highs in the upper 70s and 80s.  Winds light, becoming north near 10 mph."
+    "text": "Partly sunny. A chance of scattered showers and thunderstorms. Highs ranging from the 70s to mid 80s north to south. Light wind becoming north near 10 mph."
+  },
+  {
+    "heading": "Friday Night",
+    "text": "Mostly clear north, partly clear south. Any evening showers south ending. Chance of valley fog. Lows in the 50s to low 60s. North wind, diminishing to light and variable."
   }
 ]
