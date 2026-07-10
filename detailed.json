@@ -1,14 +1,14 @@
 [
   {
+    "heading": "Today",
+    "text": "Partly sunny. Chance of a spotty shower. Highs from the upper 70s to low 80s, mid to upper 80s in the warmer valleys. Light wind becoming north near 10 mph."
+  },
+  {
     "heading": "Tonight",
-    "text": "A good chance of showers or thunderstorms north, more scattered in the south. Strong storms could produce gusty winds and heavy downpours. Warm and muggy. Lows in the 60s. Southwest wind 10 to 15 mph."
+    "text": "Any showers ending, and skies clearing out. Cooler, and less humid with some valley fog. Lows in the 50s to low 60s. Wind north near 10 mph, diminishing to light and variable."
   },
   {
-    "heading": "Friday",
-    "text": "Partly sunny. A chance of scattered showers and thunderstorms. Highs ranging from the 70s to mid 80s north to south. Light wind becoming north near 10 mph."
-  },
-  {
-    "heading": "Friday Night",
-    "text": "Mostly clear north, partly clear south. Any evening showers south ending. Chance of valley fog. Lows in the 50s to low 60s. North wind, diminishing to light and variable."
+    "heading": "Saturday",
+    "text": "Becoming partly to mostly sunny. Highs from the upper 70s to mid 80s. Light north wind."
   }
 ]
