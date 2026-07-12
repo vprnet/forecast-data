@@ -1,15 +1,15 @@
 [
   {
+    "heading": "Sunday",
+    "text": "Mostly sunny skies, mixing with afternoon clouds.",
+    "temperature": "80s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
+  },
+  {
     "heading": "Tonight",
     "text": "Mostly clear. Areas of river valley fog.",
     "temperature": "50s to 60s.",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/clear_night_fog.png"
-  },
-  {
-    "heading": "Sunday",
-    "text": "Chance of morning valley fog. Mostly sunny skies.",
-    "temperature": "80s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   },
   {
     "heading": "Monday",
