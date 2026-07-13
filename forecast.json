@@ -1,11 +1,5 @@
 [
   {
-    "heading": "Today",
-    "text": "Slight chance of a shower or rumble of thunder.",
-    "temperature": "Mid 80s to around 90",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Iso_Tstorm_day.png"
-  },
-  {
     "heading": "Tonight",
     "text": "Chance of an early shower, mainly north.",
     "temperature": "Mainly mid 60s to around 70",
@@ -16,6 +10,12 @@
     "text": "Chance of a late-day shower or storm far north.",
     "temperature": "Low to mid 90s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Iso_Tstorm_day.png"
+  },
+  {
+    "heading": "Tuesday Night",
+    "text": "Storms north of I-89, maybe severe. Strong gusts.",
+    "temperature": "Upper 60s to 70s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/thunderstorm_partly_cloudy_night.png"
   },
   {
     "heading": "Wednesday",
