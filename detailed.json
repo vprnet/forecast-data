@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Sun, mixing with a few clouds. Some patchy smoke in NY late.  Highs in the 70s north, 80 to 85 south.  Winds northwest near 10 mph."
-  },
-  {
     "heading": "Tonight",
-    "text": "Mostly clear in the evening, giving way to increasing clouds west to east.  Lows in the 50s, a few upper 40s in the cold spots northeast.  Wind diminishing to light and variable."
+    "text": "Partly cloudy in the evening, with increasing clouds west to east overnight. Lows in the 50s to near 60, a few upper 40s in the cold spots northeast. Wind diminishing to light and variable."
   },
   {
     "heading": "Saturday",
-    "text": "Any morning sun giving way to clouds, and areas of smoke.  Showers or a thunderstorm spreading east in the morning through Quebec, edging south to the Adirondacks, Rt. 4, and White Mountains midday and afternoon.  A rising chance of showers southwest in the afternoon.  Highs in the 70s to near 80 north, 80s south.  Light winds, becoming south near 10 mph, gusting to 20 mph west of the Green Mountains."
+    "text": "Any morning sun giving way to clouds, and wildfire smoke. Scattered showers or storms arriving west in the morning, spreading east into the afternoon. A few strong storms will be possible Highs in the 70s to low 80s north, in the low to mid 80s south. South wind at 10 mph, gusting to 20 mph west of the Green Mountains."
+  },
+  {
+    "heading": "Saturday Night",
+    "text": "A good chance of rain showers with embedded storms. Some could become strong. Lows in the 50s to near 60. Southwest wind 10 to 15 mph, gusting to near 20 mph, stronger gusts possible in thunderstorms."
   }
 ]
