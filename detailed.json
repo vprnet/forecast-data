@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Sunday",
-    "text": "Increasing sunshine, breezy, and cool. Highs from the upper 60s to low 70s north, mid 70s to near 80 south. Northwest wind at 10 to 15 mph, gusting to 25 mph."
-  },
-  {
     "heading": "Sunday Night",
-    "text": "Becoming mostly clear and cool. Lows in the 50s, a few 40s in the cooler mountain valleys. Northwest wind becoming light and variable overnight."
+    "text": "Partly clear, passing clouds north before midnight. Lows in the low 50s, mid 50s around Lake Champlain, 40s in the mountain hollows. Northwest wind becoming light and variable overnight."
   },
   {
     "heading": "Monday",
-    "text": "Mostly sunny with a few afternoon clouds. Highs from the upper 70s to low 80s. Light and variable wind."
+    "text": "Sunshine then clouds arriving from the west late. Less cool, Highs in the upper 70s, to low 80s. Gentle west winds around 5mph."
+  },
+  {
+    "heading": "Monday Night",
+    "text": "Becoming mostly cloudy after midnight. A chance of passing showers late. Lows in the mid to upper 50s. Winds shifting southerly around 5mph."
   }
 ]
