@@ -1,11 +1,5 @@
 [
   {
-    "heading": "Sunday",
-    "text": "Increasing sunshine. Breezy, and cool.",
-    "temperature": "upper 60s and 70s north, 70s to 80 south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
-  },
-  {
     "heading": "Tonight",
     "text": "Passing clouds north, mostly clear otherwise",
     "temperature": "50s to near 60",
@@ -19,8 +13,14 @@
   },
   {
     "heading": "Tuesday",
-    "text": "Increasing chance of rain showers.",
+    "text": "Showers likely, chance of evening storms.",
     "temperature": "Low to mid-80s.",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain.png"
+  },
+  {
+    "heading": "Wednesday",
+    "text": "Showers for the first half of the day, tapering off late.",
+    "temperature": "Upper 70s to low 80s.",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
   }
 ]
