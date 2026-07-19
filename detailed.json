@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Tonight",
-    "text": "A good chance of rain showers with the chance for a few embedded thunderstorms. Lows in the 50s to near 60. Wind turning northwest at 10 to 15 mph, gusting to near 20 mph, stronger gusts possible in thunderstorms."
-  },
-  {
     "heading": "Sunday",
     "text": "Increasing sunshine, breezy, and cool. Highs from the upper 60s to low 70s north, mid 70s to near 80 south. Northwest wind at 10 to 15 mph, gusting to 25 mph."
   },
   {
     "heading": "Sunday Night",
     "text": "Becoming mostly clear and cool. Lows in the 50s, a few 40s in the cooler mountain valleys. Northwest wind becoming light and variable overnight."
+  },
+  {
+    "heading": "Monday",
+    "text": "Mostly sunny with a few afternoon clouds. Highs from the upper 70s to low 80s. Light and variable wind."
   }
 ]
