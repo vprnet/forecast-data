@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "A few morning clouds north, otherwise mostly sunny. Highs in the 70s north, 80 to 85 in the Champlain Valley and south. Winds variable from west to south, up to 10 mph."
-  },
-  {
     "heading": "Tonight",
     "text": "Fair this evening, giving way to increasing clouds west to east. Lows in the 50s from the Green Mountains east, upper 50s to low 60s west. Wind light and variable east, and south to southwest near 10 mph from the Green Mountains west, gusting to 25 mph."
   },
   {
     "heading": "Tuesday",
     "text": "Some morning sun east. Becoming cloudy with showers or a thunderstorm developing in NY, spreading east into western VT, with a rising chance east in the afternoon. Highs in the 70s to near 80. Winds becoming south 10 to 15 mph, gusting 30 to 40 mph from the Green Mountains west, and 10 mph, gusting to 25 mph east."
+  },
+  {
+    "heading": "Tuesday Night",
+    "text": "Occasional showers, possibly a thunderstorm. Lows in the 50s to low 60s. Winds south 10 to 15 mph, gusting 20 to 30 mph, diminishing late."
   }
 ]
