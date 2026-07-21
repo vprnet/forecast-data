@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly cloudy. Scattered showers and thunderstorms, mainly late, except showers likely in southern New Hampshire. Highs from the mid 70s to lower 80s, some lower 70s in the south. South winds gusting to 25 mph, except gusting to 35 mph in the Champlain Valley. South to southeast winds gusting to 25 mph, except gusting to 35 mph in the Champlain Valley."
-  },
-  {
-    "heading": "Tonight",
+    "heading": "Tuesday Night",
     "text": "Mostly cloudy. Scattered showers and thunderstorms, decreasing after midnight. Lows from the upper 50s to mid 60s, with some upper 60s in the Champlain Valley. South winds gusting 25 mph early, then decreasing to 5 to 15 mph."
   },
   {
     "heading": "Wednesday",
-    "text": "Variable clouds. Chance of a shower or rumble of thunder, mainly near and north of Route 2, and over high terrain in the south. Highs from the mid 70s to lower 80s, some lower 70s far north. South to southwest winds 5 to 10 mph, gusting to 25 mph, becoming west late."
+    "text": "Variable clouds. Chance of a shower or a rumble of thunder, mainly before noon. Highs from the mid 70s to lower 80s, some lower 70s far north. South to southwest winds 5 to 10 mph, gusting to 25 mph, becoming west late."
+  },
+  {
+    "heading": "Wednesday Night",
+    "text": "Gradual clearing. Areas of valley fog. Lows from the upper 40s to mid 50s, some upper 50s in the Champlain Valley. Northwest winds 5 to 10 mph, decreasing to light and variable."
   }
 ]
