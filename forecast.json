@@ -1,26 +1,26 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Scattered clouds.",
-    "temperature": "Valleys mid to upper 70s, some lower 70s far north",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
-  },
-  {
-    "heading": "Tonight",
-    "text": "Becoming mainly clear. Patchy valley fog.",
-    "temperature": "40s to low 50s, mid 50s near Lake Champlain",
+    "heading": "Thursday Night",
+    "text": "Clearing, then areas of fog late.",
+    "temperature": "Mainly mid 40 to lower 50s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/clear_night_fog.png"
   },
   {
     "heading": "Friday",
     "text": "Mostly sunny after any early fog.",
-    "temperature": "Mid 70s to lower 80s",
+    "temperature": "Upper 70s to lower 80s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   },
   {
     "heading": "Saturday",
-    "text": "Mostly sunny.",
-    "temperature": "Upper 70s to mid 80s",
+    "text": "Mostly sunny after any early fog.",
+    "temperature": "Mainly low to mid 80s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
+  },
+  {
+    "heading": "Sunday",
+    "text": "Mostly to partly sunny. Chance of a late-day shower in NY.",
+    "temperature": "Mainly low to mid 80s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
   }
 ]
