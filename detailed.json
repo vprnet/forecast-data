@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly sunny, except variable clouds northeast, with the chance of early sprinkle near the Qu\u00e9bec border. Highs in the mid to upper 70s, some lower 70s northeast and in the Adirondacks. West winds 5 to 10 mph, gusting to 20 mph."
-  },
-  {
-    "heading": "Tonight",
-    "text": "A few evening clouds northeast, otherwise mostly clear. Areas of valley fog late. Lows from the upper 40s to mid 50s, mid 40s in northern cold hollows. Winds becoming light and variable."
+    "heading": "Thursday Night",
+    "text": "A few early clouds, mainly northeast, otherwise clearing. Areas of valley fog late. Lows from the mid 40s to lower 50s, some mid 50s in the Champlain Valley, and some lower 40s in northern cold hollows. Winds becoming light and variable."
   },
   {
     "heading": "Friday",
     "text": "Areas of valley fog early, then mostly sunny. Highs in the upper 70s to lower 80s, some mid 70s northeast and in the Adirondacks. South to southwest at 5 to 10 mph."
+  },
+  {
+    "heading": "Friday Night",
+    "text": "Mostly clear. Lows from the upper 40s to mid 50s, some upper 50s in the Champlain and St. Lawrence valleys. Winds becoming light, variable to southeast."
   }
 ]
