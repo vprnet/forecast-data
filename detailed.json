@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly sunny with a few clouds developing. Highs in the 70s to low 80s. Light southerly wind."
-  },
-  {
     "heading": "Tonight",
     "text": "Mostly clear. Locally dense fog forming in the river valleys. Lows in the 50s, with some 40s in the cooler valleys, nearing 60 along Lake Champlain. Light and variable wind."
   },
   {
     "heading": "Saturday",
     "text": "A few patches of early morning fog, burning off to mostly sunny skies. Highs in the 80s. Light wind becoming south near 5 mph."
+  },
+  {
+    "heading": "Saturday Night",
+    "text": "Mostly clear, followed by periods of clouds developing overnight. Lows in the 50s to near 60, some mid 60s along Lake Champlain. Light and variable wind."
   }
 ]
