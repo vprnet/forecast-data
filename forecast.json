@@ -1,15 +1,15 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Mostly clear.\u00a0 Patchy valley fog.",
-    "temperature": "Upper 40s and 50s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/clear_night_fog.png"
-  },
-  {
-    "heading": "Saturday",
+    "heading": "Today",
     "text": "Mostly sunny after any early fog burns off.",
     "temperature": "80s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
+  },
+  {
+    "heading": "Tonight",
+    "text": "Mostly clear late, then a few clouds developing.",
+    "temperature": "50s to near 60",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_night.png"
   },
   {
     "heading": "Sunday",
