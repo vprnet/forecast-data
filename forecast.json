@@ -1,15 +1,15 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Mostly clear late, then a few clouds developing.",
-    "temperature": "50s to near 60",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_night.png"
-  },
-  {
     "heading": "Sunday",
     "text": "Mostly to partly sunny. Chance of a late-day shower in the Saint Lawrence Valley.",
     "temperature": "80s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
+  },
+  {
+    "heading": "Tonight",
+    "text": "Variable Clouds.",
+    "temperature": "50s to mid 60",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_night.png"
   },
   {
     "heading": "Monday",
