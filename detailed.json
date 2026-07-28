@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "A few patches of fog early. Morning sun giving way to clouds. Showers or thunderstorms increasing through NY into southwest VT and the Berkshires, spreading northeast in the afternoon. Highs in the 70s to around 80. Winds becoming south to southeast near 10 mph, gusting to 20 mph through the Champlain Valley."
-  },
-  {
     "heading": "Tonight",
-    "text": "Numerous showers or a thunderstorm from the Adirondacks and Rt. 4 south, scattered to the north. Lows in the upper 50s to low 60s, some mid 60s near Lake Champlain. Winds southeast near 10 mph, gusting to 25 mph in the Champlain Valley this evening."
+    "text": "Flood watches go into effect at 8pm for Central and Southern Vermont. Numerous showers or a thunderstorm from the Adirondacks and I-89, scattered to the north. Lows in the upper 50s to low 60s, some mid 60s near Lake Champlain. Winds southeast near 10 mph, gusting to 25 mph in the Champlain Valley this evening."
   },
   {
     "heading": "Wednesday",
-    "text": "Numerous showers from I-89 west and south. Mostly cloudy, maybe a glimpse of sun northeast, with a chance of showers, especially in the afternoon. Highs in the 70s, closer to 80 northeast. Winds southeast, becoming east, up to 10 mph north, 10 to 15 mph, gusting to 25 mph south."
+    "text": "Continuous moderate to heavy widespread showers southwest, becoming scattered in north and east during the afternoon until the evening. Cooler, highs through the 70s, near 80 northeast, some 60s west. Winds southeast, becoming east, up to 10 mph north, 10 to 15 mph, gusting to 25 mph south."
+  },
+  {
+    "heading": "Wednesday Night",
+    "text": "Showers west diminishing early, more steady through New Hampshire, mostly cloudy. Lows in the 50s to near 60, low 60s in the Champlain Valley. Winds east near 10 mph, gusting to 25 mph south in the evening, diminishing late."
   }
 ]
