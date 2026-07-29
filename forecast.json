@@ -1,25 +1,25 @@
 [
   {
-    "heading": "Tuesday Night",
-    "text": "Showers or thunderstorms likely this evening, diminishing overnight.",
-    "temperature": "Upper 50s and 60s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/thunder_storem_night.png"
-  },
-  {
-    "heading": "Wednesday",
-    "text": "Widespread showers, except scattered northeast. Cooler.",
-    "temperature": "Low to mid 70s.",
+    "heading": "Today",
+    "text": "Numerous showers or thunderstorms in NY, and I-89 south, spreading northeast this afternoon.",
+    "temperature": "70s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain.png"
   },
   {
+    "heading": "Wednesday Night",
+    "text": "Widespread showers, tapering off west. Cooler.",
+    "temperature": "50s to near 60.",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain_night.png"
+  },
+  {
     "heading": "Thursday",
-    "text": "Drying out then breif afternoon showers.",
+    "text": "Showers decreasing. Some breaks of afternoon sun in NY.",
     "temperature": "70s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_rain.png"
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
   },
   {
     "heading": "Friday",
-    "text": "Clearing, chacne of passing showers",
+    "text": "Periods of sun, an isolated shower.",
     "temperature": "70s to near 80",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
   }
