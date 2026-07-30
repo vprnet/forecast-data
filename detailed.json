@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Showers becoming more scattered, with a chance of isolated thunderstorms developing. Highs in the low to mid 70s, upper 70s in the warmest valleys. Light northeast wind."
-  },
-  {
     "heading": "Tonight",
-    "text": "Any storms ending, then showers diminishing west to east. Valley fog developing overnight. Lows in the 50s to near 60. Light north wind."
+    "text": "Any storms ending, then showers diminishing overnight. Valley fog developing, with dense fog forming along the rivers. Lows in the 50s to near 60. Light north wind."
   },
   {
     "heading": "Friday",
-    "text": "Variable clouds and sun, with more sunshine developing in the afternoon. Chance of a few afternoon spotty showers. Highs in the 70s to low 80s. Light north wind."
+    "text": "Variable clouds and sun, with more sunshine developing in the afternoon. Chance of a few passing showers, and isolated afternoon storms. Highs in the 70s to low 80s. Light north wind."
+  },
+  {
+    "heading": "Friday Night",
+    "text": "Increasing cloud cover overnight. Lows from the upper 50s to low 60s. Calm wind."
   }
 ]
