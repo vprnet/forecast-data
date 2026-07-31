@@ -1,12 +1,6 @@
 [
   {
-    "heading": "Today",
-    "text": "Morning fog, then partly sunny. A spotty shower.",
-    "temperature": "70s to low 80s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Iso_Tstorm_day.png"
-  },
-  {
-    "heading": "Friday Night",
+    "heading": "Tonight",
     "text": "Clearing. Areas of fog. Muggy.",
     "temperature": "Upper 50s and 60s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/clear_night_fog.png"
@@ -14,13 +8,19 @@
   {
     "heading": "Saturday",
     "text": "Fog burns off to sun, mixing with afternoon clouds.",
-    "temperature": "Low to mid 80s.",
+    "temperature": "80s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   },
   {
     "heading": "Sunday",
     "text": "Showers spreading east, chance of afternoon storms.",
-    "temperature": "Upper 70s to low 80s.",
+    "temperature": "Low to mid 80s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain.png"
+  },
+  {
+    "heading": "Monday",
+    "text": "Rain showers becoming scattered west to east.",
+    "temperature": "70s to low 80s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
   }
 ]
