@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Areas of dense fog, and a stray morning shower, giving way to a mix of clouds and sunshine.  A few stray afternoon showers or a thunderstorm.  Highs in the 70s to low 80s.  Winds light, mainly northwest less than 10 mph."
-  },
-  {
     "heading": "Tonight",
-    "text": "Partly cloudy.  Areas of dense valley fog forming. Lows in the upper 50s to mid 60s, warmest in the Champlain Valley.  Winds light and variable, turning to the south in the Champlain Valley near 10 mph."
+    "text": "Mostly clear with a few clouds mixing in. Valley fog developing overnight. Lows from the upper 50s to low 60s. Calm wind."
   },
   {
     "heading": "Saturday",
-    "text": "Some areas of dense morning fog, then sunshine, mixing with increasing afternoon clouds.  Warm and muggy.  Highs in the upper 70s to mid 80s.  Winds becoming south near 10 mph, gusting to 20 mph near Lake Champlain."
+    "text": "Partly sunny, with more clouds mixing in throughout the day. Highs from the low to mid 80s, a few upper 80s in the warmest valleys. Light and variable wind."
+  },
+  {
+    "heading": "Saturday Night",
+    "text": "Mostly cloudy, with river valley fog developing overnight. Lows in the low to mid 60s, nearing 70 along Lake Champlain. Light south wind."
   }
 ]
