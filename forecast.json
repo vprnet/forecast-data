@@ -1,15 +1,15 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Clearing. Areas of fog. Muggy.",
-    "temperature": "Upper 50s and 60s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/clear_night_fog.png"
-  },
-  {
-    "heading": "Saturday",
+    "heading": "Today",
     "text": "Fog burns off to sun, mixing with afternoon clouds.",
     "temperature": "80s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
+  },
+  {
+    "heading": "Tonight",
+    "text": "Increasing cloud cover. Areas of fog.",
+    "temperature": "60s to near 70",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/mostly_cloudy_night.png"
   },
   {
     "heading": "Sunday",
