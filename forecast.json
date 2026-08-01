@@ -1,11 +1,5 @@
 [
   {
-    "heading": "Today",
-    "text": "Fog burns off to sun, mixing with afternoon clouds.",
-    "temperature": "80s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
-  },
-  {
     "heading": "Tonight",
     "text": "Increasing cloud cover. Areas of fog.",
     "temperature": "60s to near 70",
@@ -22,5 +16,11 @@
     "text": "Rain showers becoming scattered west to east.",
     "temperature": "70s to low 80s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
+  },
+  {
+    "heading": "Tuesday",
+    "text": "Mostly sunny.",
+    "temperature": "Upper 70s to mid-80s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   }
 ]
