@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Mostly clear with a few clouds mixing in. Valley fog developing overnight. Lows from the upper 50s to low 60s. Calm wind."
-  },
-  {
-    "heading": "Saturday",
+    "heading": "Today",
     "text": "Partly sunny, with more clouds mixing in throughout the day. Highs from the low to mid 80s, a few upper 80s in the warmest valleys. Light and variable wind."
   },
   {
-    "heading": "Saturday Night",
+    "heading": "Tonight",
     "text": "Mostly cloudy, with river valley fog developing overnight. Lows in the low to mid 60s, nearing 70 along Lake Champlain. Light south wind."
+  },
+  {
+    "heading": "Sunday",
+    "text": "Mostly cloudy, with rain showers arriving as early as midday in western Vermont, then spreading east. Chance of thunderstorms developing in the afternoon. Highs from the low to mid 80s. Wind becoming south at 5 to 10 mph."
   }
 ]
