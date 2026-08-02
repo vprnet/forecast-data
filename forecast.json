@@ -1,15 +1,15 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Increasing cloud cover. Areas of fog.",
-    "temperature": "60s to near 70",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/mostly_cloudy_night.png"
-  },
-  {
     "heading": "Sunday",
     "text": "Showers spreading east, chance of afternoon storms.",
     "temperature": "Low to mid 80s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain.png"
+  },
+  {
+    "heading": "Tonight",
+    "text": "Widespread rain in the SLV, more scattered southeast",
+    "temperature": "low to mid 60s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/mostly_cloudy_night.png"
   },
   {
     "heading": "Monday",
