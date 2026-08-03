@@ -1,15 +1,15 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Widespread rain in the SLV, more scattered southeast",
-    "temperature": "low to mid 60s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain_night.png"
+    "heading": "Today",
+    "text": "Scattered to numerous showers and locally strong thunderstorms.",
+    "temperature": "70s to near 80",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/thunderstorms.png"
   },
   {
-    "heading": "Monday",
-    "text": "Morning showers, drying out west, becoming afternoon storms east.",
-    "temperature": "70s to low 80s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/thunderstorm_sun.png"
+    "heading": "Monday Night",
+    "text": "Evening showers north.\u00a0 Gradual clearing, a few patches of fog.",
+    "temperature": "50s to low 60s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Iso_Tstorm_night.png"
   },
   {
     "heading": "Tuesday",
@@ -19,8 +19,8 @@
   },
   {
     "heading": "Wednesday",
-    "text": "Mostly to partly sunny. Chance of midday showers SE.",
-    "temperature": "80s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
+    "text": "Sun mixing with periods of clouds.",
+    "temperature": "80 to 85",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   }
 ]
