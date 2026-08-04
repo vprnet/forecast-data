@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Some patchy valley fog early, then mostly sunny. Much less humid. Highs in the upper 70s to low 80s. Winds light, mainly west up to 10 mph, a few gusts to 20 mph in NH."
-  },
-  {
     "heading": "Tonight",
     "text": "Mostly clear, with some high clouds south after midnight. Areas of valley fog. Lows in the 50s to low 60s. Winds light and variable."
   },
   {
     "heading": "Wednesday",
-    "text": "Some patchy fog early. Sun mixing with periods of clouds, more numerous south. Seasonably warm. Highs 80 to 85. Winds light, tending to becoming south near 10 mph through the Champlain Valley."
+    "text": "Some patchy fog early. Partly sunny north mixing with periods of clouds, more numerous south. A slight chance of drizzle south. Becoming partly clear in the evening. Seasonably warm. Highs 80 to 85. Winds light, tending to becoming south near 10 mph through the Champlain Valley."
+  },
+  {
+    "heading": "Wednesday Night",
+    "text": "Partly cloudy, mostly cloudy west. Mild and muggy. Lows in the low to mid 60s, closer to 70 in the Champlain Valley. Winds light and variable."
   }
 ]
