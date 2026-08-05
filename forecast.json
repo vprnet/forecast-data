@@ -1,19 +1,19 @@
 [
   {
-    "heading": "Tuesday Night",
-    "text": "Mostly clear, then some high clouds south.\u00a0 Areas of valley fog.",
-    "temperature": "50s to low 60s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/clear_night_fog.png"
-  },
-  {
-    "heading": "Wednesday",
-    "text": "Sun mixing with periods of clouds.",
+    "heading": "Today",
+    "text": "Patchy fog early, then sunshine, mixing with clouds.\u00a0 Warm.",
     "temperature": "80 to 85",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   },
   {
+    "heading": "Wednesday Night",
+    "text": "Partly cloudy, warm, and increasing humid.",
+    "temperature": "60 to 70, warmest near Lake Champlain",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_night.png"
+  },
+  {
     "heading": "Thursday",
-    "text": "A chance of PM showers, especially west.",
+    "text": "Partly sunny. A chance of afternoon showers or storms, mainly Green Mountains and west.",
     "temperature": "Mid to upper 80s.",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
   },
