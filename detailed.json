@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Sunshine mixing with clouds. An increasing chance of rain showers, with thunderstorms possible. Warm and humid. Highs in the mid to upper 80s, nearing 90 in the warmest valleys. Light wind becoming southwest near 10 mph."
-  },
-  {
     "heading": "Tonight",
     "text": "Scattered evening showers or thunderstorms, diminishing overnight. Mixed clouds with a chance of patchy valley fog. Warm and very muggy. Lows in the 60s to near 70. Wind diminishing to light and variable."
   },
   {
     "heading": "Friday",
     "text": "A mix of sun and clouds. Chance of a few widely scattered showers or a thunderstorm, increasing chances in the afternoon. Warm and humid. Highs in the 80s to near 90. Light south wind."
+  },
+  {
+    "heading": "Friday Night",
+    "text": "Scattered evening showers with a chance of embedded thunderstorms, diminishing overnight. Some patches of valley fog. Mild and muggy. Lows in the 60s to near 70. Calm wind."
   }
 ]
