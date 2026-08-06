@@ -1,26 +1,26 @@
 [
   {
     "heading": "Today",
-    "text": "Patchy fog early, then sunshine, mixing with clouds.\u00a0 Warm.",
-    "temperature": "80 to 85",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
+    "text": "Sunshine, mixing with clouds.\u00a0 Scattered showers, thunderstorms increasing in NY, localized in VT later.\u00a0 Warm, muggy.",
+    "temperature": "80s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/thunderstorm_sun.png"
   },
   {
-    "heading": "Wednesday Night",
-    "text": "Partly cloudy, warm, and increasing humid.",
-    "temperature": "60 to 70, warmest near Lake Champlain",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_night.png"
-  },
-  {
-    "heading": "Thursday",
-    "text": "Partly sunny. A chance of afternoon showers or storms, mainly Green Mountains and west.",
-    "temperature": "Mid to upper 80s.",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
+    "heading": "Thursday Night",
+    "text": "Localized evening showers, storms, then partly cloudy. Warm, very humid.",
+    "temperature": "60s to 70",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/thunderstorm_partly_cloudy_night.png"
   },
   {
     "heading": "Friday",
-    "text": "Mix of sun and clouds. Chance of afternoon showers.",
-    "temperature": "Mid to upper 80s.",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
+    "text": "Partly sunny. Slight chance of an afternoon showers or storm. Very warm, very humid.",
+    "temperature": "80s to 90.",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
+  },
+  {
+    "heading": "Saturday",
+    "text": "Mix of sun and clouds. A good chance of showers, thunderstorms north, scattered south.",
+    "temperature": "80s.",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/thunderstorm_sun.png"
   }
 ]
