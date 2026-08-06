@@ -1,26 +1,26 @@
 [
   {
-    "heading": "Today",
-    "text": "Sunshine, mixing with clouds.\u00a0 Scattered showers, thunderstorms increasing in NY, localized in VT later.\u00a0 Warm, muggy.",
-    "temperature": "80s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/thunderstorm_sun.png"
-  },
-  {
-    "heading": "Thursday Night",
-    "text": "Localized evening showers, storms, then partly cloudy. Warm, very humid.",
+    "heading": "Tonight",
+    "text": "Localized evening showers, storms, then partly cloudy. Warm and humid.",
     "temperature": "60s to 70",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/thunderstorm_partly_cloudy_night.png"
   },
   {
     "heading": "Friday",
-    "text": "Partly sunny. Slight chance of an afternoon showers or storm. Very warm, very humid.",
+    "text": "Partly sunny. Slight chance of afternoon showers or a storm. Very warm and humid.",
     "temperature": "80s to 90.",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   },
   {
     "heading": "Saturday",
-    "text": "Mix of sun and clouds. A good chance of showers, thunderstorms north, scattered south.",
+    "text": "A good chance of showers, thunderstorms north, scattered south.",
     "temperature": "80s.",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/thunderstorm_sun.png"
+  },
+  {
+    "heading": "Sunday",
+    "text": "Chance of a stray shower or thunderstorm.",
+    "temperature": "80s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Iso_Tstorm_day.png"
   }
 ]
