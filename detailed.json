@@ -1,14 +1,14 @@
 [
   {
+    "heading": "Today",
+    "text": "Morning clouds, with any early showers or a thunderstorm northeast giving way to periods of sun.  Localized afternoon showers and thunderstorms.  Warm and humid.  Highs in the low to mid 80s, near 80 over the higher terrain north.  Winds light, becoming south near 10 mph from the Green Mountains west."
+  },
+  {
     "heading": "Tonight",
-    "text": "Rain showers and spotty thunderstorms developing overnight. Some patches of valley fog. Mild and muggy. Lows in the 60s to near 70. Calm wind."
+    "text": "Scattered evening showers or thunderstorms, more likely north, diminishing overnight.  Periods of clouds, and some patches of fog.  Mild and muggy.  Lows in the low to mid 60s.  Winds light, becoming south to southwest near 10 mph through the Champlain Valley."
   },
   {
-    "heading": "Saturday",
-    "text": "Morning clouds, with a few localized showers and thunderstorms, then additional scattered showers and storms developing in the afternoon. Warm and humid. Highs ranging through the 80s. Light southwest wind."
-  },
-  {
-    "heading": "Saturday Night",
-    "text": "Scattered evening showers or thunderstorms with some patchy valley fog. Humid. Lows in the 60s, nearing 70 along Lake Champlain. Calm wind."
+    "heading": "Sunday",
+    "text": "A few spotty morning showers or a thunderstorm north, isolated in the afternoon.  Partly to mostly sunny, warm, and still humid.  Highs in the low to mid 80s, a few upper 70s over the higher terrain north.  Winds light, becoming southwest to west near 10 mph."
   }
 ]
