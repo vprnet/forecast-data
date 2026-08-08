@@ -1,26 +1,26 @@
 [
   {
-    "heading": "Today",
-    "text": "Early showers, then partly sunny. Warm, humid, with localized afternoon showers and storms.",
-    "temperature": "80s.",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/thunderstorm_sun.png"
-  },
-  {
-    "heading": "Saturday Night",
-    "text": "Scattered showers, thunderstorms, more likely north. Muggy.",
+    "heading": "Tonight",
+    "text": "Localized showers, thunderstorms, brief downpours, then partly cloudy, stuffy.",
     "temperature": "60s.",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/thunderstorm_partly_cloudy_night.png"
   },
   {
     "heading": "Sunday",
-    "text": "Partly sunny. A stray shower or thunderstorm.",
-    "temperature": "80s",
+    "text": "A stray shower east. Partly sunny, warm, not as humid.",
+    "temperature": "80s.",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Iso_Tstorm_day.png"
   },
   {
     "heading": "Monday",
-    "text": "Partly sunny. A rising chance of showers and thunderstorms west.",
+    "text": "Partly sunny. A shower or thunderstorm west late.",
     "temperature": "Upper 70s and 80s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/thunderstorm_sun.png"
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Iso_Tstorm_day.png"
+  },
+  {
+    "heading": "Tuesday",
+    "text": "A few local morning showers. Becoming partly sunny, not as warm and humid.",
+    "temperature": "70s to low 80s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
   }
 ]
