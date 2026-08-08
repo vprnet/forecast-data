@@ -1,14 +1,18 @@
 [
   {
-    "heading": "Today",
-    "text": "Morning clouds, with any early showers or a thunderstorm northeast giving way to periods of sun.  Localized afternoon showers and thunderstorms.  Warm and humid.  Highs in the low to mid 80s, near 80 over the higher terrain north.  Winds light, becoming south near 10 mph from the Green Mountains west."
-  },
-  {
     "heading": "Tonight",
-    "text": "Scattered evening showers or thunderstorms, more likely north, diminishing overnight.  Periods of clouds, and some patches of fog.  Mild and muggy.  Lows in the low to mid 60s.  Winds light, becoming south to southwest near 10 mph through the Champlain Valley."
+    "text": "Scattered evening showers or thunderstorms, more likely north, diminishing overnight. Periods of clouds, and some patches of fog. Mild and muggy. Lows in the low to mid 60s. Winds light, becoming south to southwest near 10 mph through the Champlain Valley."
   },
   {
     "heading": "Sunday",
-    "text": "A few spotty morning showers or a thunderstorm north, isolated in the afternoon.  Partly to mostly sunny, warm, and still humid.  Highs in the low to mid 80s, a few upper 70s over the higher terrain north.  Winds light, becoming southwest to west near 10 mph."
+    "text": "A few spotty morning showers or a thunderstorm north, isolated in the afternoon. Partly to mostly sunny, warm, and still humid. Highs in the low to mid 80s, a few upper 70s over the higher terrain north. Winds light, becoming southwest to west near 10 mph."
+  },
+  {
+    "heading": "Sunday Night",
+    "text": "Clearing, with some high cloud returning late. Not as muggy. Lows in the upper 50s and 60s. Winds northwest less than 10 mph, becoming light and variable."
+  },
+  {
+    "heading": "Monday",
+    "text": "Morning sun mixed with clouds. More afternoon clouds with a rising chance of afternoon showers or a thunderstorm west of the Green Mountains. A little less humid. Highs in the upper 70s and 80s. Winds light, mainly south less than 10 mph."
   }
 ]
