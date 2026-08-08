@@ -1,15 +1,15 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Partly cloudy, muggy.\u00a0 Increasing chance of a few showers or storms.",
-    "temperature": "60s to 70.",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/thunderstorm_partly_cloudy_night.png"
-  },
-  {
-    "heading": "Saturday",
-    "text": "A good chance of showers, with a chance of storms.",
+    "heading": "Today",
+    "text": "Early showers, then partly sunny. Warm, humid, with localized afternoon showers and storms.",
     "temperature": "80s.",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/thunderstorm_sun.png"
+  },
+  {
+    "heading": "Saturday Night",
+    "text": "Scattered showers, thunderstorms, more likely north. Muggy.",
+    "temperature": "60s.",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/thunderstorm_partly_cloudy_night.png"
   },
   {
     "heading": "Sunday",
@@ -19,8 +19,8 @@
   },
   {
     "heading": "Monday",
-    "text": "An increasing chance of showers and thunderstorms.",
-    "temperature": "80s",
+    "text": "Partly sunny. A rising chance of showers and thunderstorms west.",
+    "temperature": "Upper 70s and 80s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/thunderstorm_sun.png"
   }
 ]
