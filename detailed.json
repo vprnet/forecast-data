@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Sunday Night",
-    "text": "Clearing, with some high cloud returning to the north late. Not as muggy. Lows in the upper 50s and 60s. Winds northwest less than 10 mph, becoming light and variable."
-  },
-  {
     "heading": "Monday",
-    "text": "Morning sun mixed with high clouds. More afternoon clouds with a rising chance of scattered afternoon showers or a thunderstorm over New York and southern Ontario, spreading over the Green Mountains in the evening. Rain heaviest north of Route 4 after dark. Less humid. Highs in the upper 70s and 80s. Winds light, mainly south less than 10 mph."
+    "text": "Partly cloudy northwest, more sunshine southeast. Morning sun mixed with high clouds. More afternoon clouds with a rising chance of scattered afternoon showers or a thunderstorm over New York and southern Ontario, spreading over the Green Mountains in the evening. Rain heaviest north of Route 4 after dark. Less humid. Highs in the upper 70s and 80s. Winds light, mainly south less than 10 mph."
   },
   {
     "heading": "Monday Night",
     "text": "Scattered showers or thunderstorms becoming likely north, with a rising chance south. Rain tapering off around midnight, after in the southeast. Lows in the low to mid 60s."
+  },
+  {
+    "heading": "Tuesday (Primary Day)",
+    "text": "A few lingering early morning showers otherwise mostly cloudy then clouds begin to break up becoming partly sunny by the afternoon. Less warm, highs in the mid 70s to low 80s. West winds shifting northwest, picking up to 8-10 mph."
   }
 ]
