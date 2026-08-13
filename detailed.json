@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Partly cloudy. Chance of showers or a thunderstorm. Highs from the mid 70s to lower 80s. West to northwest winds 5 to 10 mph."
-  },
-  {
-    "heading": "Tonight",
+    "heading": "Thursday Night",
     "text": "Variable clouds early, then clearing. Chance of early showers and storms north, mainly northeast, and slight chance to the south. Patchy valley fog late. Lows in the mid to upper 50s south and in the Champlain Valley, low to mid 50s elsewhere north. Northwest winds 5 to 10 mph, gusting to 15 mph in the Champlain Valley, all diminishing late."
   },
   {
     "heading": "Friday",
-    "text": "Patchy valley fog early; otherwise mostly sunny or becoming so. Highs from the mid 70s to around 80 in the south, and in the broad valleys north, low to mid 70s elsewhere north. Northwest winds 5 to 10 mph, gusting to 20 mph."
+    "text": "Patchy valley fog early; otherwise mostly to partly sunny. Slight chance of an afternoon shower in New York, and in the central and southern Greens late. Highs from the mid 70s to around 80 in the south, and in the broad valleys north, low to mid 70s elsewhere north. Northwest winds 5 to 10 mph, gusting to 20 mph."
+  },
+  {
+    "heading": "Friday Night",
+    "text": "Slight chance of a an early shower in the southern Greens and Berkshires; otherwise mainly clear or becoming so. Areas of valley fog late. Lows from the upper 40s to mid 50s, with some upper 50s near Lake Champlain and low to mid 40s in northern cold hollows. Northwest winds 5 to 10 mph early, then becoming light and variable."
   }
 ]
