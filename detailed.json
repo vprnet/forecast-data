@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Areas of dense valley fog burning off to sunshine, mixed with clouds. A few stray showers or an isolated thunderstorm possible.  Highs from 70 to 80 north to south.  Winds light, becoming northwest, then more northerly near 10 mph, a few gusts to 20 mph."
-  },
-  {
     "heading": "Tonight",
-    "text": "Any evening clouds or stray showers giving way to clearing.  Valley fog developing later at night.  Lows in the 50s, some 40s in the cooler mountain valleys.  Winds diminishing to light and variable."
+    "text": "Skies clearing with some valley fog developing overnight. Lows in the 50s, some 40s in the cooler mountain valleys. Wind becoming light and variable."
   },
   {
     "heading": "Saturday",
-    "text": "Some morning valley fog, then mostly sunny and pleasantly cool.  Highs in the 70s.  Winds light, mainly northwest less than 10 mph."
+    "text": "Morning fog burning off to mostly sunny skies. Highs from the mid to upper 70s, nearing 80 in the warmest valleys. Light northwest wind."
+  },
+  {
+    "heading": "Saturday Night",
+    "text": "Mostly clear, with a few clouds moving in overnight. Patchy valley fog developing before dawn. Lows in the low to mid 50s, a few 40s in the cooler valleys. Light and variable wind."
   }
 ]
