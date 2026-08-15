@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Skies clearing with some valley fog developing overnight. Lows in the 50s, some 40s in the cooler mountain valleys. Wind becoming light and variable."
-  },
-  {
-    "heading": "Saturday",
+    "heading": "Today",
     "text": "Morning fog burning off to mostly sunny skies. Highs from the mid to upper 70s, nearing 80 in the warmest valleys. Light northwest wind."
   },
   {
-    "heading": "Saturday Night",
+    "heading": "Tonight",
     "text": "Mostly clear, with a few clouds moving in overnight. Patchy valley fog developing before dawn. Lows in the low to mid 50s, a few 40s in the cooler valleys. Light and variable wind."
+  },
+  {
+    "heading": "Sunday",
+    "text": "Morning fog burning off to partly sunny skies, then clouds quickly moving in from the west, with rain showers to follow. Highs in the mid to upper 70s, nearing 80 in the warmer valleys. Light south wind."
   }
 ]
