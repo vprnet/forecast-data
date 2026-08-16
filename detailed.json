@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Increasing cloud cover through the afternoon. Highs from the mid to upper 70s, nearing 80 in the warmer valleys. Light south wind."
-  },
-  {
     "heading": "Tonight",
     "text": "Rain showers spreading east overnight. Chance for a few rumbles of thunder. Lows from the low to mid 60s, a few 50s in the cooler mountain valleys. South wind at 5 to 10 mph."
   },
   {
     "heading": "Monday",
     "text": "Rain showers, becoming more scattered west to east in the afternoon with a few thunderstorms possible. Highs from the mid to upper 70s. Light south wind turning northwest near 10 mph."
+  },
+  {
+    "heading": "Monday Night",
+    "text": "Partly cloudy west, mostly cloudy east. Any evening showers coming to an end overnight, with patchy river valley fog developing. Lows from the upper 50s to low 60s. Wind diminishing to calm."
   }
 ]
