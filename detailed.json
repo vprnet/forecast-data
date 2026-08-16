@@ -1,14 +1,14 @@
 [
   {
+    "heading": "Today",
+    "text": "Morning fog burning off to partly sunny skies, then clouds moving in from the west. Highs from the upper 70s to near 80. Light south wind."
+  },
+  {
     "heading": "Tonight",
-    "text": "Mostly clear, with a few clouds moving in overnight. Patchy valley fog developing before dawn. Lows from the upper 40s to low 50s. Light and variable wind."
-  },
-  {
-    "heading": "Sunday",
-    "text": "Morning fog burning off to partly sunny skies, then clouds moving in from the west. Highs from the upper 70s tonear 80. Light south wind."
-  },
-  {
-    "heading": "Sunday Night",
     "text": "Rain showers developing in the west, then spreading east overnight. Lows in the 50s to near 60. Light and variable wind."
+  },
+  {
+    "heading": "Monday",
+    "text": "Morning showers, becoming more scattered west to east in the afternoon with the chance of spotty thunderstorms. Highs from the mid to upper 70s. Light wind turning northwest near 10 mph."
   }
 ]
