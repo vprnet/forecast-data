@@ -1,13 +1,7 @@
 [
   {
-    "heading": "Today",
-    "text": "Increasing clouds, a few late day showers.",
-    "temperature": "Mid to upper 70s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/mostly_cloudy.png"
-  },
-  {
     "heading": "Tonight",
-    "text": "Rain showers developing.",
+    "text": "Rain showers spreading east.",
     "temperature": "5os to near 60",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain_night.png"
   },
@@ -22,5 +16,11 @@
     "text": "Mostly sunny.",
     "temperature": "Upper 70s to low 80s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
+  },
+  {
+    "heading": "Wednesday",
+    "text": "Showers north of Route 4. Afternoon storms possible.",
+    "temperature": "Upper 70s to mid 80s.",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain.png"
   }
 ]
