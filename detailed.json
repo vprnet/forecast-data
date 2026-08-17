@@ -1,14 +1,14 @@
 [
   {
+    "heading": "Today",
+    "text": "Mostly cloudy, muggy and mild. Scattered morning showers, mostly north, then hit or miss showers and thunderstorms by late morning in Quebec and NY, spreading southeast in the afternoon. Highs in the 70s. Winds south 10 to 15 mph, gusting to 25 mph through the Champlain Valley, shifting to the west and diminishing to near 10 mph."
+  },
+  {
     "heading": "Tonight",
-    "text": "Rain showers spreading east overnight. Chance for a few rumbles of thunder. Lows from the low to mid 60s, a few 50s in the cooler mountain valleys. South wind at 5 to 10 mph."
+    "text": "Scattered evening showers, or an isolated thunderstorm, tapering off. Partial clearing west of the Green Mountains. Some patchy valley fog developing later at night. Lows in the mid 50s to mid 60s. Winds diminishing to light and variable."
   },
   {
-    "heading": "Monday",
-    "text": "Rain showers, becoming more scattered west to east in the afternoon with a few thunderstorms possible. Highs from the mid to upper 70s. Light south wind turning northwest near 10 mph."
-  },
-  {
-    "heading": "Monday Night",
-    "text": "Partly cloudy west, mostly cloudy east. Any evening showers coming to an end overnight, with patchy river valley fog developing. Lows from the upper 50s to low 60s. Wind diminishing to calm."
+    "heading": "Tuesday",
+    "text": "Areas of low clouds and patchy fog giving way to increasing sunshine. More clouds and a few stray showers in NH. Highs in the 70s to low 80s. Winds light and variable."
   }
 ]
