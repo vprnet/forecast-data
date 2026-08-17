@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Spotty rain showers with hit or miss thunderstorms possible in the afternoon. Highs from the mid to upper 70s. Light south wind."
-  },
-  {
     "heading": "Tonight",
     "text": "Rain showers diminishing west to east overnight, with patchy river valley fog developing. Lows from the upper 50s to mid-60s north to south. Wind diminishing to calm."
   },
   {
     "heading": "Tuesday",
     "text": "Partly cloudy skies in the morning, then increasing sunshine. Highs from the upper 70s north to low 80s south. Light and variable wind."
+  },
+  {
+    "heading": "Tuesday Night",
+    "text": "Mostly clear, with a few passing clouds overnight. Lows from the mid to upper 50s, nearing 60 along Lake Champlain. Calm wind."
   }
 ]
