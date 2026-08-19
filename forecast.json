@@ -1,13 +1,7 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Chance of a shower or storm north, slight chance south to Route 4.",
-    "temperature": "Mainly upper 70s to lower 80s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Iso_Tstorm_day.png"
-  },
-  {
-    "heading": "Tonight",
-    "text": "A stray evening shower or storm near and north of Route 4.",
+    "heading": "Wednesday Night",
+    "text": "Chance of early showers or storms, mainly far north.",
     "temperature": "Mid 50s to around 60",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Iso_Tstorm_night.png"
   },
@@ -15,12 +9,18 @@
     "heading": "Thursday",
     "text": "Chance of afternoon showers in the south, mainly far south.",
     "temperature": "Mainly mid to upper 70s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
   },
   {
     "heading": "Friday",
     "text": "Mostly sunny.",
-    "temperature": "Mid 70s to lower 80s",
+    "temperature": "Upper 70s to lower 80s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
+  },
+  {
+    "heading": "Saturday",
+    "text": "Chance of a shower southeast.",
+    "temperature": "70 to 80, from south to north",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
   }
 ]
