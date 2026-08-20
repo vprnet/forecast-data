@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Partly to mostly cloudy. Chance of late-day showers near the Massachusetts border, slight chance north to Route 4. Highs from the mid 70s to around 80. Winds variable to west at around 5 mph."
-  },
-  {
-    "heading": "Tonight",
+    "heading": "Thursday Night",
     "text": "Chance of evening showers near and south of Route 4, except likely near the Massachusetts border; otherwise becoming mostly clear. Areas of valley fog. Lows from the upper 40s to mid 50s, with some mid 40s northeast and in the Adirondacks. Winds becoming light and variable."
   },
   {
     "heading": "Friday",
     "text": "Morning valley fog burning off, then mostly sunny and pleasant. Highs in the upper 70s to lower 80s. North to northeast winds 5 to 10 mph."
+  },
+  {
+    "heading": "Friday Night",
+    "text": "Mostly clear early, then come clouds late, mainly south. Lows from the upper 40s to mid 50s. Winds becoming light, variable to northeast."
   }
 ]
