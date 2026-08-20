@@ -1,8 +1,26 @@
 [
   {
+    "heading": "Thursday Night",
+    "text": "Evening showers south, mainly far south; then clearing with valley fog.",
+    "temperature": "Upper 40s and to mid 50s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_showers_night.png"
+  },
+  {
+    "heading": "Friday",
+    "text": "Mostly sunny after any early fog.",
+    "temperature": "Upper 70s to lower 80s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
+  },
+  {
     "heading": "Saturday",
-    "text": "Cloudy, chance of showers southeast.",
-    "temperature": "70 to 80, from south to north",
+    "text": "Chance of showers east.",
+    "temperature": "70s to around 80",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
+  },
+  {
+    "heading": "Sunday",
+    "text": "Chance of morning showers, a rising chance after noon.",
+    "temperature": "70s to around 80",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
   }
 ]
