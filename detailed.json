@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Morning valley fog burning off.  Mostly sunny, except some clouds through southeast VT into NH.  Highs in the 70s, some warmer valleys near 80.  Winds light, mainly north less than 10 mph."
-  },
-  {
     "heading": "Tonight",
-    "text": "Mostly clear north, with some increasing clouds late. Areas of valley fog.  Becoming cloudy south.  Lows in the 50s, some upper 40s north.  Winds light and variable."
+    "text": "Mostly clear north, with some clouds moving in from the south late. Patchy river valley fog developing. Lows in the 50s, some upper 40s north. Light and variable wind."
   },
   {
     "heading": "Saturday",
-    "text": "Any sun giving way to periods of clouds north. Cloudy south, with a chance of showers, mainly through MA into the southern counties of NH. Highs in the low 70s south, 70s to near 80 northwest.  Light winds becoming south to southeast near 10 mph."
+    "text": "Any sun giving way to periods of clouds north. Cloudy south, with a chance of showers. Highs in the low 70s south, in the mid-70s to near 80 as you head north. Light wind becoming south to southeast near 10 mph."
+  },
+  {
+    "heading": "Saturday Night",
+    "text": "Mostly cloudy, with a rising chance of scattered rain showers mainly south of Route 4. Lows from the upper 50s to near 60. Light wind."
   }
 ]
