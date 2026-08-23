@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Mostly cloudy, with a rising chance of rain showers mainly south of Route 4. Lows from the mid-50s to near 60. Light wind."
-  },
-  {
     "heading": "Sunday",
     "text": "Mostly cloudy. Scattered rain showers spreading north, with a chance of afternoon thunderstorms. Highs from the mid 70s to near 80. South wind near 10 mph."
   },
   {
     "heading": "Sunday Night",
     "text": "Mostly cloudy, with showers in the evening, becoming spotty overnight. Partial clearing late. Lows in the 50s to near 60. Southwest wind near 10 mph."
+  },
+  {
+    "heading": "Monday",
+    "text": "Partly cloudy south of Rt. 4, increasing clouds north with rain showers. Showers spreading in the afternoon with a chance of thunderstorms. Cooler. Highs from the mid to upper 70s. Southwest wind near 10 mph."
   }
 ]
