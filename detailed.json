@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Sunday",
-    "text": "Mostly cloudy. Scattered rain showers spreading north. A chance of afternoon thunderstorms spreading from northern New York across the Greens this evening. Highs from the mid 70s to near 80. South wind near 10 mph."
-  },
-  {
     "heading": "Sunday Night",
-    "text": "Mostly cloudy, with showers in the evening, becoming spotty overnight. Chance of storms after dark. Partial clearing late. Lows in the 50s to near 60. Southwest wind near 10 mph."
+    "text": "Mostly cloudy, with showers in the evening, becoming spotty overnight. Chance of storms before dark with isolated risk of strong winds. Partial clearing late. Lows in the 50s to near 60. Southwest wind near 10 mph."
   },
   {
     "heading": "Monday",
     "text": "Partly cloudy south of Rt. 4, increasing clouds north with rain showers. Showers spreading in the afternoon with a chance of thunderstorms. Cooler. Highs from the mid to upper 70s. Southwest wind near 10 mph."
+  },
+  {
+    "heading": "Monday Night",
+    "text": "Periods of clouds north with any showers tapering off, mostly clear south. Lows from the low to mid 50s, a few 40s in the cooler mountain valleys."
   }
 ]
