@@ -1,26 +1,26 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Evening storms, petering out before midnight.",
-    "temperature": "50s to near 60",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/thunderstorm_partly_cloudy_night.png"
-  },
-  {
-    "heading": "Monday",
-    "text": "Periods of sun, chance of evening showers.",
-    "temperature": "Mid to upper 70s",
+    "heading": "Today",
+    "text": "Some morning sun, then more afternoon clouds north, with scattered showers or a spotty thunderstorm.7",
+    "temperature": "0s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/thunderstorm_sun.png"
   },
   {
+    "heading": "Monday Night",
+    "text": "Localized evening showers north, and again late in NY. Partly cloudy south.",
+    "temperature": "50s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_showers_night.png"
+  },
+  {
     "heading": "Tuesday",
-    "text": "Mixed clouds with passing showers.",
-    "temperature": "Low to mid-70s",
+    "text": "Partly sunny south. Clouds, breaks of sun, with passing showers north.",
+    "temperature": "Low to mid 70s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
   },
   {
     "heading": "Wednesday",
-    "text": "Clouds decreasing, becoming sunny.",
-    "temperature": "Mid 70s to near 80",
+    "text": "Clouds breaking for increasing sun.",
+    "temperature": "70s to near 80",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   }
 ]
