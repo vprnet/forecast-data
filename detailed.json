@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Partly to mostly cloudy. Chance of showers and thunderstorms, a rising chance mid to late afternoon; a severe storm possible. Highs from the mid 70s to lower 80s. South winds 5 to 15 mph, and gusting to 20 mph, except gusting to 30 mph in the Champlain Valley."
-  },
-  {
-    "heading": "Tonight",
+    "heading": "Thursday Night",
     "text": "Mostly cloudy, with areas of valley fog late. Showers and thunderstorms likely; a severe storm possible early. Lows in the upper 50s to lower 60s. South winds 5 to 15 mph, becoming west and diminishing late."
   },
   {
     "heading": "Friday",
     "text": "Areas of morning fog, then mostly to partly cloudy. Chance of showers, mainly from the Champlain Valley south and east; a rumble of thunder possible east of the Greens. Highs in the upper 70s to lower 80s, some lower 70s far north. West to northwest winds 5 to 10 mph."
+  },
+  {
+    "heading": "Friday Night",
+    "text": "Chance of an evening shower south of Route 4, otherwise clearing, with areas of valleys fog. Lows in the 40s to low 50s north, in the 50s south. North winds 5 to 10 mph early, then becoming light and variable."
   }
 ]
