@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Mostly clear, mixing with clouds from the west after midnight. Areas of river valley fog developing overnight. Lows ranging through the 50s. Light wind, becoming south near 10 mph west of the Greens."
-  },
-  {
     "heading": "Sunday",
-    "text": "Any morning fog giving way to a mix of sun and clouds. Increasing clouds north of Route 4 in the afternoon with the chance of passing showers. Highs in the 70s, some 80s in the warmer valleys. Southwest wind near 10 mph, gusting to 15 mph in the afternoon."
+    "text": "Any morning fog giving way to a mix of sun and clouds. Increasing clouds north of Route 4 with the chance of afternoon rain, a few strong storms in the Northeast Kingdom and Coos County. Highs in the 70s, some 80s in the warmer valleys. Southwest wind near 10 mph, gusting to 15 mph in the afternoon."
   },
   {
     "heading": "Sunday Night",
     "text": "Mostly cloudy with a good chance of rain showers north of Route 4, partly cloudy with a slight chance of showers south. Lows in the 50s. West wind diminishing overnight."
+  },
+  {
+    "heading": "Monday",
+    "text": "Chance of a stray morning shower, otherwise a mix of clouds and sun. Highs from the mid-70s far north, increasing into the low 80s in the warmer southern valleys. Light and variable wind."
   }
 ]
