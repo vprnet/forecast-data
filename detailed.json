@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Sunday",
-    "text": "Any morning fog giving way to a mix of sun and clouds. Increasing clouds north of Route 4 with the chance of afternoon rain, a few strong storms in the Northeast Kingdom and Coos County. Highs in the 70s, some 80s in the warmer valleys. Southwest wind near 10 mph, gusting to 15 mph in the afternoon."
-  },
-  {
     "heading": "Sunday Night",
-    "text": "Mostly cloudy with a good chance of rain showers north of Route 4, partly cloudy with a slight chance of showers south. Lows in the 50s. West wind diminishing overnight."
+    "text": "Mostly cloudy with rain showers ending north of Route 4, partly cloudy with a slight chance of showers south. Partial clearing with widespread fog developing, becoming dense in the valleys. Lows in the 50s. West wind diminishing overnight."
   },
   {
     "heading": "Monday",
-    "text": "Chance of a stray morning shower, otherwise a mix of clouds and sun. Highs from the mid-70s far north, increasing into the low 80s in the warmer southern valleys. Light and variable wind."
+    "text": "Chance of a stray morning shower, fog burning off by mid morning becoming mostly sunny, chance of late day showers from the southwest. Highs from the mid-70s far north, increasing into the low 80s in the warmer southern valleys. Light and variable wind."
+  },
+  {
+    "heading": "Monday Night",
+    "text": "Periods of clouds, with a chance of showers, mainly after midnight. Lows in the 50s to near 60."
   }
 ]
