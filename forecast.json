@@ -1,25 +1,25 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Slight chance of a shower.",
-    "temperature": "Upper 60s to mid 70s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
-  },
-  {
-    "heading": "Tonight",
-    "text": "Slight chance of an early shower.",
+    "heading": "Tuesday Night",
+    "text": "Mostly cloudy south; partly to mostly cloudy north.",
     "temperature": "Mid 50s to around 60",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_showers_night.png"
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/mostly_cloudy_night.png"
   },
   {
     "heading": "Wednesday",
-    "text": "A rising chance of afternoon showers, mainly in NY.",
+    "text": "Chance of afternoon showers in far northern New York.",
     "temperature": "Upper 60s to mid 70s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_rain.png"
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
+  },
+  {
+    "heading": "Wednesday Night",
+    "text": "Showers likely, with a few embedded storms.",
+    "temperature": "Mid 50s to around 60 east, upper 50s to mid 60s west",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/thunderstorm_partly_cloudy_night.png"
   },
   {
     "heading": "Thursday",
-    "text": "Scattered afternoon showers or a thunderstorm.",
+    "text": "Scattered showers or a thunderstorm.",
     "temperature": "Mainly low to mid 70s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain.png"
   }
