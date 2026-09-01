@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly cloudy, except partly cloudy far north. Chance of early showers far south; otherwise slight chance of a shower, mainly over high terrain. Highs in the low to mid 70s from Route 2 northward, upper 60s to lower 70s south of Route 2. East to southeast winds 5 to 10 mph."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Mostly cloudy south; partly to mostly cloudy north. Slight chance of an early shower, mainly over high terrain. Lows from the mid 50s to around 60. Winds becoming light and variable east of the Greens, becoming \u00a0south to southeast 5 to 15 mph from the Green Mountains westward."
+    "heading": "Tuesday Night",
+    "text": "Mostly cloudy south; partly to mostly cloudy north. Lows from the mid 50s to around 60. Winds becoming light and variable east of the Greens, becoming \u00a0south to southeast 5 to 15 mph from the Green Mountains westward."
   },
   {
     "heading": "Wednesday",
-    "text": "Partly to mostly cloudy. Chance of drizzle over high terrain, from the Green Mountains eastward; otherwise a rising chance of showers mid to late afternoon in far northern New York, chance farther east near the Qu\u00e9bec border. Highs from the upper 60s to mid 70s. Southeast winds 5 to 15 mph, becoming south and gusting to 30 mph in the Champlain Valley."
+    "text": "Partly to mostly cloudy. Chance of drizzle over high terrain, from the Green Mountains eastward; otherwise a chance of showers mid to late afternoon in far northern New York, and a slight chance farther east near the Qu\u00e9bec border. Highs from the upper 60s to mid 70s. Southeast winds 5 to 15 mph, becoming south and gusting to 30 mph in the Champlain Valley."
+  },
+  {
+    "heading": "Wednesday Night",
+    "text": "Mostly cloudy. Showers likely, with a few embedded thunderstorms. Lows from the mid 50s to around 60 east of the Greens, upper 50s to mid 60s west. South to southeast winds 5 to 15 mph, gusting to 25 mph."
   }
 ]
