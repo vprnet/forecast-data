@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly cloudy. A rising chance of showers and thunderstorms in the St. Lawrence Valley, slight chance farther south in New York, and farther east near the Qu\u00e9bec border. Highs from the upper 60s to mid 70s; some upper 70s in the Champlain and St. Lawrence valleys. Southeast winds 5 to 15 mph, becoming south and gusting to 30 mph in the Champlain Valley."
-  },
-  {
-    "heading": "Tonight",
+    "heading": "Wednesday Night",
     "text": "Mostly cloudy. Showers likely, with a few embedded thunderstorms. Lows from the mid 50s to around 60 east of the Greens, upper 50s to mid 60s west. South to southeast winds 5 to 15 mph, gusting to 25 mph."
   },
   {
     "heading": "Thursday",
-    "text": "Mostly to partly cloudy. Scattered morning showers or a rumble of thunder, becoming widely scattered in the afternoon. Highs from the upper 60s to mid 70s, except mid 70s to around 80 in the Champlain and St. Lawrence valleys. South to southeast winds 5 to 10 mph, becoming southwest in areas west of the Greens."
+    "text": "Mostly to partly cloudy. Scattered morning showers or a rumble of thunder, becoming widely scattered in the afternoon. Highs from the upper 60s to mid 70s, except mid 70s to around 80 in the Champlain and St. Lawrence valleys. South to southwest winds 5 to 10 mph."
+  },
+  {
+    "heading": "Thursday Night",
+    "text": "Chance of an evening shower, mainly in the northern mountains, then partial clearing, except remaining mostly cloudy northeast. Patchy valley fog. Lows from the upper 50s to mid 60s. Southwest winds 5 to 10 mph, becoming west and diminishing."
   }
 ]
