@@ -1,15 +1,15 @@
 [
   {
-    "heading": "Today",
-    "text": "Mostly cloudy, a chance of showers late in NY and Quebec.",
-    "temperature": "70s, near 70 in NH",
+    "heading": "This Afternoon",
+    "text": "Rising chance of showers mid to late afternoon, mainly in the St. Lawrence Valley.",
+    "temperature": "Mainly upper 60s to mid 70s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
   },
   {
     "heading": "Wednesday Night",
-    "text": "Rain and showers, maybe some thunder.",
-    "temperature": "50s to near 60",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain_night.png"
+    "text": "Showers likely, with a few thunderstorms.",
+    "temperature": "Around 60",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/thunderstorm_partly_cloudy_night.png"
   },
   {
     "heading": "Thursday",
