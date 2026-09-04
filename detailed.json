@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Increasing clouds with a few localized showers mainly north of Route 2. Highs ranging through the 70s. Light northwest wind from 5 to 15 mph."
-  },
-  {
     "heading": "Tonight",
     "text": "Partly cloudy south, mostly cloudy north, with any evening showers coming to an end. Valley fog developing overnight. Lows in the 50s. Light northwest wind, diminishing overnight."
   },
   {
     "heading": "Saturday",
     "text": "Morning fog burning off to a mix of sun and clouds. A few scattered rain showers developing in the afternoon. Highs in the 60s to near 70 north, increasing into the mid 70s south. Light north wind, increasing to 10 mph in the afternoon."
+  },
+  {
+    "heading": "Saturday Night",
+    "text": "A good chance of rain showers east of the Greens, slight chance west. Some patchy valley fog developing overnight. Lows in the 40s to low 50s. North wind diminishing overnight."
   }
 ]
