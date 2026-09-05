@@ -6,20 +6,20 @@
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/04/showers_night.png"
   },
   {
-    "heading": "Saturday Night",
-    "text": "Periods of clouds, scattered showers spreading south.",
-    "temperature": "40s to low 50s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/04/showers_night.png"
-  },
-  {
     "heading": "Sunday",
-    "text": "Patchy fog, an early shower, then increasing sun.",
-    "temperature": "Upper 60s to mid 70s",
+    "text": "Morning clouds, a few showers south, then increasing sun.",
+    "temperature": "60s to low 70s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
   },
   {
-    "heading": "Monday",
-    "text": "Morning fog, then mostly sunny skies.",
+    "heading": "Monday, Labor Day",
+    "text": "Morning valley fog, then mostly sunny.",
+    "temperature": "Upper 60s to mid 70s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
+  },
+  {
+    "heading": "Tuesday",
+    "text": "Morning clouds, a sprinkle or shower north, then mostly sunny.",
     "temperature": "70s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   }
