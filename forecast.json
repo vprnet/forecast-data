@@ -1,11 +1,5 @@
 [
   {
-    "heading": "Today, Labor Day",
-    "text": "Dense valley fog through mid-morning, then mostly sunny.",
-    "temperature": "70s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
-  },
-  {
     "heading": "Monday Night",
     "text": "Mainly clear south. Increasing clouds north, a spotty shower far north late.",
     "temperature": "Upper 40s to mid 50s",
@@ -22,5 +16,11 @@
     "text": "Becoming mostly cloudy. Rain and showers spreading east, mainly afternoon from VT east.",
     "temperature": "Low to mid 70s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain.png"
+  },
+  {
+    "heading": "Thursday",
+    "text": "Morning showers south with partial clearing. A few showers north.",
+    "temperature": "70s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   }
 ]
