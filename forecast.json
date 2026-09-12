@@ -1,26 +1,26 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Sun, mixing with afternoon clouds south.",
-    "temperature": "70s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
-  },
-  {
-    "heading": "Saturday Night",
+    "heading": "Tonight",
     "text": "Showers, mostly after midnight, from the Hudson and Champlain Valleys east, scattered west.",
     "temperature": "50s to near 60.",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain_night.png"
   },
   {
     "heading": "Sunday",
-    "text": "Early showers east and south. A glimpse of sun. Scattered afternoon showers north.",
+    "text": "Morning showers east and south. A glimpse of sun. Scattered afternoon showers or thunderstorms northwest.",
     "temperature": "Mid to upper 70s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/thunderstorm_sun.png"
   },
   {
     "heading": "Monday",
-    "text": "A spotty shower north, then partly to mostly sunny.",
-    "temperature": "60s to low 70s.",
+    "text": "A spotty morning shower north.\u00a0 Increasing sun, breezy, cooler.",
+    "temperature": "60s to low 70s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
+  },
+  {
+    "heading": "Tuesday",
+    "text": "Partly sunny.",
+    "temperature": "Upper 60s and 70s.",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   }
 ]
