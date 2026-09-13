@@ -1,11 +1,5 @@
 [
   {
-    "heading": "Sunday",
-    "text": "Morning showers east and south. A glimpse of sun. Scattered afternoon showers or thunderstorms northwest.",
-    "temperature": "Mid to upper 70s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/thunderstorm_sun.png"
-  },
-  {
     "heading": "Tonight",
     "text": "Scattered showers, a few thunderstorms before midnight, then tapering off.",
     "temperature": "50s, a few 40s.",
@@ -21,6 +15,12 @@
     "heading": "Tuesday",
     "text": "Partly sunny.",
     "temperature": "Upper 60s and 70s.",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
+  },
+  {
+    "heading": "Wednesday",
+    "text": "Sunny then clouds spreading east in the afternoon. Less cool.",
+    "temperature": "Mid to upper 70s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   }
 ]
