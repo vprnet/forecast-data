@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Sunday",
-    "text": "Morning showers through NH, and from St. Johnsbury, Rutland, and Lake George south ending. Periods of clouds, limited sun, with scattered afternoon showers or a thunderstorm in the Adirondacks, spreading east to the northern Green Mountains late. Highs in the 70s. Winds south, shifting to the southwest near 10 mph east, and 10 to 15 mph from the Green Mountains west."
-  },
-  {
     "heading": "Sunday Night",
-    "text": "Scattered showers or a thunderstorm, reaching southeast VT and southern NH after midnight, and tapering off northwest, giving way to partial clearing. Lows in the 50s. Winds west near 10 mph, becoming light and variable in wind-sheltered valleys."
+    "text": "Scattered showers or a thunderstorm spreading into Vermont early then reaching NH around midnight, and tapering off northwest, giving way to partial clearing. Lows in the 50s. Winds west near 10 mph, becoming light and variable in wind-sheltered valleys."
   },
   {
     "heading": "Monday",
-    "text": "Partly sunny, with a few localized, passing morning showers north, and becoming mostly sunny south. Breezy and cool. Highs in the 60s north, to near 70 south. Winds becoming northwest 10 to 15 mph, gusting to 25 mph from the Green Mountains east."
+    "text": "Fog and a few passing morning showers, and becoming mostly sunny south. Breezy and cool. Highs in the 60s north, to near 70 south. Northwest winds increase to around 10, over 15 around Lake Champlain, gusting to 25 mph."
+  },
+  {
+    "heading": "Monday Night",
+    "text": "Mostly clear and chilly. Areas of dense river valley fog. Lows in the 40s, with a few 30s in the colder mountain valleys. Calm winds."
   }
 ]
