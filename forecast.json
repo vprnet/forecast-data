@@ -1,15 +1,15 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Showers, mostly after midnight, from the Hudson and Champlain Valleys east, scattered west.",
-    "temperature": "50s to near 60.",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain_night.png"
-  },
-  {
     "heading": "Sunday",
     "text": "Morning showers east and south. A glimpse of sun. Scattered afternoon showers or thunderstorms northwest.",
     "temperature": "Mid to upper 70s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/thunderstorm_sun.png"
+  },
+  {
+    "heading": "Tonight",
+    "text": "Scattered showers, a few thunderstorms before midnight, then tapering off.",
+    "temperature": "50s, a few 40s.",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain_night.png"
   },
   {
     "heading": "Monday",
