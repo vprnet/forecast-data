@@ -1,20 +1,20 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Scattered showers, a few thunderstorms before midnight, then tapering off.",
-    "temperature": "50s, a few 40s.",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain_night.png"
+    "heading": "Today",
+    "text": "A stray morning shower in NH. Becoming partly sunny north, mostly sunny south.",
+    "temperature": "60 to 70 north to south.",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   },
   {
-    "heading": "Monday",
-    "text": "A spotty morning shower north.\u00a0 Increasing sun, breezy, cooler.",
-    "temperature": "60s to low 70s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
+    "heading": "Monday Night",
+    "text": "Clear, chilly. Dense valley fog. Isolated frost north",
+    "temperature": "mid 30s to mid 40s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/clear_night_fog.png"
   },
   {
     "heading": "Tuesday",
-    "text": "Partly sunny.",
-    "temperature": "Upper 60s and 70s.",
+    "text": "Early valley fog. Mostly sunny, some afternoon clouds north.",
+    "temperature": "Upper 60s to 70.",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   },
   {
