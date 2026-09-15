@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly sunny southeast, otherwise sun filtering through gradually increasing high clouds. High temperatures in the upper 60s to lower 70s. South winds 5 to 10 mph."
-  },
-  {
-    "heading": "Tonight",
+    "heading": "Tuesday Night",
     "text": "Partly cloudy south. Partly to mostly cloudy north, with the slight chance of a shower from the northern Greens westward. Lows mainly in the 50s, with some upper 40s in the cooler hollows, and some lower 60s in the Champlain Valley. South winds around 5 mph in areas east of the Greens, 5 to 10 mph in the west, and gusting to 25 mph in the Champlain Valley."
   },
   {
     "heading": "Wednesday",
-    "text": "Partly cloudy. Highs from the upper 60s to mid 70s, mid to upper 70s southeast, and in the broad valleys west. Winds from the south at 5 to 10 mph, gusting to 20 mph in the Champlain Valley."
+    "text": "Partly cloudy. Highs in the low to mid 70s, mid to upper 70s southeast, and in the broad valleys west. Winds from the south at 5 to 10 mph, gusting to 20 mph in the Champlain Valley."
+  },
+  {
+    "heading": "Wednesday Night",
+    "text": "Partly cloudy. Lows from the mid 50s to lower 60s, some lower 50s far north. Winds becoming light, variable to north."
   }
 ]
