@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Variable clouds. Highs in the mid to upper 70s. South to southwest winds 5 to 10 mph."
-  },
-  {
-    "heading": "Tonight",
+    "heading": "Wednesday Night",
     "text": "Partly to mostly cloudy. Lows from the mid 50s to lower 60s, some lower 50s far north. Winds becoming light, variable to north."
   },
   {
     "heading": "Thursday",
-    "text": "Mostly cloudy. Slight chance of a morning shower, then becoming likely in the afternoon, near and south of Route 2, chance to the north. Highs in the low to mid 70s, mid to upper 70s far south. Winds light and variable."
+    "text": "Mostly cloudy. Slight chance of a morning shower in the Hudson Valley, then scattered in the afternoon from the Champlain Valley south and east, most numerous from Route 4 southward. Highs from the upper 60s to mid 70s. Winds light and variable."
+  },
+  {
+    "heading": "Thursday Night",
+    "text": "Mostly cloudy. Scattered early showers from the Champlain Valley south and east, tapering off. Lows from the mid 50s to around 60, cooler hollows in the lower 50s. Winds becoming northwest 5 to 10 mph."
   }
 ]
