@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Partly cloudy. Chilly, with areas of river valley fog. Some isolated frost in the cold spots. Lows in the upper 30s to low 40s, low 30s possible in the cold spots north. Wind diminishing to light and variable."
-  },
-  {
-    "heading": "Saturday",
+    "heading": "Today",
     "text": "Valley fog burning off by mid-morning. Mostly sunny and cool. Highs in the upper 50s to mid 60s. Light wind, mainly north up to 10 mph."
   },
   {
-    "heading": "Saturday Night",
+    "heading": "Tonight",
     "text": "Mostly clear in the evening, then increasing cloud cover overnight. Chance of a few showers moving into southwestern Vermont. Lows in the upper 30s to mid 40s, coolest in the northeast. Light and variable wind."
+  },
+  {
+    "heading": "Sunday",
+    "text": "Showers developing in the south and west then spreading east and north. Cool. Highs from the upper 50s to mid 60s. Wind becoming south at 5 to 10 mph."
   }
 ]
