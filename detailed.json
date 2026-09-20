@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Mostly clear in the evening, then increasing cloud cover overnight. Lows in the upper 30s to mid 40s, coolest in the northeast. Light and variable wind."
-  },
-  {
     "heading": "Sunday",
-    "text": "Showers developing in the west in the early morning then spreading east by midday. Cool. Highs in the 50s. Wind becoming south at 5 to 10 mph."
+    "text": "Showers developing in the west in the early morning, some sun northeast, then rain spreading east by midday. Cooler. Highs in the 50s few upper 40s north. Wind becoming south at 5 to 10 mph, gusting over 20 through the Champlain Valley."
   },
   {
     "heading": "Sunday Night",
     "text": "Scattered showers north, steady showers south, retreating overnight. Lows in the low to mid 40s, a few 30s possible in the cold spots."
+  },
+  {
+    "heading": "Monday",
+    "text": "A mix of sun and clouds. Highs from the upper 50s to low 60s, mid to upper 60s in the southern valleys. North wind increasing to 5 to 10 mph."
   }
 ]
