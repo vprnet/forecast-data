@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Areas of low clouds and some fog lifting for periods of sun, increasing north, giving way to more clouds south. Rather cool. Highs from the mid 50s to mid 60s north to south. Winds becoming north 10 to 15 mph, gusting to 25 mph through the Champlain Valley, decreasing through the afternoon."
-  },
-  {
     "heading": "Tonight",
     "text": "Partly cloudy, with more periods of clouds south overnight. Cool, with patchy valley fog north. Some isolated frost in the cold spots. Lows in the upper 30s to low 40s, mid 30s in the cold spots north. Winds north near 10 mph."
   },
   {
     "heading": "Tuesday",
     "text": "Patches of valley fog north. Morning clouds south, then increasing afternoon sun. Increasing sun north, mostly sunny through the afternoon. Not quite as cool. Highs in the low to mid 60s, a few upper 50s far north. Winds light, mainly north up to 10 mph."
+  },
+  {
+    "heading": "Tuesday Night",
+    "text": "Mostly clear north, with a few periods of high clouds south. Patches of river valley fog. Scattered frost in the cold spots. Lows in the 30s to low 40s. Winds diminishing to light and variable."
   }
 ]
