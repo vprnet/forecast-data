@@ -1,11 +1,5 @@
 [
   {
-    "heading": "Today",
-    "text": "Areas of low clouds and fog lifting for some sun north, more clouds south. Rather cool breezes.",
-    "temperature": "Mid 50s to mid 60s north to south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/mostly_cloudy.png"
-  },
-  {
     "heading": "Monday Night",
     "text": "Periods of clouds, thinner north, with isolated frost.",
     "temperature": "Mid 30s to mid 40s",
@@ -21,6 +15,12 @@
     "heading": "Wednesday",
     "text": "Morning valley fog, then sunny, a few clouds south",
     "temperature": "60s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/sunny.png"
+  },
+  {
+    "heading": "Thursday",
+    "text": "Fog then becoming sunny. Clouds south late.",
+    "temperature": "Mid to upper 60s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   }
 ]
