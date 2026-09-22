@@ -7,20 +7,20 @@
   },
   {
     "heading": "Tonight",
-    "text": "Mostly clear, chilly. Scattered frost. Dense river valley fog late.",
+    "text": "Mostly clear and chilly. Areas of valley fog late.",
     "temperature": "30s to low 40s, around 30 in cold spots",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/clear_night_fog.png"
   },
   {
     "heading": "Wednesday",
-    "text": "Morning valley fog, then sunny, a few clouds south",
-    "temperature": "60s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/sunny.png"
+    "text": "Morning valley fog, then mostly sunny.",
+    "temperature": "Low to mid 60s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   },
   {
     "heading": "Thursday",
-    "text": "Fog then becoming sunny. Clouds south late.",
-    "temperature": "Mid to upper 60s",
+    "text": "Mostly sunny after any early fog; some clouds south late.",
+    "temperature": "Mid 60s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   }
 ]
