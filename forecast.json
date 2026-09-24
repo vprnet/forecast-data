@@ -1,26 +1,26 @@
 [
   {
-    "heading": "Wednesday Night",
-    "text": "Clear skies with valley fog and scattered frost.",
-    "temperature": "30s to lower 40s, mid to upper 20s in the cold spots",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/clear_night_fog.png"
+    "heading": "Today",
+    "text": "Dense valley fog early, then sunshine.",
+    "temperature": "60s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/sunny.png"
   },
   {
-    "heading": "Thursday",
-    "text": "Mostly sunny after any early fog.",
-    "temperature": "Mid 60s to around 70",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
+    "heading": "Thursday Night",
+    "text": "Mostly clear, then some high clouds in NH, spreading west to VT. Patchy valley fog.",
+    "temperature": "Mid 30s to mid 40s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_night.png"
   },
   {
     "heading": "Friday",
-    "text": "Mostly to partly sunny. Chance of late-day showers far south.",
+    "text": "Sun, mixing with clouds in NY, fading through clouds in VT and NH.",
     "temperature": "Mid 60s to around 70",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   },
   {
     "heading": "Saturday",
-    "text": "Rising chance of showers south and east, chance north and west.",
-    "temperature": "Mainly low to mid 60s",
+    "text": "Showers becoming likely Rt. 4 and White Mountains south, a chance north.",
+    "temperature": "Upper 50s south to mid 60s north",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_rain.png"
   }
 ]
