@@ -1,19 +1,19 @@
 [
   {
-    "heading": "Thursday Night",
-    "text": "Clear to partly cloudy.",
-    "temperature": "Mainly mid 30s to lower 40s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_night.png"
-  },
-  {
-    "heading": "Friday",
-    "text": "Patchy fog early, then mostly to partly sunny.",
-    "temperature": "Upper 60s to mid 70",
+    "heading": "Today",
+    "text": "Areas of valley fog early. Lots of sun, fading behind high clouds east and south.",
+    "temperature": "60s to low 70s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   },
   {
+    "heading": "Friday Night",
+    "text": "Periods of clouds, thinner north, thicker south.",
+    "temperature": "40s to near 50",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/mostly_cloudy_night.png"
+  },
+  {
     "heading": "Saturday",
-    "text": "A rising chance of showers; chance late from the Champlain Valley north and west.",
+    "text": "Showers becoming likely south of Rt. 4 and White Mountains, a chance north in the afternoon.",
     "temperature": "Upper 50s to mid 60s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_rain.png"
   },
