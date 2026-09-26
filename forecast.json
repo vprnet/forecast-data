@@ -1,26 +1,26 @@
 [
   {
-    "heading": "Today",
-    "text": "Showers becoming likely south of Rt. 4 and White Mountains, a chance north in the afternoon.",
-    "temperature": "Upper 50s to mid 60s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_rain.png"
-  },
-  {
     "heading": "Tonight",
-    "text": "Showers south of Rt. 4, scattered north. Gusty",
+    "text": "Showers south of Rt. 4, scattered north. Gusty.",
     "temperature": "40s to low 50s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain_night.png"
   },
   {
     "heading": "Sunday",
-    "text": "Showers likely south and east, chance north and west.",
+    "text": "Showers likely south, lesser chances north. Gusty.",
     "temperature": "Mainly upper 50s to mid 60s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_rain.png"
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain.png"
   },
   {
     "heading": "Monday",
     "text": "Rain south of Route 2.",
     "temperature": "Upper 50s south to mid-60s north",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain.png"
+  },
+  {
+    "heading": "Tuesday",
+    "text": "Showers becoming more scattered west to eat.",
+    "temperature": "60s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_rain.png"
   }
 ]
