@@ -1,11 +1,5 @@
 [
   {
-    "heading": "Sunday",
-    "text": "Showers likely south, lesser chances north. Gusty.",
-    "temperature": "Mainly upper 50s to mid 60s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain.png"
-  },
-  {
     "heading": "Tonight",
     "text": "Scattered showers Rt. 4 south, few north. Breezy.",
     "temperature": "40s to low 50s",
@@ -22,5 +16,11 @@
     "text": "Showers becoming more scattered west to eat.",
     "temperature": "60s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_rain.png"
+  },
+  {
+    "heading": "Wednesday",
+    "text": "Sunny then clouds increasing over the border.",
+    "temperature": "Mainly upper 50s to mid 60s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   }
 ]
