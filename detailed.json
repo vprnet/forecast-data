@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Morning showers north diminishing.  Showers spreading north in the afternoon.  Cool.  Highs in the upper 50s to near 60 east, low to mid 60s west.  Winds northeast near 10 mph, some gusts to 25 mph in southern NH, diminishing during this afternoon."
-  },
-  {
     "heading": "Tonight",
-    "text": "A chance of evening showers west of the Green Mountains, likely east, tapering off.  Areas of fog.  Lows in the 40s to low 50s.  Winds north to northeast up to 10 mph, becoming light and variable."
+    "text": "Mostly cloudy, rainwest of the Green Mountains tapering off early from southwest to northeast. Widespread areas of dense fog after dark. Lows in the 40s to low 50s. Winds north to northeast up to 10 mph, becoming light and variable."
   },
   {
     "heading": "Tuesday",
-    "text": "Morning clouds and patches of fog, with a spotty shower in NH.  Clouds giving way to increasing breaks of sun, especially in the St. Lawrence and northern Adirondacks.  Cool.  Highs in the low to mid 60s.  Winds light, mainly north less than 10 mph."
+    "text": "Morning clouds and areas of fog, with a spotty shower in NH until mid-morning. Cloudy, giving way to increasing breaks of sun by the evening, especially in the St. Lawrence and northern Adirondacks. Cool. Highs in the low to mid 60s. Winds light, mainly north less than 10 mph."
+  },
+  {
+    "heading": "Tuesday Night",
+    "text": "Clouds decreasing from the west becoming clear, fog developing in the valleys around midnight. Lows in the mid 40s to low 50s. Winds light and variable."
   }
 ]
