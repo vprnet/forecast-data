@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly cloudy. Patchy drizzle northeast, mainly over high terrain. Highs in the upper 50s to lower 60s, with some mid 60s possible in far southern valleys, and in the St. Lawrence Valley. North winds 5 to 10 mph."
-  },
-  {
-    "heading": "Tonight",
+    "heading": "Tuesday Night",
     "text": "Decreasing clouds. Areas of valley fog developing. Lows from the mid 40s to lower 50s. Winds becoming light and variable."
   },
   {
     "heading": "Wednesday",
     "text": "Areas of morning fog, then variable clouds north, and becoming mostly sunny in the south. Highs from the mid 60s to lower 70s. Light and variable winds east of the Greens, becoming south 5 to 10 mph in areas west of the Greens."
+  },
+  {
+    "heading": "Wednesday Night",
+    "text": "Partly cloudy. Lows in the upper 40s and 50s. Winds light, becoming south near 10 mph from the Green Mountains west."
   }
 ]
