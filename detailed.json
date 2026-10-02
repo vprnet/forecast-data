@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Morning showers from the Adirondacks and Rt. 4 north. Some sun south, the showers spreading south midday and afternoon, becoming scattered, while diminishing north.  Highs in the 60s north, and 70s south.  Winds south to southwest, gusting to 25 mph, shifting to the northwest less than 10 mph."
-  },
-  {
     "heading": "Tonight",
-    "text": "Any stray evening showers tapering off.  Gradual clearing north to south.  Turning cooler.  Lows in the 40s north, upper 30s over the higher terrain, near 50 south.  Winds northwest near 10 mph."
+    "text": "Any showers tapering off north to south, with gradual clearing. Cool. Lows in the 40s to near 50 in the south. Light northwest wind."
   },
   {
     "heading": "Saturday",
-    "text": "Sunshine, mixed with clouds north, especially over the higher terrain.  Cool.  Highs in the upper 50s to low 60s north, in the 60s south.  Winds northwest becoming north near 10 mph."
+    "text": "Mixed clouds in the morning, with more sunshine developing throughout the day. Highs in the upper 50s to low 60s north, in the 60s south. Light north wind."
+  },
+  {
+    "heading": "Saturday Night",
+    "text": "Mostly clear. Areas of valley fog, and some frost possible in the cold spots. Lows in the 30s to low 40s. Wind becoming light and variable."
   }
 ]
