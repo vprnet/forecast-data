@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Any showers tapering off north to south, with gradual clearing. Cool. Lows in the 40s to near 50 in the south. Light northwest wind."
-  },
-  {
-    "heading": "Saturday",
+    "heading": "Today",
     "text": "Mixed clouds in the morning, with more sunshine developing throughout the day. Highs in the upper 50s to low 60s north, in the 60s south. Light north wind."
   },
   {
-    "heading": "Saturday Night",
+    "heading": "Tonight",
     "text": "Mostly clear. Areas of valley fog, and some frost possible in the cold spots. Lows in the 30s to low 40s. Wind becoming light and variable."
+  },
+  {
+    "heading": "Sunday",
+    "text": "Sunshine, mixing with periods of clouds north. Cool. Highs in the low to mid 60s. Light wind turning south at 5 to 10 mph, stronger speeds over Lake Champlain."
   }
 ]
