@@ -1,11 +1,5 @@
 [
   {
-    "heading": "Today",
-    "text": "Partly to mostly sunny.",
-    "temperature": "55 to 60 north, 60s south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
-  },
-  {
     "heading": "Tonight",
     "text": "Mostly clear. Areas of valley fog, and frost.",
     "temperature": "30s to low 40s",
@@ -22,5 +16,11 @@
     "text": "Rain showers north, partly cloudy south.",
     "temperature": "50s north, 60s south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
+  },
+  {
+    "heading": "Tuesday",
+    "text": "Partly to mostly sunny.",
+    "temperature": "Upper 40s north, upper 50s south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   }
 ]
