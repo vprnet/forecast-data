@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Mostly clear. Areas of valley fog, and some frost possible in the cold spots. Lows in the 30s to low 40s, a few low 30s possible in the northeast. Wind becoming light and variable."
-  },
-  {
-    "heading": "Sunday",
+    "heading": "Today",
     "text": "Sunshine, mixing with periods of clouds. Cool. Highs in the low to mid 60s. Light wind turning south at 5 to 10 mph, stronger speeds over Lake Champlain."
   },
   {
-    "heading": "Sunday Night",
+    "heading": "Tonight",
     "text": "Becoming mostly cloudy. A chance of scattered showers late north of Route 2. Lows in the 40s to near 50. Light south wind, stronger over Lake Champlain."
+  },
+  {
+    "heading": "Monday",
+    "text": "Mostly cloudy north, with rain showers, becoming scattered in the afternoon with more sunshine. A mix of sun and clouds south. Cool. Highs in the 50s north, 60s south."
   }
 ]
