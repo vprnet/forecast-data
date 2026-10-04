@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Sunshine, mixing with periods of clouds. Cool. Highs in the low to mid 60s. Light wind turning south at 5 to 10 mph, stronger speeds over Lake Champlain."
-  },
-  {
     "heading": "Tonight",
-    "text": "Becoming mostly cloudy. A chance of scattered showers late north of Route 2. Lows in the 40s to near 50. Light south wind, stronger over Lake Champlain."
+    "text": "Becoming mostly cloudy. A good chance of rain showers developing overnight, mainly north of Route 4. Lows in the 40s to near 50. Light south wind, gusting to 20 mph along Lake Champlain."
   },
   {
     "heading": "Monday",
-    "text": "Mostly cloudy north, with rain showers, becoming scattered in the afternoon with more sunshine. A mix of sun and clouds south. Cool. Highs in the 50s north, 60s south."
+    "text": "Mostly cloudy north, with rain showers, becoming scattered in the afternoon. A mix of sun and clouds south. Cool. Highs in the 50s north, 60s south. Wind turning northwest at 10 to 15 mph, gusting 20 to 25 mph."
+  },
+  {
+    "heading": "Monday Night",
+    "text": "Mostly clear with a few clouds sticking around in the north. Cool. Lows in the 30s, near 30 in the cold spots."
   }
 ]
