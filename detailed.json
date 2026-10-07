@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly cloudy north; mostly to partly sunny south. Chance of a shower or sprinkle near the international border, slight chance south to around Route 2, mainly late in the day. Highs from the upper 50s to mid 60s, some mid 50s northeast and in the Adirondacks. Southwest winds 5 to 15 mph, gusting to 30 mph in the Champlain and St. Lawrence valleys."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Chance of showers from Route 2 northward, becoming likely after midnight, with a chance south to around Route 4. Lows from the mid 40s to lower 50s. Southwest winds 5 to 10 mph, becoming light in sheltered valleys east of the Green Mountains, and gusting to 20 mph in the Champlain Valley."
+    "heading": "Wednesday Night",
+    "text": "Mostly cloudy north, increasing clouds south. Chance of evening showers north, then likely overnight, mainly late; slight chance in the south. Lows from the mid 40s to lower 50s. Southwest winds 5 to 10 mph, becoming light in sheltered valleys east of the Green Mountains, and gusting to 20 mph in the Champlain Valley."
   },
   {
     "heading": "Thursday",
-    "text": "Partly to mostly cloudy with scattered showers; chance of a thunderstorm from the northern Greens eastward. Highs in the low to mid 60s, with some upper 60s possible in southeastern valleys. Southwest winds 5 to 15 mph, gusting to 25 mph, and becoming west."
+    "text": "Partly to mostly cloudy with scattered showers; chance of a thunderstorm from the Adirondacks and Route 2 northward. Highs in the low to mid 60s, with some upper 60s possible in southeastern valleys. Southwest winds 5 to 15 mph, gusting to 25 mph, and becoming west."
+  },
+  {
+    "heading": "Thursday Night",
+    "text": "Chance of an evening shower north, otherwise variable clouds. Lows in the low to mid 40s south and in the Champlain Valley, mid 30s to lower 40s elsewhere north. West winds 5 to 10 mph."
   }
 ]
