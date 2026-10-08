@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Variable clouds north; partly to mostly sunny south. Scattered showers, except slight chance southeast. Highs in the low to mid 60s, with some upper 60s far south. Southwest winds 5 to 15 mph, gusting to 25 mph, and becoming west."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Clear to partly cloudy south. Variable clouds north, with the chance of an evening shower. Lows in the low to mid 40s south and in the Champlain Valley, mid 30s to lower 40s elsewhere north. West winds 5 to 10 mph."
+    "heading": "Thursday Night",
+    "text": "Mostly to partly cloudy. Chance of a shower, mainly north, except likely early from the northern Greens westward. Lows in the low to mid 40s south and in the Champlain Valley, mid 30s to lower 40s elsewhere north. West winds 5 to 10 mph."
   },
   {
     "heading": "Friday",
     "text": "Mostly cloudy north, variable clouds in the south. Widely scattered showers north, and in the southern Greens. Highs from the mid 50s to lower 60s, some lower 50s far north. West to northwest winds 5 to 15 mph, gusting to 25 mph."
+  },
+  {
+    "heading": "Friday Night",
+    "text": "Partly cloudy. Chance of an early shower north. Lows in the low to mid 40s south and in the Champlain Valley, 30s to around 40 elsewhere north, except mid to upper 20s in the cold hollows. Northwest winds 5 to 10 mph early, then diminishing to light and variable."
   }
 ]
