@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Variable clouds and sun.  A few spotty morning showers north.  Scattered afternoon showers in the Adirondacks, spreading southeast from I-89 north late.  Highs from low 50s to low 60s north to south.  Winds becoming northwest 10 to 15 mph, gusting 20 to 30 mph."
-  },
-  {
     "heading": "Tonight",
-    "text": "Localized evening showers, mostly north and east, tapering off.  Gradual clearing and cool.  Lows in the 30s to near 40, near 30 in the cold spots.  Northwest winds near 10 mph, diminishing to light overnight."
+    "text": "Any rain showers tapering off, and skies clearing. Lows in the 30s to near 40. Northwest wind near 10 mph, diminishing to calm overnight."
   },
   {
     "heading": "Saturday",
-    "text": "Sunny and seasonably cool.  Highs in the 50s to around 60 north, in the 60s south.  Winds light and variable."
+    "text": "Sunny and seasonably cool. Highs in the 50s north, in the 60s south. Light and variable wind."
+  },
+  {
+    "heading": "Saturday Night",
+    "text": "Mostly clear late, then clouds increasing south to north after midnight. Lows in the 30s to near 40, dipping to the 20s in the cold spots. Light and variable wind."
   }
 ]
