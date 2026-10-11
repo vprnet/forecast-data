@@ -1,11 +1,5 @@
 [
   {
-    "heading": "Sunday",
-    "text": "Chance of afternoon showers south, a rising chance late.",
-    "temperature": "Upper 50s to mid 60s, south to north, some upper 60s far north",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
-  },
-  {
     "heading": "Sunday Night",
     "text": "Widespread rain south, isolated north. Mild.",
     "temperature": "40s to around 50",
@@ -22,5 +16,11 @@
     "text": "Showers spreading from north to south.",
     "temperature": "Upper 50s to lower 60s, some mid 60s far south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_rain.png"
+  },
+  {
+    "heading": "Wednesday",
+    "text": "Spotty localized showers, breaks of sun.",
+    "temperature": "",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
   }
 ]
