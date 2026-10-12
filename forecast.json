@@ -1,11 +1,5 @@
 [
   {
-    "heading": "Today",
-    "text": "Clouds breaking for some sun Rt. 2 south. A chance of showers far north late.",
-    "temperature": "60 to 70 north to south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
-  },
-  {
     "heading": "Monday Night",
     "text": "Becoming cloudy. Rain developing north, steadiest north of I-89, increasing south late.",
     "temperature": "Upper 30s and 40s",
@@ -21,6 +15,12 @@
     "heading": "Wednesday",
     "text": "Clouds, a mountain shower, breaks of valley sun.",
     "temperature": "Upper 50s and 60s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
+  },
+  {
+    "heading": "Thursday",
+    "text": "Mix of sun and clouds, becoming sunny",
+    "temperature": "50s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
   }
 ]
