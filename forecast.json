@@ -1,26 +1,26 @@
 [
   {
-    "heading": "Today",
-    "text": "Showers become rain from I-89 north, briefly heavy. Showers south, more numerous after noon.",
-    "temperature": "40s and low 50s northeast, near 60 southwest",
+    "heading": "This Afternoon",
+    "text": "Rain likely north, a rising chance south.",
+    "temperature": "Upper 40s to lower 60s, northeast to southwest",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain.png"
   },
   {
     "heading": "Tuesday Night",
-    "text": "Rain and showers taper off.",
-    "temperature": "40s north, 50s south",
+    "text": "Showers early, then tapering off.",
+    "temperature": "Mid 40s to lower 50s east, mainly mid 50s to around 60 west",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/04/showers_night.png"
   },
   {
     "heading": "Wednesday",
-    "text": "Clouds, a mountain shower, breaks of valley sun.",
-    "temperature": "Upper 50s and 60s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
+    "text": "Chance of a shower, mainly early and over high terrrain.",
+    "temperature": "60s south, mainly mid 50s to around 60 north",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
   },
   {
     "heading": "Thursday",
-    "text": "Mix of sun and clouds, becoming sunny",
-    "temperature": "50s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
+    "text": "Decreasing clouds.",
+    "temperature": "Upper 40s to mid 50s north, mid 50s to around 60 south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   }
 ]
