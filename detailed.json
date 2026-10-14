@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly cloudy with the chance of s shower, except slight chance southeast, under increasing clouds. Temperatures from the mid 60s to lower 70s from Route 4 southward, upper 50s to mid 60s between Route 4 and Route 2, and low to mid 50s from Route 2 northward. West to northwest winds 5 to 10 mph, gusting to 15 mph."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Mostly cloudy with patches of drizzle and the slight chance of a shower, mainly in the northern mountains. Lows in the 40s. Winds becoming northwest 5 to 15 mph, and gusting to 25 mph."
+    "heading": "Wednesday Night",
+    "text": "Mostly cloudy with the chance of drizzle or a shower. Lows from the upper 30s to mid 40s, some mid 30s far north. Winds becoming northwest 5 to 15 mph, and gusting to 25 mph."
   },
   {
     "heading": "Thursday",
-    "text": "Decreasing clouds; becoming mostly sunny in southern valleys. Highs from the upper 40s to mid 50s north, and mid 50s to around 60 in the south. North to northwest winds 5 to 10 mph, gusting to 20 mph."
+    "text": "Clouds decreasing in the morning, variable in the afternoon. Highs from the upper 40s to mid 50s north, and mid 50s to around 60 in the south. North to northwest winds 5 to 10 mph, gusting to 20 mph in the morning."
+  },
+  {
+    "heading": "Thursday Night",
+    "text": "Becoming cloudy. Showers likely west of the Greens, a rising chance east. Lows in the mid to upper 30s, some lower 30s northeast. Winds becoming east to southeast a 5 to 10 mph."
   }
 ]
