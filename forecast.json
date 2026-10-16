@@ -1,14 +1,8 @@
 [
   {
-    "heading": "Today",
-    "text": "Morning rain. Windy, mild, scattered afternoon showers.",
-    "temperature": "50s north, 60s south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain.png"
-  },
-  {
-    "heading": "Friday Night",
-    "text": "Scattered showers, changing to a little snow north and mountains. Colder.",
-    "temperature": "30 to 40 north to south",
+    "heading": "Tonight",
+    "text": "Evening showers ending. A few snow showers north and mountains late. Colder.",
+    "temperature": "30s to near 40",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/winter_mix_showers_night.png"
   },
   {
@@ -19,8 +13,14 @@
   },
   {
     "heading": "Sunday",
-    "text": "Partly to mostly sunny.",
-    "temperature": "Low to mid 50s, some upper 40s northeast",
+    "text": "Mostly sunny, less wind, cool",
+    "temperature": "Upper 40s to mid 50s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
+  },
+  {
+    "heading": "Monday",
+    "text": "Mostly sunny.",
+    "temperature": "50s to near 60",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   }
 ]
