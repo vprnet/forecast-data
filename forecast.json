@@ -1,11 +1,5 @@
 [
   {
-    "heading": "Sunday",
-    "text": "Mostly sunny, less wind, not as chilly.",
-    "temperature": "Upper 40s and 50",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
-  },
-  {
     "heading": "Sunday Night",
     "text": "Clear but not so cold.",
     "temperature": "20s, near 30 north, 30s south",
@@ -20,7 +14,13 @@
   {
     "heading": "Tuesday",
     "text": "Mostly sunny.",
-    "temperature": "50s to near 60",
+    "temperature": "50s to low 60s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
+  },
+  {
+    "heading": "Wednesday",
+    "text": "Sunny.",
+    "temperature": "Mid 50s N, near 60 S",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/sunny.png"
   }
 ]
