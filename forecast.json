@@ -1,15 +1,15 @@
 [
   {
-    "heading": "Sunday Night",
-    "text": "Clear but not so cold.",
-    "temperature": "20s, near 30 north, 30s south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/09/Mostly_clear_night.png"
+    "heading": "Today",
+    "text": "Mostly sunny. A bit breezy in the Champlain Valley.",
+    "temperature": "50s to low 60s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   },
   {
-    "heading": "Monday",
-    "text": "Mostly sunny.",
-    "temperature": "50s to near 60.",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
+    "heading": "Monday Night",
+    "text": "Mostly clear.\u00a0 A few clouds north, and southeast late.",
+    "temperature": "30s to near 40.",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/09/Mostly_clear_night.png"
   },
   {
     "heading": "Tuesday",
