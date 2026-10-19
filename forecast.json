@@ -13,14 +13,14 @@
   },
   {
     "heading": "Tuesday",
-    "text": "Mostly sunny.",
-    "temperature": "50s to low 60s",
+    "text": "Mostly sunny, with a few clouds north.",
+    "temperature": "50s north, near 60 south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   },
   {
     "heading": "Wednesday",
     "text": "Sunny.",
-    "temperature": "Mid 50s N, near 60 S",
+    "temperature": "Mid 50s north, near 60 south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/sunny.png"
   }
 ]
