@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "A few morning clouds, then mostly sunny skies. Highs in the 50s, nearing 60 in the warmer valleys. Light and variable wind."
-  },
-  {
     "heading": "Tonight",
     "text": "Mostly clear. Lows from the mid-20s to near 30, mid-30s along Lake Champlain. Calm wind."
   },
   {
     "heading": "Sunday",
-    "text": "Mostly sunny. Highs from the mid 50s to near 60 north, in the low to mid 60s south. Calm wind."
+    "text": "Mostly sunny. Highs from the upper 50s to near 60 north, in the low to mid 60s south. Calm wind."
+  },
+  {
+    "heading": "Sunday Night",
+    "text": "Mostly clear south, a few passing clouds north. Lows in the 30s, nearing 40 in the Saint Lawrence Valley. Light and variable wind."
   }
 ]
