@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Sunday",
-    "text": "Mostly sunny. Highs from the upper 50s to near 60 north, in the low to mid 60s south. Calm wind."
-  },
-  {
     "heading": "Sunday Night",
     "text": "Mostly clear south, clouds building over northern New York and the St. Lawrence Valley. Lows in the 30s, nearing 40 around Lake Champlain, a few 20s far south. Light and variable wind."
   },
   {
     "heading": "Monday",
-    "text": "Increasing clouds cover north with the chance of spotty rain showers, partly cloudy south. Highs from the upper 50s north increasing into the mid-60s south. West winds increasing in the afternoon, between 5 to 10 mph."
+    "text": "Increasing clouds cover north with the chance of spotty rain showers, partly cloudy south. Highs from the upper 50s north increasing into the mid-60s south."
+  },
+  {
+    "heading": "Monday Night",
+    "text": "Partly cloudy early, then clearing around midnight. Lows from the upper 20s to low 30s."
   }
 ]
