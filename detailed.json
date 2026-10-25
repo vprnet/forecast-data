@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Mostly clear. Lows from the mid-20s to near 30, mid-30s along Lake Champlain. Calm wind."
-  },
-  {
     "heading": "Sunday",
     "text": "Mostly sunny. Highs from the upper 50s to near 60 north, in the low to mid 60s south. Calm wind."
   },
   {
     "heading": "Sunday Night",
     "text": "Mostly clear south, a few passing clouds north. Lows in the 30s, nearing 40 in the Saint Lawrence Valley. Light and variable wind."
+  },
+  {
+    "heading": "Monday",
+    "text": "Mostly sunny south of Route 4, increasing cloud cover north with the chance of spotty rain showers. Highs from the upper 50s north increasing into the mid-60s south."
   }
 ]
