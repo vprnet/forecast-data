@@ -1,26 +1,26 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Mostly clear, clouds spreading into the northwest.",
-    "temperature": "30s to near 40",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/clear_night.png"
+    "heading": "Today",
+    "text": "Partly sunny south. Any sun giving way to clouds north. A few showers from the Adirondacks and Rt. 2 north.",
+    "temperature": "Mid 50s to mid 60s north to south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
   },
   {
-    "heading": "Monday",
-    "text": "Mostly sunny south, a few clouds north.",
-    "temperature": "Mid to upper 50s north and mid 60s south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
+    "heading": "Monday Night",
+    "text": "Gradual clearing, colder, north to south.",
+    "temperature": "20s north, 30 to 35 south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_night.png"
   },
   {
     "heading": "Tuesday",
     "text": "Sunny.",
-    "temperature": "Mid-40s north to mid-50s south",
+    "temperature": "40s north, 50 to 55 south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/sunny.png"
   },
   {
     "heading": "Wednesday",
-    "text": "Mix of icy high clouds and sun.",
-    "temperature": "50s North to south, upper 40s Northeast.",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
+    "text": "Mix of high clouds and sun.",
+    "temperature": "50s.",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   }
 ]
