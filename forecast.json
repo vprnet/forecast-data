@@ -1,26 +1,26 @@
 [
   {
-    "heading": "Today",
-    "text": "Partly sunny south. Any sun giving way to clouds north. A few showers from the Adirondacks and Rt. 2 north.",
-    "temperature": "Mid 50s to mid 60s north to south",
+    "heading": "This Afternoon",
+    "text": "Partly cloudy south; partly to mostly cloudy north, with the chance of a light shower.",
+    "temperature": "Lower 50 to mid 60s, north to south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
   },
   {
-    "heading": "Monday Night",
-    "text": "Gradual clearing, colder, north to south.",
-    "temperature": "20s north, 30 to 35 south",
+    "heading": "Tonight",
+    "text": "Gradual clearing.",
+    "temperature": "Mainly mid 20s to lower 30s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_night.png"
   },
   {
     "heading": "Tuesday",
-    "text": "Sunny.",
-    "temperature": "40s north, 50 to 55 south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/sunny.png"
+    "text": "Mostly sunny.",
+    "temperature": "Low to mid 50s south, mid 40s to around 50 north",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   },
   {
     "heading": "Wednesday",
-    "text": "Mix of high clouds and sun.",
-    "temperature": "50s.",
+    "text": "Sun filtering through high clouds.",
+    "temperature": "Low to mid 50s north, and mid to upper 50s south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   }
 ]
