@@ -1,20 +1,20 @@
 [
   {
-    "heading": "Monday Night",
-    "text": "Gradual clearing.",
-    "temperature": "Mainly mid 20s to lower 30s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_night.png"
+    "heading": "Today",
+    "text": "Sunshine, a bit breezy, and cool.",
+    "temperature": "40s north, 50 to 55 south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/sunny.png"
   },
   {
-    "heading": "Tuesday",
-    "text": "Mostly sunny.",
-    "temperature": "Valleys low to mid 50s south, mid 40s to around 50 north",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
+    "heading": "Tuesday Night",
+    "text": "Clear and cold, with some high clouds late.",
+    "temperature": "20s, teens in cold spots",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/09/Mostly_clear_night.png"
   },
   {
     "heading": "Wednesday",
-    "text": "Sun filtering through high clouds.",
-    "temperature": "Low to mid 50s north, mid to upper 50s south",
+    "text": "Sun filtered through high clouds.",
+    "temperature": "Upper 40s to low 50s north, mid to upper 50s south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   },
   {
