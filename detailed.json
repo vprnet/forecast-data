@@ -1,10 +1,6 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly to partly cloudy. Highs from the upper 40s to mid 50s. South winds 5 to 10 mph."
-  },
-  {
-    "heading": "Tonight",
+    "heading": "Wednesday Night",
     "text": " mainly around 5 mph, except 5 to 10 mph and gusting to 20 mph in the Champlain Valley."
   },
   {
@@ -14,5 +10,9 @@
   {
     "heading": "Thursday",
     "text": "Mostly sunny, except increasing afternoon clouds in the St. Lawrence Valley. Highs in the mid to upper 60s, some lower 60s northeast. South to southwest winds 5 to 15 mph, gusting to 25 mph from the Champlain Valley westward."
+  },
+  {
+    "heading": "Thursday Night",
+    "text": "Partly cloudy south. Becoming mostly cloudy north, with a chance of showers near the international border, slight chance down to around Route 2. Lows in the mid to upper 40s. South winds 5 to 10 mph, gusting to 20 mph west of the Greens."
   }
 ]
