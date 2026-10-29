@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly sunny, except increasing clouds in the St. Lawrence Valley. Highs from the mid 60s to around 70. South to southwest winds 5 to 15 mph, gusting to 30 mph from the Green Mountains westward."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Partly to mostly cloudy. Chance of showers near and north of Route 2, slight chance to south. Lows in the mid to upper 40s. South winds 5 to 10 mph, gusting to 20 mph west of the Greens."
+    "heading": "Thursday Night",
+    "text": "Partly to mostly cloudy. Chance of showers near and north of Route 2, slight chance to the south. Lows in the mid to upper 40s. South winds 5 to 10 mph, gusting to 20 mph west of the Greens."
   },
   {
     "heading": "Friday",
     "text": "Partly cloudy south. Mostly cloudy north, with a chance of sprinkles, mainly over high terrain. Highs in the low to mid 50s north, and upper 50s to lower 60s in the south, with some mid 60s possible in southeastern valleys. West to northwest winds 5 to 15 mph, gusting to 25 mph."
+  },
+  {
+    "heading": "Friday Night",
+    "text": "Partly cloudy south. Decreasing clouds north, with the slight chance of a shower northeast. Lows in the low to mid 30s, with some upper 30s in the broad valleys west, and some upper 20s northeast. Northwest winds 5 to 15 mph, gusting to 25."
   }
 ]
