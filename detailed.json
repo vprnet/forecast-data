@@ -1,18 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": " Morning clouds in the north diminishing by the afternoon, mostly sunny south. Highs in the 40s to near 50 north, in the low to mid 50s south. Northwest wind at 5 to 10 mph, occasionally gusting to 15 mph."
-  },
-  {
-    "heading": "Halloween",
-    "text": " Morning clouds in the north diminishing by the afternoon, mostly sunny south. Highs in the 40s to near 50 north, in the low to mid 50s south. Northwest wind at 5 to 10 mph, occasionally gusting to 15 mph."
-  },
-  {
     "heading": "Tonight",
-    "text": "Mostly clear. Lows ranging from the low 20s in the cooler valleys to near 30 over the higher hills, and along Lake Champlain. Winds diminishing to light and variable."
+    "text": "Mostly clear, with a few clouds sticking around in the northeast. Lows ranging from the low 20s in the cooler valleys to near 30 over the higher hills, and along Lake Champlain. Winds diminishing to light and variable."
   },
   {
     "heading": "Sunday",
     "text": "Mostly sunny. Highs from the mid to upper 50s, nearing 60 in the warmer southern valleys. Light wind turning east at 5 to 10 mph."
+  },
+  {
+    "heading": "Sunday Night",
+    "text": "Mostly clear late, then mixing with clouds overnight. Lows in the 30s in the cooler valleys, in the upper 30s to near 40 over the higher hills and along Lake Champlain. Calm wind."
   }
 ]
