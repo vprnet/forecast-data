@@ -1,10 +1,6 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Mostly cloudy north with the chance of a stray shower, partly clear south, with clouds clearing out overnight. Lows in the upper 20s to mid 30s. Northwest wind 10 to 15 mph, gusting 20 to 30 mph."
-  },
-  {
-    "heading": "Saturday",
+    "heading": "Today",
     "text": " Morning clouds in the north diminishing by the afternoon, mostly sunny south. Highs in the 40s to near 50 north, in the low to mid 50s south. Northwest wind at 5 to 10 mph, occasionally gusting to 15 mph."
   },
   {
@@ -12,7 +8,11 @@
     "text": " Morning clouds in the north diminishing by the afternoon, mostly sunny south. Highs in the 40s to near 50 north, in the low to mid 50s south. Northwest wind at 5 to 10 mph, occasionally gusting to 15 mph."
   },
   {
-    "heading": "Saturday Night",
+    "heading": "Tonight",
     "text": "Mostly clear. Lows ranging from the low 20s in the cooler valleys to near 30 over the higher hills, and along Lake Champlain. Winds diminishing to light and variable."
+  },
+  {
+    "heading": "Sunday",
+    "text": "Mostly sunny. Highs from the mid to upper 50s, nearing 60 in the warmer southern valleys. Light wind turning east at 5 to 10 mph."
   }
 ]
