@@ -1,26 +1,26 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Mostly clear.",
-    "temperature": "20s in the valleys, near 30 at higher elevations",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_cloudy_showers_night.png"
-  },
-  {
-    "heading": "Sunday",
+    "heading": "Today",
     "text": "Mostly sunny.",
-    "temperature": "Low to mid 50s north, mid 50s to lower 60s south",
+    "temperature": "50s, from low 50s northeast to 60 southwest",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   },
   {
+    "heading": "Sunday Night",
+    "text": "Mostly clear, with some clouds north late.",
+    "temperature": "30s, near 32 northeast. Low to mid 40s northwest",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/09/Mostly_clear_night.png"
+  },
+  {
     "heading": "Monday",
-    "text": "Sun & clouds, mostly cloudy north.",
-    "temperature": "50s to near 60 north, 60s south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
+    "text": "Partly sunny north. Early clouds then sun south.",
+    "temperature": "60s, some upper 50s northeast",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
   },
   {
     "heading": "Tuesday",
-    "text": "Partly cloudy.",
-    "temperature": "Upper 50s to 60s.",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
+    "text": "Mostly cloudy north, and filtered sun south. A few showers west and north of Lake Champlain.",
+    "temperature": "60s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny_showers.png"
   }
 ]
