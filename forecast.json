@@ -1,26 +1,26 @@
 [
   {
-    "heading": "Today",
-    "text": "A few morning clouds, then mostly sunny. Near-record warmth.",
-    "temperature": "Mid 60s to mid 70s",
+    "heading": "This Afternoon",
+    "text": "Mostly sunny.",
+    "temperature": "Mainly mid 70s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/08/Mostly_sunny.png"
   },
   {
-    "heading": "Wednesday Night",
-    "text": "Mostly clear. Increasing clouds after midnight.",
-    "temperature": "Mid 40s to mid 50s, coolest east.",
+    "heading": "Tonight",
+    "text": "Variable clouds. Chance of showers late in New York.",
+    "temperature": "Upper 40s to mid 50s east, mid 50s to around 60 west",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/09/Mostly_clear_night.png"
   },
   {
     "heading": "Thursday",
     "text": "Showers likely west, a rising chance east.",
-    "temperature": "Mainly in the mid to upper 60s",
+    "temperature": "Mainly mid to upper 60s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_rain.png"
   },
   {
     "heading": "Friday",
-    "text": "Chance of showers, mainly far south and far north.",
-    "temperature": "Upper 50s to mid 60s, north to south",
+    "text": "Chance of showers in southern NH; slight chance late in far northern NY.",
+    "temperature": "Upper 50s to mid 60s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
   }
 ]
