@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly sunny and unseasonably warm. Highs in the mid 70s, some upper 70s possible in the warmer valleys. South to southwest winds 5 to 15 mph, gusting to 25 mph in the Champlain Valley."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Clouds variable early, then increasing. Chance of showers late in New York. Lows from the upper 40s to mid 50s east of the Greens, mid 50s to around 60 west. South to southwest winds 5 to 10 mph, and gusting to 30 mph in the Champlain Valley."
+    "heading": "Wednesday Night",
+    "text": "Gradually increasing clouds. Chance of showers late in New York. Lows from the upper 40s to mid 50s east of the Greens, mid 50s to around 60 west. South to southwest winds 5 to 10 mph, and gusting to 30 mph in the Champlain Valley."
   },
   {
     "heading": "Thursday",
     "text": "Partly to mostly cloudy. Showers likely, more so in the morning west of the Greens, and in the afternoon east. Highs mainly in the mid to upper 60s. South to southwest winds 5 to 15 mph, gusting to 25 mph in the Champlain Valley."
+  },
+  {
+    "heading": "Thursday Night",
+    "text": "Mostly cloudy. Chance of showers west of the Greens, likely east. Lows from the mid 40s to lower 50s north, and low to mid 50s in the south, with some upper 50s possible far south. Southwest winds 5 to 10 mph, becoming west and diminishing."
   }
 ]
