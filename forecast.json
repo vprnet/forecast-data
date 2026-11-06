@@ -1,12 +1,6 @@
 [
   {
-    "heading": "Today",
-    "text": "Some breaks of sun west and north. Clouds, some afternoon rain southeast.",
-    "temperature": "60s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
-  },
-  {
-    "heading": "Friday Night",
+    "heading": "Tonight",
     "text": "Mostly cloudy. Rain and showers in the CT Valley and NH.",
     "temperature": "40s to low 50s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_rain_night.png"
@@ -19,8 +13,14 @@
   },
   {
     "heading": "Sunday",
-    "text": "Morning showers likely, tapering west to east. A glimpse of sun west.",
-    "temperature": "Mid 40s to mid 50s, north to south",
+    "text": "Morning showers likely, then becoming more scattered.",
+    "temperature": "40s northeast, 50s elsewhere",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
+  },
+  {
+    "heading": "Monday",
+    "text": "Rain showers north and over the mountains, chance south.",
+    "temperature": "40s north to 50s south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/moderate_rain.png"
   }
 ]
