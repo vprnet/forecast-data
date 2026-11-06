@@ -1,25 +1,25 @@
 [
   {
-    "heading": "Thursday Night",
-    "text": "Scattered evening showers, mainly north; areas of fog.",
-    "temperature": "Upper 40s to mid 50s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/04/showers_night.png"
-  },
-  {
-    "heading": "Friday",
-    "text": "Mostly cloudy. Chance of showers, mainly in southern NH.",
-    "temperature": "Upper 50s to upper 60s, north to south",
+    "heading": "Today",
+    "text": "Some breaks of sun west and north. Clouds, some afternoon rain southeast.",
+    "temperature": "60s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
   },
   {
+    "heading": "Friday Night",
+    "text": "Mostly cloudy. Rain and showers in the CT Valley and NH.",
+    "temperature": "40s to low 50s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_rain_night.png"
+  },
+  {
     "heading": "Saturday",
-    "text": "Showers likely from the Adirondacks and Route 4 southward, chance to the north.",
+    "text": "Morning showers east ending. Showers likely in NY, spreading east in the afternoon.",
     "temperature": "50s",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_rain.png"
   },
   {
     "heading": "Sunday",
-    "text": "Showers likely, decreasing west of the Greens after noon.",
+    "text": "Morning showers likely, tapering west to east. A glimpse of sun west.",
     "temperature": "Mid 40s to mid 50s, north to south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
   }
