@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Some patchy morning fog. Clouds, with a few breaks of sun.  A chance of showers in MA, southeast VT into southern NH, rain possible in the afternoon.  Highs in the 60s.  Light winds, mainly north 5 to 10 mph."
-  },
-  {
     "heading": "Tonight",
-    "text": "Mostly cloudy.  A chance of showers east of the Green Mountains, with periods of rain through the CT Valley and NH.  Lows in the 40s, near 50 far south.  Winds north to northwest up to 10 mph, diminishing to light overnight."
+    "text": "Mostly cloudy, with a chance of showers mainly east of the Greens. Lows in the 40s, near 50 far south. Light north wind."
   },
   {
     "heading": "Saturday",
-    "text": "Cloudy, with morning showers east ending.  Showers developing in NY, spreading east during the afternoon.  Highs in the 50s, closer to 60 south.  Winds becoming northeast near 10 mph."
+    "text": "Mostly cloudy, with rain showers. A brief period of midday clearing in the east, with additional showers in the afternoon. Highs in the 50s north, increasing to near 60 in the south. Wind turning northeast at 5 to 10 mph."
+  },
+  {
+    "heading": "Saturday Night",
+    "text": "Scattered to numerous showers. Cooler. Lows in the 30s, upper 30s and low 40s south. Light wind turning northwest near 10 mph."
   }
 ]
