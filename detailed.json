@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Mostly cloudy, with a chance of showers mainly east of the Greens. Lows in the 40s, near 50 far south. Light north wind."
-  },
-  {
-    "heading": "Saturday",
+    "heading": "Today",
     "text": "Mostly cloudy, with rain showers. A brief period of midday clearing in the east, with additional showers in the afternoon. Highs in the 50s north, increasing to near 60 in the south. Wind turning northeast at 5 to 10 mph."
   },
   {
-    "heading": "Saturday Night",
+    "heading": "Tonight",
     "text": "Scattered to numerous showers. Cooler. Lows in the 30s, upper 30s and low 40s south. Light wind turning northwest near 10 mph."
+  },
+  {
+    "heading": "Sunday",
+    "text": "Morning showers, becoming more scattered in the afternoon with some breaks of sun. Cooler. Highs in the 40s in the northeast, in the 50s elsewhere. Northwest wind near 10 mph."
   }
 ]
