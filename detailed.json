@@ -1,14 +1,18 @@
 [
   {
+    "heading": "Today",
+    "text": "Mostly cloudy, with intervals of sun south.  A rising chance of rain showers in the St. Lawrence Valley this morning, increasing and spreading east midday and afternoon from northern NY and Rt. 2 north, scattered south to Rt. 4.  Highs from the mid 40s to mid 50s north to south.  Winds becoming southwest 10 to 15 mph."
+  },
+  {
     "heading": "Tonight",
-    "text": "Mostly cloudy. A few localized drizzle north or flurries over the higher terrain. Lows in the 30s, near 30 across the higher elevations north, near 40 around Burlington. Winds northwest 10 to 15 mph, gusting 20 to 30 mph, diminishing to light overnight."
+    "text": "Numerous showers from the Adirondacks and Rt. 2 north, south through the Green Mountains, mixing with snow late.  Partly cloudy in southern valleys.  Lows in the 30s, near 32 north.  Winds becoming west 10 to 15 mph, gusting 20 to 30 mph."
   },
   {
-    "heading": "Tuesday",
-    "text": "Mostly cloudy, with occasional sun south. Rain showers in northern NY, spreading east in the afternoon, mixing with snow around the border. Highs in the upper 40s to mid 50s, some mid 40s far north.Winds becoming southwest near 10 mph, gusting 20 to 30 mph in the afternoon."
+    "heading": "Wednesday",
+    "text": "  Partly sunny in southern valleys.  Clouds from the Adirondacks and Rt. 4 north, breaking for some sun, mostly south of Rt. 2.  An isolated rain or snow showers in the mountains.  Highs from the low 40s to low 50s north to south.  Winds west to northwest near 10 mph, gusting to 20 mph east of the Green Mountains, diminishing in the afternoon."
   },
   {
-    "heading": "Tuesday Night",
-    "text": "Scattered to numerous showers from the Adirondacks and Rt. 2 north, south through the Green Mountains, mixing with snow then tapering off after midnight Partly cloudy in southern valleys. Lows in the 30s, a few 20s. Winds northwest near 10 mph."
+    "heading": "Veterans Day",
+    "text": "  Partly sunny in southern valleys.  Clouds from the Adirondacks and Rt. 4 north, breaking for some sun, mostly south of Rt. 2.  An isolated rain or snow showers in the mountains.  Highs from the low 40s to low 50s north to south.  Winds west to northwest near 10 mph, gusting to 20 mph east of the Green Mountains, diminishing in the afternoon."
   }
 ]
