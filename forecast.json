@@ -1,15 +1,9 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Partly to mostly cloudy.",
-    "temperature": "Mid 40s to around 50; low to mid 50s in far southern valleys",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/partly_sunny.png"
-  },
-  {
-    "heading": "Tonight",
+    "heading": "Wednesday Night",
     "text": "Chance of rain or snow showers from New York into southwestern Vermont late.",
     "temperature": "Upper 20s to mid 30s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/mostly_cloudy_night.png"
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/winter_mix_showers_night.png"
   },
   {
     "heading": "Thursday",
@@ -19,8 +13,14 @@
   },
   {
     "heading": "Friday",
-    "text": "Snow tapering to snow or rain showers.",
+    "text": "Early snow tapering to snow or rain showers.",
     "temperature": "Mid 30s to lower 40s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_snow.png"
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_rain_showers.png"
+  },
+  {
+    "heading": "Saturday",
+    "text": "Chance of snow showers, changing to rain showers in the valleys.",
+    "temperature": "30s north, upper 30s to lower 40s south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/clouds_sun_snow_rain.png"
   }
 ]
