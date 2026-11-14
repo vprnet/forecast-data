@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Mostly cloudy with the chance for a few snow showers after midnight north of Rt. 2. Cool. Lows in the 20s. Light and variable wind, with north wind at 10 to 15 mph over Lake Champlain."
-  },
-  {
-    "heading": "Saturday",
+    "heading": "Today",
     "text": "Chance of morning snow showers north of Route 2, with occasional pockets of sun south. Showers spreading south and mixing with snow through the afternoon. Highs in the 30s to near 40 north, in the low to mid 40s in the Champlain Valley and south. Light wind, becoming northwest at 5 to 10 mph."
   },
   {
-    "heading": "Saturday Night",
+    "heading": "Tonight",
     "text": "Scattered to numerous snow showers through the north and mountains, scattered in the southern valleys, with occasional clearing. Lows in the 20s to near 30. Northwest wind at 5 to 10 mph."
+  },
+  {
+    "heading": "Sunday",
+    "text": "Scattered morning snow showers in the north and mountains, becoming spotty snow or rain showers, mainly across the higher terrain. Dry with pockets of sun in the southern valleys. Highs in the 30s to near 40 north, in the low to mid 40s in the Champlain Valley and south. Northwest wind at 10 to 15 mph."
   }
 ]
