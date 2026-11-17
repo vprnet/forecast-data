@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly sunny, except partly cloudy in the Adirondacks and southern Greens. Highs from the upper 40s to mid 50s. South to southwest winds 5 to 10 mph, gusting to 15 mph in the Champlain Valley."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Increasing clouds. Lows in the upper 20s to lower 30s, except mid to upper 30s in the Champlain and St. Lawrence valleys. Winds becoming light and variable, except south 5 to 10 mph in the Champlain and St. Lawrence valleys."
+    "heading": "Tuesday Night",
+    "text": "Clouds increasing, gradually so in the south. Lows in the upper 20s to lower 30s, except mid to upper 30s in the Champlain and St. Lawrence valleys. Winds becoming light and variable, except south 5 to 10 mph in the Champlain and St. Lawrence valleys."
   },
   {
     "heading": "Wednesday",
-    "text": "Sun filtering through variable high clouds. Highs from the upper 40s to mid 50s, except mid to upper 50s in southeastern valleys. West to southwest winds 5 to 10 mph."
+    "text": "Sun filtering through variable high clouds. Highs from the upper 40s to mid 50s, except mid to upper 50s in southeastern valleys. West to southwest winds 5 to 10 mph, gusting to 15 mph in the Champlain and St. Lawrence valleys."
+  },
+  {
+    "heading": "Wednesday Night",
+    "text": "Partly cloudy. Lows in the upper 20s to lower 30s, except mid to upper 30s in the Champlain and St. Lawrence valleys. Winds becoming light and variable, except south 5 to 10 mph in the Champlain and St. Lawrence valleys."
   }
 ]
