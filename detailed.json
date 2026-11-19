@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly sunny in the south; partly to mostly sunny north. Highs in the upper 50s to lower 60s. Winds variable to southwest at around 5 mph east of the Greens, from the south to southwest 5 to 10 mph in areas west of the Greens, except gusting to 20 mph in the Champlain and St. Lawrence valleys."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Variable clouds. Lows from the upper 20s to mid 30s, except upper 30s to mid 40s in the broad valleys west. South to southwest winds decreasing to 5 mph or less, except 5 to 10 mph and gusting to 20 mph in the Champlain and St. Lawrence valleys."
+    "heading": "Thursday Night",
+    "text": "Variable high clouds. Lows from the upper 20s to mid 30s, except upper 30s to mid 40s in the broad valleys west, and some mid 20s in the cold hollows east. South to southwest winds decreasing to 5 mph or less, except 5 to 10 mph and gusting to 20 mph in the Champlain and St. Lawrence valleys."
   },
   {
     "heading": "Friday",
-    "text": "Mostly sunny, except partly cloudy from Route 2 northward. Highs from the mid 50s to lower 60s. Southwest winds 5 to 10 mph, becoming west in the afternoon."
+    "text": "Partly to mostly sunny. Highs from the mid 50s to lower 60s. Southwest winds 5 to 10 mph, becoming west in the afternoon."
+  },
+  {
+    "heading": "Friday Night",
+    "text": "Partly cloudy north; mainly clear south. Lows in the upper 20s lower 30s east of the Greens, and mainly mid to upper 30s west. Winds becoming light and variable."
   }
 ]
