@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "A few clouds in the northern mountains; otherwise mostly sunny. Highs in the upper 50s to lower 60s. Southwest winds 5 to 10 mph, gusting to 20 mph in the Champlain Valley, becoming west to northwest in the afternoon."
-  },
-  {
     "heading": "Tonight",
-    "text": "Partly cloudy north; mainly clear south. Lows in the upper 20s lower 30s east of the Greens, and mainly mid to upper 30s west. Winds becoming light and variable."
+    "text": "Mostly clear with a few passing clouds north. Lows in the low to mid 30s, near 40 along Lake Champlain. Calm wind."
   },
   {
     "heading": "Saturday",
-    "text": "Partly to mostly sunny. Highs from the mid 50s to around 60. Winds variable to south around 5 mph, except from the south at 5 to 10 mph and gusting to 15 mph in the Champlain Valley."
+    "text": "A few passing clouds in the morning, otherwise mostly sunny skies. Highs from the mid to upper 50s. Light and variable wind."
+  },
+  {
+    "heading": "Saturday Night",
+    "text": "Mostly clear late, with clouds moving in from the south overnight. Lows in the low to mid 30s, in the upper 30s to low 40s in the Champlain and Saint Lawrence Valleys. Light and variable wind."
   }
 ]
