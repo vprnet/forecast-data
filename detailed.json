@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly sunny skies. Highs from the upper 50s to low 60s. Light and variable wind."
-  },
-  {
     "heading": "Tonight",
     "text": "Mostly clear late, with clouds moving in from the south overnight. Lows from the upper 30s to low 40s. Light and variable wind."
   },
   {
     "heading": "Sunday",
-    "text": "Mostly cloudy, chance of rain showers along the VT MA border late in the day. Highs from the upper 50s, to near 60. Wind turning south at 5 to 10 mph."
+    "text": "Mostly cloudy, chance of rain showers mainly south of Route 2 late in the day. Highs from the upper 50s, to near 60. Wind turning south at 5 to 10 mph."
+  },
+  {
+    "heading": "Sunday Night",
+    "text": "Mostly cloudy. Rain showers spreading north overnight. Lows in the low to mid 40s. Wind becoming light and variable."
   }
 ]
