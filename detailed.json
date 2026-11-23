@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Mostly to partly sunny in the St. Lawrence Valley; otherwise clouds decreasing north and west, increasing south and east. Highs from the mid 50s to around 60, except low to mid 60s in southeastern valleys, and mid 40s to lower 50s in the Adirondacks and St. Lawrence Valley. West to northwest winds 5 to 15 mph, gusting to 25 mph."
-  },
-  {
-    "heading": "Tonight",
-    "text": "Partly cloudy north; becoming mainly clear south. Lows in the mid to upper 20s, with some lower 30s near Lake Champlain, and some lower 20s northeast and in the Adirondacks. Northwest winds 5 to 15 mph, gusting to 25 mph."
+    "heading": "Monday Night",
+    "text": "Partly cloudy north; becoming mainly clear south. Lows in the mid to upper 20s, with some lower 30s near Lake Champlain, and some lower 20s northeast and in the Adirondacks. Northwest winds 5 to 10 mph, gusting to 20 mph."
   },
   {
     "heading": "Tuesday",
     "text": "Mostly sunny south; variable clouds north. Valley highs from the mid 30s to around 40, some lower 30s northeast and in the Adirondacks. West to northwest winds 5 to 10 mph, gusting to 20 mph."
+  },
+  {
+    "heading": "Tuesday Night",
+    "text": "A few evening clouds, then mainly clear. Lows from the mid teens to lower 20s. Winds becoming light and variable."
   }
 ]
