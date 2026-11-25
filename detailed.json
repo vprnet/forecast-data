@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Sunny apart from some afternoon high clouds, mainly south. Highs from the mid 30s to around 40 north, and low to mid 40s in the south. Light and variable winds."
-  },
-  {
     "heading": "Tonight",
-    "text": "Clear to partly cloudy. Lows mainly from the mid teens to lower 20s. Winds remaining light and variable."
+    "text": "Partly cloudy, becoming mostly cloudy as clouds increase from the south overnight. Lows mainly from the mid teens to low 20s. Calm wind."
   },
   {
-    "heading": "Thursday",
-    "text": "Increasing clouds north. Mostly cloudy south, with a rising chance of precipitation mid to late afternoon in the south, of rain in the valleys, and rain or freezing rain at higher elevations. Valley highs in the low to mid 40s. Winds becoming east 5 to 15 mph, gusting to 35 mph late in the south."
+    "heading": "Thursday/ Thanksgiving",
+    "text": "Precipitation developing south in the afternoon, then spreading north. Freezing rain possible over higher elevations. Valley highs in the low to mid 40s, cooler over higher elevations. Wind becoming east at 5 to 10 mph north, stronger speeds south, with 35 mph gusts."
+  },
+  {
+    "heading": "Thursday Night",
+    "text": "Widespread precipitation, with rain likely in the valleys, and a chance for freezing rain over the higher hills and mountains. Lows in the low to mid 30s, cooler over higher terrain. East wind 5 to 15 mph north, stronger south with 30 to 40 mph gusts."
   }
 ]
