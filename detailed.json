@@ -1,14 +1,18 @@
 [
   {
-    "heading": "***WIND ADVISORY THIS AFTERNOON AND TONIGHT FROM THE CENTRAL GREEN MOUNTAINS SOUTH THROUGH THE BERKSHIRES******WINTER WEATHER ADVISORY THIS AFTERNOON AND EVENING FOR THE ADIRONDACKS AND GREEN MOUNTAINS, THE ST. LAWRENCE VALLEY, AND ORANGE AND COOS COUNTIES NORTH***This Afternoon",
-    "text": "Thickening clouds. Rain developing in MA late, spreading north into southern VT and NH toward dark, with isolated freezing rain over higher elevations. Highs 40 to 45, some upper 30s over the higher terrain. Winds light, becoming east near 10 mph this afternoon, and east 10 to 15 mph through southern areas, gusting 30 to 40 mph this afternoon."
-  },
-  {
-    "heading": "Tonight",
+    "heading": "***WIND ADVISORY TONIGHT FROM THE CENTRAL GREEN MOUNTAINS SOUTH THROUGH THE BERKSHIRES******WINTER WEATHER ADVISORY TONIGHT FOR THE ADIRONDACKS AND GREEN MOUNTAINS, THE ST. LAWRENCE VALLEY, AND ORANGE AND COOS COUNTIES NORTH***Tonight",
     "text": "Rain, with freezing rain over higher elevations, the St. Lawrence Valley and Quebec, and from Orange and Coos Counties north. Lows in the low to mid 30s, near 30 over higher terrain. Winds east to southeast 10 to 15 mph from the Adirondacks, Rt. 2, and White Mountains north, gusting 30 to 40 mph over the higher terrain, and 10 to 25 mph south, gusting 40 to 50 mph across higher elevations."
   },
   {
     "heading": "Friday",
     "text": "Mostly cloudy with a few passing rain showers. Rain developing late through the Hudson Valley, southwest VT, and Berkshires. Highs from the low 40s in the Champlain Valley west and north, to the low 50s south. Winds east 10 to 15 mph, gusting 30 to 40 mph in the morning south, diminishing to near 10 mph from the south in the afternoon."
+  },
+  {
+    "heading": "Friday Night",
+    "text": "Rain, tapering off south in the evening, with showers north, mixing or changing to snow showers over the higher terrain late. Lows in the low to mid 30s. Winds west to southwest 5 to 10 mph."
+  },
+  {
+    "heading": "Saturday",
+    "text": "Mostly cloudy. Scattered showers, with some morning snow showers, mainly from Rt. 2 north, south through the Green Mountains. Highs from the upper 30s to upper 40s north to south. Winds northwest near 10 mph, diminishing, then turning to the southwest up to 10 mph in the Champlain Valley."
   }
 ]
