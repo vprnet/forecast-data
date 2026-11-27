@@ -1,14 +1,14 @@
 [
   {
-    "heading": "Today",
-    "text": "Mostly cloudy with a few passing rain showers, especially this afternoon. A fleeting glimpse of sun possible. Highs in the 40s, with low to mid 50s in southern VT.  Winds east 10 to 15 mph, gusting 30 to 40 mph in the morning south, diminishing to near 10 mph from the south in the afternoon."
-  },
-  {
     "heading": "Tonight",
-    "text": "Rain south spreading north, tapering off south.  Showers north diminishing late, with a few snowflakes over the higher terrain. Lows in the low to mid 30s.  Winds south, becoming southwest up to 10 mph, diminishing to light and variable in the north."
+    "text": "Rain spreading north, then tapering off south to north overnight. Lows in the 30s. Light southwest wind."
   },
   {
     "heading": "Saturday",
-    "text": "Mostly cloudy.  Scattered, passing showers, more so during the afternoon. Highs in the 40s, from 40 to 50 north to south.  Winds light across the north, and west near 10 mph, gusting to 20 mph in southern areas."
+    "text": "Chance of a few passing rain showers, mainly over the Greens. Highs from the low 40s north, increasing into the low 50s south. West wind 5 to 10 mph."
+  },
+  {
+    "heading": "Saturday Night",
+    "text": "Rain showers, mixing with snow. Tapering off south to north overnight. Lows from the upper 20s to mid 30s. Light west wind."
   }
 ]
