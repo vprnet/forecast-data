@@ -1,20 +1,20 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Rain, with freezing rain over higher elevations, Quebec, and Orange and Coos Counties north.",
-    "temperature": "30s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/rain_freezing_night.png"
+    "heading": "Today",
+    "text": "Clouds, a glimpse of sun. A few passing showers.",
+    "temperature": "40s to low 50s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
   },
   {
-    "heading": "Friday",
-    "text": "Clouds, a few showers, rain southwest late.",
-    "temperature": "40s to low 50s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/light_rain.png"
+    "heading": "Friday Night",
+    "text": "A period of rain, tapering to showers and ending.",
+    "temperature": "30s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/04/showers_night.png"
   },
   {
     "heading": "Saturday",
     "text": "Mostly cloudy. A few rain or snow showers north and mountains.",
-    "temperature": "Upper 30s to upper 40s north to south",
+    "temperature": "40 to 50 north to south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_rain_showers.png"
   },
   {
