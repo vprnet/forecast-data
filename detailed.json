@@ -1,14 +1,14 @@
 [
   {
-    "heading": "This Afternoon",
-    "text": "Chance of a few passing rain showers, mainly over the Greens. Highs from the low 40s north, nearing 50 in the south. West wind 5 to 10 mph."
-  },
-  {
     "heading": "Tonight",
-    "text": "Increasing chance of rain showers, mixing with snow overnight then tapering off southwest to northeast. Lows from the upper 20s to mid 30s. Light west wind."
+    "text": "Increasing chance of rain showers, mixing with snow overnight, then tapering off southwest to northeast. Lows from the upper 20s to mid 30s. Light west wind."
   },
   {
     "heading": "Sunday",
-    "text": "A mix of sun and clouds, more sun shouth. Highs in the 40s to near 50, in the low to mid 50s in the warmer southern valleys. Light and variable wind."
+    "text": "A mix of sun and clouds. Highs in the 40s to near 50, in the 50s in the warmer southern valleys. Light and variable wind."
+  },
+  {
+    "heading": "Sunday Night",
+    "text": "Becoming cloudy. Rain spreading west to east. Lows in the 30s, 40s in the Champlain Valley. Southeast wind at 5 to 10 mph, 15 mph in the Champlain Valley with 25 to 40 mph gusts."
   }
 ]
