@@ -1,15 +1,15 @@
 [
   {
-    "heading": "Tonight",
-    "text": "Rain showers, diminishing south to north.",
-    "temperature": "30s",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/04/showers_night.png"
-  },
-  {
-    "heading": "Saturday",
+    "heading": "Today",
     "text": "A few rain showers, snow possible over the higher elevations.",
     "temperature": "40s to 50s north to south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_rain_showers.png"
+  },
+  {
+    "heading": "Tonight",
+    "text": "Rain/snow showers, diminishing south to north.",
+    "temperature": "30s",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/winter_mix_showers_night.png"
   },
   {
     "heading": "Sunday",
