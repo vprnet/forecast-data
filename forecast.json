@@ -1,11 +1,5 @@
 [
   {
-    "heading": "Today",
-    "text": "A few rain showers, snow possible over the higher elevations.",
-    "temperature": "40s to 50s north to south",
-    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_rain_showers.png"
-  },
-  {
     "heading": "Tonight",
     "text": "Rain/snow showers, diminishing south to north.",
     "temperature": "30s",
@@ -22,5 +16,11 @@
     "text": "Rain showers diminishing.",
     "temperature": "40s to 50s north to south",
     "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/showers.png"
+  },
+  {
+    "heading": "Tuesday",
+    "text": "A mix of sun and clouds.",
+    "temperature": "30s to 40s north to south",
+    "icon_url": "https://fairbanksmuseum.org/wp-content/uploads/2023/03/snow_rain_showers.png"
   }
 ]
